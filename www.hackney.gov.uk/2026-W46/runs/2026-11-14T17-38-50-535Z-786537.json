@@ -1,0 +1,227 @@
+{
+ "runId": "2026-11-14T17-38-50-535Z-786537",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-14T17:38:52.782Z",
+ "scanned": [
+  "851ba0216bfb35c7",
+  "cec7b87c1c78701e",
+  "fc0b441564384f62",
+  "0b2a2f842f116187",
+  "14f7f1b120707aac",
+  "75d871ec1d098556",
+  "f93f39194c1896c2",
+  "8aea76b2f32f988e",
+  "626722985ce8e6fe",
+  "e6d473d81efe5db8",
+  "c306e24307e36bf7",
+  "3c72610b38f55000",
+  "ae4a4cf1f262f3e2",
+  "e36917f6acab23d3",
+  "19e46f8beb4f3454",
+  "c0b2b245c90d7186",
+  "3295c2c34109a762",
+  "cd42815229241675",
+  "a68920dd987295b4",
+  "40d94e3e4aa055bb",
+  "5c0aab32f3867617",
+  "3c0b21744fa8a52b",
+  "2c48b65c64359864",
+  "61c656cedb9e25d3",
+  "b286cfec03778e8c",
+  "76baafeeb1659363",
+  "5e3d9efdbbd4bdbc",
+  "f5e03a4bd166ecfc",
+  "b353c22be81e1e82",
+  "260f026d6ca43c2e",
+  "c7a7853c4b6b7e5d",
+  "ff640f50a2a69052",
+  "d0ac9229affcd72c",
+  "9a7d3976469998d3",
+  "1eb15c02599f9e98",
+  "75aba7967f4d75a9",
+  "cc002617467f2c99",
+  "e97251f4bc3ca39e",
+  "52c331727d904149",
+  "0ad0e2ee0d695af7",
+  "4f8ac70d6ea6f427",
+  "12eed304c05a6c26",
+  "174a741dce1858fe",
+  "6df39ad67782df96",
+  "49b641c52c93cbda",
+  "e02f653c6804d33e",
+  "c806d900f8919a52",
+  "4a0ee3f17e96c984",
+  "d87ddf7d01f8fa8f",
+  "e39b354045a81808"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 606,
+  "checked": 500,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/de-beauvoir",
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/parkside-estate"
+    ]
+   },
+   {
+    "url": "http://www.richardhouse.org.uk/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/support-children-and-families"
+    ]
+   },
+   {
+    "url": "http://www.awardsforall.org.uk/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/Sustainable-Travel-To-School-Grants-application-form.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+    ]
+   },
+   {
+    "url": "https://www.abneyparkusergroup.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
+    ]
+   },
+   {
+    "url": "https://www.food.gov.uk/business-guidance/applying-for-approval-of-a-food-establishment",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/food-safety/food-establishment-approval"
+    ]
+   },
+   {
+    "url": "http://getset.london2012.com/en/home",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/walking-school"
+    ]
+   },
+   {
+    "url": "https://www.roomgo.net/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/find-home/get-privately-rented-home"
+    ]
+   },
+   {
+    "url": "https://www.schoolvaccination.uk/catch-up-clinics/hackney",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/childhood-vaccinations"
+    ]
+   },
+   {
+    "url": "http://adamkhan.co.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/tower-court"
+    ]
+   },
+   {
+    "url": "https://www.countryside-properties.com/media-centre/news-archive/2018/april/countryside-to-deliver-82m-regeneration-scheme-at-tower-court-estate-in-hackney/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/tower-court"
+    ]
+   },
+   {
+    "url": "https://www.riba.org/awards-and-competitions-landing-page/awards/riba-regional-awards/riba-london-award-winners/2019/the-colville-estate",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/colville-estate"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "deprecated-html": 4,
+  "resources": 50,
+  "images": 50,
+  "standards": 26,
+  "link-check": 50,
+  "public-interest": 9,
+  "alfa": 23,
+  "third-party": 12,
+  "plain-language": 20,
+  "tech": 7,
+  "lighthouse": 5,
+  "security": 5,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-14T17:46:03.169Z"
+}
