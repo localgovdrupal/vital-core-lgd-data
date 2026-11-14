@@ -1,0 +1,161 @@
+{
+ "runId": "2026-11-14T17-19-18-235Z-d8d1c3",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-14T17:19:20.869Z",
+ "scanned": [
+  "9b7ec50743fb29a9",
+  "ee4bbc69987d72c6",
+  "5cd31c704ab0203d",
+  "acc3d21fa519579c",
+  "cb11d78265dbfe64",
+  "9b1f35e590947206",
+  "0c6719f419381189",
+  "d044a3a7f259d4d5",
+  "bd54dc901a374714",
+  "e6c880be63fd364e",
+  "953fca5dac624e16",
+  "ee87287b1a33ab9f",
+  "b579e96882a356f7",
+  "c5c235eb467993cb",
+  "b1a8fb948e53a142",
+  "e5612d5b7507a7b0",
+  "7580b6b7432d08a0",
+  "8d79ddb0f4dea379",
+  "6380411fe9ef943f",
+  "4c26e00fe3e9134b",
+  "21b842cad9159097",
+  "ed62ad5eed1c606d",
+  "9af356675a5debd5",
+  "6ad28d8547ab5d8d",
+  "b146b302ebeb55b2",
+  "f2e01c1d5ea6e0ad",
+  "81f48b7a0953e438",
+  "0c79b13add494b97",
+  "3cd3fecd8eb57838",
+  "9e7256088100996c",
+  "0bca2dd2425caa77",
+  "f2a4ec6296d5d5d4",
+  "759c26acf799ea07",
+  "7051adf4927fab63",
+  "a4bf8a71c996ea55",
+  "d70e36efb8ed4dfd",
+  "fa9f825dfc7e25e8",
+  "b11d752053f4c3f3",
+  "dc9948a66aac2a1d",
+  "cfd7f0f25dd6308a",
+  "32748516f3fb0075",
+  "5182c22e9efaf367",
+  "2a4933dfb49bccdc",
+  "311c24310958f1fe",
+  "bf23519ae11e18be",
+  "dfe508beeef0f01e",
+  "65b2fda89a764d25",
+  "d8126ce3ecaef997",
+  "015617faf1168009"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 772,
+  "checked": 500,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/activities/planning-approval-for-clare-house/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/broadway-market-and-regents-court"
+    ]
+   },
+   {
+    "url": "https://hackneydowns.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/hackney-downs"
+    ]
+   },
+   {
+    "url": "https://www.hackneybusinessnetwork.co.uk/news/successful-hackney-high-streets-and-town-centres-fund-bids-revealed",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/regeneration/dalston"
+    ]
+   },
+   {
+    "url": "https://drive.google.com/drive/u/1/folders/1tececvZhEYIqS7wNK1S36P0446jb3luW",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/council-meetings/agendas-reports-decisions-and-minutes"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "resources": 46,
+  "images": 46,
+  "link-check": 46,
+  "alfa": 29,
+  "plain-language": 24,
+  "tech": 7,
+  "lighthouse": 5,
+  "standards": 30,
+  "third-party": 6,
+  "security": 4,
+  "sustainability": 1,
+  "deprecated-html": 2,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-14T17:26:45.790Z"
+}
