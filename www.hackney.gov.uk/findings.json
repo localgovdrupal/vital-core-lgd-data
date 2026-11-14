@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-12T20:23:00.281Z",
+ "updatedAt": "2026-11-14T17:35:14.856Z",
  "findings": {
   "VS-9074b4dd": {
    "engine": "axe-core",
@@ -93,11 +93,12 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 762,
+   "lastPagesAffected": 808,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
+    "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/morris-blitz-court",
@@ -118,8 +119,7 @@
     "https://www.hackney.gov.uk/housing/repairs",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-    "https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer",
-    "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/members-allowances"
+    "https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer"
    ]
   },
   "VS-3f76c7ea": {
@@ -176,7 +176,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 372,
+   "lastPagesAffected": 401,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
@@ -238,7 +238,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 372,
+   "lastPagesAffected": 401,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
@@ -281,7 +281,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 372,
+   "lastPagesAffected": 401,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
@@ -362,7 +362,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 372,
+   "lastPagesAffected": 401,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
@@ -405,7 +405,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 372,
+   "lastPagesAffected": 401,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
@@ -448,7 +448,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 372,
+   "lastPagesAffected": 401,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
@@ -491,7 +491,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 372,
+   "lastPagesAffected": 401,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
@@ -534,7 +534,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 58,
+   "lastPagesAffected": 62,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackneys-heritage",
@@ -543,6 +543,7 @@
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/dalston-conservation-area",
     "https://www.hackney.gov.uk/housing/council-tenants/tenancy-agreement/move-your-social-home",
     "https://www.hackney.gov.uk/housing/council-tenants/residents-additional-needs",
+    "https://www.hackney.gov.uk/housing/homelessness/ask-us-homeless-help/make-referral-under-duty-refer",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/newington-green-north-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/make-planning-application",
     "https://www.hackney.gov.uk/housing/resident-participation/hire-community-hall",
@@ -555,12 +556,11 @@
     "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/transparency/council-spending-over-ps250",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/hoxton-street-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/south-shoreditch-conservation-area",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/town-hall-square-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/residential-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/graham-road-and-mapledene-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/self-build-and-custom-housebuilding",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-pond-conservation-area",
-    "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/community-safety-partnership"
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
    ]
   },
   "VS-f054f4a4": {
@@ -577,15 +577,17 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 29,
+   "lastPagesAffected": 33,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackneys-heritage",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
     "https://www.hackney.gov.uk/housing/council-tenants/residents-additional-needs",
+    "https://www.hackney.gov.uk/housing/homelessness/ask-us-homeless-help/make-referral-under-duty-refer",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clissold-park-conservation-area",
     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/children-care",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/hoxton-street-conservation-area",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/town-hall-square-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/graham-road-and-mapledene-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/self-build-and-custom-housebuilding",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections",
@@ -601,9 +603,7 @@
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/kingsland-conservation-area",
     "https://www.hackney.gov.uk/parking-streets-and-transport/enforcement-and-removal-vehicles/disposing-vehicle",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/stoke-newington-library",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/albion-square-conservation-area",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/lea-bridge-conservation-area",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/lordship-park-conservation-area"
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/northwold-and-cazenove-conservation-area"
    ]
   },
   "VS-8806389c": {

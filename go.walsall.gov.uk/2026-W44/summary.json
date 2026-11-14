@@ -1,7 +1,7 @@
 {
  "domain": "go.walsall.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-11-04T16:25:28.421Z",
+ "generatedAt": "2026-11-14T17:35:09.404Z",
  "pagesScanned": 1984,
  "pagesAudited": 1940,
  "coverage": {
@@ -22,6 +22,8 @@
   "pagesWithViolations": 1940,
   "pagesScanned": 1940,
   "medianViolations": 19,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "aria-allowed-role": {
     "count": 5820,
@@ -7803,27 +7805,47 @@
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": "button[aria-label=\"Google consents\"]",
-      "html": "<button class=\"qc-cmp2-list-item-header\" role=\"listitem\" aria-label=\"Google consents\" aria-live=\"polite\">"
+      "html": "<button class=\"qc-cmp2-list-item-header\" role=\"listitem\" aria-label=\"Google consents\" aria-live=\"polite\">",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -15608,27 +15630,47 @@
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "00a8f985bed722e3",
+      "run_id": "2026-10-29T22-19-06-807Z-5a0d19",
+      "scanned_at": "2026-10-29T22:22:02.013Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "00b3eb355ec5aac4",
+      "run_id": "2026-10-30T07-16-49-488Z-363980",
+      "scanned_at": "2026-10-30T07:23:07.450Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -23413,27 +23455,47 @@
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": ".qc-cmp2-list-item-title[role=\"listitem\"]",
-      "html": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\"><p>Google consents</p></p>"
+      "html": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\"><p>Google consents</p></p>",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": ".qc-cmp2-list-item-title[role=\"listitem\"]",
-      "html": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\"><p>Google consents</p></p>"
+      "html": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\"><p>Google consents</p></p>",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -31218,27 +31280,47 @@
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": ".qc-cmp2-expandable-info:nth-child(1) > .qc-cmp2-toggle-switch > .qc-cmp2-toggle.css-w01txj[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": ".qc-cmp2-expandable-info:nth-child(2) > .qc-cmp2-toggle-switch > .qc-cmp2-toggle.css-w01txj[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": ".qc-cmp2-expandable-info:nth-child(3) > .qc-cmp2-toggle-switch > .qc-cmp2-toggle.css-w01txj[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": ".qc-cmp2-expandable-info:nth-child(1) > .qc-cmp2-toggle-switch > .qc-cmp2-toggle.css-w01txj[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": ".qc-cmp2-expandable-info:nth-child(2) > .qc-cmp2-toggle-switch > .qc-cmp2-toggle.css-w01txj[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -39023,27 +39105,47 @@
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": "div:nth-child(2) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": "div:nth-child(3) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": "div:nth-child(4) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "div:nth-child(2) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "div:nth-child(3) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -46828,27 +46930,47 @@
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": ".css-12exy1k",
-      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": ".css-def7e2",
-      "html": "<ul class=\"qc-cmp2-consent-list css-def7e2\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-def7e2\">",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": ".css-12exy1k",
-      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": ".css-def7e2",
-      "html": "<ul class=\"qc-cmp2-consent-list css-def7e2\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-def7e2\">",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": ".css-12exy1k",
-      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -54632,27 +54754,47 @@
      {
       "url": "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
       "target": ".focusable",
-      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>"
+      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>",
+      "page_id": "0050ff854642b291",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:13:58.056Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": ".focusable",
-      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>"
+      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>",
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": ".focusable",
-      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>"
+      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>",
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
       "target": ".focusable",
-      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>"
+      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>",
+      "page_id": "00a8f985bed722e3",
+      "run_id": "2026-10-29T22-19-06-807Z-5a0d19",
+      "scanned_at": "2026-10-29T22:22:02.013Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
       "target": ".focusable",
-      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>"
+      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>",
+      "page_id": "00b3eb355ec5aac4",
+      "run_id": "2026-10-30T07-16-49-488Z-363980",
+      "scanned_at": "2026-10-30T07:23:07.450Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -56353,27 +56495,47 @@
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhen-three-lions-play-he-strikes&rating=Ok&title=When+the+Three+Lions+play%2C+he+strikes%21",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "01294139c50c1aeb",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:49:53.065Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "022a2d92bd69b51e",
+      "run_id": "2026-10-30T15-14-15-963Z-66fd55",
+      "scanned_at": "2026-10-30T15:20:25.800Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "0248c40fa40be60b",
+      "run_id": "2026-10-30T23-11-49-015Z-cb4fc6",
+      "scanned_at": "2026-10-30T23:15:02.198Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "041c39c8b734f734",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:17:24.409Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsafeguarding-walsall&rating=Poor&title=Safeguarding+in+Walsall",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "04315fd6b90fe820",
+      "run_id": "2026-10-31T13-50-53-567Z-4bd40f",
+      "scanned_at": "2026-10-31T13:56:46.306Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -57493,27 +57655,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
       "target": "#block-localgov-walsall-servicetype--2 > .facets-widget--dropdown.facets-widget.border-bottom > h4",
-      "html": "<h4 class=\"facet-group__title\">Service type</h4>"
+      "html": "<h4 class=\"facet-group__title\">Service type</h4>",
+      "page_id": "020005543cf47b15",
+      "run_id": "2026-10-31T15-46-41-911Z-216ec0",
+      "scanned_at": "2026-10-31T15:51:34.031Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
       "target": "#block-localgov-walsall-servicetype--2 > .facets-widget--dropdown.facets-widget.border-bottom > h4",
-      "html": "<h4 class=\"facet-group__title\">Service type</h4>"
+      "html": "<h4 class=\"facet-group__title\">Service type</h4>",
+      "page_id": "02774538a29bdd14",
+      "run_id": "2026-10-30T07-34-19-228Z-0ad051",
+      "scanned_at": "2026-10-30T07:35:55.045Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A354",
       "target": "#block-localgov-walsall-servicetype--2 > .facets-widget--dropdown.facets-widget.border-bottom > h4",
-      "html": "<h4 class=\"facet-group__title\">Service type</h4>"
+      "html": "<h4 class=\"facet-group__title\">Service type</h4>",
+      "page_id": "02d5d87e3d0db28b",
+      "run_id": "2026-10-31T06-57-52-688Z-d45785",
+      "scanned_at": "2026-10-31T07:02:28.349Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A352",
       "target": "#block-localgov-walsall-servicetype--2 > .facets-widget--dropdown.facets-widget.border-bottom > h4",
-      "html": "<h4 class=\"facet-group__title\">Service type</h4>"
+      "html": "<h4 class=\"facet-group__title\">Service type</h4>",
+      "page_id": "08f19f90aa749645",
+      "run_id": "2026-10-31T09-58-42-581Z-8a4554",
+      "scanned_at": "2026-10-31T10:01:38.000Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/small-grants-help-communities-celebrate-coronation-now-open",
       "target": "h4",
-      "html": "<h4>Note to Editor</h4>"
+      "html": "<h4>Note to Editor</h4>",
+      "page_id": "0a8d85487634c0b8",
+      "run_id": "2026-10-29T03-03-33-149Z-548c21",
+      "scanned_at": "2026-10-29T03:12:10.516Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -57554,27 +57736,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/barr-beacon-local-nature-reserve/barr-beacon-event-videos",
       "target": ".wc-iframe.w-100.my-4:nth-child(3) > iframe[title=\"\"][name=\"\"][height=\"500\"]",
-      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube-nocookie.com/embed/OwySlWJN450\">\n  </iframe>"
+      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube-nocookie.com/embed/OwySlWJN450\">\n  </iframe>",
+      "page_id": "030b27e839c6cd4d",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:45:42.276Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/barr-beacon-local-nature-reserve/barr-beacon-event-videos",
       "target": ".wc-iframe.w-100.my-4:nth-child(4) > iframe[title=\"\"][name=\"\"][height=\"500\"]",
-      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube-nocookie.com/embed/v_pj_jvC3YQ\">\n  </iframe>"
+      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube-nocookie.com/embed/v_pj_jvC3YQ\">\n  </iframe>",
+      "page_id": "030b27e839c6cd4d",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:45:42.276Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/barr-beacon-local-nature-reserve/barr-beacon-event-videos",
       "target": ".wc-iframe.w-100.my-4:nth-child(5) > iframe[title=\"\"][name=\"\"][height=\"500\"]",
-      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube-nocookie.com/embed/rQRVuXiGrd0\">\n  </iframe>"
+      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube-nocookie.com/embed/rQRVuXiGrd0\">\n  </iframe>",
+      "page_id": "030b27e839c6cd4d",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:45:42.276Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/children-and-young-people/early-help/early-help-parents/emotional-health-and-wellbeing",
       "target": "iframe[frameborder=\"0\"]",
-      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube.com/embed/YleWKe9kavM\">\n  </iframe>"
+      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube.com/embed/YleWKe9kavM\">\n  </iframe>",
+      "page_id": "83a29d7525f42ccd",
+      "run_id": "2026-10-28T10-42-51-862Z-fa6c6b",
+      "scanned_at": "2026-10-28T10:49:21.871Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/children-and-young-people/family-help/health-and-wellbeing-your-family/emotional-health-and",
       "target": "iframe[frameborder=\"0\"]",
-      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube.com/embed/YleWKe9kavM\">\n  </iframe>"
+      "html": "<iframe frameborder=\"0\" height=\"500\" width=\"100%\" title=\"\" name=\"\" scrolling=\"no\" src=\"https://www.youtube.com/embed/YleWKe9kavM\">\n  </iframe>",
+      "page_id": "85d368a57bf167a8",
+      "run_id": "2026-10-28T11-39-08-625Z-a566e5",
+      "scanned_at": "2026-10-28T11:52:41.468Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -57783,27 +57985,47 @@
      {
       "url": "http://go.walsall.gov.uk/health-and-social-care/adult-social-care-commissioning",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "05e8623f896f6066",
+      "run_id": "2026-10-29T10-59-36-314Z-25554d",
+      "scanned_at": "2026-10-29T11:05:59.168Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/schools-and-learning/school-meals",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "0a915be2b1b729a8",
+      "run_id": "2026-10-31T10-52-10-986Z-d8b14d",
+      "scanned_at": "2026-10-31T10:54:09.766Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/business/trading-standards",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "160dbe2925153749",
+      "run_id": "2026-10-30T10-57-53-917Z-612f71",
+      "scanned_at": "2026-10-30T11:00:01.042Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/births-marriages-and-deaths/births",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "17d5d9be564c1ee5",
+      "run_id": "2026-10-28T16-18-53-940Z-ec0186",
+      "scanned_at": "2026-10-28T16:21:13.209Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/schools-and-learning/school-meals/free-school-meals",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "1c48280b90f577db",
+      "run_id": "2026-10-29T10-59-36-314Z-25554d",
+      "scanned_at": "2026-10-29T11:00:41.448Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -57840,17 +58062,29 @@
      {
       "url": "https://go.walsall.gov.uk/newsroom/walsall-council-flies-flag-commonwealth-day-2026",
       "target": "img[src=\"\"]",
-      "html": "<img class=\"figure-img figure-img-- img-fluid\" src=\"\">"
+      "html": "<img class=\"figure-img figure-img-- img-fluid\" src=\"\">",
+      "page_id": "24b2fb646198911e",
+      "run_id": "2026-10-30T15-14-15-963Z-66fd55",
+      "scanned_at": "2026-10-30T15:23:39.273Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/two-people-caught-and-fined-littering-walsall",
       "target": "img[src=\"\"]",
-      "html": "<img class=\"figure-img figure-img-- img-fluid\" src=\"\">"
+      "html": "<img class=\"figure-img figure-img-- img-fluid\" src=\"\">",
+      "page_id": "e98003c50d83fc60",
+      "run_id": "2026-10-29T06-04-15-582Z-7aed4f",
+      "scanned_at": "2026-10-29T06:15:24.100Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/digital-skills-boost-womens-organisation-walsall-thanks-donation-scheme",
       "target": "img[src=\"\"]",
-      "html": "<img class=\"figure-img figure-img-- img-fluid\" src=\"\">"
+      "html": "<img class=\"figure-img figure-img-- img-fluid\" src=\"\">",
+      "page_id": "f6b11c247e7489ad",
+      "run_id": "2026-10-30T07-34-19-228Z-0ad051",
+      "scanned_at": "2026-10-30T07:40:39.512Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -57881,12 +58115,20 @@
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/aldridge",
       "target": "h2:nth-child(7)",
-      "html": "<h2>&nbsp;</h2>"
+      "html": "<h2>&nbsp;</h2>",
+      "page_id": "2894680ab8ea98f2",
+      "run_id": "2026-10-29T22-19-06-807Z-5a0d19",
+      "scanned_at": "2026-10-29T22:21:02.534Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/church-records/bloxwich-churches",
       "target": "h2:nth-child(6)",
-      "html": "<h2>&nbsp;</h2>"
+      "html": "<h2>&nbsp;</h2>",
+      "page_id": "e107549197739d8a",
+      "run_id": "2026-10-28T10-42-51-862Z-fa6c6b",
+      "scanned_at": "2026-10-28T10:50:27.202Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -57938,27 +58180,47 @@
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/aldridge",
       "target": "table:nth-child(6) > thead > tr > th:nth-child(1)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "2894680ab8ea98f2",
+      "run_id": "2026-10-29T22-19-06-807Z-5a0d19",
+      "scanned_at": "2026-10-29T22:21:02.534Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/aldridge",
       "target": "table:nth-child(6) > thead > tr > th:nth-child(2)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "2894680ab8ea98f2",
+      "run_id": "2026-10-29T22-19-06-807Z-5a0d19",
+      "scanned_at": "2026-10-29T22:21:02.534Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/church-records/brownhills-and",
       "target": "table:nth-child(5) > thead > tr > th:nth-child(1)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "8b52095ac3f0509d",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:07:29.886Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/church-records/brownhills-and",
       "target": "table:nth-child(5) > thead > tr > th:nth-child(2)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "8b52095ac3f0509d",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:07:29.886Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/church-records/brownhills-and",
       "target": "table:nth-child(7) > thead > tr > th:nth-child(1)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "8b52095ac3f0509d",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:07:29.886Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -57986,12 +58248,20 @@
      {
       "url": "https://go.walsall.gov.uk/newsroom/anticipation-builds-new-digital-skills-hub-coming-bloxwich-town-centre",
       "target": "p:nth-child(3) > a:nth-child(1)",
-      "html": "<a href=\"https://bloxwich-launchpad.walsall.gov.uk/events/business-and-skills-expo\"> </a>"
+      "html": "<a href=\"https://bloxwich-launchpad.walsall.gov.uk/events/business-and-skills-expo\"> </a>",
+      "page_id": "51a2a7ae0e85e099",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:44:40.414Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/anticipation-builds-new-digital-skills-hub-coming-bloxwich-town-centre",
       "target": "p:nth-child(3) > a:nth-child(3)",
-      "html": "<a href=\"https://bloxwich-launchpad.walsall.gov.uk/events/business-and-skills-expo\"> </a>"
+      "html": "<a href=\"https://bloxwich-launchpad.walsall.gov.uk/events/business-and-skills-expo\"> </a>",
+      "page_id": "51a2a7ae0e85e099",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:44:40.414Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -58022,12 +58292,20 @@
      {
       "url": "https://go.walsall.gov.uk/business/regeneration-and-investment/darlaston-plan-neighbourhoods/about-darlaston-plan",
       "target": ".alert-danger",
-      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe"
+      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe",
+      "page_id": "87e31540b587e7f3",
+      "run_id": "2026-10-30T09-57-17-780Z-4fad7b",
+      "scanned_at": "2026-10-30T10:04:39.634Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/bins/business-waste-",
       "target": ".alert",
-      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe"
+      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe",
+      "page_id": "9a86d05c246c73a8",
+      "run_id": "2026-10-28T10-42-51-862Z-fa6c6b",
+      "scanned_at": "2026-10-28T10:56:25.540Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -58058,12 +58336,20 @@
      {
       "url": "https://go.walsall.gov.uk/business/regeneration-and-investment/darlaston-plan-neighbourhoods/about-darlaston-plan",
       "target": ".alert-danger",
-      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe"
+      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe",
+      "page_id": "87e31540b587e7f3",
+      "run_id": "2026-10-30T09-57-17-780Z-4fad7b",
+      "scanned_at": "2026-10-30T10:04:39.634Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "http://go.walsall.gov.uk/bins/business-waste-",
       "target": ".alert",
-      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe"
+      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe",
+      "page_id": "9a86d05c246c73a8",
+      "run_id": "2026-10-28T10-42-51-862Z-fa6c6b",
+      "scanned_at": "2026-10-28T10:56:25.540Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -58073,7 +58359,10 @@
   "failedTotal": 80824,
   "pagesWithFailures": 999,
   "pagesScanned": 999,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 77,
+  "element_evidence": null,
   "rules": {
    "sia-r66": {
     "count": 20839,
@@ -62086,27 +62375,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "text: \"IAB’s List of Downstream Participants\"",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "text: \"IAB’s List of Downstream Participants\"",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -66121,27 +66430,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -70156,27 +70485,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<p class=\"qc-cmp2-list-item-title\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<p class=\"css-jg567y\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<p class=\"css-jg567y\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<p class=\"qc-cmp2-list-item-title\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<p class=\"css-jg567y\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -74191,27 +74540,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<p id=\"qc-usp-title\" class=\"qc-usp-title\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<p class=\"qc-cmp2-list-item-title\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<p id=\"qc-usp-title\" class=\"qc-usp-title\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<p class=\"qc-cmp2-list-item-title\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -78226,27 +78595,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<ul class=\"qc-cmp2-consent-list css-def7e2\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<ul class=\"qc-cmp2-consent-list css-def7e2\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
       "target": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
-      "html": null
+      "html": null,
+      "page_id": "00b3eb355ec5aac4",
+      "run_id": "2026-10-30T07-16-49-488Z-363980",
+      "scanned_at": "2026-10-30T07:23:07.450Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -82261,27 +82650,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
       "target": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
-      "html": null
+      "html": null,
+      "page_id": "00b3eb355ec5aac4",
+      "run_id": "2026-10-30T07-16-49-488Z-363980",
+      "scanned_at": "2026-10-30T07:23:07.450Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -86296,27 +86705,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "00b3eb355ec5aac4",
+      "run_id": "2026-10-30T07-16-49-488Z-363980",
+      "scanned_at": "2026-10-30T07:23:07.450Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "00fefa42089ac991",
+      "run_id": "2026-10-28T05-23-22-166Z-8b29a5",
+      "scanned_at": "2026-10-28T05:30:46.938Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/board-games",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "011d385027b9b542",
+      "run_id": "2026-10-28T15-23-41-081Z-fce2e2",
+      "scanned_at": "2026-10-28T15:24:53.470Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -90331,27 +90760,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "text: \"\n      Skip to main content\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "text: \"\n      Skip to main content\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
       "target": "text: \"\n      Skip to main content\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "00b3eb355ec5aac4",
+      "run_id": "2026-10-30T07-16-49-488Z-363980",
+      "scanned_at": "2026-10-30T07:23:07.450Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
       "target": "text: \"\n      Skip to main content\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "00fefa42089ac991",
+      "run_id": "2026-10-28T05-23-22-166Z-8b29a5",
+      "scanned_at": "2026-10-28T05:30:46.938Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/board-games",
       "target": "text: \"\n      Skip to main content\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "011d385027b9b542",
+      "run_id": "2026-10-28T15-23-41-081Z-fce2e2",
+      "scanned_at": "2026-10-28T15:24:53.470Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -94366,27 +94815,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -98401,27 +98870,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "00b3eb355ec5aac4",
+      "run_id": "2026-10-30T07-16-49-488Z-363980",
+      "scanned_at": "2026-10-30T07:23:07.450Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "00fefa42089ac991",
+      "run_id": "2026-10-28T05-23-22-166Z-8b29a5",
+      "scanned_at": "2026-10-28T05:30:46.938Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/board-games",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "011d385027b9b542",
+      "run_id": "2026-10-28T15-23-41-081Z-fce2e2",
+      "scanned_at": "2026-10-28T15:24:53.470Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -102436,27 +102925,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<button tabindex=\"0\" aria-label=\"Close\" aria-pressed=\"false\" class=\"qc-usp-close-icon\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "008c623039e92203",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:26:52.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<button tabindex=\"0\" aria-label=\"Close\" aria-pressed=\"false\" class=\"qc-usp-close-icon\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/events/saturday-storytime-6",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "00a18c055cbac5c0",
+      "run_id": "2026-10-29T16-26-55-319Z-fdd483",
+      "scanned_at": "2026-10-29T16:38:00.937Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -103611,27 +104120,47 @@
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhen-three-lions-play-he-strikes&rating=Ok&title=When+the+Three+Lions+play%2C+he+strikes%21",
       "target": "@aria-labelledby=\"edit-overall-rating-good-label\"",
-      "html": null
+      "html": null,
+      "page_id": "01294139c50c1aeb",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:49:53.065Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhen-three-lions-play-he-strikes&rating=Ok&title=When+the+Three+Lions+play%2C+he+strikes%21",
       "target": "@aria-labelledby=\"edit-overall-rating-ok-label\"",
-      "html": null
+      "html": null,
+      "page_id": "01294139c50c1aeb",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:49:53.065Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhen-three-lions-play-he-strikes&rating=Ok&title=When+the+Three+Lions+play%2C+he+strikes%21",
       "target": "@aria-labelledby=\"edit-overall-rating-poor-label\"",
-      "html": null
+      "html": null,
+      "page_id": "01294139c50c1aeb",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:49:53.065Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/green-bloxwich-programme-transform-bloxwich-park-destination-choice",
       "target": "@aria-label=\"carousel\"",
-      "html": null
+      "html": null,
+      "page_id": "01b4c37f497c9b92",
+      "run_id": "2026-10-31T06-57-52-688Z-d45785",
+      "scanned_at": "2026-10-31T07:04:55.685Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
       "target": "@aria-labelledby=\"edit-overall-rating-good-label\"",
-      "html": null
+      "html": null,
+      "page_id": "041c39c8b734f734",
+      "run_id": "2026-10-30T16-17-11-802Z-1f6124",
+      "scanned_at": "2026-10-30T16:17:24.409Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -104198,27 +104727,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "020005543cf47b15",
+      "run_id": "2026-10-31T15-46-41-911Z-216ec0",
+      "scanned_at": "2026-10-31T15:51:34.031Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "02774538a29bdd14",
+      "run_id": "2026-10-30T07-34-19-228Z-0ad051",
+      "scanned_at": "2026-10-30T07:35:55.045Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A354",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "02d5d87e3d0db28b",
+      "run_id": "2026-10-31T06-57-52-688Z-d45785",
+      "scanned_at": "2026-10-31T07:02:28.349Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A352",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "08f19f90aa749645",
+      "run_id": "2026-10-31T09-58-42-581Z-8a4554",
+      "scanned_at": "2026-10-31T10:01:38.000Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A351",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "0e187568140b3b72",
+      "run_id": "2026-10-31T13-50-53-567Z-4bd40f",
+      "scanned_at": "2026-10-31T14:02:49.643Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -104897,27 +105446,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "020005543cf47b15",
+      "run_id": "2026-10-31T15-46-41-911Z-216ec0",
+      "scanned_at": "2026-10-31T15:51:34.031Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "02774538a29bdd14",
+      "run_id": "2026-10-30T07-34-19-228Z-0ad051",
+      "scanned_at": "2026-10-30T07:35:55.045Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A354",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "02d5d87e3d0db28b",
+      "run_id": "2026-10-31T06-57-52-688Z-d45785",
+      "scanned_at": "2026-10-31T07:02:28.349Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A352",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "08f19f90aa749645",
+      "run_id": "2026-10-31T09-58-42-581Z-8a4554",
+      "scanned_at": "2026-10-31T10:01:38.000Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A351",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0e187568140b3b72",
+      "run_id": "2026-10-31T13-50-53-567Z-4bd40f",
+      "scanned_at": "2026-10-31T14:02:49.643Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -105008,27 +105577,47 @@
      {
       "url": "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "05dd6e18a569f7ca",
+      "run_id": "2026-10-28T05-23-22-166Z-8b29a5",
+      "scanned_at": "2026-10-28T05:40:03.763Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "05dd6e18a569f7ca",
+      "run_id": "2026-10-28T05-23-22-166Z-8b29a5",
+      "scanned_at": "2026-10-28T05:40:03.763Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "09bf710c86c3dd3a",
+      "run_id": "2026-10-28T05-23-22-166Z-8b29a5",
+      "scanned_at": "2026-10-28T05:40:54.425Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/walsalls-creative-spirit-shines-through-public-art-workshops-and-community-events",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "277c7690a73bbfa0",
+      "run_id": "2026-10-28T05-23-22-166Z-8b29a5",
+      "scanned_at": "2026-10-28T05:27:59.859Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/prize-winners-artwork-now-display",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "2b1a5b2db8a62438",
+      "run_id": "2026-10-28T09-35-03-975Z-306fc2",
+      "scanned_at": "2026-10-28T09:47:25.717Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -105067,27 +105656,47 @@
      {
       "url": "http://go.walsall.gov.uk/newsroom/construction-begins-walsalls-historic-guildhall-creative-hub",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "1b793825d59432d9",
+      "run_id": "2026-10-28T14-00-16-368Z-ed18da",
+      "scanned_at": "2026-10-28T14:16:37.907Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/walsalls-creative-spirit-shines-through-public-art-workshops-and-community-events",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "277c7690a73bbfa0",
+      "run_id": "2026-10-28T05-23-22-166Z-8b29a5",
+      "scanned_at": "2026-10-28T05:27:59.859Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/thousands-children-find-out-what-primary-school-they-have-been-allocated-september-2023",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "3ce31dd7c1953a1f",
+      "run_id": "2026-10-29T15-29-00-797Z-b2a3f3",
+      "scanned_at": "2026-10-29T15:41:53.504Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/thousands-children-find-out-what-primary-school-they-have-been-allocated-september-2023",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "3ce31dd7c1953a1f",
+      "run_id": "2026-10-29T15-29-00-797Z-b2a3f3",
+      "scanned_at": "2026-10-29T15:41:53.504Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/newsroom/whats-walsall-december-2025",
       "target": "<h4>",
-      "html": null
+      "html": null,
+      "page_id": "3f3aa198cf0e1b8b",
+      "run_id": "2026-10-29T14-13-21-496Z-af2779",
+      "scanned_at": "2026-10-29T14:27:10.983Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -105194,27 +105803,47 @@
      {
       "url": "https://go.walsall.gov.uk/schools-and-learning/school-meals/free-school-meals",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "1c48280b90f577db",
+      "run_id": "2026-10-29T10-59-36-314Z-25554d",
+      "scanned_at": "2026-10-29T11:00:41.448Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/council-tax",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "1f0e7a800f51e864",
+      "run_id": "2026-10-28T15-23-41-081Z-fce2e2",
+      "scanned_at": "2026-10-28T15:33:48.144Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/stray-lost-or-dangerous-dogs",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "27ca6bb78a9670e8",
+      "run_id": "2026-10-28T09-35-03-975Z-306fc2",
+      "scanned_at": "2026-10-28T09:41:05.406Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/contact-walsall-council",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "2a74767c92a964bc",
+      "run_id": "2026-10-29T09-52-13-567Z-2a283a",
+      "scanned_at": "2026-10-29T09:59:13.388Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "http://go.walsall.gov.uk/your-council/open-data",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "36ae8605ab7e18d1",
+      "run_id": "2026-10-29T03-03-33-149Z-548c21",
+      "scanned_at": "2026-10-29T03:08:06.860Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -105235,12 +105864,20 @@
      {
       "url": "https://go.walsall.gov.uk/newsroom/anticipation-builds-new-digital-skills-hub-coming-bloxwich-town-centre",
       "target": "<a href=\"https://bloxwich-launchpad.walsall.gov.uk/events/business-and-skills-expo\">",
-      "html": null
+      "html": null,
+      "page_id": "51a2a7ae0e85e099",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:44:40.414Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/anticipation-builds-new-digital-skills-hub-coming-bloxwich-town-centre",
       "target": "<a href=\"https://bloxwich-launchpad.walsall.gov.uk/events/business-and-skills-expo\">",
-      "html": null
+      "html": null,
+      "page_id": "51a2a7ae0e85e099",
+      "run_id": "2026-10-31T08-41-21-043Z-c71a6b",
+      "scanned_at": "2026-10-31T08:44:40.414Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -105266,12 +105903,20 @@
      {
       "url": "http://go.walsall.gov.uk/museums-libraries-and-galleries/walsall-archives-0/research-resources",
       "target": "<button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapse_32363_online-catalogues\">",
-      "html": null
+      "html": null,
+      "page_id": "ab6ce63c0327ff95",
+      "run_id": "2026-10-27T22-40-26-072Z-77d1ef",
+      "scanned_at": "2026-10-27T22:43:18.227Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A420&f%5B2%5D=localgov_directories_facets%3A35",
       "target": "<a href=\"/wellbeing-directory/carelink-24-assistive-technology\" rel=\"bookmark\">",
-      "html": null
+      "html": null,
+      "page_id": "b5e5402ab2dadfae",
+      "run_id": "2026-10-31T16-19-33-402Z-5d87b9",
+      "scanned_at": "2026-10-31T16:23:02.909Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -105575,6 +106220,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 36,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 36,
+  "regions": [],
+  "csv": "go.walsall.gov.uk_26OCT2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": {
   "pages": 197,
   "medianBytes": 11598959,
@@ -142442,67 +143097,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 138181996,
-    "savingsMs": 602350
-   },
-   {
-    "id": "render-blocking-insight",
-    "category": "performance",
-    "title": "Render-blocking requests",
-    "pages": 188,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 557000
-   },
-   {
-    "id": "bootup-time",
-    "category": "performance",
-    "title": "Reduce JavaScript execution time",
-    "pages": 188,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 512850
-   },
-   {
-    "id": "mainthread-work-breakdown",
-    "category": "performance",
-    "title": "Minimize main-thread work",
-    "pages": 188,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 430300
+    "savingsMs": 602350,
+    "savingsBytesMedian": 787930,
+    "savingsBytesP75": 833508,
+    "savingsMsMedian": 3875,
+    "savingsMsP75": 4350
    },
    {
     "id": "unminified-javascript",
@@ -142522,7 +143121,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 18642045,
-    "savingsMs": 103250
+    "savingsMs": 103250,
+    "savingsBytesMedian": 99968,
+    "savingsBytesP75": 100259,
+    "savingsMsMedian": 500,
+    "savingsMsP75": 750
    },
    {
     "id": "unused-css-rules",
@@ -142542,7 +143145,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 12035236,
-    "savingsMs": 78000
+    "savingsMs": 78000,
+    "savingsBytesMedian": 64151,
+    "savingsBytesP75": 64434,
+    "savingsMsMedian": 450,
+    "savingsMsP75": 450
    },
    {
     "id": "unminified-css",
@@ -142562,7 +143169,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 521298,
-    "savingsMs": 4850
+    "savingsMs": 4850,
+    "savingsBytesMedian": 2772,
+    "savingsBytesP75": 2778,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "first-contentful-paint",
@@ -142582,7 +143193,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "largest-contentful-paint",
@@ -142602,7 +143217,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "total-blocking-time",
@@ -142622,7 +143241,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "max-potential-fid",
@@ -142642,7 +143265,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "interactive",
@@ -142662,7 +143289,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "third-party-cookies",
@@ -142682,7 +143313,59 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimize main-thread work",
+    "pages": 188,
+    "examplePages": [
+     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
+     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
+     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
+     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
+     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
+     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 430300,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2200,
+    "savingsMsP75": 2950
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "Reduce JavaScript execution time",
+    "pages": 188,
+    "examplePages": [
+     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
+     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
+     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
+     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
+     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
+     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 512850,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2750,
+    "savingsMsP75": 3650
    },
    {
     "id": "inspector-issues",
@@ -142702,7 +143385,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "agent-accessibility-tree",
@@ -142722,7 +143409,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-registered-tools",
@@ -142742,7 +143433,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-form-coverage",
@@ -142762,7 +143457,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-schema-validity",
@@ -142782,7 +143481,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "llms-txt",
@@ -142802,7 +143505,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "ard-schema",
@@ -142822,7 +143529,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "network-dependency-tree-insight",
@@ -142842,7 +143553,35 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "render-blocking-insight",
+    "category": "performance",
+    "title": "Render-blocking requests",
+    "pages": 188,
+    "examplePages": [
+     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
+     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
+     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
+     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
+     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
+     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 557000,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2850,
+    "savingsMsP75": 3200
    },
    {
     "id": "speed-index",
@@ -142862,7 +143601,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cache-insight",
@@ -142882,27 +143625,11 @@
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
     ],
     "savingsBytes": 0,
-    "savingsMs": 252600
-   },
-   {
-    "id": "legacy-javascript-insight",
-    "category": "performance",
-    "title": "Legacy JavaScript",
-    "pages": 139,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 27050
+    "savingsMs": 252600,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1400,
+    "savingsMsP75": 1800
    },
    {
     "id": "errors-in-console",
@@ -142922,7 +143649,35 @@
      "http://go.walsall.gov.uk/myaccount-online-services/how-register-myaccount"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "legacy-javascript-insight",
+    "category": "performance",
+    "title": "Legacy JavaScript",
+    "pages": 139,
+    "examplePages": [
+     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
+     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
+     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
+     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
+     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
+     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 27050,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 250
    },
    {
     "id": "bf-cache",
@@ -142942,7 +143697,11 @@
      "https://go.walsall.gov.uk/newsroom/successful-jobs-and-skills-event-held-walsall-rugby-club"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "image-delivery-insight",
@@ -142962,7 +143721,11 @@
      "http://go.walsall.gov.uk/newsroom/construction-begins-walsalls-historic-guildhall-creative-hub"
     ],
     "savingsBytes": 0,
-    "savingsMs": 993850
+    "savingsMs": 993850,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2275,
+    "savingsMsP75": 9750
    },
    {
     "id": "server-response-time",
@@ -142982,7 +143745,11 @@
      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-convenience-store-fined-after-selling-alcohol-16-year-old&rating=Poor&title=Walsall+convenience+store+fined+after+selling+alcohol+to+16-year-old++"
     ],
     "savingsBytes": 0,
-    "savingsMs": 22750
+    "savingsMs": 22750,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 250,
+    "savingsMsP75": 300
    },
    {
     "id": "deprecations",
@@ -143002,7 +143769,11 @@
      "https://go.walsall.gov.uk/newsroom/successful-jobs-and-skills-event-held-walsall-rugby-club"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "redirects",
@@ -143022,7 +143793,11 @@
      "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/stray-lost-or-dangerous-dogs"
     ],
     "savingsBytes": 0,
-    "savingsMs": 49400
+    "savingsMs": 49400,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 650,
+    "savingsMsP75": 650
    },
    {
     "id": "is-on-https",
@@ -143042,7 +143817,11 @@
      "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/stray-lost-or-dangerous-dogs"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "meta-description",
@@ -143062,7 +143841,11 @@
      "http://go.walsall.gov.uk/feedback?page=%2Fbenefits%2Fextra-help-you-may-be-able-get&rating=Good&title=Extra+help+you+may+be+able+to+get"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "font-display-insight",
@@ -143082,7 +143865,11 @@
      "https://go.walsall.gov.uk/newsroom/look-future-now-whats-next-walsalls-regeneration-2026-and-beyond"
     ],
     "savingsBytes": 0,
-    "savingsMs": 3400
+    "savingsMs": 3400,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 50,
+    "savingsMsP75": 50
    },
    {
     "id": "cumulative-layout-shift",
@@ -143102,7 +143889,11 @@
      "http://go.walsall.gov.uk/newsroom/call-makers-be-part-second-walsall-makerfest"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",
@@ -143122,7 +143913,11 @@
      "http://go.walsall.gov.uk/newsroom/call-makers-be-part-second-walsall-makerfest"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "lcp-breakdown-insight",
@@ -143142,7 +143937,11 @@
      "http://go.walsall.gov.uk/newsroom/walsall-council-agrees-balanced-budget-202627"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "forced-reflow-insight",
@@ -143162,7 +143961,11 @@
      "https://go.walsall.gov.uk/benefits/blue-badge-scheme"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "lcp-discovery-insight",
@@ -143182,7 +143985,11 @@
      "https://go.walsall.gov.uk/events?venue=358"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "image-size-responsive",
@@ -143202,7 +144009,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "document-latency-insight",
@@ -143222,7 +144033,11 @@
      "http://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-householders%2Ffind-and-comment-planning-application&rating=Poor&title=Find+and+comment+on+a+planning+application"
     ],
     "savingsBytes": 0,
-    "savingsMs": 2500
+    "savingsMs": 2500,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 550
    },
    {
     "id": "link-text",
@@ -143234,7 +144049,11 @@
      "https://go.walsall.gov.uk/newsroom/walsall-council-receives-uk-shared-prosperity-fund-support-local-nature-reserve"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    }
   ]
  },
@@ -145043,6 +145862,9 @@
     "tech": "Amazon Advertising",
     "finding": "axe:heading-order",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.31,
     "pairPages": 24,
     "techPages": 149,
@@ -145054,6 +145876,9 @@
     "tech": "Google Publisher Tag",
     "finding": "axe:heading-order",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.31,
     "pairPages": 24,
     "techPages": 149,
@@ -145065,6 +145890,9 @@
     "tech": "Quantcast Measure",
     "finding": "axe:heading-order",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.31,
     "pairPages": 24,
     "techPages": 149,
@@ -145076,6 +145904,9 @@
     "tech": "Amazon Advertising",
     "finding": "alfa:sia-r61",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.28,
     "pairPages": 22,
     "techPages": 86,
@@ -145087,6 +145918,9 @@
     "tech": "Google Publisher Tag",
     "finding": "alfa:sia-r61",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.28,
     "pairPages": 22,
     "techPages": 86,
@@ -145098,6 +145932,9 @@
     "tech": "Quantcast Measure",
     "finding": "alfa:sia-r61",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.28,
     "pairPages": 22,
     "techPages": 86,
@@ -145109,6 +145946,9 @@
     "tech": "Amazon Advertising",
     "finding": "alfa:sia-r53",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.28,
     "pairPages": 19,
     "techPages": 86,
@@ -145120,6 +145960,9 @@
     "tech": "Google Publisher Tag",
     "finding": "alfa:sia-r53",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.28,
     "pairPages": 19,
     "techPages": 86,
@@ -145131,6 +145974,9 @@
     "tech": "Quantcast Measure",
     "finding": "alfa:sia-r53",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.28,
     "pairPages": 19,
     "techPages": 86,
@@ -211047,6 +211893,10 @@
    {
     "id": "consent-dialog",
     "label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "min_signals": 2,
     "verified": true,
     "confidence": "high",
@@ -211160,6 +212010,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211181,6 +212035,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211202,6 +212060,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211223,6 +212085,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "high",
     "verified": true,
     "signals": [
@@ -211245,6 +212111,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211263,6 +212133,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211284,6 +212158,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211302,6 +212180,10 @@
     "classification": "undetermined",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211320,6 +212202,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211341,6 +212227,10 @@
     "classification": "mixed",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211362,6 +212252,10 @@
     "classification": "mixed",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211383,6 +212277,10 @@
     "classification": "mixed",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211404,6 +212302,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211425,6 +212327,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211443,6 +212349,10 @@
     "classification": "undetermined",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211461,6 +212371,10 @@
     "classification": "undetermined",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211479,6 +212393,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211497,6 +212415,10 @@
     "classification": "mixed",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -211518,6 +212440,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211536,6 +212462,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211554,6 +212484,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211572,6 +212506,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211590,6 +212528,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211608,6 +212550,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211626,6 +212572,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211644,6 +212594,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211662,6 +212616,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211680,6 +212638,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211698,6 +212660,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211716,6 +212682,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211734,6 +212704,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211752,6 +212726,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211770,6 +212748,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211788,6 +212770,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211806,6 +212792,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211824,6 +212814,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -211840,6 +212834,7 @@
    }
   }
  },
+ "componentGroups": null,
  "pageFamilies": {
   "schema": 1,
   "urls_total": 1984,
@@ -211900,5 +212895,66 @@
   "errorStatuses": {
    "404": 2
   }
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 36,
+  "occurrences_stored": 160,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 17,
+   "not_applicable": 19,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 36
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 36
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 36
+  },
+  "component": {
+   "attributed": 0,
+   "unattributed": 36
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 36
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 36
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 36,
+  "by_engine": {
+   "axe-core": {
+    "findings": 17,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 19,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 0,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }

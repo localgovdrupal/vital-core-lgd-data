@@ -1,7 +1,7 @@
 {
  "domain": "go.walsall.gov.uk",
  "week": "2026-W45",
- "generatedAt": "2026-11-07T17:51:02.886Z",
+ "generatedAt": "2026-11-14T17:35:10.850Z",
  "pagesScanned": 1962,
  "pagesAudited": 1927,
  "coverage": {
@@ -22,6 +22,8 @@
   "pagesWithViolations": 1927,
   "pagesScanned": 1927,
   "medianViolations": 20,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "aria-allowed-role": {
     "count": 5781,
@@ -7751,27 +7753,49 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "button[aria-label=\"Google consents\"]",
-      "html": "<button class=\"qc-cmp2-list-item-header\" role=\"listitem\" aria-label=\"Google consents\" aria-live=\"polite\">"
+      "html": "<button class=\"qc-cmp2-list-item-header\" role=\"listitem\" aria-label=\"Google consents\" aria-live=\"polite\">",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -15504,27 +15528,49 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "0045af8ce91f1f89",
+      "run_id": "2026-11-02T18-44-31-993Z-275e2c",
+      "scanned_at": "2026-11-02T18:54:35.086Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352",
       "target": "#Google\\ Basic\\ Consents",
-      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">"
+      "html": "<li id=\"Google Basic Consents\" class=\"qc-cmp2-list-item qc-cmp2-expanded\" role=\"list\">",
+      "component": "consent-dialog",
+      "page_id": "0055a2aaa8456fa6",
+      "run_id": "2026-11-04T16-27-18-916Z-db79d4",
+      "scanned_at": "2026-11-04T16:38:40.681Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -23257,27 +23303,49 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": ".qc-cmp2-list-item-title[role=\"listitem\"]",
-      "html": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\"><p>Google consents</p></p>"
+      "html": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\"><p>Google consents</p></p>",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": ".qc-cmp2-list-item-title[role=\"listitem\"]",
-      "html": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\"><p>Google consents</p></p>"
+      "html": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\"><p>Google consents</p></p>",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
       "target": "button[aria-label=\"Opt-Outs\"]",
-      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">"
+      "html": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
+      "page_id": "0045af8ce91f1f89",
+      "run_id": "2026-11-02T18-44-31-993Z-275e2c",
+      "scanned_at": "2026-11-02T18:54:35.086Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -31010,27 +31078,49 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": ".qc-cmp2-expandable-info:nth-child(1) > .qc-cmp2-toggle-switch > .css-w01txj.qc-cmp2-toggle[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": ".qc-cmp2-expandable-info:nth-child(2) > .qc-cmp2-toggle-switch > .css-w01txj.qc-cmp2-toggle[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": ".qc-cmp2-expandable-info:nth-child(3) > .qc-cmp2-toggle-switch > .css-w01txj.qc-cmp2-toggle[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": ".qc-cmp2-expandable-info:nth-child(1) > .qc-cmp2-toggle-switch > .css-w01txj.qc-cmp2-toggle[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": ".qc-cmp2-expandable-info:nth-child(2) > .qc-cmp2-toggle-switch > .css-w01txj.qc-cmp2-toggle[role=\"switch\"]",
-      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To"
+      "html": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\"><div class=\"toggle\"></div><p class=\"text off\" aria-label=\"Toggle off\">OFF</p><p class=\"text on\" aria-label=\"To",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -38763,27 +38853,50 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "div:nth-child(2) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "div:nth-child(3) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": "div:nth-child(2) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": "div:nth-child(3) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": "div:nth-child(4) > .css-cf00qb > .css-jg567y",
-      "html": "<p class=\"css-jg567y\">Opted In</p>"
+      "html": "<p class=\"css-jg567y\">Opted In</p>",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -42635,27 +42748,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "#block-localgov-walsall-servicetype--2 > .facets-widget--dropdown.facets-widget.border-bottom > h4",
-      "html": "<h4 class=\"facet-group__title\">Service type</h4>"
+      "html": "<h4 class=\"facet-group__title\">Service type</h4>",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "#block-localgov-walsall-servicetype--2 > .facets-widget--dropdown.facets-widget.border-bottom > h4",
-      "html": "<h4 class=\"facet-group__title\">Service type</h4>"
+      "html": "<h4 class=\"facet-group__title\">Service type</h4>",
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352",
       "target": "#block-localgov-walsall-servicetype--2 > .facets-widget--dropdown.facets-widget.border-bottom > h4",
-      "html": "<h4 class=\"facet-group__title\">Service type</h4>"
+      "html": "<h4 class=\"facet-group__title\">Service type</h4>",
+      "page_id": "0055a2aaa8456fa6",
+      "run_id": "2026-11-04T16-27-18-916Z-db79d4",
+      "scanned_at": "2026-11-04T16:38:40.681Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=age_range%3A338&f%5B4%5D=localgov_directories_facets%3A31&f%5B5%5D=service_type%3A352",
       "target": "#block-localgov-walsall-servicetype--2 > .facets-widget--dropdown.facets-widget.border-bottom > h4",
-      "html": "<h4 class=\"facet-group__title\">Service type</h4>"
+      "html": "<h4 class=\"facet-group__title\">Service type</h4>",
+      "page_id": "005e05c0c3cf6979",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:55:03.246Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A32&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=localgov_directories_facets%3A38&page=3",
       "target": "#block-localgov-walsall-servicetype--2 > .facets-widget--dropdown.facets-widget.border-bottom > h4",
-      "html": "<h4 class=\"facet-group__title\">Service type</h4>"
+      "html": "<h4 class=\"facet-group__title\">Service type</h4>",
+      "page_id": "007a6d316ea9ed0d",
+      "run_id": "2026-11-06T14-59-18-705Z-368905",
+      "scanned_at": "2026-11-06T15:04:16.474Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -50388,27 +50521,49 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": ".css-12exy1k",
-      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": ".css-def7e2",
-      "html": "<ul class=\"qc-cmp2-consent-list css-def7e2\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-def7e2\">",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": ".css-12exy1k",
-      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": ".css-def7e2",
-      "html": "<ul class=\"qc-cmp2-consent-list css-def7e2\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-def7e2\">",
+      "component": "consent-dialog",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
       "target": ".css-12exy1k",
-      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">"
+      "html": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
+      "page_id": "0045af8ce91f1f89",
+      "run_id": "2026-11-02T18-44-31-993Z-275e2c",
+      "scanned_at": "2026-11-02T18:54:35.086Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -58140,27 +58295,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": ".focusable",
-      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable skip-link\">\n      Skip to main content\n    </a>"
+      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable skip-link\">\n      Skip to main content\n    </a>",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": ".phase-banner-container",
-      "html": "<div class=\"container phase-banner-container my-3\">"
+      "html": "<div class=\"container phase-banner-container my-3\">",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": ".wc-hero--neutral",
-      "html": "<div class=\"wc-hero--neutral no-bg mb-4\">"
+      "html": "<div class=\"wc-hero--neutral no-bg mb-4\">",
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/events/down-arbo",
       "target": ".focusable",
-      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>"
+      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>",
+      "page_id": "00300e7fa9fa8441",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:53:16.497Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
       "target": ".focusable",
-      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>"
+      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable\">\n      Skip to main content\n    </a>",
+      "page_id": "0045af8ce91f1f89",
+      "run_id": "2026-11-02T18-44-31-993Z-275e2c",
+      "scanned_at": "2026-11-02T18:54:35.086Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -59653,27 +59828,47 @@
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "0045af8ce91f1f89",
+      "run_id": "2026-11-02T18-44-31-993Z-275e2c",
+      "scanned_at": "2026-11-02T18:54:35.086Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "00944897e65bceec",
+      "run_id": "2026-11-02T17-01-31-485Z-1a3c72",
+      "scanned_at": "2026-11-02T17:08:42.043Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "02012341ebcdfaca",
+      "run_id": "2026-11-04T13-17-04-509Z-1bfcaf",
+      "scanned_at": "2026-11-04T13:22:14.263Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-families-encouraged-check-mmr-vaccinations-half-term&rating=Poor&title=Walsall+families+encouraged+to+check+MMR+vaccinations+this+half+term",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "04b095c29a40d6f8",
+      "run_id": "2026-11-03T16-28-13-461Z-6fde98",
+      "scanned_at": "2026-11-03T16:32:49.393Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-town-centre-survey-inform-major-regeneration-projects&rating=Poor&title=Walsall+Town+Centre+Survey+to+Inform+Major+Regeneration+Projects",
       "target": ".js-form-type-textfield",
-      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">"
+      "html": "<div aria-labelledby=\"edit-url-label\" class=\"js-form-item form-item js-form-type-textfield form-item-url js-form-item-url mb-4\">",
+      "page_id": "04e2de78dbe2e8e0",
+      "run_id": "2026-11-02T18-44-31-993Z-275e2c",
+      "scanned_at": "2026-11-02T18:56:29.163Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -59782,27 +59977,47 @@
      {
       "url": "https://go.walsall.gov.uk/parks-and-green-spaces/managing-and-maintaining-our-parks-and-green-spaces",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "07e9f207ff7acf99",
+      "run_id": "2026-11-06T17-02-34-753Z-b00454",
+      "scanned_at": "2026-11-06T17:13:16.616Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/business/doing-business-with-the-council/supplying-council",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "15abd4629f4979db",
+      "run_id": "2026-11-02T19-50-34-440Z-9e2058",
+      "scanned_at": "2026-11-02T19:55:44.864Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/planning-and-building-control/building-control",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "15adf2476a1f5cf9",
+      "run_id": "2026-11-04T15-59-20-063Z-519cef",
+      "scanned_at": "2026-11-04T16:07:32.844Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/business/trading-standards",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "160dbe2925153749",
+      "run_id": "2026-11-03T13-00-46-381Z-8e8495",
+      "scanned_at": "2026-11-03T13:03:28.357Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/node/1077/practitioner-resources/practitioner-support-directory",
       "target": "#contactus",
-      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>"
+      "html": "<a id=\"contactus\" class=\"--\" tabindex=\"-1\" aria-hidden=\"1\">\n\n\n      \n  </a>",
+      "page_id": "20501355689253d2",
+      "run_id": "2026-11-03T16-28-13-461Z-6fde98",
+      "scanned_at": "2026-11-03T16:34:01.688Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -59846,27 +60061,47 @@
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/wednesbury",
       "target": "th:nth-child(1)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "428c1b969eda3956",
+      "run_id": "2026-11-02T12-41-25-626Z-dce12e",
+      "scanned_at": "2026-11-02T12:51:23.119Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/wednesbury",
       "target": "th:nth-child(2)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "428c1b969eda3956",
+      "run_id": "2026-11-02T12-41-25-626Z-dce12e",
+      "scanned_at": "2026-11-02T12:51:23.119Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/bloxwich",
       "target": "table:nth-child(5) > thead > tr > th:nth-child(1)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "4e80c317238413af",
+      "run_id": "2026-11-05T18-19-45-443Z-2ee2f3",
+      "scanned_at": "2026-11-05T18:34:25.937Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/bloxwich",
       "target": "table:nth-child(5) > thead > tr > th:nth-child(2)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "4e80c317238413af",
+      "run_id": "2026-11-05T18-19-45-443Z-2ee2f3",
+      "scanned_at": "2026-11-05T18:34:25.937Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/delves-churches",
       "target": "th:nth-child(1)",
-      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>"
+      "html": "<th>\n\t\t\t<p>&nbsp;</p>\n\t\t\t</th>",
+      "page_id": "91fe8ffffb6275bb",
+      "run_id": "2026-11-03T10-47-13-840Z-ac148c",
+      "scanned_at": "2026-11-03T10:52:12.140Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -59897,12 +60132,20 @@
      {
       "url": "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/bloxwich",
       "target": "h2:nth-child(6)",
-      "html": "<h2>&nbsp;</h2>"
+      "html": "<h2>&nbsp;</h2>",
+      "page_id": "4e80c317238413af",
+      "run_id": "2026-11-05T18-19-45-443Z-2ee2f3",
+      "scanned_at": "2026-11-05T18:34:25.937Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/litter-pickers-remove-more-1800-bags-rubbish-just-one-month",
       "target": "h3:nth-child(2)",
-      "html": "<h3>&nbsp;</h3>"
+      "html": "<h3>&nbsp;</h3>",
+      "page_id": "d0ec386022c5747d",
+      "run_id": "2026-11-02T18-44-31-993Z-275e2c",
+      "scanned_at": "2026-11-02T18:56:55.517Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -59928,7 +60171,11 @@
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fdecision-making-in-walsall-borough%2Fbcta%2Ferdf-2014-2020&rating=Good&title=ERDF+2014-2020",
       "target": ".alert-danger",
-      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe"
+      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe",
+      "page_id": "a1c77423610553ff",
+      "run_id": "2026-11-03T17-23-06-739Z-e793c6",
+      "scanned_at": "2026-11-03T17:27:17.778Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -59964,17 +60211,29 @@
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fdecision-making-in-walsall-borough%2Fbcta%2Ferdf-2014-2020&rating=Good&title=ERDF+2014-2020",
       "target": ".alert-danger",
-      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe"
+      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"alert alert-danger\">\n          <div role=\"alert\">\n              <h2 class=\"visually-hidden\">Error message</h2>\n              One or dates refe",
+      "page_id": "a1c77423610553ff",
+      "run_id": "2026-11-03T17-23-06-739Z-e793c6",
+      "scanned_at": "2026-11-03T17:27:17.778Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A356",
       "target": ".messages",
-      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"messages messages--error\">"
+      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"messages messages--error\">",
+      "page_id": "b7554d10f5207251",
+      "run_id": "2026-11-04T16-45-52-484Z-b94625",
+      "scanned_at": "2026-11-04T16:53:42.133Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A34&page=4",
       "target": ".messages",
-      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"messages messages--error\">"
+      "html": "<div role=\"contentinfo\" aria-label=\"Error message\" class=\"messages messages--error\">",
+      "page_id": "c80a60e2089e2d47",
+      "run_id": "2026-11-06T10-47-33-012Z-57f878",
+      "scanned_at": "2026-11-06T10:56:59.332Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -59984,7 +60243,10 @@
   "failedTotal": 83168,
   "pagesWithFailures": 937,
   "pagesScanned": 937,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 80,
+  "element_evidence": null,
   "rules": {
    "sia-r66": {
     "count": 20694,
@@ -63749,27 +64011,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "text: \"IAB’s List of Downstream Participants\"",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "text: \"IAB’s List of Downstream Participants\"",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -67536,27 +67818,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -69431,27 +69733,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "0055a2aaa8456fa6",
+      "run_id": "2026-11-04T16-27-18-916Z-db79d4",
+      "scanned_at": "2026-11-04T16:38:40.681Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "0152ec694bfcc1a6",
+      "run_id": "2026-11-03T13-00-46-381Z-8e8495",
+      "scanned_at": "2026-11-03T13:04:13.323Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A420&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A351&page=3",
       "target": "<h4 class=\"facet-group__title\">",
-      "html": null
+      "html": null,
+      "page_id": "01e62a22cb7e548b",
+      "run_id": "2026-11-05T19-44-49-830Z-6d54d5",
+      "scanned_at": "2026-11-05T19:51:57.773Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -73218,27 +73540,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<p class=\"qc-cmp2-list-item-title\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<p class=\"css-jg567y\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<p class=\"css-jg567y\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<p class=\"qc-cmp2-list-item-title\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<p class=\"css-jg567y\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -77005,27 +77347,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<p id=\"qc-usp-title\" class=\"qc-usp-title\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<p class=\"qc-cmp2-list-item-title\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<p id=\"qc-usp-title\" class=\"qc-usp-title\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<p class=\"qc-cmp2-list-item-title\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -80792,27 +81154,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<ul class=\"qc-cmp2-consent-list css-def7e2\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<ul class=\"qc-cmp2-consent-list css-def7e2\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352",
       "target": "<ul class=\"qc-cmp2-consent-list css-12exy1k\">",
-      "html": null
+      "html": null,
+      "page_id": "0055a2aaa8456fa6",
+      "run_id": "2026-11-04T16-27-18-916Z-db79d4",
+      "scanned_at": "2026-11-04T16:38:40.681Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -84579,27 +84961,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<p class=\"qc-cmp2-list-item-title\" role=\"listitem\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352",
       "target": "<button role=\"listitem\" class=\"qc-cmp2-list-item-header\" aria-label=\"Opt-Outs\" aria-live=\"polite\">",
-      "html": null
+      "html": null,
+      "page_id": "0055a2aaa8456fa6",
+      "run_id": "2026-11-04T16-27-18-916Z-db79d4",
+      "scanned_at": "2026-11-04T16:38:40.681Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -86610,27 +87012,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0055a2aaa8456fa6",
+      "run_id": "2026-11-04T16-27-18-916Z-db79d4",
+      "scanned_at": "2026-11-04T16:38:40.681Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0152ec694bfcc1a6",
+      "run_id": "2026-11-03T13-00-46-381Z-8e8495",
+      "scanned_at": "2026-11-03T13:04:13.323Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A420&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A351&page=3",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "01e62a22cb7e548b",
+      "run_id": "2026-11-05T19-44-49-830Z-6d54d5",
+      "scanned_at": "2026-11-05T19:51:57.773Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -90397,27 +90819,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "0055a2aaa8456fa6",
+      "run_id": "2026-11-04T16-27-18-916Z-db79d4",
+      "scanned_at": "2026-11-04T16:38:40.681Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "00944897e65bceec",
+      "run_id": "2026-11-02T17-01-31-485Z-1a3c72",
+      "scanned_at": "2026-11-02T17:08:42.043Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
       "target": "<p class=\"strapline mt-3 mt-md-3\">",
-      "html": null
+      "html": null,
+      "page_id": "0152ec694bfcc1a6",
+      "run_id": "2026-11-03T13-00-46-381Z-8e8495",
+      "scanned_at": "2026-11-03T13:04:13.323Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -94184,27 +94626,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "text: \"\n      Skip to main content\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "text: \"\n            Your \"",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "text: \"feedback\"",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "text: \"\n      Skip to main content\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "text: \"\n            Your \"",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -97971,27 +98433,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "text: \"Opted In\"",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -101758,27 +102240,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0055a2aaa8456fa6",
+      "run_id": "2026-11-04T16-27-18-916Z-db79d4",
+      "scanned_at": "2026-11-04T16:38:40.681Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "00944897e65bceec",
+      "run_id": "2026-11-02T17-01-31-485Z-1a3c72",
+      "scanned_at": "2026-11-02T17:08:42.043Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0152ec694bfcc1a6",
+      "run_id": "2026-11-03T13-00-46-381Z-8e8495",
+      "scanned_at": "2026-11-03T13:04:13.323Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -105545,27 +106047,47 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<button tabindex=\"0\" aria-label=\"Close\" aria-pressed=\"false\" class=\"qc-usp-close-icon\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "002debbbd329e974",
+      "run_id": "2026-11-04T14-11-27-659Z-924e95",
+      "scanned_at": "2026-11-04T14:23:59.341Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<button tabindex=\"0\" aria-label=\"Close\" aria-pressed=\"false\" class=\"qc-usp-close-icon\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
       "target": "<button tabindex=\"0\" role=\"switch\" aria-checked=\"false\" class=\"qc-cmp2-toggle css-w01txj\">",
-      "html": null
+      "html": null,
+      "page_id": "004b09024846444b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:25:23.614Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -106368,27 +106890,47 @@
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
       "target": "@aria-labelledby=\"edit-overall-rating-good-label\"",
-      "html": null
+      "html": null,
+      "page_id": "00944897e65bceec",
+      "run_id": "2026-11-02T17-01-31-485Z-1a3c72",
+      "scanned_at": "2026-11-02T17:08:42.043Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
       "target": "@aria-labelledby=\"edit-overall-rating-ok-label\"",
-      "html": null
+      "html": null,
+      "page_id": "00944897e65bceec",
+      "run_id": "2026-11-02T17-01-31-485Z-1a3c72",
+      "scanned_at": "2026-11-02T17:08:42.043Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
       "target": "@aria-labelledby=\"edit-overall-rating-poor-label\"",
-      "html": null
+      "html": null,
+      "page_id": "00944897e65bceec",
+      "run_id": "2026-11-02T17-01-31-485Z-1a3c72",
+      "scanned_at": "2026-11-02T17:08:42.043Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-families-encouraged-check-mmr-vaccinations-half-term&rating=Poor&title=Walsall+families+encouraged+to+check+MMR+vaccinations+this+half+term",
       "target": "@aria-labelledby=\"edit-overall-rating-good-label\"",
-      "html": null
+      "html": null,
+      "page_id": "04b095c29a40d6f8",
+      "run_id": "2026-11-03T16-28-13-461Z-6fde98",
+      "scanned_at": "2026-11-03T16:32:49.393Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-families-encouraged-check-mmr-vaccinations-half-term&rating=Poor&title=Walsall+families+encouraged+to+check+MMR+vaccinations+this+half+term",
       "target": "@aria-labelledby=\"edit-overall-rating-ok-label\"",
-      "html": null
+      "html": null,
+      "page_id": "04b095c29a40d6f8",
+      "run_id": "2026-11-03T16-28-13-461Z-6fde98",
+      "scanned_at": "2026-11-03T16:32:49.393Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -106439,27 +106981,47 @@
      {
       "url": "https://go.walsall.gov.uk/business/doing-business-with-the-council/supplying-council",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "15abd4629f4979db",
+      "run_id": "2026-11-02T19-50-34-440Z-9e2058",
+      "scanned_at": "2026-11-02T19:55:44.864Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/planning-and-building-control/building-control",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "15adf2476a1f5cf9",
+      "run_id": "2026-11-04T15-59-20-063Z-519cef",
+      "scanned_at": "2026-11-04T16:07:32.844Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/node/1077/practitioner-resources/practitioner-support-directory",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "20501355689253d2",
+      "run_id": "2026-11-03T16-28-13-461Z-6fde98",
+      "scanned_at": "2026-11-03T16:34:01.688Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/children-and-young-people/family-help/young-carers",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "4fea0a9504081a3b",
+      "run_id": "2026-11-04T15-23-36-737Z-aa809c",
+      "scanned_at": "2026-11-04T15:34:03.965Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/children-and-young-people/family-help",
       "target": "@aria-hidden=\"1\"",
-      "html": null
+      "html": null,
+      "page_id": "5fb91a24f49cbbdc",
+      "run_id": "2026-11-02T12-41-25-626Z-dce12e",
+      "scanned_at": "2026-11-02T12:49:07.903Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -106490,27 +107052,47 @@
      {
       "url": "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/supplementary-planning",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "1ecaf1eb41a58ae9",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:54:08.011Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/walsall-town-centre-area",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "33fb4cb509fabb91",
+      "run_id": "2026-11-02T13-51-18-437Z-4a7de0",
+      "scanned_at": "2026-11-02T13:59:10.817Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/walsall-town-centre-area",
       "target": "<h4>",
-      "html": null
+      "html": null,
+      "page_id": "33fb4cb509fabb91",
+      "run_id": "2026-11-02T13-51-18-437Z-4a7de0",
+      "scanned_at": "2026-11-02T13:59:10.817Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/walsall-town-centre-area",
       "target": "<h4>",
-      "html": null
+      "html": null,
+      "page_id": "33fb4cb509fabb91",
+      "run_id": "2026-11-02T13-51-18-437Z-4a7de0",
+      "scanned_at": "2026-11-02T13:59:10.817Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/roads-parking-and-travel/public-rights-of-way-prow/prow-and-highway-orders",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "99e4cb020800753b",
+      "run_id": "2026-11-02T19-50-34-440Z-9e2058",
+      "scanned_at": "2026-11-02T19:58:26.676Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -106549,27 +107131,47 @@
      {
       "url": "https://go.walsall.gov.uk/newsroom/canal-makeover-set-encourage-more-people-walk-and-cycle-around-walsall-borough",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "25eff93ac70263dd",
+      "run_id": "2026-11-04T15-59-20-063Z-519cef",
+      "scanned_at": "2026-11-04T16:08:25.597Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/turning-tide-fly-tipping-collaborative-summit-outlines-key-actions",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "44839e162c4e3773",
+      "run_id": "2026-11-05T17-41-18-092Z-b14311",
+      "scanned_at": "2026-11-05T17:47:31.110Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/over-50000-flock-inaugural-walsall-makerfest-celebrating-local-creativity",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "63c7e23bc6dd1076",
+      "run_id": "2026-11-02T12-41-25-626Z-dce12e",
+      "scanned_at": "2026-11-02T12:49:37.032Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/canal-towpaths-across-walsall-borough-see-huge-improvement",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "c387c4c860651bc5",
+      "run_id": "2026-11-03T13-00-46-381Z-8e8495",
+      "scanned_at": "2026-11-03T13:14:42.130Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/newsroom/pelsalls-polluters-prosecuted-litterbugs-face-court",
       "target": "<p class=\"small fst-italic text-muted small fst-italic text-muted--\">",
-      "html": null
+      "html": null,
+      "page_id": "daeb3d872aca7d40",
+      "run_id": "2026-11-04T12-29-40-842Z-19f1a6",
+      "scanned_at": "2026-11-04T12:40:10.124Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -106595,12 +107197,20 @@
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&page=9",
       "target": "<a href=\"/wellbeing-directory/green-square-accord-befriending\" rel=\"bookmark\">",
-      "html": null
+      "html": null,
+      "page_id": "388dc6fb17b32aab",
+      "run_id": "2026-11-07T11-40-16-362Z-70a2af",
+      "scanned_at": "2026-11-07T11:44:35.770Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A352",
       "target": "<a href=\"/wellbeing-directory/carelink-24-assistive-technology\" rel=\"bookmark\">",
-      "html": null
+      "html": null,
+      "page_id": "3a9ac4881c1089aa",
+      "run_id": "2026-11-05T19-18-14-993Z-5e5290",
+      "scanned_at": "2026-11-05T19:25:56.707Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -106875,6 +107485,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 32,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 32,
+  "regions": [],
+  "csv": "go.walsall.gov.uk_02NOV2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": {
   "pages": 196,
   "medianBytes": 11323589,
@@ -136763,67 +137383,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 129596295,
-    "savingsMs": 625600
-   },
-   {
-    "id": "render-blocking-insight",
-    "category": "performance",
-    "title": "Render-blocking requests",
-    "pages": 180,
-    "examplePages": [
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/events/knit-and-natter-69",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 522200
-   },
-   {
-    "id": "bootup-time",
-    "category": "performance",
-    "title": "Reduce JavaScript execution time",
-    "pages": 180,
-    "examplePages": [
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/events/knit-and-natter-69",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 428150
-   },
-   {
-    "id": "mainthread-work-breakdown",
-    "category": "performance",
-    "title": "Minimize main-thread work",
-    "pages": 180,
-    "examplePages": [
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/events/knit-and-natter-69",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 357100
+    "savingsMs": 625600,
+    "savingsBytesMedian": 773830,
+    "savingsBytesP75": 796323,
+    "savingsMsMedian": 3900,
+    "savingsMsP75": 4300
    },
    {
     "id": "unminified-javascript",
@@ -136843,7 +137407,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 18250902,
-    "savingsMs": 103150
+    "savingsMs": 103150,
+    "savingsBytesMedian": 100513,
+    "savingsBytesP75": 109636,
+    "savingsMsMedian": 550,
+    "savingsMsP75": 750
    },
    {
     "id": "unused-css-rules",
@@ -136863,7 +137431,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 11695222,
-    "savingsMs": 71900
+    "savingsMs": 71900,
+    "savingsBytesMedian": 63933,
+    "savingsBytesP75": 64409,
+    "savingsMsMedian": 350,
+    "savingsMsP75": 450
    },
    {
     "id": "first-contentful-paint",
@@ -136883,7 +137455,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "largest-contentful-paint",
@@ -136903,7 +137479,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "total-blocking-time",
@@ -136923,7 +137503,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "max-potential-fid",
@@ -136943,7 +137527,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "interactive",
@@ -136963,7 +137551,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "third-party-cookies",
@@ -136983,7 +137575,59 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimize main-thread work",
+    "pages": 180,
+    "examplePages": [
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/events/knit-and-natter-69",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
+     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
+     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 357100,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1900,
+    "savingsMsP75": 2500
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "Reduce JavaScript execution time",
+    "pages": 180,
+    "examplePages": [
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/events/knit-and-natter-69",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
+     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
+     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 428150,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2350,
+    "savingsMsP75": 3150
    },
    {
     "id": "inspector-issues",
@@ -137003,7 +137647,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "agent-accessibility-tree",
@@ -137023,7 +137671,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-registered-tools",
@@ -137043,7 +137695,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-form-coverage",
@@ -137063,7 +137719,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-schema-validity",
@@ -137083,7 +137743,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "llms-txt",
@@ -137103,7 +137767,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "ard-schema",
@@ -137123,7 +137791,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "network-dependency-tree-insight",
@@ -137143,7 +137815,35 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "render-blocking-insight",
+    "category": "performance",
+    "title": "Render-blocking requests",
+    "pages": 180,
+    "examplePages": [
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/events/knit-and-natter-69",
+     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
+     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
+     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 522200,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2700,
+    "savingsMsP75": 2850
    },
    {
     "id": "cache-insight",
@@ -137163,7 +137863,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 0,
-    "savingsMs": 244700
+    "savingsMs": 244700,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1400,
+    "savingsMsP75": 1700
    },
    {
     "id": "speed-index",
@@ -137183,7 +137887,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A351"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "unminified-css",
@@ -137203,7 +137911,11 @@
      "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
     ],
     "savingsBytes": 432515,
-    "savingsMs": 6700
+    "savingsMs": 6700,
+    "savingsBytesMedian": 2773,
+    "savingsBytesP75": 2778,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 150
    },
    {
     "id": "errors-in-console",
@@ -137223,7 +137935,11 @@
      "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "legacy-javascript-insight",
@@ -137243,7 +137959,11 @@
      "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall"
     ],
     "savingsBytes": 0,
-    "savingsMs": 26400
+    "savingsMs": 26400,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 250
    },
    {
     "id": "meta-description",
@@ -137263,7 +137983,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A357"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "bf-cache",
@@ -137283,7 +138007,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A357"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "image-delivery-insight",
@@ -137303,7 +138031,11 @@
      "https://go.walsall.gov.uk/newsroom/walsall-council-launches-net-zero-strategy-create-thriving-communities-and-economic-growth"
     ],
     "savingsBytes": 0,
-    "savingsMs": 361600
+    "savingsMs": 361600,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 300,
+    "savingsMsP75": 650
    },
    {
     "id": "image-size-responsive",
@@ -137323,7 +138055,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A356"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "deprecations",
@@ -137343,7 +138079,11 @@
      "https://go.walsall.gov.uk/events/caterpillar-club-5"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "server-response-time",
@@ -137363,7 +138103,11 @@
      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-free-garden-waste-collections-resume&rating=Good&title=Walsall+free+garden+waste+collections+to+resume+"
     ],
     "savingsBytes": 0,
-    "savingsMs": 6800
+    "savingsMs": 6800,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 200,
+    "savingsMsP75": 200
    },
    {
     "id": "cumulative-layout-shift",
@@ -137383,7 +138127,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A420&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A354"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",
@@ -137403,7 +138151,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A420&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A354"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "font-display-insight",
@@ -137423,7 +138175,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory/rethink-mental-illness-walsall-rethink-mental-health-hub-no-wrong-door"
     ],
     "savingsBytes": 0,
-    "savingsMs": 1650
+    "savingsMs": 1650,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 50,
+    "savingsMsP75": 50
    },
    {
     "id": "forced-reflow-insight",
@@ -137443,7 +138199,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A355"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "lcp-discovery-insight",
@@ -137463,7 +138223,11 @@
      "https://go.walsall.gov.uk/events/loose-leaves-4"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "lcp-breakdown-insight",
@@ -137477,7 +138241,11 @@
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A355"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    }
   ]
  },
@@ -139132,6 +139900,9 @@
     "tech": "Amazon Advertising",
     "finding": "alfa:sia-r53",
     "ratio": 6.43,
+    "ci_low": 1.68,
+    "ci_high": 24.57,
+    "certainty": "ci_above_one",
     "lift": 1.27,
     "pairPages": 38,
     "techPages": 68,
@@ -139143,6 +139914,9 @@
     "tech": "Google Publisher Tag",
     "finding": "alfa:sia-r53",
     "ratio": 6.43,
+    "ci_low": 1.68,
+    "ci_high": 24.57,
+    "certainty": "ci_above_one",
     "lift": 1.27,
     "pairPages": 38,
     "techPages": 68,
@@ -139154,6 +139928,9 @@
     "tech": "Quantcast Measure",
     "finding": "alfa:sia-r53",
     "ratio": 6.43,
+    "ci_low": 1.68,
+    "ci_high": 24.57,
+    "certainty": "ci_above_one",
     "lift": 1.27,
     "pairPages": 38,
     "techPages": 68,
@@ -139165,6 +139942,9 @@
     "tech": "Amazon Advertising",
     "finding": "alfa:sia-r61",
     "ratio": 4.62,
+    "ci_low": 1.58,
+    "ci_high": 13.51,
+    "certainty": "ci_above_one",
     "lift": 1.25,
     "pairPages": 41,
     "techPages": 68,
@@ -139176,6 +139956,9 @@
     "tech": "Google Publisher Tag",
     "finding": "alfa:sia-r61",
     "ratio": 4.62,
+    "ci_low": 1.58,
+    "ci_high": 13.51,
+    "certainty": "ci_above_one",
     "lift": 1.25,
     "pairPages": 41,
     "techPages": 68,
@@ -139187,6 +139970,9 @@
     "tech": "Quantcast Measure",
     "finding": "alfa:sia-r61",
     "ratio": 4.62,
+    "ci_low": 1.58,
+    "ci_high": 13.51,
+    "certainty": "ci_above_one",
     "lift": 1.25,
     "pairPages": 41,
     "techPages": 68,
@@ -139198,6 +139984,9 @@
     "tech": "Amazon Advertising",
     "finding": "axe:heading-order",
     "ratio": 3.15,
+    "ci_low": 1.76,
+    "ci_high": 5.62,
+    "certainty": "ci_above_one",
     "lift": 1.24,
     "pairPages": 79,
     "techPages": 138,
@@ -139209,6 +139998,9 @@
     "tech": "Google Publisher Tag",
     "finding": "axe:heading-order",
     "ratio": 3.15,
+    "ci_low": 1.76,
+    "ci_high": 5.62,
+    "certainty": "ci_above_one",
     "lift": 1.24,
     "pairPages": 79,
     "techPages": 138,
@@ -139220,45 +140012,29 @@
     "tech": "Quantcast Measure",
     "finding": "axe:heading-order",
     "ratio": 3.15,
+    "ci_low": 1.76,
+    "ci_high": 5.62,
+    "certainty": "ci_above_one",
     "lift": 1.24,
     "pairPages": 79,
     "techPages": 138,
     "findingPages": 89,
     "withoutPages": 55,
     "withoutFindingPages": 10
-   },
-   {
-    "tech": "jQuery UI",
-    "finding": "alfa:sia-r53",
-    "ratio": 2.24,
-    "lift": 1.09,
-    "pairPages": 37,
-    "techPages": 77,
-    "findingPages": 40,
-    "withoutPages": 14,
-    "withoutFindingPages": 3
    },
    {
     "tech": "jQuery UI",
     "finding": "axe:heading-order",
     "ratio": 2.01,
+    "ci_low": 1.08,
+    "ci_high": 3.74,
+    "certainty": "ci_above_one",
     "lift": 1.09,
     "pairPages": 81,
     "techPages": 161,
     "findingPages": 89,
     "withoutPages": 32,
     "withoutFindingPages": 8
-   },
-   {
-    "tech": "jQuery UI",
-    "finding": "alfa:sia-r61",
-    "ratio": 1.82,
-    "lift": 1.07,
-    "pairPages": 40,
-    "techPages": 77,
-    "findingPages": 44,
-    "withoutPages": 14,
-    "withoutFindingPages": 4
    }
   ]
  },
@@ -206227,6 +207003,10 @@
    {
     "id": "consent-dialog",
     "label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "min_signals": 2,
     "verified": true,
     "confidence": "high",
@@ -206373,6 +207153,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "high",
     "verified": true,
     "signals": [
@@ -206395,6 +207179,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "high",
     "verified": true,
     "signals": [
@@ -206417,6 +207205,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "high",
     "verified": true,
     "signals": [
@@ -206439,6 +207231,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "high",
     "verified": true,
     "signals": [
@@ -206462,6 +207258,10 @@
     "classification": "mixed",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -206483,6 +207283,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206501,6 +207305,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "high",
     "verified": true,
     "signals": [
@@ -206523,6 +207331,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206541,6 +207353,10 @@
     "classification": "undetermined",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206559,6 +207375,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -206580,6 +207400,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206598,6 +207422,10 @@
     "classification": "mixed",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -206619,6 +207447,10 @@
     "classification": "mixed",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -206640,6 +207472,10 @@
     "classification": "mixed",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -206661,6 +207497,10 @@
     "classification": "shared_component",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -206682,6 +207522,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206700,6 +207544,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206718,6 +207566,10 @@
     "classification": "undetermined",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206736,6 +207588,10 @@
     "classification": "undetermined",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206754,6 +207610,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206772,6 +207632,10 @@
     "classification": "mixed",
     "component_id": "consent-dialog",
     "component_label": "Cookie consent dialog",
+    "component_type": "component:consent-dialog",
+    "implementation": "consent-dialog",
+    "attribution": "configured",
+    "ownership_established": false,
     "confidence": "medium",
     "verified": true,
     "signals": [
@@ -206793,6 +207657,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206811,6 +207679,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206829,6 +207701,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206847,6 +207723,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206865,6 +207745,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206883,6 +207767,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206901,6 +207789,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206919,6 +207811,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206937,6 +207833,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206955,6 +207855,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206973,6 +207877,10 @@
     "classification": "not_attributed",
     "component_id": null,
     "component_label": null,
+    "component_type": null,
+    "implementation": null,
+    "attribution": null,
+    "ownership_established": false,
     "confidence": null,
     "verified": false,
     "signals": [],
@@ -206988,6 +207896,41 @@
     "basis": "stored_examples"
    }
   }
+ },
+ "componentGroups": {
+  "basis": "stored_examples",
+  "findings_total": 32,
+  "attributed": 6,
+  "unattributed": 26,
+  "ownership_basis": "Only configured component signatures are grouped as components. Widget roles are separate structural categories; grouping never establishes ownership or a fix count.",
+  "groups": [
+   {
+    "key": "component:consent-dialog",
+    "type": "component:consent-dialog",
+    "label": "Cookie consent dialog",
+    "attribution": "configured",
+    "implementation": "consent-dialog",
+    "ownership_established": false,
+    "instance_identity": "page_url_and_selector_of_stored_examples",
+    "findings": 6,
+    "instances_total": 33905,
+    "stored_instances": 13,
+    "pages_affected_sum": 11562,
+    "verified_findings": 6,
+    "classification_counts": {
+     "shared_component": 5,
+     "mixed": 1
+    },
+    "confidence": "high",
+    "inspection_evidence": {
+     "element": 0,
+     "locator": 0,
+     "reproduction_eligible": 0
+    },
+    "regions": [],
+    "representative": []
+   }
+  ]
  },
  "pageFamilies": {
   "schema": 1,
@@ -207047,5 +207990,66 @@
   "errorStatuses": {
    "404": 2
   }
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 32,
+  "occurrences_stored": 148,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 14,
+   "not_applicable": 18,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 32
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 32
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 32
+  },
+  "component": {
+   "attributed": 6,
+   "unattributed": 26
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 32
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 32
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 32,
+  "by_engine": {
+   "axe-core": {
+    "findings": 14,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 18,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 0,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }

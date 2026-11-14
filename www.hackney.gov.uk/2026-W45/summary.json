@@ -1,7 +1,7 @@
 {
  "domain": "www.hackney.gov.uk",
  "week": "2026-W45",
- "generatedAt": "2026-11-05T18:41:32.341Z",
+ "generatedAt": "2026-11-14T17:35:14.284Z",
  "pagesScanned": 1022,
  "pagesAudited": 906,
  "coverage": {
@@ -22,6 +22,8 @@
   "pagesWithViolations": 906,
   "pagesScanned": 906,
   "medianViolations": 1,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "aria-input-field-name": {
     "count": 903,
@@ -3656,27 +3658,47 @@
      {
       "url": "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "00414b8f39f1bddc",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:31:01.560Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "00ce3875ea4b73d2",
+      "run_id": "2026-11-04T16-27-32-557Z-dfd555",
+      "scanned_at": "2026-11-04T16:34:00.154Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:49:07.107Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -3972,27 +3994,47 @@
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
       "target": ".field > h3",
-      "html": "<h3>SPD and supporting documents</h3>"
+      "html": "<h3>SPD and supporting documents</h3>",
+      "page_id": "01fc5d2617a546e3",
+      "run_id": "2026-11-02T12-41-17-628Z-af0666",
+      "scanned_at": "2026-11-02T12:46:19.226Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackneys-heritage",
       "target": ".accordion-pane-wrapper:nth-child(1) > .paragraph--type--localgov-accordion-pane.accordion-pane.paragraph--view-mode--default > .accordion-pane__title",
-      "html": "<h3 class=\"accordion-pane__title\">"
+      "html": "<h3 class=\"accordion-pane__title\">",
+      "page_id": "03be09f446db1ed4",
+      "run_id": "2026-11-04T12-11-51-375Z-876e1a",
+      "scanned_at": "2026-11-04T12:15:33.291Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
       "target": ".lgd-contact__group > h3",
-      "html": "<h3>Opening times</h3>"
+      "html": "<h3>Opening times</h3>",
+      "page_id": "04b3418dba70d8e7",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:48:52.149Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
       "target": "div[data-orientation-desktop=\"horizontal\"] > .card__content > .card__title > h4",
-      "html": "<h4>Mayor Zoë Garbett</h4>"
+      "html": "<h4>Mayor Zoë Garbett</h4>",
+      "page_id": "07f42bb75184a1b0",
+      "run_id": "2026-11-02T12-41-17-628Z-af0666",
+      "scanned_at": "2026-11-02T12:44:27.068Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
       "target": ".lgd-contact__group > h3",
-      "html": "<h3>Opening times</h3>"
+      "html": "<h3>Opening times</h3>",
+      "page_id": "1008bbf052b6c55a",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:44:55.824Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4109,27 +4151,47 @@
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
       "target": "#iFrameResizer0",
-      "html": "<iframe src=\"https://map2.hackney.gov.uk/maps/school-streets/embed.html\" data-once=\"iframe-resizer\" id=\"iFrameResizer0\" scrolling=\"no\" style=\"overflow: hidden; height: 552px;\">&nbsp;</iframe>"
+      "html": "<iframe src=\"https://map2.hackney.gov.uk/maps/school-streets/embed.html\" data-once=\"iframe-resizer\" id=\"iFrameResizer0\" scrolling=\"no\" style=\"overflow: hidden; height: 552px;\">&nbsp;</iframe>",
+      "page_id": "0289046540353e43",
+      "run_id": "2026-11-02T10-56-04-699Z-3c4918",
+      "scanned_at": "2026-11-02T10:58:26.971Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
       "target": "iframe[height=\"600\"]",
-      "html": "<iframe height=\"600\" src=\"https://map2.hackney.gov.uk/maps/statutory-listed-buildings/embed.html\" title=\"\" data-once=\"iframe-resizer\">&nbsp;</iframe>"
+      "html": "<iframe height=\"600\" src=\"https://map2.hackney.gov.uk/maps/statutory-listed-buildings/embed.html\" title=\"\" data-once=\"iframe-resizer\">&nbsp;</iframe>",
+      "page_id": "08ef8b1b80149952",
+      "run_id": "2026-11-04T16-45-53-171Z-0d88cc",
+      "scanned_at": "2026-11-04T16:51:18.752Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
       "target": "p:nth-child(4) > iframe[height=\"462\"][data-once=\"iframe-resizer\"]",
-      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/NZN2AZAMPHY?start=21\" data-once=\"iframe-resizer\">&nbsp;</iframe>"
+      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/NZN2AZAMPHY?start=21\" data-once=\"iframe-resizer\">&nbsp;</iframe>",
+      "page_id": "0a846aa880b3bee7",
+      "run_id": "2026-11-02T12-41-17-628Z-af0666",
+      "scanned_at": "2026-11-02T12:43:59.572Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
       "target": "p:nth-child(8) > iframe[height=\"462\"][data-once=\"iframe-resizer\"]",
-      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/ktklk7d0ibY?start=21\" data-once=\"iframe-resizer\">&nbsp;</iframe>"
+      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/ktklk7d0ibY?start=21\" data-once=\"iframe-resizer\">&nbsp;</iframe>",
+      "page_id": "0a846aa880b3bee7",
+      "run_id": "2026-11-02T12-41-17-628Z-af0666",
+      "scanned_at": "2026-11-02T12:43:59.572Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
       "target": "p:nth-child(12) > iframe[height=\"462\"][data-once=\"iframe-resizer\"]",
-      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/WTJQi7iBgiA?start=21\" data-once=\"iframe-resizer\">&nbsp;</iframe>"
+      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/WTJQi7iBgiA?start=21\" data-once=\"iframe-resizer\">&nbsp;</iframe>",
+      "page_id": "0a846aa880b3bee7",
+      "run_id": "2026-11-02T12-41-17-628Z-af0666",
+      "scanned_at": "2026-11-02T12:43:59.572Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4155,7 +4217,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": ".site-logo",
-      "html": "<div class=\"site-logo\" role=\"banner\">\n\t\t\t\t\t\t<a href=\"https://hackney.gov.uk/\" title=\"Link to homepage\" target=\"_HC\">\n\t\t\t\t\t\t<img src=\"/HackneyEstore/estore/custom/images/customers/Hackney_Logo_White.pn"
+      "html": "<div class=\"site-logo\" role=\"banner\">\n\t\t\t\t\t\t<a href=\"https://hackney.gov.uk/\" title=\"Link to homepage\" target=\"_HC\">\n\t\t\t\t\t\t<img src=\"/HackneyEstore/estore/custom/images/customers/Hackney_Logo_White.pn",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-11-02T19-50-11-182Z-ba9f1c",
+      "scanned_at": "2026-11-02T19:53:28.294Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4181,7 +4247,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": "header",
-      "html": "<header class=\"top-header\">"
+      "html": "<header class=\"top-header\">",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-11-02T19-50-11-182Z-ba9f1c",
+      "scanned_at": "2026-11-02T19:53:28.294Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4217,17 +4287,29 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": "header",
-      "html": "<header class=\"top-header\">"
+      "html": "<header class=\"top-header\">",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-11-02T19-50-11-182Z-ba9f1c",
+      "scanned_at": "2026-11-02T19:53:28.294Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "#nav_menu-2",
-      "html": "<aside id=\"nav_menu-2\" class=\"widget inner-padding widget_nav_menu\">"
+      "html": "<aside id=\"nav_menu-2\" class=\"widget inner-padding widget_nav_menu\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/News",
       "target": ".carousel__images",
-      "html": "<div class=\"carousel__images slick-initialized slick-slider\" role=\"region\" aria-label=\"carousel\">"
+      "html": "<div class=\"carousel__images slick-initialized slick-slider\" role=\"region\" aria-label=\"carousel\">",
+      "page_id": "bc0ebdfc6e6cfb45",
+      "run_id": "2026-11-04T12-29-54-296Z-f0deec",
+      "scanned_at": "2026-11-04T12:30:48.213Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4254,7 +4336,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": ".pagination > ul",
-      "html": "<ul>"
+      "html": "<ul>",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-11-02T19-50-11-182Z-ba9f1c",
+      "scanned_at": "2026-11-02T19:53:28.294Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4280,7 +4366,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": "li[role=\"presentation\"]",
-      "html": "<li role=\"presentation\" tabindex=\"-1\">\n                        <span class=\"pager-page-label\">  Page 1 of 5</span>\n                    </li>"
+      "html": "<li role=\"presentation\" tabindex=\"-1\">\n                        <span class=\"pager-page-label\">  Page 1 of 5</span>\n                    </li>",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-11-02T19-50-11-182Z-ba9f1c",
+      "scanned_at": "2026-11-02T19:53:28.294Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4306,7 +4396,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": ".skip-main",
-      "html": "<a href=\"#header-breadcrumb\" class=\"skip-main\">Skip to main content</a>"
+      "html": "<a href=\"#header-breadcrumb\" class=\"skip-main\">Skip to main content</a>",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-11-02T19-50-11-182Z-ba9f1c",
+      "scanned_at": "2026-11-02T19:53:28.294Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4339,22 +4433,38 @@
      {
       "url": "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/local-housing-allowance-lha-explained",
       "target": "p:nth-child(65) > .ext[data-extlink=\"\"][rel=\"nofollow noreferrer\"]:nth-child(2)",
-      "html": "<a href=\"https://docs.google.com/document/d/1p_V1n-88UA43TVGyuUdNx-F6CYH2Un295gsCuYqqpYY/edit?usp=sharing\" class=\"ext\" data-extlink=\"\" rel=\"nofollow noreferrer\">&nbsp;</a>"
+      "html": "<a href=\"https://docs.google.com/document/d/1p_V1n-88UA43TVGyuUdNx-F6CYH2Un295gsCuYqqpYY/edit?usp=sharing\" class=\"ext\" data-extlink=\"\" rel=\"nofollow noreferrer\">&nbsp;</a>",
+      "page_id": "4c0f6194eef7267d",
+      "run_id": "2026-11-04T14-38-56-861Z-c1f37f",
+      "scanned_at": "2026-11-04T14:45:02.710Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(1) > .featured-item > .featured-item__media > a",
-      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/get-involved/hackneys-bangladeshi-heritage/\">"
+      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/get-involved/hackneys-bangladeshi-heritage/\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(2) > .featured-item > .featured-item__media > a",
-      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/get-involved/join-our-newsletter/\">"
+      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/get-involved/join-our-newsletter/\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(3) > .featured-item > .featured-item__media > a",
-      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/schools/\">"
+      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/schools/\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4380,7 +4490,11 @@
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "#hj-survey-lbl-1",
-      "html": "<legend role=\"heading\" id=\"hj-survey-lbl-1\" class=\"hj-survey-1fma6oh\"><span style=\"display: contents;\">Did you find what you are looking for?</span></legend>"
+      "html": "<legend role=\"heading\" id=\"hj-survey-lbl-1\" class=\"hj-survey-1fma6oh\"><span style=\"display: contents;\">Did you find what you are looking for?</span></legend>",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4407,7 +4521,11 @@
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "#hj-survey-lbl-1",
-      "html": "<legend role=\"heading\" id=\"hj-survey-lbl-1\" class=\"hj-survey-1fma6oh\"><span style=\"display: contents;\">Did you find what you are looking for?</span></legend>"
+      "html": "<legend role=\"heading\" id=\"hj-survey-lbl-1\" class=\"hj-survey-1fma6oh\"><span style=\"display: contents;\">Did you find what you are looking for?</span></legend>",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4434,17 +4552,29 @@
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "#menu-nested-pages-1 > .menu-item-home.current-menu-item.page_item > a[aria-current=\"page\"]",
-      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/\" aria-current=\"page\">Home</a>"
+      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/\" aria-current=\"page\">Home</a>",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".copyright-bar",
-      "html": "<div class=\"copyright-bar\">\n\t\t\t\t\t© 2026 - Powered by <a href=\"https://themuseumplatform.com/\">The Museum Platform</a>\t\t\t\t</div>"
+      "html": "<div class=\"copyright-bar\">\n\t\t\t\t\t© 2026 - Powered by <a href=\"https://themuseumplatform.com/\">The Museum Platform</a>\t\t\t\t</div>",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "a[href$=\"themuseumplatform.com/\"]",
-      "html": "<a href=\"https://themuseumplatform.com/\">The Museum Platform</a>"
+      "html": "<a href=\"https://themuseumplatform.com/\">The Museum Platform</a>",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4471,17 +4601,29 @@
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(1) > .featured-item > .featured-item__media > a > .featured-item__img",
-      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">"
+      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(2) > .featured-item > .featured-item__media > a > .featured-item__img",
-      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">"
+      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(3) > .featured-item > .featured-item__media > a > .featured-item__img",
-      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">"
+      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4507,7 +4649,11 @@
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "html",
-      "html": "<html lang=\"en-GB\">"
+      "html": "<html lang=\"en-GB\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-11-03T16-28-17-419Z-f236da",
+      "scanned_at": "2026-11-03T16:30:14.197Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4534,12 +4680,20 @@
      {
       "url": "https://www.hackney.gov.uk/News",
       "target": ".carousel__images > .slick-list.draggable > .slick-track > .slick-slide[data-slick-index=\"0\"][aria-label=\"slide 1\"]",
-      "html": "<div class=\"slick-slide\" data-slick-index=\"0\" role=\"group\" aria-label=\"slide 1\" aria-hidden=\"true\" style=\"width: 860px;\">"
+      "html": "<div class=\"slick-slide\" data-slick-index=\"0\" role=\"group\" aria-label=\"slide 1\" aria-hidden=\"true\" style=\"width: 860px;\">",
+      "page_id": "bc0ebdfc6e6cfb45",
+      "run_id": "2026-11-04T12-29-54-296Z-f0deec",
+      "scanned_at": "2026-11-04T12:30:48.213Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/News",
       "target": ".carousel__info > .slick-list.draggable > .slick-track > .slick-slide[data-slick-index=\"0\"][aria-label=\"slide 1\"]",
-      "html": "<div class=\"slick-slide\" data-slick-index=\"0\" role=\"group\" aria-label=\"slide 1\" aria-hidden=\"true\" style=\"width: 340px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: o"
+      "html": "<div class=\"slick-slide\" data-slick-index=\"0\" role=\"group\" aria-label=\"slide 1\" aria-hidden=\"true\" style=\"width: 340px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: o",
+      "page_id": "bc0ebdfc6e6cfb45",
+      "run_id": "2026-11-04T12-29-54-296Z-f0deec",
+      "scanned_at": "2026-11-04T12:30:48.213Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4565,7 +4719,11 @@
      {
       "url": "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/tell-us-about-change-your-council-tax/tell-us-youre-moving",
       "target": ".call-out-box__body > h2",
-      "html": "<h2>&nbsp;</h2>"
+      "html": "<h2>&nbsp;</h2>",
+      "page_id": "cff6a9ca4809bb55",
+      "run_id": "2026-11-04T16-45-53-171Z-0d88cc",
+      "scanned_at": "2026-11-04T16:50:28.021Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -4575,7 +4733,10 @@
   "failedTotal": 19823,
   "pagesWithFailures": 458,
   "pagesScanned": 458,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 37,
+  "element_evidence": null,
   "rules": {
    "sia-r66": {
     "count": 10989,
@@ -6424,27 +6585,47 @@
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "text: \"Menu\"",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "text: \"Translate\"",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "text: \"council agendas, reports, decisions and minutes\"",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "text: \"Menu\"",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "text: \"Translate\"",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -8287,27 +8468,47 @@
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:49:07.107Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "01cdaa7dae179a2f",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:24:09.780Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "01f0df857ce887dc",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:25:51.556Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -10150,27 +10351,47 @@
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:49:07.107Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "01cdaa7dae179a2f",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:24:09.780Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "01f0df857ce887dc",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:25:51.556Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -12013,27 +12234,47 @@
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:49:07.107Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "01cdaa7dae179a2f",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:24:09.780Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "01f0df857ce887dc",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:25:51.556Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -13884,27 +14125,47 @@
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:49:07.107Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "01cdaa7dae179a2f",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:24:09.780Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "01f0df857ce887dc",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:25:51.556Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15743,27 +16004,47 @@
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:49:07.107Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "01cdaa7dae179a2f",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:24:09.780Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "01f0df857ce887dc",
+      "run_id": "2026-11-03T17-23-20-381Z-127c81",
+      "scanned_at": "2026-11-03T17:25:51.556Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17614,27 +17895,47 @@
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "<a href=\"#toc-the-council-at-a-glance\" aria-current=\"true\">",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "<a href=\"#toc-the-mayor\">",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
       "target": "<a href=\"#toc-the-chief-executive\">",
-      "html": null
+      "html": null,
+      "page_id": "00d2b4fe5b132fab",
+      "run_id": "2026-11-03T15-03-46-504Z-f69dd1",
+      "scanned_at": "2026-11-03T15:05:50.683Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<a href=\"#toc-why-do-we-collect-data\" aria-current=\"true\">",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<a href=\"#toc-what-legally-allows-us-to-collect-and-handle-your-data\">",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-11-04T13-17-38-758Z-a52fa9",
+      "scanned_at": "2026-11-04T13:19:51.275Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17789,27 +18090,47 @@
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "01fc5d2617a546e3",
+      "run_id": "2026-11-02T12-41-17-628Z-af0666",
+      "scanned_at": "2026-11-02T12:46:19.226Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "04b3418dba70d8e7",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:48:52.149Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
       "target": "<h4>",
-      "html": null
+      "html": null,
+      "page_id": "07f42bb75184a1b0",
+      "run_id": "2026-11-02T12-41-17-628Z-af0666",
+      "scanned_at": "2026-11-02T12:44:27.068Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "1008bbf052b6c55a",
+      "run_id": "2026-11-02T18-44-22-512Z-730392",
+      "scanned_at": "2026-11-02T18:44:55.824Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/dalston-conservation-area",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "179052110b63c632",
+      "run_id": "2026-11-02T17-01-04-417Z-f61dab",
+      "scanned_at": "2026-11-02T17:01:36.877Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17830,7 +18151,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": "<li role=\"presentation\" tabindex=\"-1\">",
-      "html": null
+      "html": null,
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-11-02T19-50-11-182Z-ba9f1c",
+      "scanned_at": "2026-11-02T19:53:28.294Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17851,7 +18176,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": "text: \"\n                                    1\n                                \"",
-      "html": null
+      "html": null,
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-11-02T19-50-11-182Z-ba9f1c",
+      "scanned_at": "2026-11-02T19:53:28.294Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17872,17 +18201,29 @@
      {
       "url": "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/non-dependant-deductions",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "eb4a97774f0794bc",
+      "run_id": "2026-11-02T10-56-04-699Z-3c4918",
+      "scanned_at": "2026-11-02T11:00:53.589Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/non-dependant-deductions",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "eb4a97774f0794bc",
+      "run_id": "2026-11-02T10-56-04-699Z-3c4918",
+      "scanned_at": "2026-11-02T11:00:53.589Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/non-dependant-deductions",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "eb4a97774f0794bc",
+      "run_id": "2026-11-02T10-56-04-699Z-3c4918",
+      "scanned_at": "2026-11-02T11:00:53.589Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17903,17 +18244,29 @@
      {
       "url": "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/non-dependant-deductions",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "eb4a97774f0794bc",
+      "run_id": "2026-11-02T10-56-04-699Z-3c4918",
+      "scanned_at": "2026-11-02T11:00:53.589Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/non-dependant-deductions",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "eb4a97774f0794bc",
+      "run_id": "2026-11-02T10-56-04-699Z-3c4918",
+      "scanned_at": "2026-11-02T11:00:53.589Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/non-dependant-deductions",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "eb4a97774f0794bc",
+      "run_id": "2026-11-02T10-56-04-699Z-3c4918",
+      "scanned_at": "2026-11-02T11:00:53.589Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -18176,6 +18529,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 29,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 29,
+  "regions": [],
+  "csv": "www.hackney.gov.uk_02NOV2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": {
   "pages": 84,
   "medianBytes": 2865624,
@@ -20445,46 +20808,6 @@
   "pwaSignals": [],
   "recommendations": [
    {
-    "id": "render-blocking-insight",
-    "category": "performance",
-    "title": "Render-blocking requests",
-    "pages": 77,
-    "examplePages": [
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
-     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/housing/resident-participation",
-     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
-     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 184500
-   },
-   {
-    "id": "bootup-time",
-    "category": "performance",
-    "title": "Reduce JavaScript execution time",
-    "pages": 77,
-    "examplePages": [
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
-     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/housing/resident-participation",
-     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
-     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 99500
-   },
-   {
     "id": "unused-javascript",
     "category": "performance",
     "title": "Reduce unused JavaScript",
@@ -20502,27 +20825,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 42931751,
-    "savingsMs": 56450
-   },
-   {
-    "id": "mainthread-work-breakdown",
-    "category": "performance",
-    "title": "Minimize main-thread work",
-    "pages": 77,
-    "examplePages": [
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
-     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/housing/resident-participation",
-     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
-     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 95450
+    "savingsMs": 56450,
+    "savingsBytesMedian": 513179,
+    "savingsBytesP75": 526493,
+    "savingsMsMedian": 300,
+    "savingsMsP75": 450
    },
    {
     "id": "first-contentful-paint",
@@ -20542,7 +20849,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "largest-contentful-paint",
@@ -20562,7 +20873,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "total-blocking-time",
@@ -20582,7 +20897,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "max-potential-fid",
@@ -20602,7 +20921,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "errors-in-console",
@@ -20622,7 +20945,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "interactive",
@@ -20642,7 +20969,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "third-party-cookies",
@@ -20662,7 +20993,59 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimize main-thread work",
+    "pages": 77,
+    "examplePages": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
+     "https://www.hackney.gov.uk/housing/resident-participation",
+     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
+     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
+     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
+     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 95450,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1000,
+    "savingsMsP75": 1200
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "Reduce JavaScript execution time",
+    "pages": 77,
+    "examplePages": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
+     "https://www.hackney.gov.uk/housing/resident-participation",
+     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
+     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
+     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
+     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 99500,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1050,
+    "savingsMsP75": 1150
    },
    {
     "id": "inspector-issues",
@@ -20682,7 +21065,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "agent-accessibility-tree",
@@ -20702,7 +21089,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-registered-tools",
@@ -20722,7 +21113,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-form-coverage",
@@ -20742,7 +21137,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-schema-validity",
@@ -20762,7 +21161,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "llms-txt",
@@ -20782,7 +21185,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "ard-schema",
@@ -20802,7 +21209,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "network-dependency-tree-insight",
@@ -20822,7 +21233,35 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "render-blocking-insight",
+    "category": "performance",
+    "title": "Render-blocking requests",
+    "pages": 77,
+    "examplePages": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
+     "https://www.hackney.gov.uk/housing/resident-participation",
+     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
+     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
+     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
+     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 184500,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2350,
+    "savingsMsP75": 2850
    },
    {
     "id": "unused-css-rules",
@@ -20842,7 +21281,11 @@
      "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/fellows-court-and-weymouth-court"
     ],
     "savingsBytes": 2379694,
-    "savingsMs": 14500
+    "savingsMs": 14500,
+    "savingsBytesMedian": 25351,
+    "savingsBytesP75": 26347,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 300
    },
    {
     "id": "cache-insight",
@@ -20862,7 +21305,11 @@
      "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/caring-adults/carers-direct-payments"
     ],
     "savingsBytes": 0,
-    "savingsMs": 13900
+    "savingsMs": 13900,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 300
    },
    {
     "id": "speed-index",
@@ -20882,7 +21329,11 @@
      "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roadworks-and-maintenance/bridges"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cumulative-layout-shift",
@@ -20902,7 +21353,11 @@
      "https://www.hackney.gov.uk/planning-and-building/building-control/building-regulations-and-exemptions/building-works-exemptions"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",
@@ -20922,7 +21377,11 @@
      "https://www.hackney.gov.uk/planning-and-building/building-control/building-regulations-and-exemptions/building-works-exemptions"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "font-display-insight",
@@ -20942,7 +21401,11 @@
      "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/gender-reassignment"
     ],
     "savingsBytes": 0,
-    "savingsMs": 750
+    "savingsMs": 750,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 50,
+    "savingsMsP75": 50
    },
    {
     "id": "forced-reflow-insight",
@@ -20962,7 +21425,11 @@
      "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/equality-impact-assessments"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "valid-source-maps",
@@ -20975,7 +21442,11 @@
      "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/conservation-areas/conservation-areas-map"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "bf-cache",
@@ -20986,7 +21457,11 @@
      "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    }
   ]
  },
@@ -72534,6 +73009,7 @@
   "drift_clusters": []
  },
  "sharedComponents": null,
+ "componentGroups": null,
  "pageFamilies": null,
  "pagesAttempted": 1023,
  "pagesSucceeded": 907,
@@ -72562,5 +73038,66 @@
   "errorStatuses": {
    "404": 7
   }
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 29,
+  "occurrences_stored": 87,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 17,
+   "not_applicable": 12,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 29
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 29
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 29
+  },
+  "component": {
+   "attributed": 0,
+   "unattributed": 29
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 29
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 29
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 29,
+  "by_engine": {
+   "axe-core": {
+    "findings": 17,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 12,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 0,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }

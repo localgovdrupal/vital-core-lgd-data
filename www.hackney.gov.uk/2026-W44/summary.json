@@ -1,7 +1,7 @@
 {
  "domain": "www.hackney.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-11-04T14:31:56.973Z",
+ "generatedAt": "2026-11-14T17:35:14.062Z",
  "pagesScanned": 1166,
  "pagesAudited": 1104,
  "coverage": {
@@ -22,6 +22,8 @@
   "pagesWithViolations": 1104,
   "pagesScanned": 1104,
   "medianViolations": 1,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "aria-input-field-name": {
     "count": 1101,
@@ -4448,27 +4450,47 @@
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "0036a6b33e3891ca",
+      "run_id": "2026-10-29T10-59-39-959Z-ea78fe",
+      "scanned_at": "2026-10-29T11:06:09.210Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://hackney.gov.uk/business-and-licensing/markets-and-street-trading/kingsland-market",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "00acb06d11ec0c5f",
+      "run_id": "2026-10-29T16-26-57-026Z-398b35",
+      "scanned_at": "2026-10-29T16:34:32.563Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "01547f35706f356b",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:55:38.459Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": ".choices",
-      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">"
+      "html": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\" aria-haspopup=\"true\" aria-expanded=\"false\">",
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4836,27 +4858,47 @@
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
       "target": ".field > h3",
-      "html": "<h3>SPD and supporting documents</h3>"
+      "html": "<h3>SPD and supporting documents</h3>",
+      "page_id": "01fc5d2617a546e3",
+      "run_id": "2026-10-30T09-57-11-324Z-59c6f0",
+      "scanned_at": "2026-10-30T09:58:40.776Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/underwood-street-conservation-area",
       "target": ".lgd-contact__group > h3",
-      "html": "<h3>Opening times</h3>"
+      "html": "<h3>Opening times</h3>",
+      "page_id": "03fd03954b9ff6ac",
+      "run_id": "2026-10-27T23-00-41-622Z-ce52fd",
+      "scanned_at": "2026-10-27T23:07:49.406Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
       "target": ".lgd-contact__group > h3",
-      "html": "<h3>Opening times</h3>"
+      "html": "<h3>Opening times</h3>",
+      "page_id": "04b3418dba70d8e7",
+      "run_id": "2026-10-29T14-13-16-656Z-9851ad",
+      "scanned_at": "2026-10-29T14:15:24.414Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://hackney.gov.uk/parking-streets-and-transport/parking-permits-and-vouchers/parking-account-how-guides",
       "target": ".field__item:nth-child(1) > div > .field--name-paragraphs.field--type-entity-reference-revisions.field > .paragraph--type--localgov-accordion.accordion.accordion--initialised > .field--name-localgov-paragraphs.accordion__panes.field--type-entity-reference-revisions > .accordion-pane-wrapper:nth-child(1) > .paragraph--type--localgov-accordion-pane.accordion-pane.paragraph > .accordion-pane__title",
-      "html": "<h3 class=\"accordion-pane__title\">"
+      "html": "<h3 class=\"accordion-pane__title\">",
+      "page_id": "074afae6f7fde837",
+      "run_id": "2026-10-28T05-23-00-261Z-dfdfb9",
+      "scanned_at": "2026-10-28T05:24:37.849Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
       "target": ".lgd-contact__group > h3",
-      "html": "<h3>Opening times</h3>"
+      "html": "<h3>Opening times</h3>",
+      "page_id": "1008bbf052b6c55a",
+      "run_id": "2026-10-30T10-30-23-010Z-3ad6f3",
+      "scanned_at": "2026-10-30T10:35:24.604Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4993,27 +5035,47 @@
      {
       "url": "https://hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills",
       "target": "p:nth-child(4) > iframe[height=\"462\"][data-once=\"iframe-resizer\"]",
-      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/VPH8SOUnduM\" data-once=\"iframe-resizer\">&nbsp;</iframe>"
+      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/VPH8SOUnduM\" data-once=\"iframe-resizer\">&nbsp;</iframe>",
+      "page_id": "022b4e8fcf45e0ce",
+      "run_id": "2026-10-28T15-23-32-998Z-3f81b7",
+      "scanned_at": "2026-10-28T15:27:11.524Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills",
       "target": "p:nth-child(9) > iframe[height=\"462\"][data-once=\"iframe-resizer\"]",
-      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/GdzQHyglSRs\" data-once=\"iframe-resizer\">&nbsp;</iframe>"
+      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/GdzQHyglSRs\" data-once=\"iframe-resizer\">&nbsp;</iframe>",
+      "page_id": "022b4e8fcf45e0ce",
+      "run_id": "2026-10-28T15-23-32-998Z-3f81b7",
+      "scanned_at": "2026-10-28T15:27:11.524Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills",
       "target": "p:nth-child(16) > iframe[height=\"462\"][data-once=\"iframe-resizer\"]",
-      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/zBzOekDNs2M\" data-once=\"iframe-resizer\">&nbsp;</iframe>"
+      "html": "<iframe height=\"462\" src=\"https://www.youtube.com/embed/zBzOekDNs2M\" data-once=\"iframe-resizer\">&nbsp;</iframe>",
+      "page_id": "022b4e8fcf45e0ce",
+      "run_id": "2026-10-28T15-23-32-998Z-3f81b7",
+      "scanned_at": "2026-10-28T15:27:11.524Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
       "target": "#iFrameResizer0",
-      "html": "<iframe src=\"https://map2.hackney.gov.uk/maps/school-streets/embed.html\" data-once=\"iframe-resizer\" id=\"iFrameResizer0\" scrolling=\"no\" style=\"overflow: hidden; height: 552px;\">&nbsp;</iframe>"
+      "html": "<iframe src=\"https://map2.hackney.gov.uk/maps/school-streets/embed.html\" data-once=\"iframe-resizer\" id=\"iFrameResizer0\" scrolling=\"no\" style=\"overflow: hidden; height: 552px;\">&nbsp;</iframe>",
+      "page_id": "0289046540353e43",
+      "run_id": "2026-10-30T06-36-51-447Z-ceb515",
+      "scanned_at": "2026-10-30T06:42:21.023Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
       "target": "iframe[height=\"600\"]",
-      "html": "<iframe height=\"600\" src=\"https://map2.hackney.gov.uk/maps/statutory-listed-buildings/embed.html\" title=\"\" data-once=\"iframe-resizer\">&nbsp;</iframe>"
+      "html": "<iframe height=\"600\" src=\"https://map2.hackney.gov.uk/maps/statutory-listed-buildings/embed.html\" title=\"\" data-once=\"iframe-resizer\">&nbsp;</iframe>",
+      "page_id": "08ef8b1b80149952",
+      "run_id": "2026-10-30T06-36-51-447Z-ceb515",
+      "scanned_at": "2026-10-30T06:40:20.599Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5039,7 +5101,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": ".site-logo",
-      "html": "<div class=\"site-logo\" role=\"banner\">\n\t\t\t\t\t\t<a href=\"https://hackney.gov.uk/\" title=\"Link to homepage\" target=\"_HC\">\n\t\t\t\t\t\t<img src=\"/HackneyEstore/estore/custom/images/customers/Hackney_Logo_White.pn"
+      "html": "<div class=\"site-logo\" role=\"banner\">\n\t\t\t\t\t\t<a href=\"https://hackney.gov.uk/\" title=\"Link to homepage\" target=\"_HC\">\n\t\t\t\t\t\t<img src=\"/HackneyEstore/estore/custom/images/customers/Hackney_Logo_White.pn",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-10-30T06-36-51-447Z-ceb515",
+      "scanned_at": "2026-10-30T06:40:13.336Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5065,7 +5131,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": "header",
-      "html": "<header class=\"top-header\">"
+      "html": "<header class=\"top-header\">",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-10-30T06-36-51-447Z-ceb515",
+      "scanned_at": "2026-10-30T06:40:13.336Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5101,17 +5171,29 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": "header",
-      "html": "<header class=\"top-header\">"
+      "html": "<header class=\"top-header\">",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-10-30T06-36-51-447Z-ceb515",
+      "scanned_at": "2026-10-30T06:40:13.336Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "#nav_menu-2",
-      "html": "<aside id=\"nav_menu-2\" class=\"widget inner-padding widget_nav_menu\">"
+      "html": "<aside id=\"nav_menu-2\" class=\"widget inner-padding widget_nav_menu\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/News",
       "target": ".carousel__images",
-      "html": "<div class=\"carousel__images slick-initialized slick-slider\" role=\"region\" aria-label=\"carousel\">"
+      "html": "<div class=\"carousel__images slick-initialized slick-slider\" role=\"region\" aria-label=\"carousel\">",
+      "page_id": "bc0ebdfc6e6cfb45",
+      "run_id": "2026-10-30T06-49-12-368Z-dffddc",
+      "scanned_at": "2026-10-30T06:49:28.417Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5138,7 +5220,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": ".pagination > ul",
-      "html": "<ul>"
+      "html": "<ul>",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-10-30T06-36-51-447Z-ceb515",
+      "scanned_at": "2026-10-30T06:40:13.336Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5164,7 +5250,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": "li[role=\"presentation\"]",
-      "html": "<li role=\"presentation\" tabindex=\"-1\">\n                        <span class=\"pager-page-label\">  Page 1 of 5</span>\n                    </li>"
+      "html": "<li role=\"presentation\" tabindex=\"-1\">\n                        <span class=\"pager-page-label\">  Page 1 of 5</span>\n                    </li>",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-10-30T06-36-51-447Z-ceb515",
+      "scanned_at": "2026-10-30T06:40:13.336Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5190,7 +5280,11 @@
      {
       "url": "https://www.hackney.gov.uk/payments",
       "target": ".skip-main",
-      "html": "<a href=\"#header-breadcrumb\" class=\"skip-main\">Skip to main content</a>"
+      "html": "<a href=\"#header-breadcrumb\" class=\"skip-main\">Skip to main content</a>",
+      "page_id": "0c3802314a455be2",
+      "run_id": "2026-10-30T06-36-51-447Z-ceb515",
+      "scanned_at": "2026-10-30T06:40:13.336Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5217,17 +5311,29 @@
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "#menu-nested-pages-1 > .menu-item-home.current-menu-item.page_item > a[aria-current=\"page\"]",
-      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/\" aria-current=\"page\">Home</a>"
+      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/\" aria-current=\"page\">Home</a>",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".copyright-bar",
-      "html": "<div class=\"copyright-bar\">\n\t\t\t\t\t© 2026 - Powered by <a href=\"https://themuseumplatform.com/\">The Museum Platform</a>\t\t\t\t</div>"
+      "html": "<div class=\"copyright-bar\">\n\t\t\t\t\t© 2026 - Powered by <a href=\"https://themuseumplatform.com/\">The Museum Platform</a>\t\t\t\t</div>",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "a[href$=\"themuseumplatform.com/\"]",
-      "html": "<a href=\"https://themuseumplatform.com/\">The Museum Platform</a>"
+      "html": "<a href=\"https://themuseumplatform.com/\">The Museum Platform</a>",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5254,17 +5360,29 @@
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(1) > .featured-item > .featured-item__media > a > .featured-item__img",
-      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">"
+      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(2) > .featured-item > .featured-item__media > a > .featured-item__img",
-      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">"
+      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(3) > .featured-item > .featured-item__media > a > .featured-item__img",
-      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">"
+      "html": "<img decoding=\"async\" src=\"https://hackney-muse...\" srcset=\"https://hackney-muse...\" sizes=\"400px 400px,700px 62...\" class=\"featured-item__img\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5302,27 +5420,47 @@
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(1) > .featured-item > .featured-item__media > a",
-      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/get-involved/hackneys-bangladeshi-heritage/\">"
+      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/get-involved/hackneys-bangladeshi-heritage/\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(2) > .featured-item > .featured-item__media > a",
-      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/get-involved/join-our-newsletter/\">"
+      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/get-involved/join-our-newsletter/\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": ".wp-block-columns.wp-container-core-columns-is-layout-8f761849.wp-block-columns-is-layout-flex:nth-child(1) > .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:nth-child(3) > .featured-item > .featured-item__media > a",
-      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/schools/\">"
+      "html": "<a href=\"https://hackney-museum.hackney.gov.uk/schools/\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/local-housing-allowance-lha-explained",
       "target": "p:nth-child(65) > .ext[data-extlink=\"\"][rel=\"nofollow noreferrer\"]:nth-child(2)",
-      "html": "<a href=\"https://docs.google.com/document/d/1p_V1n-88UA43TVGyuUdNx-F6CYH2Un295gsCuYqqpYY/edit?usp=sharing\" class=\"ext\" data-extlink=\"\" rel=\"nofollow noreferrer\">&nbsp;</a>"
+      "html": "<a href=\"https://docs.google.com/document/d/1p_V1n-88UA43TVGyuUdNx-F6CYH2Un295gsCuYqqpYY/edit?usp=sharing\" class=\"ext\" data-extlink=\"\" rel=\"nofollow noreferrer\">&nbsp;</a>",
+      "page_id": "88885778534bb1a6",
+      "run_id": "2026-10-28T05-23-00-261Z-dfdfb9",
+      "scanned_at": "2026-10-28T05:25:29.236Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.hackney.gov.uk/community-safety-and-environment/energy/solar-power",
       "target": "p:nth-child(6) > .ext[data-extlink=\"\"][rel=\"nofollow noreferrer\"]",
-      "html": "<a href=\"https://www.solar4flats.com/hackney\" class=\"ext\" data-extlink=\"\" rel=\"nofollow noreferrer\"><span>&nbsp;</span></a>"
+      "html": "<a href=\"https://www.solar4flats.com/hackney\" class=\"ext\" data-extlink=\"\" rel=\"nofollow noreferrer\"><span>&nbsp;</span></a>",
+      "page_id": "d418b67d68165370",
+      "run_id": "2026-10-30T07-16-34-131Z-902f84",
+      "scanned_at": "2026-10-30T07:20:39.235Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5348,7 +5486,11 @@
      {
       "url": "https://www.hackney.gov.uk/museum",
       "target": "html",
-      "html": "<html lang=\"en-GB\">"
+      "html": "<html lang=\"en-GB\">",
+      "page_id": "632787d62260a3ce",
+      "run_id": "2026-10-30T10-13-47-546Z-5c5e36",
+      "scanned_at": "2026-10-30T10:13:59.595Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5374,7 +5516,11 @@
      {
       "url": "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/tell-us-about-change-your-council-tax/tell-us-youre-moving",
       "target": ".call-out-box__body > h2",
-      "html": "<h2>&nbsp;</h2>"
+      "html": "<h2>&nbsp;</h2>",
+      "page_id": "cff6a9ca4809bb55",
+      "run_id": "2026-10-28T11-39-02-048Z-ef8e51",
+      "scanned_at": "2026-10-28T11:39:57.451Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -5384,7 +5530,10 @@
   "failedTotal": 23504,
   "pagesWithFailures": 553,
   "pagesScanned": 553,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 37,
+  "element_evidence": null,
   "rules": {
    "sia-r66": {
     "count": 13136,
@@ -7613,27 +7762,47 @@
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "text: \"Menu\"",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "text: \"Translate\"",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "text: \"Complete a short online activity\"",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "text: \"Menu\"",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "text: \"Translate\"",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -9864,27 +10033,47 @@
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/dropped-kerbs-and-vehicle-crossovers",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "015f2f4fb2cdf139",
+      "run_id": "2026-10-29T16-26-57-026Z-398b35",
+      "scanned_at": "2026-10-29T16:32:22.782Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-10-29T22-18-37-208Z-4f48b6",
+      "scanned_at": "2026-10-29T22:23:39.938Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
       "target": "<div class=\"choices bbd-translation-form__choices notranslate\" data-type=\"select-one\" tabindex=\"0\" role=\"listbox\">",
-      "html": null
+      "html": null,
+      "page_id": "01b2be5cc816e825",
+      "run_id": "2026-10-28T11-39-02-048Z-ef8e51",
+      "scanned_at": "2026-10-28T11:42:05.211Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -12115,27 +12304,47 @@
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/dropped-kerbs-and-vehicle-crossovers",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "015f2f4fb2cdf139",
+      "run_id": "2026-10-29T16-26-57-026Z-398b35",
+      "scanned_at": "2026-10-29T16:32:22.782Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-10-29T22-18-37-208Z-4f48b6",
+      "scanned_at": "2026-10-29T22:23:39.938Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
       "target": "<h3 class=\"block__title\">",
-      "html": null
+      "html": null,
+      "page_id": "01b2be5cc816e825",
+      "run_id": "2026-10-28T11-39-02-048Z-ef8e51",
+      "scanned_at": "2026-10-28T11:42:05.211Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -14366,27 +14575,47 @@
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/dropped-kerbs-and-vehicle-crossovers",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "015f2f4fb2cdf139",
+      "run_id": "2026-10-29T16-26-57-026Z-398b35",
+      "scanned_at": "2026-10-29T16:32:22.782Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-10-29T22-18-37-208Z-4f48b6",
+      "scanned_at": "2026-10-29T22:23:39.938Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "01b2be5cc816e825",
+      "run_id": "2026-10-28T11-39-02-048Z-ef8e51",
+      "scanned_at": "2026-10-28T11:42:05.211Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -16617,27 +16846,47 @@
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/dropped-kerbs-and-vehicle-crossovers",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "015f2f4fb2cdf139",
+      "run_id": "2026-10-29T16-26-57-026Z-398b35",
+      "scanned_at": "2026-10-29T16:32:22.782Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-10-29T22-18-37-208Z-4f48b6",
+      "scanned_at": "2026-10-29T22:23:39.938Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
       "target": "@aria-haspopup=\"true\"",
-      "html": null
+      "html": null,
+      "page_id": "01b2be5cc816e825",
+      "run_id": "2026-10-28T11-39-02-048Z-ef8e51",
+      "scanned_at": "2026-10-28T11:42:05.211Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -18864,27 +19113,47 @@
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/dropped-kerbs-and-vehicle-crossovers",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "015f2f4fb2cdf139",
+      "run_id": "2026-10-29T16-26-57-026Z-398b35",
+      "scanned_at": "2026-10-29T16:32:22.782Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "01a524492e6bae49",
+      "run_id": "2026-10-29T22-18-37-208Z-4f48b6",
+      "scanned_at": "2026-10-29T22:23:39.938Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "01b2be5cc816e825",
+      "run_id": "2026-10-28T11-39-02-048Z-ef8e51",
+      "scanned_at": "2026-10-28T11:42:05.211Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -21115,27 +21384,47 @@
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "<a href=\"#toc-commonly-requested-information\" aria-current=\"true\">",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "<a href=\"#toc-information-we-may-withhold\">",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
       "target": "<a href=\"#toc-costs\">",
-      "html": null
+      "html": null,
+      "page_id": "00273d37f52e26b1",
+      "run_id": "2026-10-28T14-00-12-380Z-af3176",
+      "scanned_at": "2026-10-28T14:03:12.578Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<a href=\"#toc-why-do-we-collect-data\" aria-current=\"true\">",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
       "target": "<a href=\"#toc-what-legally-allows-us-to-collect-and-handle-your-data\">",
-      "html": null
+      "html": null,
+      "page_id": "015617faf1168009",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:53:29.545Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -21314,27 +21603,47 @@
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "04b3418dba70d8e7",
+      "run_id": "2026-10-29T14-13-16-656Z-9851ad",
+      "scanned_at": "2026-10-29T14:15:24.414Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/planning-and-building/self-build-and-custom-housebuilding",
       "target": "<h3 class=\"accordion-pane__title\">",
-      "html": null
+      "html": null,
+      "page_id": "13ecde383871130c",
+      "run_id": "2026-10-28T10-42-53-838Z-250907",
+      "scanned_at": "2026-10-28T10:46:27.181Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/hoxton-street-conservation-area",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "1bc506a9cc8d2117",
+      "run_id": "2026-10-29T16-26-57-026Z-398b35",
+      "scanned_at": "2026-10-29T16:28:09.283Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/parking-streets-and-transport/penalty-charge-notices/understanding-your-penalty-charge-notice-pcn",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "1bfe2f0edf76d784",
+      "run_id": "2026-10-27T23-00-41-622Z-ce52fd",
+      "scanned_at": "2026-10-27T23:07:25.621Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/housing/council-tenants/residents-additional-needs",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "20368d829b0e77ae",
+      "run_id": "2026-10-28T17-41-47-637Z-c19ea7",
+      "scanned_at": "2026-10-28T17:42:42.658Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -21365,27 +21674,47 @@
      {
       "url": "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "30df03635febb23f",
+      "run_id": "2026-10-28T16-18-42-981Z-e39c2a",
+      "scanned_at": "2026-10-28T16:22:44.097Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "30df03635febb23f",
+      "run_id": "2026-10-28T16-18-42-981Z-e39c2a",
+      "scanned_at": "2026-10-28T16:22:44.097Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "30df03635febb23f",
+      "run_id": "2026-10-28T16-18-42-981Z-e39c2a",
+      "scanned_at": "2026-10-28T16:22:44.097Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "330f583c3f6d2a30",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:54:12.330Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "330f583c3f6d2a30",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:54:12.330Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -21416,27 +21745,47 @@
      {
       "url": "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "30df03635febb23f",
+      "run_id": "2026-10-28T16-18-42-981Z-e39c2a",
+      "scanned_at": "2026-10-28T16:22:44.097Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "30df03635febb23f",
+      "run_id": "2026-10-28T16-18-42-981Z-e39c2a",
+      "scanned_at": "2026-10-28T16:22:44.097Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "30df03635febb23f",
+      "run_id": "2026-10-28T16-18-42-981Z-e39c2a",
+      "scanned_at": "2026-10-28T16:22:44.097Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "330f583c3f6d2a30",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:54:12.330Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/hackneys-new-local-plan-2029/notice-intention-our-new-local-plan",
       "target": "<p dir=\"ltr\">",
-      "html": null
+      "html": null,
+      "page_id": "330f583c3f6d2a30",
+      "run_id": "2026-10-29T09-52-15-894Z-44e473",
+      "scanned_at": "2026-10-29T09:54:12.330Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -21462,12 +21811,20 @@
      {
       "url": "https://hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/local-housing-allowance-lha-explained",
       "target": "<a href=\"https://docs.google.com/document/d/1p_V1n-88UA43TVGyuUdNx-F6CYH2Un295gsCuYqqpYY/edit?usp=sharing\" class=\"ext\" data-extlink=\"\" rel=\"nofollow noreferrer\">",
-      "html": null
+      "html": null,
+      "page_id": "88885778534bb1a6",
+      "run_id": "2026-10-28T05-23-00-261Z-dfdfb9",
+      "scanned_at": "2026-10-28T05:25:29.236Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.hackney.gov.uk/community-safety-and-environment/energy/solar-power",
       "target": "<a href=\"https://www.solar4flats.com/hackney\" class=\"ext\" data-extlink=\"\" rel=\"nofollow noreferrer\">",
-      "html": null
+      "html": null,
+      "page_id": "d418b67d68165370",
+      "run_id": "2026-10-30T07-16-34-131Z-902f84",
+      "scanned_at": "2026-10-30T07:20:39.235Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -21694,6 +22051,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 25,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 25,
+  "regions": [],
+  "csv": "www.hackney.gov.uk_26OCT2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": {
   "pages": 123,
   "medianBytes": 2716762,
@@ -24141,46 +24508,6 @@
   "pwaSignals": [],
   "recommendations": [
    {
-    "id": "render-blocking-insight",
-    "category": "performance",
-    "title": "Render-blocking requests",
-    "pages": 121,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 290900
-   },
-   {
-    "id": "bootup-time",
-    "category": "performance",
-    "title": "Reduce JavaScript execution time",
-    "pages": 121,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 146350
-   },
-   {
     "id": "unused-javascript",
     "category": "performance",
     "title": "Reduce unused JavaScript",
@@ -24198,27 +24525,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 66353586,
-    "savingsMs": 78550
-   },
-   {
-    "id": "mainthread-work-breakdown",
-    "category": "performance",
-    "title": "Minimize main-thread work",
-    "pages": 121,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 142300
+    "savingsMs": 78550,
+    "savingsBytesMedian": 522613,
+    "savingsBytesP75": 525203,
+    "savingsMsMedian": 300,
+    "savingsMsP75": 450
    },
    {
     "id": "first-contentful-paint",
@@ -24238,7 +24549,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "largest-contentful-paint",
@@ -24258,7 +24573,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "total-blocking-time",
@@ -24278,7 +24597,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "max-potential-fid",
@@ -24298,7 +24621,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "errors-in-console",
@@ -24318,7 +24645,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "interactive",
@@ -24338,7 +24669,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "third-party-cookies",
@@ -24358,7 +24693,59 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimize main-thread work",
+    "pages": 121,
+    "examplePages": [
+     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
+     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
+     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
+     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
+     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
+     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
+     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
+     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
+     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 142300,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1050,
+    "savingsMsP75": 1200
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "Reduce JavaScript execution time",
+    "pages": 121,
+    "examplePages": [
+     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
+     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
+     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
+     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
+     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
+     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
+     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
+     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
+     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 146350,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1050,
+    "savingsMsP75": 1150
    },
    {
     "id": "inspector-issues",
@@ -24378,7 +24765,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "agent-accessibility-tree",
@@ -24398,7 +24789,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-registered-tools",
@@ -24418,7 +24813,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-form-coverage",
@@ -24438,7 +24837,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-schema-validity",
@@ -24458,7 +24861,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "llms-txt",
@@ -24478,7 +24885,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "ard-schema",
@@ -24498,7 +24909,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "network-dependency-tree-insight",
@@ -24518,7 +24933,35 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "render-blocking-insight",
+    "category": "performance",
+    "title": "Render-blocking requests",
+    "pages": 121,
+    "examplePages": [
+     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
+     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
+     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
+     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
+     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
+     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
+     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
+     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
+     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 290900,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2350,
+    "savingsMsP75": 2900
    },
    {
     "id": "unused-css-rules",
@@ -24538,7 +24981,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 3633710,
-    "savingsMs": 19350
+    "savingsMs": 19350,
+    "savingsBytesMedian": 25366,
+    "savingsBytesP75": 26347,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 150
    },
    {
     "id": "cache-insight",
@@ -24558,7 +25005,11 @@
      "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
     ],
     "savingsBytes": 0,
-    "savingsMs": 24100
+    "savingsMs": 24100,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 300
    },
    {
     "id": "speed-index",
@@ -24578,7 +25029,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/ask-hackney-here-help-review-decision"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cumulative-layout-shift",
@@ -24598,7 +25053,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/ask-hackney-here-help-review-decision"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",
@@ -24618,7 +25077,11 @@
      "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/ask-hackney-here-help-review-decision"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "redirects",
@@ -24638,7 +25101,11 @@
      "https://hackney.gov.uk/parking-streets-and-transport/penalty-charge-notices/disputes"
     ],
     "savingsBytes": 0,
-    "savingsMs": 45950
+    "savingsMs": 45950,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 750,
+    "savingsMsP75": 800
    },
    {
     "id": "font-display-insight",
@@ -24658,7 +25125,11 @@
      "https://hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/london-youth-games"
     ],
     "savingsBytes": 0,
-    "savingsMs": 1450
+    "savingsMs": 1450,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 50,
+    "savingsMsP75": 50
    },
    {
     "id": "document-latency-insight",
@@ -24678,7 +25149,11 @@
      "https://hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
     ],
     "savingsBytes": 0,
-    "savingsMs": 1650
+    "savingsMs": 1650,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 50,
+    "savingsMsP75": 50
    },
    {
     "id": "forced-reflow-insight",
@@ -24698,7 +25173,11 @@
      "https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/fostering-hackney"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "valid-source-maps",
@@ -24712,7 +25191,11 @@
      "https://hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle/recycling-banks"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    }
   ]
  },
@@ -76719,6 +77202,7 @@
   "drift_clusters": []
  },
  "sharedComponents": null,
+ "componentGroups": null,
  "pageFamilies": null,
  "pagesAttempted": 1167,
  "pagesSucceeded": 1105,
@@ -76747,5 +77231,66 @@
   "errorStatuses": {
    "404": 7
   }
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 25,
+  "occurrences_stored": 88,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 14,
+   "not_applicable": 11,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 25
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 25
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 25
+  },
+  "component": {
+   "attributed": 0,
+   "unattributed": 25
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 25
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 25
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 25,
+  "by_engine": {
+   "axe-core": {
+    "findings": 14,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 11,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 0,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }
