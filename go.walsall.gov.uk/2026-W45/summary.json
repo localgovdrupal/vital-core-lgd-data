@@ -1,7 +1,7 @@
 {
  "domain": "go.walsall.gov.uk",
  "week": "2026-W45",
- "generatedAt": "2026-11-14T17:35:10.850Z",
+ "generatedAt": "2026-11-15T01:26:02.417Z",
  "pagesScanned": 1962,
  "pagesAudited": 1927,
  "coverage": {
@@ -137438,126 +137438,6 @@
     "savingsMsP75": 450
    },
    {
-    "id": "first-contentful-paint",
-    "category": "performance",
-    "title": "First Contentful Paint",
-    "pages": 180,
-    "examplePages": [
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/events/knit-and-natter-69",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 180,
-    "examplePages": [
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/events/knit-and-natter-69",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "total-blocking-time",
-    "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 180,
-    "examplePages": [
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/events/knit-and-natter-69",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 180,
-    "examplePages": [
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/events/knit-and-natter-69",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "interactive",
-    "category": "performance",
-    "title": "Time to Interactive",
-    "pages": 180,
-    "examplePages": [
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/events/knit-and-natter-69",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
     "id": "third-party-cookies",
     "category": "best-practices",
     "title": "Uses third-party cookies",
@@ -137870,30 +137750,6 @@
     "savingsMsP75": 1700
    },
    {
-    "id": "speed-index",
-    "category": "performance",
-    "title": "Speed Index",
-    "pages": 179,
-    "examplePages": [
-     "https://go.walsall.gov.uk/events/knit-and-natter-69",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillicit-tobacco-worth-almost-ps400k-found-largest-seizure-date&rating=Good&title=Illicit+tobacco+worth+almost+%C2%A3400k+found+in+largest+seizure+to+date",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/newsroom/walsall-family-hubs-gain-baby-friendly-unicef-uk-certificate",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=1",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/your-council/data-protection/why-does-the-council-collect-personal-data",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A351"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
     "id": "unminified-css",
     "category": "performance",
     "title": "Minify CSS",
@@ -138108,30 +137964,6 @@
     "savingsBytesP75": 0,
     "savingsMsMedian": 200,
     "savingsMsP75": 200
-   },
-   {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 41,
-    "examplePages": [
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/events/crafts-everyone-7",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A36&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A349",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A355",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A32&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=localgov_directories_facets%3A38",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A352&page=8",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A420&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A354"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",

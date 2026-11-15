@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-12T20:22:59.181Z",
+ "updatedAt": "2026-11-15T01:26:05.281Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -1201,6 +1201,19 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/newsroom/walsall-society-artists-celebrates-its-75th-annual-exhibition"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dbschecks.org.uk%2Fhow-a-criminal-record-affects-your-life%2F&data=05%7C02%7CCommunications%40walsall.gov.uk%7C26c74050a61b4d102f5b08dcf406c46e%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638653557098250840%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=4z%2F6sHnxDIcBKXigrKkXnytadsmvXDc8Wz%2F762iN6Rk%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/hefty-price-takeaway-walsall-council-takes-litterbugs-court"
    ]
   }
  }

@@ -1,7 +1,7 @@
 {
  "domain": "www.hackney.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-11-14T17:35:14.062Z",
+ "generatedAt": "2026-11-15T01:26:06.271Z",
  "pagesScanned": 1166,
  "pagesAudited": 1104,
  "coverage": {
@@ -24532,129 +24532,9 @@
     "savingsMsP75": 450
    },
    {
-    "id": "first-contentful-paint",
-    "category": "performance",
-    "title": "First Contentful Paint",
-    "pages": 121,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 121,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "total-blocking-time",
-    "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 121,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 121,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
     "id": "errors-in-console",
     "category": "best-practices",
     "title": "Browser errors were logged to the console",
-    "pages": 121,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "interactive",
-    "category": "performance",
-    "title": "Time to Interactive",
     "pages": 121,
     "examplePages": [
      "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
@@ -25010,54 +24890,6 @@
     "savingsBytesP75": 0,
     "savingsMsMedian": 150,
     "savingsMsP75": 300
-   },
-   {
-    "id": "speed-index",
-    "category": "performance",
-    "title": "Speed Index",
-    "pages": 103,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/report-missed-collection",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/food-network",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/ask-hackney-here-help-review-decision"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 85,
-    "examplePages": [
-     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
-     "https://hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
-     "https://hackney.gov.uk/rubbish-and-recycling/get-clinical-waste-collections",
-     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
-     "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates-bills-and-faqs",
-     "https://hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
-     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-regime",
-     "https://www.hackney.gov.uk/housing/stay-safe-your-home/gas-safety",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/ask-hackney-here-help-review-decision"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",

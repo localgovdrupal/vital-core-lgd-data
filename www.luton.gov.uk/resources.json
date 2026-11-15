@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-11-14T17:54:29.266Z",
+ "updatedAt": "2026-11-15T01:26:11.885Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -12,7 +12,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPages": 980,
+   "lastPages": 1029,
    "lastExamplePages": [
     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A110&f%5B1%5D=localgov_directories_facets%3A116&f%5B2%5D=localgov_directories_facets%3A201&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A233&f%5B5%5D=localgov_directories_facets%3A251&f%5B6%5D=localgov_directories_facets%3A253&f%5B7%5D=localgov_directories_facets%3A287",
     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164&f%5B2%5D=localgov_directories_facets%3A215&f%5B3%5D=localgov_directories_facets%3A240&f%5B4%5D=localgov_directories_facets%3A241&f%5B5%5D=localgov_directories_facets%3A262",
@@ -6856,6 +6856,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.luton.gov.uk/housing/housing-regulation-performance/housing-service-performance-reports/housing-service-complaint-reports"
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107193%20Markfield%20Close%202006_Order.PDF": {
+   "type": "pdf",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107193"
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107193%20Markfield%20Close%202006_Plan.PDF": {
+   "type": "pdf",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107193"
    ]
   }
  }

@@ -1,7 +1,7 @@
 {
  "domain": "www.luton.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-11-14T17:35:15.333Z",
+ "generatedAt": "2026-11-15T01:26:07.624Z",
  "pagesScanned": 1997,
  "pagesAudited": 1966,
  "coverage": {
@@ -40104,57 +40104,9 @@
     "savingsMsP75": 150
    },
    {
-    "id": "first-contentful-paint",
-    "category": "performance",
-    "title": "First Contentful Paint",
-    "pages": 192,
-    "examplePages": [
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A174&f%5B1%5D=localgov_directories_facets%3A186&f%5B2%5D=localgov_directories_facets%3A213&f%5B3%5D=localgov_directories_facets%3A252&f%5B4%5D=localgov_directories_facets%3A261",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A172&f%5B3%5D=localgov_directories_facets%3A177&f%5B4%5D=localgov_directories_facets%3A252&f%5B5%5D=localgov_directories_facets%3A259",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A219&f%5B2%5D=localgov_directories_facets%3A224&f%5B3%5D=localgov_directories_facets%3A266&f%5B4%5D=localgov_directories_facets%3A275",
-     "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/overhanging-tree-and-hedges",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A148&f%5B1%5D=localgov_directories_facets%3A162&f%5B2%5D=localgov_directories_facets%3A167&f%5B3%5D=localgov_directories_facets%3A194&f%5B4%5D=localgov_directories_facets%3A243",
-     "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/after-you-have-reported-benefit-change",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/taxi-private-hire-licences/vehicle-licence",
-     "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
     "id": "errors-in-console",
     "category": "best-practices",
     "title": "Browser errors were logged to the console",
-    "pages": 192,
-    "examplePages": [
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A174&f%5B1%5D=localgov_directories_facets%3A186&f%5B2%5D=localgov_directories_facets%3A213&f%5B3%5D=localgov_directories_facets%3A252&f%5B4%5D=localgov_directories_facets%3A261",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A172&f%5B3%5D=localgov_directories_facets%3A177&f%5B4%5D=localgov_directories_facets%3A252&f%5B5%5D=localgov_directories_facets%3A259",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A219&f%5B2%5D=localgov_directories_facets%3A224&f%5B3%5D=localgov_directories_facets%3A266&f%5B4%5D=localgov_directories_facets%3A275",
-     "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/overhanging-tree-and-hedges",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A148&f%5B1%5D=localgov_directories_facets%3A162&f%5B2%5D=localgov_directories_facets%3A167&f%5B3%5D=localgov_directories_facets%3A194&f%5B4%5D=localgov_directories_facets%3A243",
-     "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/after-you-have-reported-benefit-change",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/taxi-private-hire-licences/vehicle-licence",
-     "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "interactive",
-    "category": "performance",
-    "title": "Time to Interactive",
     "pages": 192,
     "examplePages": [
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164",
@@ -40464,78 +40416,6 @@
     "savingsMsP75": 2200
    },
    {
-    "id": "total-blocking-time",
-    "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 191,
-    "examplePages": [
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A174&f%5B1%5D=localgov_directories_facets%3A186&f%5B2%5D=localgov_directories_facets%3A213&f%5B3%5D=localgov_directories_facets%3A252&f%5B4%5D=localgov_directories_facets%3A261",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A172&f%5B3%5D=localgov_directories_facets%3A177&f%5B4%5D=localgov_directories_facets%3A252&f%5B5%5D=localgov_directories_facets%3A259",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A219&f%5B2%5D=localgov_directories_facets%3A224&f%5B3%5D=localgov_directories_facets%3A266&f%5B4%5D=localgov_directories_facets%3A275",
-     "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/overhanging-tree-and-hedges",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A148&f%5B1%5D=localgov_directories_facets%3A162&f%5B2%5D=localgov_directories_facets%3A167&f%5B3%5D=localgov_directories_facets%3A194&f%5B4%5D=localgov_directories_facets%3A243",
-     "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/after-you-have-reported-benefit-change",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/taxi-private-hire-licences/vehicle-licence",
-     "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 190,
-    "examplePages": [
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A174&f%5B1%5D=localgov_directories_facets%3A186&f%5B2%5D=localgov_directories_facets%3A213&f%5B3%5D=localgov_directories_facets%3A252&f%5B4%5D=localgov_directories_facets%3A261",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A172&f%5B3%5D=localgov_directories_facets%3A177&f%5B4%5D=localgov_directories_facets%3A252&f%5B5%5D=localgov_directories_facets%3A259",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A219&f%5B2%5D=localgov_directories_facets%3A224&f%5B3%5D=localgov_directories_facets%3A266&f%5B4%5D=localgov_directories_facets%3A275",
-     "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/overhanging-tree-and-hedges",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A148&f%5B1%5D=localgov_directories_facets%3A162&f%5B2%5D=localgov_directories_facets%3A167&f%5B3%5D=localgov_directories_facets%3A194&f%5B4%5D=localgov_directories_facets%3A243",
-     "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/after-you-have-reported-benefit-change",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/taxi-private-hire-licences/vehicle-licence",
-     "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 188,
-    "examplePages": [
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A174&f%5B1%5D=localgov_directories_facets%3A186&f%5B2%5D=localgov_directories_facets%3A213&f%5B3%5D=localgov_directories_facets%3A252&f%5B4%5D=localgov_directories_facets%3A261",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A172&f%5B3%5D=localgov_directories_facets%3A177&f%5B4%5D=localgov_directories_facets%3A252&f%5B5%5D=localgov_directories_facets%3A259",
-     "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/overhanging-tree-and-hedges",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A148&f%5B1%5D=localgov_directories_facets%3A162&f%5B2%5D=localgov_directories_facets%3A167&f%5B3%5D=localgov_directories_facets%3A194&f%5B4%5D=localgov_directories_facets%3A243",
-     "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/after-you-have-reported-benefit-change",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/taxi-private-hire-licences/vehicle-licence",
-     "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction",
-     "https://www.luton.gov.uk/news/2025/luton-council-teams-football-club-provide-new-public-car-parking-facilities-bury-park"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
     "id": "cache-insight",
     "category": "performance",
     "title": "Use efficient cache lifetimes",
@@ -40558,30 +40438,6 @@
     "savingsBytesP75": 0,
     "savingsMsMedian": 600,
     "savingsMsP75": 750
-   },
-   {
-    "id": "speed-index",
-    "category": "performance",
-    "title": "Speed Index",
-    "pages": 172,
-    "examplePages": [
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A174&f%5B1%5D=localgov_directories_facets%3A186&f%5B2%5D=localgov_directories_facets%3A213&f%5B3%5D=localgov_directories_facets%3A252&f%5B4%5D=localgov_directories_facets%3A261",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A172&f%5B3%5D=localgov_directories_facets%3A177&f%5B4%5D=localgov_directories_facets%3A252&f%5B5%5D=localgov_directories_facets%3A259",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A219&f%5B2%5D=localgov_directories_facets%3A224&f%5B3%5D=localgov_directories_facets%3A266&f%5B4%5D=localgov_directories_facets%3A275",
-     "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/overhanging-tree-and-hedges",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A148&f%5B1%5D=localgov_directories_facets%3A162&f%5B2%5D=localgov_directories_facets%3A167&f%5B3%5D=localgov_directories_facets%3A194&f%5B4%5D=localgov_directories_facets%3A243",
-     "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/after-you-have-reported-benefit-change",
-     "https://www.luton.gov.uk/business-licences-permits/licences-permits/taxi-private-hire-licences/vehicle-licence",
-     "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
    },
    {
     "id": "server-response-time",
@@ -40612,30 +40468,6 @@
     "category": "agentic-browsing",
     "title": "Accessibility tree is not well-formed",
     "pages": 117,
-    "examplePages": [
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A174&f%5B1%5D=localgov_directories_facets%3A186&f%5B2%5D=localgov_directories_facets%3A213&f%5B3%5D=localgov_directories_facets%3A252&f%5B4%5D=localgov_directories_facets%3A261",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A172&f%5B3%5D=localgov_directories_facets%3A177&f%5B4%5D=localgov_directories_facets%3A252&f%5B5%5D=localgov_directories_facets%3A259",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A219&f%5B2%5D=localgov_directories_facets%3A224&f%5B3%5D=localgov_directories_facets%3A266&f%5B4%5D=localgov_directories_facets%3A275",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A148&f%5B1%5D=localgov_directories_facets%3A162&f%5B2%5D=localgov_directories_facets%3A167&f%5B3%5D=localgov_directories_facets%3A194&f%5B4%5D=localgov_directories_facets%3A243",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A118&f%5B1%5D=localgov_directories_facets%3A138&f%5B2%5D=localgov_directories_facets%3A158&f%5B3%5D=localgov_directories_facets%3A166&f%5B4%5D=localgov_directories_facets%3A172&f%5B5%5D=localgov_directories_facets%3A237&f%5B6%5D=localgov_directories_facets%3A265",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A134&f%5B1%5D=localgov_directories_facets%3A145&f%5B2%5D=localgov_directories_facets%3A156",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A118&f%5B1%5D=localgov_directories_facets%3A172&f%5B2%5D=localgov_directories_facets%3A177&f%5B3%5D=localgov_directories_facets%3A252",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A172&f%5B3%5D=localgov_directories_facets%3A177&f%5B4%5D=localgov_directories_facets%3A193&f%5B5%5D=localgov_directories_facets%3A252&f%5B6%5D=localgov_directories_facets%3A259&f%5B7%5D=localgov_directories_facets%3A262",
-     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A127&f%5B2%5D=localgov_directories_facets%3A200&f%5B3%5D=localgov_directories_facets%3A212&f%5B4%5D=localgov_directories_facets%3A219&f%5B5%5D=localgov_directories_facets%3A224&f%5B6%5D=localgov_directories_facets%3A239&f%5B7%5D=localgov_directories_facets%3A242&f%5B8%5D=localgov_directories_facets%3A266"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 112,
     "examplePages": [
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A164",
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A174&f%5B1%5D=localgov_directories_facets%3A186&f%5B2%5D=localgov_directories_facets%3A213&f%5B3%5D=localgov_directories_facets%3A252&f%5B4%5D=localgov_directories_facets%3A261",

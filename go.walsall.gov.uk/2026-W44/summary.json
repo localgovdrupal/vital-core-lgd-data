@@ -1,7 +1,7 @@
 {
  "domain": "go.walsall.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-11-14T17:35:09.404Z",
+ "generatedAt": "2026-11-15T01:26:00.888Z",
  "pagesScanned": 1984,
  "pagesAudited": 1940,
  "coverage": {
@@ -143176,126 +143176,6 @@
     "savingsMsP75": 0
    },
    {
-    "id": "first-contentful-paint",
-    "category": "performance",
-    "title": "First Contentful Paint",
-    "pages": 188,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 188,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "total-blocking-time",
-    "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 188,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 188,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "interactive",
-    "category": "performance",
-    "title": "Time to Interactive",
-    "pages": 188,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
     "id": "third-party-cookies",
     "category": "best-practices",
     "title": "Uses third-party cookies",
@@ -143584,30 +143464,6 @@
     "savingsMsP75": 3200
    },
    {
-    "id": "speed-index",
-    "category": "performance",
-    "title": "Speed Index",
-    "pages": 187,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
-     "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
-     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353",
-     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
     "id": "cache-insight",
     "category": "performance",
     "title": "Use efficient cache lifetimes",
@@ -143870,30 +143726,6 @@
     "savingsBytesP75": 0,
     "savingsMsMedian": 50,
     "savingsMsP75": 50
-   },
-   {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 48,
-    "examplePages": [
-     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
-     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
-     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem",
-     "http://go.walsall.gov.uk/newsroom/construction-begins-walsalls-historic-guildhall-creative-hub",
-     "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/stray-lost-or-dangerous-dogs",
-     "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/the-croft",
-     "http://go.walsall.gov.uk/feedback?page=%2Fbenefits%2Fextra-help-you-may-be-able-get&rating=Good&title=Extra+help+you+may+be+able+to+get",
-     "http://go.walsall.gov.uk/newsroom/15-walsall-primary-schools-join-award-winning-attendance-campaign",
-     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fwillenhall&rating=Ok&title=Willenhall+churches",
-     "http://go.walsall.gov.uk/newsroom/call-makers-be-part-second-walsall-makerfest"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",

@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "www.luton.gov.uk",
- "updated_at": "2026-11-15T01:21:52.934Z",
+ "updated_at": "2026-11-15T01:26:10.862Z",
  "urls": {
   "0000097d598a4b4a": {
    "page_id": "0000097d598a4b4a",
@@ -318983,8 +318983,9 @@
    "last_week": "2026-W46",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-15T01:15:04.133Z"
   },
   "0c2691cbb0841b7b": {
    "page_id": "0c2691cbb0841b7b",
@@ -581085,8 +581086,9 @@
    "last_week": "2026-W46",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-15T01:11:09.887Z"
   },
   "1618435f38aa8945": {
    "page_id": "1618435f38aa8945",
@@ -602176,8 +602178,9 @@
    "last_week": "2026-W46",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-15T01:13:47.098Z"
   },
   "16e71277c5fd4b7b": {
    "page_id": "16e71277c5fd4b7b",
@@ -766279,8 +766282,9 @@
    "last_week": "2026-W46",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-15T01:14:27.928Z"
   },
   "1d264850be4104b1": {
    "page_id": "1d264850be4104b1",
@@ -841663,9 +841667,9 @@
    "first_discovered_at": "2026-10-29T16:32:51.740Z",
    "last_attempt_at": "2026-10-29T22:18:41.904Z",
    "last_success_at": "2026-10-29T22:18:41.904Z",
-   "last_status": "non-html",
+   "last_status": 200,
    "last_week": "2026-W44",
-   "outcome": "failed",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -851939,9 +851943,9 @@
    "first_discovered_at": "2026-10-29T16:32:51.740Z",
    "last_attempt_at": "2026-10-29T22:18:43.942Z",
    "last_success_at": "2026-10-29T22:18:43.942Z",
-   "last_status": "non-html",
+   "last_status": 200,
    "last_week": "2026-W44",
-   "outcome": "failed",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -990175,8 +990179,9 @@
    "last_week": "2026-W46",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-15T01:16:06.861Z"
   },
   "25a4cf5626da8b6b": {
    "page_id": "25a4cf5626da8b6b",
@@ -1110823,8 +1110828,9 @@
    "last_week": "2026-W46",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-15T01:17:57.784Z"
   },
   "2a1d958d708f2a14": {
    "page_id": "2a1d958d708f2a14",
@@ -1224958,8 +1224964,9 @@
    "last_week": "2026-W46",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-15T01:17:09.320Z"
   },
   "2e594843e771b97c": {
    "page_id": "2e594843e771b97c",

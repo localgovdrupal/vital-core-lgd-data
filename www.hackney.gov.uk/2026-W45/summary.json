@@ -1,7 +1,7 @@
 {
  "domain": "www.hackney.gov.uk",
  "week": "2026-W45",
- "generatedAt": "2026-11-14T17:35:14.284Z",
+ "generatedAt": "2026-11-15T01:26:06.441Z",
  "pagesScanned": 1022,
  "pagesAudited": 906,
  "coverage": {
@@ -20832,129 +20832,9 @@
     "savingsMsP75": 450
    },
    {
-    "id": "first-contentful-paint",
-    "category": "performance",
-    "title": "First Contentful Paint",
-    "pages": 77,
-    "examplePages": [
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
-     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/housing/resident-participation",
-     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
-     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 77,
-    "examplePages": [
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
-     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/housing/resident-participation",
-     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
-     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "total-blocking-time",
-    "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 77,
-    "examplePages": [
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
-     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/housing/resident-participation",
-     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
-     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 77,
-    "examplePages": [
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
-     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/housing/resident-participation",
-     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
-     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
     "id": "errors-in-console",
     "category": "best-practices",
     "title": "Browser errors were logged to the console",
-    "pages": 77,
-    "examplePages": [
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
-     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/housing/resident-participation",
-     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
-     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "interactive",
-    "category": "performance",
-    "title": "Time to Interactive",
     "pages": 77,
     "examplePages": [
      "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
@@ -21310,54 +21190,6 @@
     "savingsBytesP75": 0,
     "savingsMsMedian": 150,
     "savingsMsP75": 300
-   },
-   {
-    "id": "speed-index",
-    "category": "performance",
-    "title": "Speed Index",
-    "pages": 56,
-    "examplePages": [
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
-     "https://www.hackney.gov.uk/community-safety-and-environment/energy",
-     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained",
-     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/fellows-court-and-weymouth-court",
-     "https://www.hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle",
-     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/caring-adults/carers-direct-payments",
-     "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roadworks-and-maintenance/bridges"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
-   },
-   {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 20,
-    "examplePages": [
-     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/housing-benefit-and-council-tax-reduction-explained",
-     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice",
-     "https://www.hackney.gov.uk/housing/resident-participation/tenant-management-organisations",
-     "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches",
-     "https://www.hackney.gov.uk/business-and-licensing/licensing/gambling/gambling-premises-licence",
-     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections",
-     "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-application-types",
-     "https://www.hackney.gov.uk/planning-and-building/building-control/building-regulations-and-exemptions/building-works-exemptions"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0,
-    "savingsBytesMedian": 0,
-    "savingsBytesP75": 0,
-    "savingsMsMedian": 0,
-    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",
