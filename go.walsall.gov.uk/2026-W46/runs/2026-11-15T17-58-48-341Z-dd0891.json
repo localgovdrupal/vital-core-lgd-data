@@ -1,0 +1,146 @@
+{
+ "runId": "2026-11-15T17-58-48-341Z-dd0891",
+ "week": "2026-W46",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-15T17:58:48.927Z",
+ "scanned": [
+  "ad838235e0dd1d17",
+  "4c6beaa4ff092bcf",
+  "67d3a4cd31d25fb3",
+  "64ed239491497e91",
+  "d594a8832568809e",
+  "038d33890f9f147c",
+  "b4fb2770e0e77d7a",
+  "95c776df970fd13b",
+  "ac5c01fd7ca0781a",
+  "4894fb7ba3b4c804",
+  "9eb44e6ceacde726",
+  "4aeb0bcabb21eff1",
+  "709a6c3ea20bb4c5",
+  "5ef918e5b92fc4bc",
+  "a0cc901901c15c28",
+  "86073caa8c42fdfb",
+  "3c9b6e6786c0343a",
+  "867c46e1eaacea21",
+  "3117528444460975",
+  "557f5e86e5d7eb2b",
+  "bafb586e36a6f2cb",
+  "95293998c9c3ca17",
+  "4567fce9faa593c5",
+  "93b8de795e01221d",
+  "a9574866ab619193",
+  "027c8800b65824a4",
+  "aa651ad703ad040d",
+  "b23db941e19247a3",
+  "2580440ba49848dd",
+  "563a9e72ef3780a2",
+  "e64bdc43df9e55d5",
+  "9d3576b777774e45",
+  "a10d2c707821f57f",
+  "780ef9eba66176f3",
+  "bf8924db453c0ff0",
+  "15eb32e2bc40da65",
+  "bf9dd66134e3cefc",
+  "aadb6240141e2822",
+  "b8290de45658a616",
+  "1d97a2a946403ca1",
+  "186d099c4078dfb1",
+  "0e89172103fc32c6",
+  "e0a29280c56f0ac9",
+  "7acb4aaf81a3bb7c",
+  "e9fbe387717a9f14",
+  "6033a9a0e881747b",
+  "2f4ee5e3ba33742d",
+  "a05217de4ae3dc7d",
+  "d18f21accc24b1ea",
+  "732cb7b36ae08ebb"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 1144,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://www.twitter.com/wolvescouncil",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/high-court-continues-interim-black-country-street-racing-ban-0"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-0"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 23,
+  "plain-language": 26,
+  "resources": 50,
+  "images": 50,
+  "standards": 30,
+  "third-party": 9,
+  "link-check": 50,
+  "deprecated-html": 6,
+  "security": 6,
+  "public-interest": 9,
+  "lighthouse": 6,
+  "sustainability": 5,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-15T18:15:19.717Z"
+}
