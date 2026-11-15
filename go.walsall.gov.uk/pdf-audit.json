@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-14T02:40:41.857Z",
+ "updatedAt": "2026-11-15T02:06:18.125Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -4250,6 +4250,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2026-09/Oak%20Park%20Studio%20Timetable%20September%202026.pdf": {
    "checkedAt": "2026-11-14T02:40:41.855Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Application%20for%20a%20Mobile%20Home%20Site%20Licence%20and%20or%20to%20be%20a%20Site%20Manager%20July%202021.pdf": {
+   "checkedAt": "2026-11-15T02:05:42.014Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Beacon%20Heights%20Park%20Site%20Rules.pdf": {
+   "checkedAt": "2026-11-15T02:05:43.516Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Oak%20Tree%20Farm%20Site%20Rules.pdf": {
+   "checkedAt": "2026-11-15T02:05:45.018Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Template%20Site%20Licence%20Conditions%202021.pdf": {
+   "checkedAt": "2026-11-15T02:05:46.520Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/The%20Paddock%20Site%20Rules.pdf": {
+   "checkedAt": "2026-11-15T02:05:48.022Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-06/Site%20rules%20for%20Sandfield%20Park.pdf": {
+   "checkedAt": "2026-11-15T02:05:49.524Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-05/2026%20Fit%20and%20Proper%20public%20register%20for%20Caravan%20Sites.pdf": {
+   "checkedAt": "2026-11-15T02:05:51.026Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-09/Application%20to%20be%20added%20to%20the%20fit%20and%20proper%20person%20register.pdf": {
+   "checkedAt": "2026-11-15T02:05:52.527Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-10/Infrastructure%20Funding%20Statement%202025-2026.pdf": {
+   "checkedAt": "2026-11-15T02:05:54.029Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-10/Peppers.%2021-22%20Stafford%20Street%2C%20Walsall%2C%20WS2%208DG.%20Closing%20date%2024%20November%202026..pdf": {
+   "checkedAt": "2026-11-15T02:05:55.531Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-10/Shokers%20Wines%20and%20Spirits.%20133-135%20Bloxwich%20Road%2C%20Walsall%2C%20WS2%208BS.%20Closing%20date%2024%20November%202026._0.pdf": {
+   "checkedAt": "2026-11-15T02:05:57.032Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-10/The%20Pavillion%2C%20Queen%20Marys%20Grammer%20School%2C%20Stton%20Road%2C%20Walsall%2C%20WS1%202PG.%20Closing%20date%2011%20November%202026.pdf": {
+   "checkedAt": "2026-11-15T02:05:58.533Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-10/Threshers%20Wines%20Online%20ltd.%2048-52%20Central%20Drive%2C%20Walsall%2C%20WS3%202QJ%20Closing%20date%2019%20November%202026..pdf": {
+   "checkedAt": "2026-11-15T02:06:00.035Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-10/Walsall%20Gala%20pool%20programme%20from%20October%202026.pdf": {
+   "checkedAt": "2026-11-15T02:06:01.537Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-10/Walsall%20Gala%20pool%20programme%20from%20October%202026%20accessible.pdf": {
+   "checkedAt": "2026-11-15T02:06:03.039Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-11/Jolly%20Collier.%20112%20Lucknow%20Road%2C%20WV12%204QB.%20Closing%20date%2012%20November%202026..pdf": {
+   "checkedAt": "2026-11-15T02:06:04.540Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-08/My%20Wellbeing%20Plan%20Aug%202025.pdf": {
+   "checkedAt": "2026-11-15T02:06:06.042Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-12/111956%20Food%20Plan%202025%20-%202030%20%28Accessible%29.pdf": {
+   "checkedAt": "2026-11-15T02:06:07.544Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-05/Walsall%20Local%20Welfare%20Provision%20Policy.pdf": {
+   "checkedAt": "2026-11-15T02:06:09.045Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2024-08/108226%20Planning%20Applications%20and%20Chargeable.pdf": {
+   "checkedAt": "2026-11-15T02:06:10.615Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2024-09/105816%20SGO%20Leaflets%20and%20Assessments%20%28Fostering%20Assessments%29.pdf": {
+   "checkedAt": "2026-11-15T02:06:12.116Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2024-09/Care%20leavers%27%20newsletter%20January%202024.pdf": {
+   "checkedAt": "2026-11-15T02:06:13.618Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2024-09/Care%20leavers%27%20newsletter%20May%202023.pdf": {
+   "checkedAt": "2026-11-15T02:06:15.120Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2024-09/Housing%20delivery%20test%20action%20plan%202024.pdf": {
+   "checkedAt": "2026-11-15T02:06:16.622Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2024-10/Works%20by%20competent%20persons%202023.pdf": {
+   "checkedAt": "2026-11-15T02:06:18.123Z",
    "week": "2026-W46",
    "httpStatus": null,
    "status": "error",
