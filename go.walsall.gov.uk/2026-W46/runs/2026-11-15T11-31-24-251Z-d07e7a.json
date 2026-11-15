@@ -1,0 +1,138 @@
+{
+ "runId": "2026-11-15T11-31-24-251Z-d07e7a",
+ "week": "2026-W46",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-15T11:31:24.910Z",
+ "scanned": [
+  "7f96f252a40c383d",
+  "21a7c2726ac050b8",
+  "0b41fc8407055254",
+  "1b0ad228bf3d5be9",
+  "b96181c6af9ca47a",
+  "4f6322137f822ca0",
+  "4bc352087f9256ff",
+  "be3b14f887fc9d75",
+  "b726e163112ffa63",
+  "5a67046113bed3f3",
+  "28f9b094c0cbaabe",
+  "b3bd4c6a05894ff3",
+  "05fd295803a32c92",
+  "b69218f8a8e45f2d",
+  "02a96bf3d4553b3d",
+  "01b9b37548e1b50d",
+  "d73d0a5688843f5e",
+  "9350849e7fc3ba7e",
+  "fa97de432db235bd",
+  "8b7124262ddf143d",
+  "f79bdfef025b2cd6",
+  "2df7f4ade39bcc97",
+  "1f9c2b020d07b729",
+  "8d087e4adf3b0d81",
+  "7f4490365662009d",
+  "6ea3797d2b00648c",
+  "1ae7ba2f5a880553",
+  "19fab4166b5f42e4",
+  "f1e9284beadccbf0",
+  "4973e495b5e4d4e2",
+  "b6cedc7f6394cdb7",
+  "0d06288bdb0f76bd",
+  "20cb407df1f76fae",
+  "8384b5fa382d90a1",
+  "0486d3f55cfe799f",
+  "f4779dc033b9794f",
+  "63681dd75f9f77e4",
+  "d73e95bca3a7be73",
+  "cb9997079266629a",
+  "07d876e044fd3ecc",
+  "31004349ab08cb66",
+  "879b05c704ca6301",
+  "29546b3959fc917d",
+  "fc3aca19942a3a2d",
+  "6a639c7264c8cc94",
+  "bc3b1076cceec495",
+  "e6b129ce28b6bb45",
+  "3b9c471bcc35f796",
+  "8965134d61b199e2",
+  "6b6f5ea116c7dd1c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 1028,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fbusiness%2Fregeneration-and-investment%2Fbloxwich-and-walsall-town-deal%2Ftown-deal-funded-projects&data=05%7C01%7Crebecca.morris%40walsall.gov.uk%7Cd2cf61966721439f7e5108db1e33e62e%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638136980484550525%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4O5QdeygZWzUQJ9NphXieWpoLT%2FI%2Bf8qk4ZUpBl4YJY%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/bloxwich-and-walsall-community-capital-grants-programme"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "plain-language": 25,
+  "lighthouse": 7,
+  "standards": 26,
+  "tech": 6,
+  "alfa": 27,
+  "deprecated-html": 7,
+  "public-interest": 4,
+  "sustainability": 4,
+  "third-party": 11,
+  "security": 4
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-15T11:49:37.068Z"
+}
