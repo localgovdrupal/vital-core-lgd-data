@@ -1,0 +1,205 @@
+{
+ "runId": "2026-11-15T01-10-05-892Z-df04f1",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-15T01:10:06.729Z",
+ "scanned": [
+  "feea4dea342a9862",
+  "bb115b4516e9ac2a",
+  "2fdd50a22f4d5eb8",
+  "8fb0814f83d98175",
+  "55545a7500aced90",
+  "03b25806bfba365f",
+  "30035b8c5ed63365",
+  "4e8935c8976e3765",
+  "b7583fc6aaaf6e8a",
+  "f2f07b67c80ed91e",
+  "19c5b0b1848f218c",
+  "848bd5c589e25a85",
+  "95d1b662cc1ac262",
+  "40a46d7bef098166",
+  "ccb7b57879e82b8c",
+  "83a412721e619b98",
+  "e7de461245778747",
+  "8dd7cad805a5d85c",
+  "b0ced7b4879144b0",
+  "298da04618619862",
+  "0f373fcecc8dca11",
+  "82fc212e990c545f",
+  "7190917f88bf2a18",
+  "b8d20f675bce439d",
+  "174cb368a9ebe21b",
+  "d418b67d68165370",
+  "f939f29e8efb5b39",
+  "0ce5a027a11e171c",
+  "9a797e24bb5637a1",
+  "1b0c271665525fa4",
+  "db6240e5cea1c42f",
+  "8d99f30b771d5ce7",
+  "74cbb63fa72d474b",
+  "38c9a14a1003dff7",
+  "fae5bc4e325eb70f",
+  "d08afcd4055b47dc",
+  "c6907255de575402",
+  "de27a3e5ebcbe60b",
+  "c9cfd68c9c97893c",
+  "1008bbf052b6c55a",
+  "38aba3b9690a58d5",
+  "3e31894b62d2bd23",
+  "0d0ee23fe722a9ca",
+  "6cacd9666018a08e",
+  "1add0cfb511624b0"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 377,
+  "checked": 377,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west"
+    ]
+   },
+   {
+    "url": "https://onedigital.hackney.gov.uk/publicaccesslive/selfservice/citizenportal/registration.htm?_flowId=selfservice%2Fcitizenportal%2Fregistration&_flowExecutionKey=e1s1",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/check-your-council-tax-account"
+    ]
+   },
+   {
+    "url": "https://www.younghackney.org/whats-on/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/serious-violence-support-and-reporting"
+    ]
+   },
+   {
+    "url": "http://www.metoffice.gov.uk/public/weather/cold-weather-alert/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "http://www.nhs.uk/Livewell/Winterhealth/Pages/Winterhealthhome.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "http://www.metoffice.gov.uk/weather/uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "http://www.lgo.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/childrens-social-care-complaints"
+    ]
+   },
+   {
+    "url": "http://twitter.com/broadway_mkt",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/broadway-market"
+    ]
+   },
+   {
+    "url": "https://www.hackney.gov.uk/update-on-cycle-superhighway-1/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycling-overview"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/universal-credit-explained"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 45,
+  "alfa": 20,
+  "resources": 45,
+  "images": 45,
+  "standards": 23,
+  "tech": 5,
+  "link-check": 45,
+  "public-interest": 5,
+  "plain-language": 16,
+  "sustainability": 9,
+  "third-party": 12,
+  "lighthouse": 4,
+  "security": 3,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 45,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-15T01:18:25.665Z"
+}
