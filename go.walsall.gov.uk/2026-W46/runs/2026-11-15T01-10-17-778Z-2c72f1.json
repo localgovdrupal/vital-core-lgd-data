@@ -1,0 +1,138 @@
+{
+ "runId": "2026-11-15T01-10-17-778Z-2c72f1",
+ "week": "2026-W46",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-15T01:10:21.132Z",
+ "scanned": [
+  "c7fbaa85b96b79eb",
+  "bf8ad5931f895cb4",
+  "38971f93cd1387aa",
+  "a82b551573c5f501",
+  "073cc5df05d1ee3d",
+  "2fc9f7897b8ac8c1",
+  "94bafd27b0f84e24",
+  "e62d63b7e42e6bfe",
+  "c69e22afc2c68083",
+  "4205e34bb6fef33f",
+  "ddc68f1bdfeb80d1",
+  "1c863d5a81b89770",
+  "9e49a2d6190fcb1b",
+  "44db64b30ff7327c",
+  "20a3583dbaccad8d",
+  "4d75379b4ea341c6",
+  "5a37025954cee170",
+  "40687abcdc4ed646",
+  "4fec9d4171f8f7a2",
+  "821f21695d926d9f",
+  "a5432fc6503e6a90",
+  "f03b29330618eb31",
+  "afc8dea3f52dd80e",
+  "96bfad81dbba1220",
+  "c9cc3e39367af975",
+  "2c7027fe5835ac5b",
+  "0513b2a24f3b5f9f",
+  "9bfbaf3a193485d6",
+  "741c6bd30351925d",
+  "2ea501b557649ede",
+  "8c0e6bc6841084c5",
+  "1353e0b3966d5e53",
+  "2774728b0d03fbbd",
+  "f2cb63f4ceeb92e5",
+  "80f0bbcadeb001c1",
+  "0e6c3f7d00a37d44",
+  "31e6d74a5878f65e",
+  "d83372836ec09c1d",
+  "6e2382cbd0b99a1d",
+  "5d494bc343f4f55a",
+  "1940ef2d72da699e",
+  "444a9dd5163275cf",
+  "f854e189bb886961",
+  "09608441b666c4a3",
+  "c74550ad1624408f",
+  "4a994fa10bc2baa9",
+  "8b6876e966901b91",
+  "f35eea7daa9b0737",
+  "ba9aa69879e9aa3b",
+  "55683d88c13811c3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 1063,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dbschecks.org.uk%2Fhow-a-criminal-record-affects-your-life%2F&data=05%7C02%7CCommunications%40walsall.gov.uk%7C26c74050a61b4d102f5b08dcf406c46e%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638653557098250840%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=4z%2F6sHnxDIcBKXigrKkXnytadsmvXDc8Wz%2F762iN6Rk%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/hefty-price-takeaway-walsall-council-takes-litterbugs-court"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 27,
+  "resources": 50,
+  "images": 50,
+  "standards": 23,
+  "link-check": 50,
+  "alfa": 25,
+  "third-party": 14,
+  "lighthouse": 5,
+  "tech": 5,
+  "security": 3,
+  "public-interest": 2,
+  "sustainability": 2,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-15T01:24:40.258Z"
+}
