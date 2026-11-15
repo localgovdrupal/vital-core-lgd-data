@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "www.hackney.gov.uk",
- "updated_at": "2026-11-15T07:50:59.328Z",
+ "updated_at": "2026-11-15T09:45:59.158Z",
  "urls": {
   "00273d37f52e26b1": {
    "page_id": "00273d37f52e26b1",
@@ -21163,11 +21163,11 @@
    "page_id": "f55dc5020ac64850",
    "url": "https://www.hackney.gov.uk/plans-strategies",
    "first_discovered_at": "2026-11-15T07:50:30.168Z",
-   "last_attempt_at": null,
+   "last_attempt_at": "2026-11-15T09:45:57.595Z",
    "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_status": "redirect",
+   "last_week": "2026-W46",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
