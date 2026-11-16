@@ -1,0 +1,138 @@
+{
+ "runId": "2026-11-16T16-58-44-054Z-babc1c",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T16:58:46.432Z",
+ "scanned": [
+  "bd10801f37ffb8a0",
+  "fa5007b5a2e5e5a2",
+  "3b3b8147fbfcc4fa",
+  "ac04f7e04855e055",
+  "353e19f4063dfb89",
+  "20909f392dbbb62d",
+  "7b6f1aab871f0942",
+  "c34797b5661e933e",
+  "36b2e109795905e1",
+  "98135d756da55661",
+  "79065dc60b48ec81",
+  "0b6efbeb0599906c",
+  "de0e441e03d5b8d0",
+  "a1e29d592815f23e",
+  "7e085bdb6dd52dfc",
+  "0f2dd03e84a93e4b",
+  "5891309abc1a1473",
+  "adb13365177a9df0",
+  "b4aea4951a6e9815",
+  "b3fbccef8ba5cbd8",
+  "1a229ca05d621d5d",
+  "675d6dfb0153b66d",
+  "8aeac2c7a35e43f1",
+  "10c7fcc283d0a16b",
+  "f99dcfed0f955a1f",
+  "304ec29a73393491",
+  "e58a45056bdabcf9",
+  "c74e407668779200",
+  "35b8498494cfa5c8",
+  "f93cbcd3a08f31d5",
+  "17f08b7d3d0e2af5",
+  "2b0d6a69270d0b1c",
+  "5b541e2344d8fdbd",
+  "17f303b82499dfa9",
+  "edd0cf4482e04e93",
+  "1793c0358e15e350",
+  "0969add8733ef1a1",
+  "d0361946690257c7",
+  "a7c731ecb0c06ca5",
+  "025961c447140aa2",
+  "c6e1689f0f0dbd4b",
+  "2101453390c29785",
+  "c65341170a7f451a",
+  "0cbc0f10e31f2bfc",
+  "b9718a5a41373d89",
+  "1d0fe9070e599489",
+  "2fded5a6dbcd4e2c",
+  "5a47571e80780683",
+  "c3c517e93918345f",
+  "186d2d8b1037efbf"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 989,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.walsallblind.org/how-we-help/training-and-awareness/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory/walsall-society-blind-sight-loss-awareness-training"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 28,
+  "resources": 47,
+  "images": 47,
+  "standards": 23,
+  "link-check": 47,
+  "plain-language": 20,
+  "public-interest": 6,
+  "deprecated-html": 5,
+  "security": 6,
+  "tech": 4,
+  "lighthouse": 5,
+  "third-party": 8,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T17:12:18.975Z"
+}
