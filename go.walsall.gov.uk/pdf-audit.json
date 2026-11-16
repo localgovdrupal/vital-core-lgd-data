@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-15T02:06:18.125Z",
+ "updatedAt": "2026-11-16T02:23:07.457Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -4501,6 +4501,256 @@
   "http://go.walsall.gov.uk/sites/default/files/2024-10/Works%20by%20competent%20persons%202023.pdf": {
    "checkedAt": "2026-11-15T02:06:18.123Z",
    "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2024-10/Works%20completed%20by%20competent%20persons%202011_0.pdf": {
+   "checkedAt": "2026-11-16T02:22:31.417Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2024-10/Works%20completed%20by%20competent%20persons%202016_0.pdf": {
+   "checkedAt": "2026-11-16T02:22:32.918Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2024-11/Performance%20Licence%20-%20Application%20Form.pdf": {
+   "checkedAt": "2026-11-16T02:22:34.420Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-01/Consent%20to%20Transfer%20Premises%20Licence.pdf": {
+   "checkedAt": "2026-11-16T02:22:35.922Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-02/Care%20Leavers%20Newsletter%20-%20December%202024%20V2.pdf": {
+   "checkedAt": "2026-11-16T02:22:37.424Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-05/Walsall%20Net%20Zero%202041%20Strategy.pdf": {
+   "checkedAt": "2026-11-16T02:22:38.926Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Appendix%201%20Draft%20Section%20106%20Planning%20Agreement.pdf": {
+   "checkedAt": "2026-11-16T02:22:40.427Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Care%20Leavers%20Newsletter%20June%202025.pdf": {
+   "checkedAt": "2026-11-16T02:22:41.929Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Commissioning%20intentions%202025-2026.pdf": {
+   "checkedAt": "2026-11-16T02:22:43.430Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/CSC%20and%20ASC%20PN.pdf": {
+   "checkedAt": "2026-11-16T02:22:44.931Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Executive%20summary%20and%20Section%201.pdf": {
+   "checkedAt": "2026-11-16T02:22:46.433Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/My%20Wellbeing%20Plan%20Aug%202025.pdf": {
+   "checkedAt": "2026-11-16T02:22:47.935Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Section%2010%20Procedural%20matters.pdf": {
+   "checkedAt": "2026-11-16T02:22:49.436Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Section%202%20Developer%20contributions.pdf": {
+   "checkedAt": "2026-11-16T02:22:50.937Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Section%203%20Policy%20framework.pdf": {
+   "checkedAt": "2026-11-16T02:22:52.439Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Section%204%20Affordable%20housing.pdf": {
+   "checkedAt": "2026-11-16T02:22:53.940Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Section%205%20Education.pdf": {
+   "checkedAt": "2026-11-16T02:22:55.442Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Section%206%20Transport%20and%20highways.pdf": {
+   "checkedAt": "2026-11-16T02:22:56.944Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Section%207%20Open%20space%2C%20sport%20and%20recreation.pdf": {
+   "checkedAt": "2026-11-16T02:22:58.446Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Section%208%20Health.pdf": {
+   "checkedAt": "2026-11-16T02:22:59.948Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-08/Section%209%20Climate%20and%20environment.pdf": {
+   "checkedAt": "2026-11-16T02:23:01.448Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-09/Draft%20Planning%20obligation%20SPD%2005.pdf": {
+   "checkedAt": "2026-11-16T02:23:02.950Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-09/Walsall%20Planning%20Obligations%20SPD%20-%20Draft%20for%20consultation%20Summary%20V2.pdf": {
+   "checkedAt": "2026-11-16T02:23:04.451Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-10/Application%20to%20transfer%20premises%20licence.pdf": {
+   "checkedAt": "2026-11-16T02:23:05.953Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-11/Adult%20Social%20Care%20Workforce%20Strategy%202025-2028.pdf": {
+   "checkedAt": "2026-11-16T02:23:07.455Z",
+   "week": "2026-W47",
    "httpStatus": null,
    "status": "error",
    "attempts": 1,
