@@ -1,0 +1,248 @@
+{
+ "runId": "2026-11-16T19-53-51-275Z-c7ad25",
+ "week": "2026-W47",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T19:53:51.670Z",
+ "scanned": [
+  "d0bd792b32ba4710",
+  "e086e17a960015d2",
+  "8c4143a06b181918",
+  "a2dd07ab94460bcc",
+  "5baa01c8486a3e67",
+  "b1efc3cd871ccb75",
+  "7c63fe9a4bd06407",
+  "7cb22c69d7312487",
+  "3c541c06d29f7520",
+  "95d1b662cc1ac262",
+  "2afdeafdc8cbc681",
+  "77e64087cd1e7721",
+  "7151ef344483b624",
+  "75aba7967f4d75a9",
+  "d0fb3ed0961508f7",
+  "d418b67d68165370",
+  "fa0cda8c11d48e9b",
+  "3383959bfefc406e",
+  "e49e239487629b61",
+  "f939f29e8efb5b39",
+  "da93d79166390166",
+  "d8a6f8d8bfb29ff9",
+  "1d8c1a9233f7b581",
+  "4cd05d0fb4b11860",
+  "79c0e500373073f3",
+  "a68920dd987295b4",
+  "d055abcc48723acd",
+  "2cd0409e160bb1a2",
+  "fa9f825dfc7e25e8",
+  "e36917f6acab23d3",
+  "4646d0496f62f3ab",
+  "fcf5135bf7cb3b87",
+  "cfd7f0f25dd6308a",
+  "91e43aaad326bb5d",
+  "ae4a4cf1f262f3e2",
+  "2e33436b092d3469",
+  "8dc6c095ee3b20cf",
+  "015617faf1168009",
+  "9c05a4f919d355a9",
+  "dd911920fc906c5d",
+  "f5a5454f11c22471",
+  "b2752a78932cef3e",
+  "00414b8f39f1bddc",
+  "47bb6019ceac5a1c",
+  "0fbc40ef314ae58a",
+  "5439d1db67b402ea",
+  "7cff57a27b53bdd9",
+  "57b2a88c8a57ac62"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 618,
+  "checked": 500,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.teensagainstabuse.org/index.php?q=controlWheel",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/http://claudiajones.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=xKLqkZIEk2o",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://planningapps.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search"
+    ]
+   },
+   {
+    "url": "http://www.finalfarewell.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/bereavement-support"
+    ]
+   },
+   {
+    "url": "https://www.countryside-properties.com/media-centre/news-archive/2018/april/countryside-to-deliver-82m-regeneration-scheme-at-tower-court-estate-in-hackney/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/tower-court"
+    ]
+   },
+   {
+    "url": "http://adamkhan.co.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/tower-court"
+    ]
+   },
+   {
+    "url": "https://llc.ulverscroftulibrary.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordartonline.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordscholarlyeditions.com/nos",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordreference.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordmusiconline.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.ukwhoswho.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordworldsclassics.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "resources": 47,
+  "images": 47,
+  "link-check": 47,
+  "plain-language": 23,
+  "standards": 28,
+  "alfa": 26,
+  "public-interest": 6,
+  "security": 3,
+  "lighthouse": 6,
+  "tech": 2,
+  "sustainability": 3,
+  "third-party": 11,
+  "deprecated-html": 4
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T20:02:31.461Z"
+}
