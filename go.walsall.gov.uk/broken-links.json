@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-15T01:26:05.281Z",
+ "updatedAt": "2026-11-16T22:28:50.182Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -120,7 +120,8 @@
    ],
    "weeksBroken": 3,
    "foundOn": [
-    "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-1"
+    "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-1",
+    "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-0"
    ]
   },
   "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcarersuk.org%2Fnews-and-campaigns%2Four-campaigns%2Fcarers-rights-day&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7C814425bad26a43b6d24408de278462b6%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638991646703290359%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Ld%2FP5HDoEaoiFkUtaZTznvd%2FsTe3nm5yDxsX3x4X7e4%3D&reserved=0": {
@@ -441,29 +442,31 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://go.walsall.gov.uk/newsroom/support-mental-wellbeing-blue-monday"
+    "https://go.walsall.gov.uk/newsroom/walsall-council-marks-mental-health-awareness-week-2026",
+    "https://go.walsall.gov.uk/newsroom/council-celebrates-community-efforts-promoting-mental-wellbeing-awareness-week"
    ]
   },
   "https://www.rethink.org/help-in-your-area/services/community-support/sanctuary-community-mental-health-service-walsall/": {
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/mental-health-and-wellbeing-support",
-    "https://go.walsall.gov.uk/newsroom/walsall-residents-urged-talk-listen-and-make-every-voice-count-world-mental-health-day"
+    "https://go.walsall.gov.uk/newsroom/walsall-council-marks-mental-health-awareness-week-2026"
    ]
   },
   "https://www.walsallcollege.ac.uk/adults/?utm_term=adult%20courses&utm_campaign=%5BAdults%5D+Adult+Guide+Sep+2026&utm_source=adwords&utm_medium=ppc&utm_id=24084418959&hsa_acc=7063713410&hsa_cam=24084418959&hsa_grp=199282845336&hsa_ad=819051157361&hsa_src=g&hsa_tgt=kwd-30589333&hsa_kw=adult%20courses&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=24084418959&gclid=EAIaIQobChMItpz0koSglgMVRJxQBh3zPhUoEAAYASAAEgKP3_D_BwE": {
@@ -505,7 +508,8 @@
    ],
    "weeksBroken": 3,
    "foundOn": [
-    "https://go.walsall.gov.uk/newsroom/councils-and-police-seek-extended-street-racing-injunction"
+    "https://go.walsall.gov.uk/newsroom/councils-and-police-seek-extended-street-racing-injunction",
+    "https://go.walsall.gov.uk/newsroom/high-court-continues-interim-black-country-street-racing-ban-0"
    ]
   },
   "https://www.go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/walsall-arboretum": {
@@ -1214,6 +1218,71 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/newsroom/hefty-price-takeaway-walsall-council-takes-litterbugs-court"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fbusiness%2Fregeneration-and-investment%2Fbloxwich-and-walsall-town-deal%2Ftown-deal-funded-projects&data=05%7C01%7Crebecca.morris%40walsall.gov.uk%7Cd2cf61966721439f7e5108db1e33e62e%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638136980484550525%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4O5QdeygZWzUQJ9NphXieWpoLT%2FI%2Bf8qk4ZUpBl4YJY%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/bloxwich-and-walsall-community-capital-grants-programme"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A357": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A355"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A355": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A355"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A355": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A355"
+   ]
+  },
+  "https://www.walsallblind.org/how-we-help/training-and-awareness/": {
+   "status": 0,
+   "reason": "EAI_AGAIN",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory/walsall-society-blind-sight-loss-awareness-training"
    ]
   }
  }
