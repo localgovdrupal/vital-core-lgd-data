@@ -1,0 +1,154 @@
+{
+ "runId": "2026-11-16T14-00-49-112Z-f37489",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T14:00:54.758Z",
+ "scanned": [
+  "8deb708739c10629",
+  "179fdaf85921efcb",
+  "8dd819e0ac1bd4c7",
+  "b6b991a1c2850d24",
+  "f8c0b649ff8ace54",
+  "67b7b8893bb849ec",
+  "a02bb8a7f4946677",
+  "b7194a0d5c3cb782",
+  "615a363a1bc6ba1e",
+  "e0a11dfbfc216c83",
+  "f74ca2f73cef66ce",
+  "6d87a8012104f8ca",
+  "5453ed43b069ce12",
+  "44186bb31582b41d",
+  "0eb5872112d4757b",
+  "a59af5ec311bf7dc",
+  "74456ba727a4db93",
+  "e62d3986d79fe020",
+  "1598b4fa511ff1c2",
+  "f52440ede6717533",
+  "9b9006bbd477f413",
+  "29bcbd64abb3c6ab",
+  "33f1122c0f0e127e",
+  "c380edd8bddbabb0",
+  "61bb6d67d675f232",
+  "44c512a70e91bc36",
+  "27a4548b0f86d361",
+  "4b9ec551671dc595",
+  "a77328eaa5bd97f0",
+  "e29a8c16412414ae",
+  "7d9067dd84bda709",
+  "1a23493e095eaa54",
+  "1b9f7859d578338c",
+  "81c920c1e536859b",
+  "582838d88f505bdc",
+  "e6f16af031317c32",
+  "f0248386fbbd306c",
+  "e7b45b34726effc0",
+  "7bb1caf35e6c6834",
+  "bf5851cd7b57f9b1",
+  "bf1fe37f7998b6d9",
+  "e879c20be0c38b4f",
+  "198bf36d0fa21ea0",
+  "4b0c6e99eb7e9484",
+  "98f0bc22436ac6b2",
+  "5d1303b8d97fd8b2",
+  "ee5717c6d7c46126",
+  "260fb230881af861",
+  "19eed46bd43b5a56",
+  "1550e91f9c727edf"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 878,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A357",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A355"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A355",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A355"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A355",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A355"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "plain-language": 18,
+  "resources": 48,
+  "images": 48,
+  "standards": 26,
+  "link-check": 48,
+  "third-party": 12,
+  "sustainability": 6,
+  "alfa": 19,
+  "deprecated-html": 6,
+  "public-interest": 5,
+  "tech": 5,
+  "lighthouse": 6,
+  "security": 4
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T14:15:24.703Z"
+}
