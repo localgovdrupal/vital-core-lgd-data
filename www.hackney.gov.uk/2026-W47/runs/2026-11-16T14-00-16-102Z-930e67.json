@@ -1,0 +1,234 @@
+{
+ "runId": "2026-11-16T14-00-16-102Z-930e67",
+ "week": "2026-W47",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T14:00:16.348Z",
+ "scanned": [
+  "97c5be8821e46286",
+  "78f4df29c126a53f",
+  "386c241b9a60fc36",
+  "e34459661f928b3f",
+  "1eb15c02599f9e98",
+  "8d0111d54893b53b",
+  "0c3802314a455be2",
+  "3f7a6c577e154060",
+  "1327f440b6bd9c09",
+  "1efa3fc2e780e9e4",
+  "07f42bb75184a1b0",
+  "5380f9dc859ece05",
+  "715d02a8a16a9a79",
+  "4c836ef07491609b",
+  "7414bd836ec3c67a",
+  "24abdd5f97659ec4",
+  "7ba98c26ce5252a4",
+  "c5c235eb467993cb",
+  "f1c1ef1118d001e4",
+  "d08afcd4055b47dc",
+  "082447223dd77c75",
+  "a0d26fa5ced632b4",
+  "1c430d05d23796c1",
+  "e97251f4bc3ca39e",
+  "3b5cdead0910806f",
+  "e09c0111a16241d4",
+  "1b1db3b89743525c",
+  "a25cf3695aad0357",
+  "c9435285db591c1b",
+  "7dc4d718cd61ed9e",
+  "8c117eee787ebe12",
+  "30ec777c0de2a8fd",
+  "3eff4366fbf9627a",
+  "3936233fc4de4242",
+  "0f373fcecc8dca11",
+  "a3e7bc1551ad5ec9",
+  "9910e99fd864468e",
+  "dc9948a66aac2a1d",
+  "30e9a02742e2e555",
+  "374105a3f7c85b46",
+  "2c04dc29f7556b69",
+  "d86c49eccf55dc98",
+  "e4622ad6a8e0636d",
+  "ff4f672a19f4e5a0",
+  "798978a367cca058",
+  "33832b4a7c141d4e",
+  "58c660827bbe2faa",
+  "e3aeda47fd21dfa1",
+  "4c0f6194eef7267d",
+  "3acdd47c85577f6c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 537,
+  "checked": 500,
+  "brokenCount": 13,
+  "broken": [
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Basket/ViewBasket",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login?Area=",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/council-tenants/buying-your-council-home-london"
+    ]
+   },
+   {
+    "url": "https://hackney.gov.uk/apps",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/AccessibilityStatement",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/SiteMap",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/CookiePage",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "http://content.tfl.gov.uk/strategic-cycling-analysis.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycleway-23"
+    ]
+   },
+   {
+    "url": "https://www.hackneycircle.co.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/culture/culture-activities-events-and-funding-opportunities-hackney"
+    ]
+   },
+   {
+    "url": "https://www.lovehackney.uk/culturalhackney",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/culture/culture-activities-events-and-funding-opportunities-hackney"
+    ]
+   },
+   {
+    "url": "http://www.chscb.org.uk/vulnerableadolescents/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults/modern-day-slavery"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/selman-house-and-wellday-house-gascoyne-estate"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 9,
+  "axe": 50,
+  "plain-language": 26,
+  "resources": 50,
+  "images": 50,
+  "tech": 4,
+  "third-party": 11,
+  "lighthouse": 6,
+  "link-check": 50,
+  "standards": 24,
+  "alfa": 34,
+  "public-interest": 4,
+  "security": 6,
+  "deprecated-html": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T14:09:00.916Z"
+}
