@@ -1,0 +1,233 @@
+{
+ "runId": "2026-11-16T18-49-47-925Z-a195f6",
+ "week": "2026-W47",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T18:49:48.884Z",
+ "scanned": [
+  "4ab63b8857286ce3",
+  "2394701c5deba6ff",
+  "81f48b7a0953e438",
+  "3fed5486f8b6dd17",
+  "e0961f3fa20c064f",
+  "b7583fc6aaaf6e8a",
+  "7f5984aae4143017",
+  "cb11d78265dbfe64",
+  "216aea98612cf4f9",
+  "e56f53bc109e311c",
+  "1d8998e173971db3",
+  "68715e7b658a9310",
+  "112850a7dfc9f700",
+  "e4a5d583c59cbbbe",
+  "a57c4343bd3658b2",
+  "13a1e431dbe81447",
+  "fa3bb82ba2a45a1a",
+  "f2679cb3a9a28b42",
+  "c1c81451362863a0",
+  "a7e54e4bb5cbc275",
+  "2cce9d9f1222c420",
+  "d70ed69b9b12f2f8",
+  "f8d61e8506c11a2a",
+  "582f8b2f68e6ac4f",
+  "aa48e89467ccf8c1",
+  "6a4433a5ba35a2a9",
+  "47bf331cfd33f46d",
+  "54b7b5aab4b15022",
+  "ab6022931ea1e739",
+  "ccba3ac2c08884b2",
+  "0ce5a027a11e171c",
+  "8f41332e14b7c8e3",
+  "6f3a4906521490dc",
+  "3e7ee1ae4c1500bc",
+  "6b2c08c885a74b23",
+  "8142a5ce0de3ae84",
+  "a23d6fbce489db19",
+  "7548caf03b47a18f",
+  "c38f3f6e38c06643",
+  "fcb2ad8a4be37267",
+  "7c10e8ba2d0f9a38",
+  "db5f487238642ab4",
+  "2fbaf2ed128d5468",
+  "c3714157fe90c55a",
+  "389c5a5995d372c4",
+  "b507cbd42f4652cb",
+  "1dde517d52aa69c2",
+  "9aa2c9e35738c3c5",
+  "e6c880be63fd364e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 447,
+  "checked": 447,
+  "brokenCount": 13,
+  "broken": [
+   {
+    "url": "https://www.hackneycitizen.co.uk/2018/11/14/young-black-men-programmes-inspirational-leaders-speak-out/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://archive.londoncouncils.gov.uk/our-key-themes/race-equality/london-local-government-tackling-racial-inequality-programme",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://www.london.gov.uk/what-we-do/communities/workforce-integration-network-win/inclusive-employers-toolkit",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://www.citybridgetrust.org.uk/wp-content/uploads/2017/07/Moving-on-Up-full-evaluation-report-.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://www.lovehackney.uk/black-history-season",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://www.hackneyyoungfutures.co.uk/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://www.islington.gov.uk/benefits-and-support/cost-of-living-support/household-support-fund",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/get-help-crisis-and-resilience-fund"
+    ]
+   },
+   {
+    "url": "https://www.towerhamlets.gov.uk/lgnl/advice_and_benefits/cost-of-living/household-support-fund.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/get-help-crisis-and-resilience-fund"
+    ]
+   },
+   {
+    "url": "https://llc.ent.sirsidynix.net.uk/client/en_GB/hackney",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/library-services-children-and-teenagers"
+    ]
+   },
+   {
+    "url": "https://www.whufc.com/fixtures/first-team/fixtures-and-results",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/queen-elizabeth-olympic-park-events"
+    ]
+   },
+   {
+    "url": "https://drive.google.com/open?id=1ZXOH5Eh7569fZZY0B7b17eVBxDZfGGu4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridport-house"
+    ]
+   },
+   {
+    "url": "http://www.workingtogetheronline.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/if-youre-worried-about-child-or-young-person/local-authority-designated-officer-lado"
+    ]
+   },
+   {
+    "url": "http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/2012-provisional-results/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/age-and-sex-discrimination"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "plain-language": 29,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "sustainability": 8,
+  "deprecated-html": 6,
+  "standards": 24,
+  "tech": 4,
+  "third-party": 14,
+  "lighthouse": 6,
+  "alfa": 19,
+  "public-interest": 4,
+  "security": 1
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T18:57:07.901Z"
+}
