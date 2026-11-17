@@ -1,0 +1,152 @@
+{
+ "runId": "2026-11-17T16-53-06-446Z-b924cb",
+ "week": "2026-W47",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T16:53:08.482Z",
+ "scanned": [
+  "d0ac9229affcd72c",
+  "5702dc5ce890bfa9",
+  "d2f9609cade96822",
+  "71f7a0dc15490ec3",
+  "1add0cfb511624b0",
+  "0304fe3e099a7159",
+  "b488ccebde5f1372",
+  "0b757f73c0f585c1",
+  "2754a4c400cfd2a2",
+  "14f7f1b120707aac",
+  "552f51f9048d9828",
+  "1d8ee0753de14d9f",
+  "448f983b4249f709",
+  "3d3a6ccc001b96cc",
+  "650becc91c7a8754",
+  "97d569f0010130fd",
+  "3b969fb2ef824da7",
+  "f409c924622a56b4",
+  "76122146e6df7654",
+  "9b6ab9f5a8262f60",
+  "3cc4ec5f132d1c72",
+  "b75fc7df090f07e5",
+  "01f0df857ce887dc",
+  "dbcdb69893611383",
+  "68b88c38a5e4bbeb",
+  "cff6a9ca4809bb55",
+  "0215c8d29a8c15e2",
+  "a3068b60dff9da10",
+  "9786ce3078518314",
+  "3eeff22bef250eb7",
+  "36f5f0ff59db6d63",
+  "3e31894b62d2bd23",
+  "68abba5a24ee6452",
+  "c211ee0d4a4ac258",
+  "db88a81f029d3f6e",
+  "46875c59624ca8c6",
+  "1653776ac32f395d",
+  "5274774e35d0d9d2",
+  "d42d19f12d2c39a1",
+  "19e46f8beb4f3454",
+  "f5846193a9ecd466",
+  "b021c56ad80890b4",
+  "6802dc8dfce22734",
+  "0572a1ca33087754",
+  "5d8202a08d8c565b",
+  "90482d266fd081af",
+  "491766b08a8ea4a0",
+  "0b964fc5bd7272ef"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 555,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://www.hackney.gov.uk/update-on-cycle-superhighway-1/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycling-overview"
+    ]
+   },
+   {
+    "url": "https://onedigital.hackney.gov.uk/publicaccesslive/selfservice/citizenportal/registration.htm?_flowId=citizenportal%2Fregistration&_flowExecutionKey=e1s1",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-landlord-payment-account"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/private-tenants-and-landlords/private-tenants/help-private-sector-tenants"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "resources": 47,
+  "images": 47,
+  "third-party": 16,
+  "link-check": 47,
+  "standards": 26,
+  "plain-language": 28,
+  "public-interest": 5,
+  "lighthouse": 5,
+  "alfa": 18,
+  "security": 4,
+  "deprecated-html": 4,
+  "sustainability": 3,
+  "tech": 5
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T17:01:58.940Z"
+}
