@@ -1,0 +1,138 @@
+{
+ "runId": "2026-11-17T16-53-35-989Z-a2ca98",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T16:53:39.872Z",
+ "scanned": [
+  "841a5252f662f918",
+  "4a19322a95fd20fb",
+  "96b45c9e129e49a5",
+  "e9849e10af565f4f",
+  "cc0ee33d3ef5c04d",
+  "c27ee4143fecd300",
+  "4160873f56271787",
+  "5fbe5ce68bf26342",
+  "bf8d3639bf3899ee",
+  "2e91bbc5af12508e",
+  "2fecb0acc98d56ab",
+  "9e862fc656896566",
+  "fd1f94163e620b2e",
+  "4d899085134b5e7f",
+  "9d67bf14279f7e38",
+  "a456b65bccaae0ae",
+  "1e3cdad54cfca873",
+  "afbe7eba0f815f36",
+  "95b0e480f90fdb82",
+  "bf8fc7fe935d003e",
+  "e749e09810a4d801",
+  "b5e70efcf00c23f4",
+  "90bb35c17ba17644",
+  "24de543c7cba6c9d",
+  "5b36f7395c035691",
+  "f1cb5ca41601544c",
+  "98f79044ea9811ac",
+  "ba4ac6aa36edb9d2",
+  "5a220bb2909ef66a",
+  "fbf150925fcf7b06",
+  "315e0c96ca80b138",
+  "159c81fb87db62ca",
+  "04d0fb8b67af19f8",
+  "9553b95399a15459",
+  "add4dfad31157022",
+  "132ebb9570288c3a",
+  "04da74a2e8045707",
+  "a124c73c525e7c5e",
+  "2bcf3cc60aa4f9b8",
+  "fc7f725a1b1d3282",
+  "cfe724645d4590a9",
+  "41a93dc9fc116e17",
+  "ea62c3c68b575908",
+  "7dccf2dc38c5dc06",
+  "c8ed8aa85fca77c7",
+  "8ec2836c914d6f4f",
+  "150128fb60656af1",
+  "c8607737e3c8379a",
+  "8fbecfda53d421bc",
+  "5c732c9f19a20e9f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 945,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclubspark.lta.org.uk%2FWalsallarboretumWalsall%2FCoaching%2FSummary%2Fc2a92b8e-bf2d-484d-bd39-e4963e0d3ff1%23%3A~%3Atext%3DJoin%2520Free%2520Park%2520Tennis%2520at%2Cbe%2520ready%2520to%2520have%2520fun&data=05%7C02%7Csarah.phillips2%40walsall.gov.uk%7C41069d7994ad4ef2a8d808de705a0c16%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639071729248698423%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=quuxd5CORAG44eRNDkOctIg%2FIeyVFGlxJ5faWxFEJ%2FI%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/free-park-tennis-walsall-arboretum"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "alfa": 25,
+  "plain-language": 23,
+  "public-interest": 4,
+  "lighthouse": 7,
+  "standards": 17,
+  "tech": 7,
+  "third-party": 12,
+  "security": 4,
+  "sustainability": 8,
+  "deprecated-html": 7
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T17:08:34.271Z"
+}
