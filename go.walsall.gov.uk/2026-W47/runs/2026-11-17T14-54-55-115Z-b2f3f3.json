@@ -1,0 +1,146 @@
+{
+ "runId": "2026-11-17T14-54-55-115Z-b2f3f3",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T14:54:59.038Z",
+ "scanned": [
+  "23b280a4de6fbd60",
+  "d914403c5dfc9fe0",
+  "925e009f05db17d3",
+  "1bb883cfc32d5202",
+  "ad87c82efec2859c",
+  "cc1fbe3d7b49e0f5",
+  "995022fdef17615f",
+  "453ba3b7c5e33e56",
+  "ef13af69525447bf",
+  "a82d64d9b647104b",
+  "0978af4ceefe473b",
+  "3de49be1cdd08a8a",
+  "c02f1e30d24c51ba",
+  "eeb928ae880babee",
+  "74f7624a3a9965f8",
+  "31d997cc8278af15",
+  "7edd59cf6036109f",
+  "f57e18efaf0ecbd4",
+  "25d7caa1a985e5bf",
+  "c1fbbb157f589e99",
+  "d1d6a6ddd1712efa",
+  "99af61576f7a80c2",
+  "ee9b4e7c02f680d0",
+  "50c80d8436cf6ba5",
+  "fd2466421f5e1706",
+  "88931e3a1ad61390",
+  "2a370ba83efaf131",
+  "06cbb499cd96b74d",
+  "b01e1f0362a58e34",
+  "b47dcf7f341ba070",
+  "05bd861381a495bb",
+  "eef4e94774df719c",
+  "392e8db2d1f6ed73",
+  "d438afc475c24c71",
+  "1597a93783028240",
+  "1db561aa20550a07",
+  "ea7a94aaaba445e2",
+  "9868377fbac912cb",
+  "e494d60892583eaa",
+  "7ac804ef6c0386c4",
+  "3a4ab14742593fb1",
+  "092a26c5db8f1345",
+  "d7e0c8f510973685",
+  "292a2d9c48b53c55",
+  "0dcb93429a12f288",
+  "f8b18833d5288d3b",
+  "9029660256a3b3b7",
+  "a9de49067cb52b62",
+  "8ad4997cdfa3a313",
+  "8a31fd87d03fdd6f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 895,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://loveexploring.co.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/barr-beacon-local-nature-reserve"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.westmidlands.police.uk%2Fnews%2Fwest-midlands%2Fnews%2Fnews%2F2025%2Fjuly%2Fsafer-streets-summer-policing-activity-across-the-west-midlands%2F%23%3A~%3Atext%3DAs%2520part%2520of%2520the%2520national%2Cpolicing%2520and%2520supporting%2520our%2520communities.&data=05%7C02%7CNathan.Rowe%40walsall.gov.uk%7C30fd58f45a05459629f608ddd047db96%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638895729263037446%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CKkaiXlpEqvcvGKh6gqTC1IXYczrXA57LBgFQ3pA%2Fvw%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/town-centre-car-park-cleared-crime-and-anti-social-behaviour"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 27,
+  "resources": 49,
+  "images": 49,
+  "standards": 23,
+  "link-check": 49,
+  "sustainability": 2,
+  "plain-language": 23,
+  "deprecated-html": 7,
+  "tech": 6,
+  "third-party": 11,
+  "security": 4,
+  "public-interest": 8,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T15:09:00.469Z"
+}
