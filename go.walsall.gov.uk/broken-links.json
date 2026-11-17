@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-16T22:28:50.182Z",
+ "updatedAt": "2026-11-17T21:17:29.145Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -1119,14 +1119,15 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&page=8"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A354"
    ]
   },
   "http://centsa.org.uk/anonymous-hotline/": {
@@ -1283,6 +1284,97 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/wellbeing-directory/walsall-society-blind-sight-loss-awareness-training"
+   ]
+  },
+  "https://www.stjohnsacademy.co.uk/": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/walsall-council-welcomes-armed-forces-covenant-signatures-local-organisations"
+   ]
+  },
+  "https://www.stpetersacademystonnall.com/": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/walsall-council-welcomes-armed-forces-covenant-signatures-local-organisations"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.stmatthewswalsall.co.uk%2Fevents&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C0de6bedbf82d4b7f91f308de33fc44c7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639005356034397125%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=9rVaQtVgguh21bs7W%2Bew8zepwD70FZkRifvJDi4FRrA%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/mayor-walsall-invites-residents-civic-carol-service-st-matthews-church"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fyour-council%2Fmayor-of-walsall%2Fmayoral-events&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C0de6bedbf82d4b7f91f308de33fc44c7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639005356034440414%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KNljm16gWTMjZu7cn8SR5OQriM7UkD4sOGmkjeqZJe0%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/mayor-walsall-invites-residents-civic-carol-service-st-matthews-church"
+   ]
+  },
+  "https://loveexploring.co.uk/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/barr-beacon-local-nature-reserve"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.westmidlands.police.uk%2Fnews%2Fwest-midlands%2Fnews%2Fnews%2F2025%2Fjuly%2Fsafer-streets-summer-policing-activity-across-the-west-midlands%2F%23%3A~%3Atext%3DAs%2520part%2520of%2520the%2520national%2Cpolicing%2520and%2520supporting%2520our%2520communities.&data=05%7C02%7CNathan.Rowe%40walsall.gov.uk%7C30fd58f45a05459629f608ddd047db96%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638895729263037446%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CKkaiXlpEqvcvGKh6gqTC1IXYczrXA57LBgFQ3pA%2Fvw%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/town-centre-car-park-cleared-crime-and-anti-social-behaviour"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclubspark.lta.org.uk%2FWalsallarboretumWalsall%2FCoaching%2FSummary%2Fc2a92b8e-bf2d-484d-bd39-e4963e0d3ff1%23%3A~%3Atext%3DJoin%2520Free%2520Park%2520Tennis%2520at%2Cbe%2520ready%2520to%2520have%2520fun&data=05%7C02%7Csarah.phillips2%40walsall.gov.uk%7C41069d7994ad4ef2a8d808de705a0c16%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639071729248698423%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=quuxd5CORAG44eRNDkOctIg%2FIeyVFGlxJ5faWxFEJ%2FI%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/events/free-park-tennis-walsall-arboretum"
    ]
   }
  }

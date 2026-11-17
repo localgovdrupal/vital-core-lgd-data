@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-16T22:28:51.473Z",
+ "updatedAt": "2026-11-17T21:17:30.989Z",
  "vendors": {
   "hotjar.com": {
    "firstSeen": "2026-W44",
@@ -214,12 +214,13 @@
   },
   "cloudflare.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "withgoogle.com": {
@@ -243,11 +244,12 @@
   },
   "vimeo.com": {
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "fbcdn.net": {
@@ -279,20 +281,22 @@
   },
   "facebook.com": {
    "firstSeen": "2026-W46",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "facebook.net": {
    "firstSeen": "2026-W46",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "cloudflareinsights.com": {
@@ -312,6 +316,33 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": false
+  },
+  "nlwa.gov.uk": {
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "googleoptimize.com": {
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "addtoany.com": {
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
   }
  }
 }
