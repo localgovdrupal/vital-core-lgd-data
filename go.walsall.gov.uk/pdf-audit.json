@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-16T02:23:07.457Z",
+ "updatedAt": "2026-11-17T04:45:27.350Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -4750,6 +4750,256 @@
   },
   "http://go.walsall.gov.uk/sites/default/files/2025-11/Adult%20Social%20Care%20Workforce%20Strategy%202025-2028.pdf": {
    "checkedAt": "2026-11-16T02:23:07.455Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-11/Hackney%20Carriage%20and%20Private%20Hire%20licensing%20handbook.pdf": {
+   "checkedAt": "2026-11-17T04:44:51.307Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/rights_of_way_improvement_plan_summary_0.pdf": {
+   "checkedAt": "2026-11-17T04:44:52.809Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Salt%20bin%20application.pdf": {
+   "checkedAt": "2026-11-17T04:44:54.310Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Audit%20signed%20opinion%202017-18.pdf": {
+   "checkedAt": "2026-11-17T04:44:55.811Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Audited%20financial%20report%202020-21.pdf": {
+   "checkedAt": "2026-11-17T04:44:57.312Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Financial%20report%20%28audited%29%202018-19.pdf": {
+   "checkedAt": "2026-11-17T04:44:58.815Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Financial%20report%202016-17.pdf": {
+   "checkedAt": "2026-11-17T04:45:00.317Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Financial%20report%202017-18.pdf": {
+   "checkedAt": "2026-11-17T04:45:01.818Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Financial%20report%202019-20.pdf": {
+   "checkedAt": "2026-11-17T04:45:03.318Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Notice%20of%20conclusion%20of%20audit_0.pdf": {
+   "checkedAt": "2026-11-17T04:45:04.820Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Notice%20of%20conclusion%20of%20audit.pdf": {
+   "checkedAt": "2026-11-17T04:45:06.323Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Notice%20of%20conclusion%20of%20audit%202016-17.pdf": {
+   "checkedAt": "2026-11-17T04:45:07.824Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Notice%20of%20conclusion%20of%20audit%202018-19.pdf": {
+   "checkedAt": "2026-11-17T04:45:09.326Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/rights_of_way_improvement_plan.pdf": {
+   "checkedAt": "2026-11-17T04:45:10.828Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Summary%20accounts%202020-21.pdf": {
+   "checkedAt": "2026-11-17T04:45:12.330Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Summary%20of%20accounts.pdf": {
+   "checkedAt": "2026-11-17T04:45:13.832Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Summary%20of%20accounts%202016-17.pdf": {
+   "checkedAt": "2026-11-17T04:45:15.334Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Summary%20of%20accounts%202018-19.pdf": {
+   "checkedAt": "2026-11-17T04:45:16.836Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Summary%20of%20accounts%202019-20.pdf": {
+   "checkedAt": "2026-11-17T04:45:18.338Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Walsall%20MBC%20audit%20closure%20certificate%202018-19.pdf": {
+   "checkedAt": "2026-11-17T04:45:19.840Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Walsall%20Metropolitan%20Borough%20Council%20certificate%20of%20audit%20closure.pdf": {
+   "checkedAt": "2026-11-17T04:45:21.341Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chester%20Road%20Streetly%20139-172%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-17T04:45:22.842Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Darlaston%20Road%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-17T04:45:24.344Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Former%20NHS%20site%20Netherhall%20Ave%20Local%20Sites%20Assessment%20Report%20-%20Redacted_0.pdf": {
+   "checkedAt": "2026-11-17T04:45:25.846Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Home%20Farm%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-17T04:45:27.348Z",
    "week": "2026-W47",
    "httpStatus": null,
    "status": "error",

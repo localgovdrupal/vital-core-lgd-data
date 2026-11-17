@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-11-16T02:24:54.075Z",
+ "updatedAt": "2026-11-17T04:46:06.677Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -3159,37 +3159,37 @@
    ]
   },
   "https://www.luton.gov.uk/Council_government_and_democracy/Lists/LutonDocuments/PDF/black-unsung-heroes-awards-2024.pdf": {
-   "checkedAt": "2026-11-01T01:27:06.199Z",
-   "week": "2026-W44",
+   "checkedAt": "2026-11-17T04:45:37.518Z",
+   "week": "2026-W47",
    "httpStatus": 404,
-   "etag": "\"1793496426\"",
-   "lastModified": "Sun, 01 Nov 2026 01:27:06 GMT",
+   "etag": "\"1794890737\"",
+   "lastModified": "Tue, 17 Nov 2026 04:45:37 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
     "HTTP 404"
    ]
   },
   "https://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/Local%20Plan/Other%20relevant%20documentation/Luton%20HMA%20Growth%20Options%20Study%20FINAL%20Report%2029%2003%2017.pdf": {
-   "checkedAt": "2026-11-01T01:27:08.031Z",
-   "week": "2026-W44",
+   "checkedAt": "2026-11-17T04:45:39.632Z",
+   "week": "2026-W47",
    "httpStatus": 404,
-   "etag": "\"1793496427\"",
-   "lastModified": "Sun, 01 Nov 2026 01:27:07 GMT",
+   "etag": "\"1794890739\"",
+   "lastModified": "Tue, 17 Nov 2026 04:45:39 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
     "HTTP 404"
    ]
   },
   "https://www.luton.gov.uk/Leisure_and_culture/Lists/LutonDocuments/PDF/Arts%20and%20cultural/harnessing-momentum.pdf": {
-   "checkedAt": "2026-11-01T01:27:10.078Z",
-   "week": "2026-W44",
+   "checkedAt": "2026-11-17T04:45:41.641Z",
+   "week": "2026-W47",
    "httpStatus": 404,
-   "etag": "\"1793496429\"",
-   "lastModified": "Sun, 01 Nov 2026 01:27:09 GMT",
+   "etag": "\"1794890741\"",
+   "lastModified": "Tue, 17 Nov 2026 04:45:41 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
     "HTTP 404"
    ]
@@ -5457,17 +5457,17 @@
    "errors": []
   },
   "https://www.luton.gov.uk/sites/default/files/2026-01/Beech%20Hill%20ward%20-%20proposed%20routes.pdf": {
-   "checkedAt": "2026-11-03T03:45:38.053Z",
-   "week": "2026-W45",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-17T04:45:43.588Z",
+   "week": "2026-W47",
+   "httpStatus": 304,
    "md5": "1906585f9275fde7cddff66cb19fb8e3",
    "bytes": 3875038,
    "etag": "W/\"69c2886f-3b20de\"",
    "lastModified": "Tue, 24 Mar 2026 12:49:51 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "Analysis exceeded 120s per-file limit"
+    "unchanged, but never analysed"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-01/Beech%20Hill%20ward%20-%20proposed%20routes%20%28L103%29.pdf": {
@@ -8021,17 +8021,17 @@
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-02/Tenants%20satisfaction%20survey%20results%202023.pdf": {
-   "checkedAt": "2026-11-05T02:51:30.664Z",
-   "week": "2026-W45",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-17T04:45:47.014Z",
+   "week": "2026-W47",
+   "httpStatus": 304,
    "md5": "5ef1a347bf53035689fd9f3b0696889b",
    "bytes": 16989474,
    "etag": "W/\"6a2800ef-1033d22\"",
    "lastModified": "Tue, 09 Jun 2026 12:02:55 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "Analysis exceeded 120s per-file limit"
+    "unchanged, but never analysed"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-02/Tenants%20satisfaction%20survey%20results%202025%20to%202026.pdf": {
@@ -8411,17 +8411,17 @@
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-03/Local%20flood%20risk%20management%20strategy%20July%202015.pdf": {
-   "checkedAt": "2026-11-06T02:51:21.502Z",
-   "week": "2026-W45",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-17T04:45:48.575Z",
+   "week": "2026-W47",
+   "httpStatus": 404,
    "md5": "33680441491652955bfd9b9867b722eb",
    "bytes": 1821429,
-   "etag": "W/\"6ad87346-1bcaf5\"",
-   "lastModified": "Wed, 21 Oct 2026 08:09:42 GMT",
+   "etag": "\"1794885532\"",
+   "lastModified": "Tue, 17 Nov 2026 03:18:52 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "Analysis exceeded 120s per-file limit"
+    "HTTP 404"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-03/Luton-safety-at-sports-ground-advisory-group-terms-of-reference.pdf": {
@@ -10643,17 +10643,17 @@
    "errors": []
   },
   "https://www.luton.gov.uk/sites/default/files/2026-05/Luton%20SEA%20scoping%20report.pdf": {
-   "checkedAt": "2026-11-08T01:52:04.057Z",
-   "week": "2026-W45",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-17T04:45:50.808Z",
+   "week": "2026-W47",
+   "httpStatus": 304,
    "md5": "3ec5c4d7d56353de24c47ce7aff66965",
    "bytes": 9695893,
    "etag": "W/\"6a172a6a-93f295\"",
    "lastModified": "Wed, 27 May 2026 17:31:22 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "Analysis exceeded 120s per-file limit"
+    "unchanged, but never analysed"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-05/Members%20Allowances%202024-2025_2.pdf": {
@@ -10989,17 +10989,17 @@
    "errors": []
   },
   "https://www.luton.gov.uk/sites/default/files/2026-06/Community%20involvement%20paper.pdf": {
-   "checkedAt": "2026-11-08T01:52:04.061Z",
-   "week": "2026-W45",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-17T04:45:53.491Z",
+   "week": "2026-W47",
+   "httpStatus": 304,
    "md5": "e11d1d3c304eb8207181c3768f579622",
    "bytes": 18877349,
    "etag": "W/\"6a20308f-1200ba5\"",
    "lastModified": "Wed, 03 Jun 2026 13:47:59 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "Analysis exceeded 120s per-file limit"
+    "unchanged, but never analysed"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-06/Council%20Tax%20Exceptional%20Hardship%20scheme%202026%20to%202027.pdf": {
@@ -12193,15 +12193,15 @@
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/migrated/Council_government_and_democracy/Lists/LutonDocuments/PDF/Corporate%20Finance/Accounts/Audit-results-report-2017-18.pdf": {
-   "checkedAt": "2026-11-10T04:19:38.750Z",
-   "week": "2026-W46",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-17T04:45:56.787Z",
+   "week": "2026-W47",
+   "httpStatus": 304,
    "etag": "W/\"69d8ae28-20771a8\"",
    "lastModified": "Fri, 10 Apr 2026 08:00:40 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "larger than the 25.0 MB limit (31.5 MB)"
+    "unchanged, but never analysed"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-10/8%20-%20Appendix%20Q%20-%20Investment%20Strategy%202026-27.pdf": {
@@ -15203,17 +15203,17 @@
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/migrated/Environment/Lists/LutonDocuments/PDF/Local%20Plan/Climate%20change/CC%20006.pdf": {
-   "checkedAt": "2026-11-12T03:22:46.118Z",
-   "week": "2026-W46",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-17T04:45:58.915Z",
+   "week": "2026-W47",
+   "httpStatus": 304,
    "md5": "b7ccc81cf1dec1c7c51463af4dfbd0b9",
    "bytes": 6168027,
    "etag": "W/\"69c27c8d-5e1ddb\"",
    "lastModified": "Tue, 24 Mar 2026 11:59:09 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "Analysis exceeded 120s per-file limit"
+    "unchanged, but never analysed"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/migrated/Environment/Lists/LutonDocuments/PDF/Local%20Plan/Infrastructure%20and%20delivery/annual-monitoring-report-2022-23.pdf": {
@@ -15259,15 +15259,15 @@
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/migrated/Environment/Lists/LutonDocuments/PDF/Local%20Plan/Other%20relevant%20documentation/Central%20Bedfordshire%20and%20Luton%20Green%20Belt%20Study%20Final%20Report.pdf": {
-   "checkedAt": "2026-11-13T02:53:48.882Z",
-   "week": "2026-W46",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-17T04:46:01.413Z",
+   "week": "2026-W47",
+   "httpStatus": 304,
    "etag": "W/\"69c27c11-1ee6644\"",
    "lastModified": "Tue, 24 Mar 2026 11:57:05 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "larger than the 25.0 MB limit (30.4 MB)"
+    "unchanged, but never analysed"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/migrated/Environment/Lists/LutonDocuments/PDF/Local%20Plan/Infrastructure%20and%20delivery/annual-monitoring-report-2023-24.pdf": {
@@ -16363,17 +16363,17 @@
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/migrated/Environment/Lists/LutonDocuments/PDF/Local%20Plan/Vision%20objectives%20and%20spatial%20strategy/STR%20010.pdf": {
-   "checkedAt": "2026-11-14T02:44:45.839Z",
-   "week": "2026-W46",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-17T04:46:03.404Z",
+   "week": "2026-W47",
+   "httpStatus": 304,
    "md5": "ed2fdaa8561ce183a6b9488de002dbda",
    "bytes": 5686939,
    "etag": "W/\"69c27ba0-56c69b\"",
    "lastModified": "Tue, 24 Mar 2026 11:55:12 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "Analysis exceeded 120s per-file limit"
+    "unchanged, but never analysed"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/migrated/Environment/Lists/LutonDocuments/PDF/Local%20Plan/Vision%20objectives%20and%20spatial%20strategy/STR%20011.pdf": {
@@ -17287,13 +17287,13 @@
    ]
   },
   "https://www.luton.gov.uk/system/files/file-visibility/migrated/Council_government_and_democracy/Lists/LutonDocuments/PDF/Voting%20and%20elections/certificate-of-result-south-ward-by-election-2021.pdf": {
-   "checkedAt": "2026-11-15T02:06:37.382Z",
-   "week": "2026-W46",
+   "checkedAt": "2026-11-17T04:46:05.666Z",
+   "week": "2026-W47",
    "httpStatus": 404,
-   "etag": "\"1794708397\"",
-   "lastModified": "Sun, 15 Nov 2026 02:06:37 GMT",
+   "etag": "\"1794890765\"",
+   "lastModified": "Tue, 17 Nov 2026 04:46:05 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
     "HTTP 404"
    ]
@@ -19287,6 +19287,144 @@
     }
    },
    "errors": []
+  },
+  "https://www.luton.gov.uk/Transport_and_streets/Lists/LutonDocuments/PDF/resurfacing-2025-26.pdf": {
+   "checkedAt": "2026-11-17T04:45:35.547Z",
+   "week": "2026-W47",
+   "httpStatus": 404,
+   "etag": "\"1794890735\"",
+   "lastModified": "Tue, 17 Nov 2026 04:45:35 GMT",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "HTTP 404"
+   ]
+  },
+  "https://www.luton.gov.uk/system/files/file-visibility/migrated/Health_and_social_care/Lists/LutonDocuments/PDF/Adopt-east-peer-support-line.pdf": {
+   "checkedAt": "2026-11-17T04:46:06.564Z",
+   "week": "2026-W47",
+   "httpStatus": 200,
+   "md5": "7230dc676dd1e244212690843354c6d6",
+   "bytes": 201993,
+   "etag": null,
+   "lastModified": "Tue, 17 Feb 2026 13:18:33 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": "2025-10-08",
+    "title": null,
+    "pages": 1,
+    "words": 0,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, "
+   ]
+  },
+  "https://www.luton.gov.uk/system/files/file-visibility/migrated/Health_and_social_care/Lists/LutonDocuments/PDF/Children%20and%20Families/Independent-visitors.pdf": {
+   "checkedAt": "2026-11-17T04:46:06.608Z",
+   "week": "2026-W47",
+   "httpStatus": 200,
+   "md5": "44647ce5f07dd7212f4221757b63aab3",
+   "bytes": 62263,
+   "etag": null,
+   "lastModified": "Mon, 16 Feb 2026 16:13:30 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2021-08-20",
+    "title": "Volunteer Independent Visitors",
+    "pages": 1,
+    "words": 271,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
+   ]
+  },
+  "https://www.luton.gov.uk/system/files/file-visibility/migrated/Health_and_social_care/Lists/LutonDocuments/PDF/Children%20and%20Families/Sessional-advocate.pdf": {
+   "checkedAt": "2026-11-17T04:46:06.668Z",
+   "week": "2026-W47",
+   "httpStatus": 200,
+   "md5": "969d956cfeda00d638e0fa319043cf44",
+   "bytes": 123091,
+   "etag": null,
+   "lastModified": "Mon, 16 Feb 2026 16:13:30 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2021-08-20",
+    "title": "Microsoft Word - attachment",
+    "pages": 3,
+    "words": 671,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
+   ]
   }
  }
 }
