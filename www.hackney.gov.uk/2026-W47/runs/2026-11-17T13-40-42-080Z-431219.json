@@ -1,0 +1,225 @@
+{
+ "runId": "2026-11-17T13-40-42-080Z-431219",
+ "week": "2026-W47",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T13:40:44.300Z",
+ "scanned": [
+  "3a20d991f3286f04",
+  "8645e210d1707c86",
+  "c8df900efef5da80",
+  "5c3be841e972db61",
+  "23e1892cc24628f9",
+  "606ac760cb82c969",
+  "ec5aba5045e2b975",
+  "4560f045a99a2655",
+  "8d79ddb0f4dea379",
+  "67c4ab961b96c03b",
+  "6d987a7cfa658649",
+  "554f19775c2bb659",
+  "a16006b0d4ca2e98",
+  "b95d9a603e363369",
+  "71cbf5e5e6ddf5da",
+  "4dd7825c27221dbf",
+  "a55bfdc0e33f65a4",
+  "d30f82f3f305d7a8",
+  "3f6d568dd86565a6",
+  "74d2d89e087283f9",
+  "983956bdc5348a56",
+  "7df77a4854b9fe9b",
+  "0d90f869dce6de65",
+  "0afb399793b3c5d0",
+  "7be6c0724d89f206",
+  "ed367b296b88849e",
+  "59e5ba0969610649",
+  "cd2c1c0ff9281519",
+  "f4b1cf93b8052b42",
+  "698f3bf1b2d1f7b5",
+  "d911b608cdf0ceda",
+  "2c48b65c64359864",
+  "d566c7037799d287",
+  "7ff4a808c43028c1",
+  "0c79b13add494b97",
+  "848bd5c589e25a85",
+  "973a0576f7132851",
+  "5cd31c704ab0203d",
+  "565a0df613581210",
+  "6f66d93cb10276c6",
+  "6ec0a4156eaadc8f",
+  "a80310ab44d142a4",
+  "eaff2bbd71c3feeb",
+  "d1ed002d11cf6e50",
+  "ee87287b1a33ab9f",
+  "38aba3b9690a58d5",
+  "5c0aab32f3867617",
+  "6e6999d31464328b",
+  "be2f536bbd23dfe1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 614,
+  "checked": 500,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.planningportal.co.uk/info/200187/your_responsibilities/37/planning_permission/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/article-4-directions"
+    ]
+   },
+   {
+    "url": "https://olioex.com/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://www.hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle/ways-reduce-waste-and-reuse-items"
+    ]
+   },
+   {
+    "url": "https://www.thameswater.co.uk/help/emergencies/blockages/report-a-blockage",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/what-do-if-your-property-flooded"
+    ]
+   },
+   {
+    "url": "https://www.food.gov.uk/business-guidance/food-safety-after-a-flood",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/what-do-if-your-property-flooded"
+    ]
+   },
+   {
+    "url": "https://www.ourmala.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Ffaith-and-belief-communities%2Fislam&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=00NvE%2Bmgem8Co7HlYZYFIhP2BZj3vUjdUavY4mQhGw0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Fcoping-trauma-better-mental-health&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YC%2B7UkUxOl%2B3YkOG9W2BcklShejRvhyFjVedw73ey94%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "http://bodyandsoulcharity.org/get-support/support-for-adults/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://www.chatworkshackney.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://www.hoxtontrust.org/our-food-garden/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "http://www.stmaryssecretgarden.org.uk/HTML/AboutUs.htm?LMCL=nvJ9A_",
+    "status": 0,
+    "reason": "UND_ERR_SOCKET",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://www.elft.nhs.uk/service/396/City-and-Hackney-Recovery-College",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 28,
+  "plain-language": 21,
+  "resources": 49,
+  "images": 49,
+  "standards": 29,
+  "link-check": 49,
+  "security": 6,
+  "tech": 5,
+  "sustainability": 4,
+  "deprecated-html": 5,
+  "third-party": 17,
+  "lighthouse": 6,
+  "public-interest": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T13:49:10.646Z"
+}
