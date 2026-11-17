@@ -1,0 +1,166 @@
+{
+ "runId": "2026-11-17T11-45-12-023Z-a7675c",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T11:45:12.714Z",
+ "scanned": [
+  "caff991e942594ac",
+  "b5e4db69878e8da9",
+  "92edc3d3b82ec705",
+  "02f9e69cbdea4b85",
+  "bb8f1fbd4d643660",
+  "88214d62f2a5687c",
+  "87fd9bf1c196ea49",
+  "fe1ea4ffe4ee4573",
+  "c0d7681f4b706abe",
+  "5aed6e1303dcc86c",
+  "8b69361dc3c56a20",
+  "bc2176539c1ee100",
+  "6ff93245c8f1174e",
+  "1a064246aab6e3b2",
+  "6511187dc08c1776",
+  "5dfb4b6fa3a8ddcd",
+  "b3631538df0922d2",
+  "46cc3b5b52bf99e2",
+  "dedd43c70b558fa6",
+  "bcd8949cd7dbc7d4",
+  "867b5a85e7457106",
+  "c5f80b18640b5baf",
+  "b4660a22c7bab389",
+  "d712cc32cfedefe9",
+  "04f457d9b0768bf1",
+  "d9260a926cd66181",
+  "428a7313971e8256",
+  "8214c86a272ee4e6",
+  "4ae16021158fd52e",
+  "e08576ab4fd26f58",
+  "2b246f76d1341bed",
+  "3934ac16154311c9",
+  "72d53bde8897ad0a",
+  "fb1729aa2fc0d123",
+  "fd5424d013ee5709",
+  "78d408994aa9b955",
+  "c4200aac881f7254",
+  "93c8e28228ba9ed4",
+  "63914d9e671af7a1",
+  "7e94ea71946a5a89",
+  "39f6d1f2fcc60a9f",
+  "20014824790b7065",
+  "66654ea12900f2b8",
+  "f856ae6ff7881d6f",
+  "397790c7a6b7b835",
+  "3b473b8e5ce91cb2",
+  "8f9f4b5ae3305bdd",
+  "24adc1672b0123a5"
+ ],
+ "errors": [
+  {
+   "pageId": "c860de867f988d12",
+   "url": "https://go.walsall.gov.uk/your-council/consultations/budget-consultation/have-your-say-budget",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://go.walsall.gov.uk/your-council/consultations/budget-consultation/have-your-say-budget\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 942,
+  "checked": 500,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://www.stjohnsacademy.co.uk/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-welcomes-armed-forces-covenant-signatures-local-organisations"
+    ]
+   },
+   {
+    "url": "https://www.stpetersacademystonnall.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-welcomes-armed-forces-covenant-signatures-local-organisations"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.stmatthewswalsall.co.uk%2Fevents&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C0de6bedbf82d4b7f91f308de33fc44c7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639005356034397125%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=9rVaQtVgguh21bs7W%2Bew8zepwD70FZkRifvJDi4FRrA%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/mayor-walsall-invites-residents-civic-carol-service-st-matthews-church"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fyour-council%2Fmayor-of-walsall%2Fmayoral-events&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C0de6bedbf82d4b7f91f308de33fc44c7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639005356034440414%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KNljm16gWTMjZu7cn8SR5OQriM7UkD4sOGmkjeqZJe0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/mayor-walsall-invites-residents-civic-carol-service-st-matthews-church"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "deprecated-html": 6,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "plain-language": 30,
+  "standards": 23,
+  "public-interest": 6,
+  "third-party": 13,
+  "alfa": 20,
+  "security": 5,
+  "lighthouse": 3,
+  "tech": 5,
+  "sustainability": 3
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T11:59:17.219Z"
+}
