@@ -1,0 +1,192 @@
+{
+ "runId": "2026-11-17T17-49-18-270Z-41e2c6",
+ "week": "2026-W47",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T17:49:18.664Z",
+ "scanned": [
+  "cab23d4f971c89a0",
+  "3e3aa0f72a5c9f02",
+  "2febc8bcf14f499a",
+  "3112c4161d22645a",
+  "5d2f30b208d02c29",
+  "92df44cf57a5f3d9",
+  "f9c27624205bbbd9",
+  "982d92ce0da3883e",
+  "068ed8f09caaed2f",
+  "1587c59b395afbd5",
+  "4b41d90bf0f643c6",
+  "fdd18c8e15f0a489",
+  "5ccd637db76ff27e",
+  "33e2efeb41b32528",
+  "16f407782cec1584",
+  "ba72b0ab419dd5f9",
+  "19761f57ad4086f6",
+  "20368d829b0e77ae",
+  "b8d20f675bce439d",
+  "7cd4d367519cadd4",
+  "45f7fa9e26d5a57e",
+  "29e7728ddb2b1588",
+  "47e2f7085a09ccb9",
+  "e2b0809c09be8366",
+  "61310dfa0212742f",
+  "b1141f204ac8d45d",
+  "76026204b4621c11",
+  "c3667da12dfd7240",
+  "747824d609d2a83e",
+  "972aa070d7179a5f",
+  "f9790239e4e05de7",
+  "f0acf6dda243b813",
+  "77228b64843373e1",
+  "1008bbf052b6c55a",
+  "0ce6186e9ba4d878",
+  "bc8aa70cf0b822b2",
+  "fcdca702d4c72b36",
+  "ffb8c9cd3cb4bf91",
+  "54d331aad21e8376",
+  "26d10bf26eddcbd3",
+  "be16df9b2aecf2ad",
+  "80cbcdf4170673d5",
+  "ee44a6b5bf7c128e",
+  "f9fb1bf9770d47c6",
+  "c527a49dd3bd381a",
+  "2dfaef16db4de62a",
+  "051565b97ba4b417",
+  "144ad2a9ddeeff72"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 527,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/fellows-court-and-weymouth-court"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/registers/index.html?fa=enforcement_register",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+    ]
+   },
+   {
+    "url": "https://quakersocialaction.org.uk/we-can-help/helping-funerals/down-earth/information-guidance/raising-money-toward",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/paying-funeral"
+    ]
+   },
+   {
+    "url": "https://support.google.com/mail/answer/56256?hl=en-GB",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://support.google.com/a/users/answer/9259846",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://support.google.com/a/users/answer/10197229?hl=en&ref_topic=9247638,7394060,2938454,&visit_id=637436344922760359-2990019082&rd=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://www.learnmyway.com/explore-the-subjects/using-email",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 27,
+  "deprecated-html": 7,
+  "resources": 48,
+  "images": 48,
+  "standards": 21,
+  "security": 5,
+  "link-check": 48,
+  "plain-language": 24,
+  "lighthouse": 6,
+  "third-party": 8,
+  "public-interest": 6,
+  "tech": 3,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T17:57:24.375Z"
+}
