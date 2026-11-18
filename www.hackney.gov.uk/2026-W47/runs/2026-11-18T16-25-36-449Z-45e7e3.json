@@ -1,0 +1,167 @@
+{
+ "runId": "2026-11-18T16-25-36-449Z-45e7e3",
+ "week": "2026-W47",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T16:25:36.769Z",
+ "scanned": [
+  "117af06912e5208e",
+  "a8bfeacfa2e25c95",
+  "bcde3de9dea10308",
+  "31bc9eb78a9f6a82",
+  "c5f544de80c16e60",
+  "771d70243e61ae74",
+  "2385c6c327376d9b",
+  "a1e3057b468ad715",
+  "871162be8c62e530",
+  "632787d62260a3ce",
+  "199ce9948dfac47f",
+  "f781b31df8dd5106",
+  "d8126ce3ecaef997",
+  "e3bf414a1a7cc4d0",
+  "9e7256088100996c",
+  "e6d473d81efe5db8",
+  "c2ae4f6eb06fcf4f",
+  "e8510f74721f2e24",
+  "46b0b27dc6947bbe",
+  "0fe5908c16817a66",
+  "27c5dc9be2c84249",
+  "481269480fdfc80e",
+  "105d3a63edb6c958",
+  "94c0a8bdb058977d",
+  "0365f7713ac17c78",
+  "cb7933af56c31ce0",
+  "4834abf24a577c8d",
+  "d5f78a9280fb0416",
+  "0289046540353e43",
+  "e3baff799c645e62",
+  "7aad26476f9d066d",
+  "5f886cd3302726aa",
+  "d0e4aa8a8a35899b",
+  "9f04c0e7dba9e126",
+  "e18c07a62e47a4e2",
+  "11ce8692368289d8",
+  "59babf10278d7dbd",
+  "c6b39dd57f16e7a3",
+  "2496c5e5d3e0557b",
+  "7051adf4927fab63",
+  "ee7fe35db51375d4",
+  "29e7e0181f097c83",
+  "a6ec9c8e0f0aec95",
+  "40a46d7bef098166",
+  "853f886798d111b8",
+  "33b4a1495971b2c2",
+  "9b952feff5ea4636"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 574,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "http://mginternet.hackney.gov.uk/documents/s48613/Appendix_5_PEP_2015-20_-_Consultation_Report.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-and-enforcement-plan"
+    ]
+   },
+   {
+    "url": "https://www.houseexchange.org.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/council-tenants/tenancy-agreement/move-your-social-home"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/parkside-estate"
+    ]
+   },
+   {
+    "url": "https://webforms.hackney.gov.uk/ufs/ufsmain?formid=GEN_SERVICE_REQUEST2&SUBCATEGORY=Planning%20decision%20notices",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/planning-decision-notices"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html?fa=search",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/planning-decision-notices"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 23,
+  "plain-language": 31,
+  "deprecated-html": 6,
+  "resources": 47,
+  "images": 47,
+  "lighthouse": 7,
+  "link-check": 47,
+  "security": 3,
+  "standards": 29,
+  "tech": 2,
+  "sustainability": 6,
+  "third-party": 11,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T16:34:12.264Z"
+}
