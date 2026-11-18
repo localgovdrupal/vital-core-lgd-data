@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-17T21:17:29.146Z",
+ "updatedAt": "2026-11-18T20:52:10.909Z",
  "vendors": {
   "pure.cloud": {
    "firstSeen": "2026-W44",
@@ -1728,13 +1728,14 @@
   },
   "googleapis.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": true
   },
   "ml314.com": {
@@ -2279,13 +2280,14 @@
   },
   "socdm.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "creative-serving.com": {
@@ -2379,13 +2381,14 @@
   },
   "mgid.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "t13.io": {
@@ -2425,13 +2428,14 @@
   },
   "sharethis.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "smartclip.net": {
@@ -2539,13 +2543,14 @@
   },
   "primis.tech": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "bidmatic.io": {
@@ -2863,22 +2868,24 @@
   },
   "astuntechnology.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "cloudflare.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "e-planning.net": {
@@ -2941,13 +2948,14 @@
   },
   "liftdsp.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "synthesia.io": {
@@ -3210,13 +3218,14 @@
   },
   "walmart.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "tappx.com": {
@@ -3536,6 +3545,15 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "152media-ssp.com": {
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "adserv-us.com": {
    "firstSeen": "2026-W47",
    "lastSeen": "2026-W47",
@@ -3555,6 +3573,15 @@
    "isScriptVendor": true
   },
   "live.com": {
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "ads-bidstrade.io": {
    "firstSeen": "2026-W47",
    "lastSeen": "2026-W47",
    "_weeks": [

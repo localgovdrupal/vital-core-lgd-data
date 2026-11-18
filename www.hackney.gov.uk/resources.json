@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-17T21:17:30.984Z",
+ "updatedAt": "2026-11-18T20:52:12.782Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -13,7 +13,7 @@
     "2026-W47"
    ],
    "weeksSeen": 4,
-   "lastPages": 578,
+   "lastPages": 855,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
@@ -169,13 +169,14 @@
   "https://map2.hackney.gov.uk/maps/school-streets/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets"
@@ -184,13 +185,14 @@
   "https://www.youtube.com/embed/J0pJlEyuxZM": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets"
@@ -504,13 +506,14 @@
   "https://map2.hackney.gov.uk/maps/leisure/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-leisure-map"
@@ -581,13 +584,14 @@
   "https://map2.hackney.gov.uk/maps/motorcycle-parking/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/two-wheeled-motorcycle-parking"
@@ -690,13 +694,14 @@
   "https://hcvs.org.uk/wp-content/uploads/2019/02/Profiling_the_needs_of_Hackney_s_Faith_Communities.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/hackney-faiths-network"
@@ -735,12 +740,13 @@
   "https://www.dropbox.com/s/af3wokdxlwhbms0/Decarbonise%20your%20House%20NOW%21%20Exhibition%20Guide_First%20Edition%20211126_ONLINE.pdf?dl=0": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/retrofitting-existing-buildings"
@@ -829,13 +835,14 @@
   "https://www.youtube.com/embed/PWwNwWb0rsU": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/resident-participation/tenant-management-organisations"
@@ -844,13 +851,14 @@
   "https://map2.hackney.gov.uk/maps/tenant-management-org/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/resident-participation/tenant-management-organisations"
@@ -922,13 +930,14 @@
   "https://r1.dotdigital-pages.com/p/6NIJ-KXM": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/more-us/subscribe-our-newsletters"
@@ -937,12 +946,13 @@
   "https://consultation.hackney.gov.uk/parking-services/zone-g2-review/results/zonegg2delegatedrepport2018.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-zone-consultations/closed-parking-zone-consultations"
@@ -951,12 +961,13 @@
   "https://consultation.hackney.gov.uk/parking-services/zone-l-disp/results/cdm--18650087-v1-stage_1-2_delegated_authority_report_-_zone_l_disp_-_june_2017_-_signed.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-zone-consultations/closed-parking-zone-consultations"
@@ -965,12 +976,13 @@
   "https://consultation.hackney.gov.uk/parking-services/zone-r-rectory-road/supporting_documents/CDM17443718v1Stage_Two_consultation_delegated_report_Zone_R__S_Displacement_and_N_Displacement_2016.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-zone-consultations/closed-parking-zone-consultations"
@@ -979,12 +991,13 @@
   "https://consultation.hackney.gov.uk/parking-services/zone-n-disp/supporting_documents/Stage_12_Delegated_Authority_Report__Zones_R__S_and_N_disp_areas__Jan_2017.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-zone-consultations/closed-parking-zone-consultations"
@@ -993,12 +1006,13 @@
   "https://consultation.hackney.gov.uk/parking-services/zone-d-review/supporting_documents/DPR%20%20Zone%20D%20Stage%204%20Review%20Consultation.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-zone-consultations/closed-parking-zone-consultations"
@@ -1007,12 +1021,13 @@
   "https://consultation.hackney.gov.uk/parking-services/zone-t-disp/results/stage12delegated_authority_report-zonetdisp-final_signed_version_200218.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-zone-consultations/closed-parking-zone-consultations"
@@ -1021,12 +1036,13 @@
   "https://consultation.hackney.gov.uk/parking-services/zone-u/results/zone_u_-_delegated_report.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-zone-consultations/closed-parking-zone-consultations"
@@ -1035,12 +1051,13 @@
   "https://consultation.hackney.gov.uk/parking-services/event-day/results/delegated_report_-_event_day_review_-_may_2017.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-zone-consultations/closed-parking-zone-consultations"
@@ -1049,12 +1066,13 @@
   "https://consultation.hackney.gov.uk/parking-services/event-day-1/results/qeop---delegated-report.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-zone-consultations/closed-parking-zone-consultations"
@@ -1269,12 +1287,13 @@
   "https://map2.hackney.gov.uk/maps/locally-listed-buildings/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/locally-listed-buildings"
@@ -1515,13 +1534,14 @@
   "https://map2.hackney.gov.uk/maps/parking-zones/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/parking-zones"
@@ -1880,13 +1900,14 @@
   "https://maps.google.co.uk/maps?q=clapton+pond&ie=UTF8&hq=&hnear=Clapton+Pond&gl=uk&t=m&layer=c&cbll=51.556154,-0.054657&panoid=VVpUL9jvLVEif1ThjYSwJQ&cbp=13,286.85,,0,-0.14&source=embed&ll=51.551366,-0.054674&spn=0.016758,0.044804&z=14&output=svembed": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-pond-conservation-area"
@@ -2197,13 +2218,14 @@
   "https://maps.google.co.uk/maps?f=q&source=embed&hl=en&geocode=&q=fremont+street&aq=&sll=51.560798,-0.085187&sspn=0.007857,0.013797&gl=uk&ie=UTF8&hq=&hnear=Fremont+St,+London+E9+7NQ,+United+Kingdom&t=m&layer=c&cbll=51.537762,-0.05537&panoid=8NI62i88ZWVRN3ah391LMw&cbp=13,175.13,,0,0&ll=51.532949,-0.055361&spn=0.016765,0.044804&z=14&output=svembed": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/fremont-and-warneford-conservation-area"
@@ -2290,13 +2312,14 @@
   "https://www.youtube.com/embed/zS1UAjNwN4s?si=AqGEkoebnS9Jcbiw": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/colville-estate"
@@ -2305,13 +2328,14 @@
   "https://map2.hackney.gov.uk/maps/conservation-areas/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/conservation-areas/conservation-areas-map"
@@ -2320,13 +2344,14 @@
   "https://maps.google.co.uk/maps?ie=UTF8&q=clissold+park&fb=1&gl=uk&hq=clissold+park&hnear=clissold+park&cid=0,0,5260737761912252347&t=m&layer=c&cbll=51.560801,-0.085189&panoid=iM7Q_bMNDzOG6pmzrKgPag&cbp=13,107.22,,0,-27.4&source=embed&ll=51.558974,-0.086775&spn=0.004669,0.011201&z=16&output=svembed": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clissold-park-conservation-area"
@@ -2455,12 +2480,13 @@
   "http://mginternet.hackney.gov.uk/documents/s48613/Appendix_5_PEP_2015-20_-_Consultation_Report.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-and-enforcement-plan"
@@ -2469,13 +2495,14 @@
   "https://www.youtube.com/embed/sbBOqxGPMus?si=j6ENcN9PkHV0v6e3": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/play-streets"
@@ -2484,13 +2511,14 @@
   "https://mapsengine.google.com/map/u/2/embed?mid=zb5D48SKYjcI.kUxDv2uRraV8": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/play-streets"
@@ -2531,13 +2559,14 @@
   "http://www.planningportal.gov.uk/uploads/1app/forms/cil_questions.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
@@ -2546,13 +2575,14 @@
   "http://www.planningportal.gov.uk/uploads/1app/forms/form_2_claiming_exemption_and_or_relief.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
@@ -2561,13 +2591,14 @@
   "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6314/19021101.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
@@ -2576,13 +2607,14 @@
   "http://www.planningportal.gov.uk/uploads/1app/forms/form_1_assumption_of_liability.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
@@ -2591,13 +2623,14 @@
   "http://www.planningportal.gov.uk/uploads/1app/forms/form_3_withdrawal_of_assumption_of_liability.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
@@ -2606,13 +2639,14 @@
   "http://www.planningportal.gov.uk/uploads/1app/forms/form_4_transfer_of_assumed_liability.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
@@ -2621,13 +2655,14 @@
   "http://www.planningportal.gov.uk/uploads/1app/forms/form_5_notice_of_chargeable_development.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
@@ -2636,13 +2671,14 @@
   "http://www.planningportal.gov.uk/uploads/1app/forms/form_6_commencement_notice.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
@@ -2683,13 +2719,14 @@
   "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/655504/6.3920_HO_Modern_Slavery_Awareness_Booklet_web.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults/safeguarding-resources"
@@ -2793,13 +2830,14 @@
   "https://map2.hackney.gov.uk/maps/highways-street-list/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roadworks-and-maintenance/check-who-maintains-street-hackney"
@@ -2836,13 +2874,14 @@
   "https://www.stop-watch.org/uploads/documents/SW-Guide-May-2017-online-version.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/youth-justice/youth-justice-overview"
@@ -2915,13 +2954,14 @@
   "https://map2.hackney.gov.uk/maps/connectivity/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/council-estate-services/better-broadband"
@@ -2945,13 +2985,14 @@
   "https://www.google.com/maps/d/u/0/embed?mid=1beMPx92Qh5VvNiMEsOGeXHDGGr6R9KF8&ehbc=2E312F": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/kings-park-moving-together"
@@ -3020,6 +3061,19 @@
    "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/News"
+   ]
+  },
+  "https://www.facebook.com/v23.0/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfdd599ed15d41a93f%26domain%3Dnews.hackney.gov.uk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fnews.hackney.gov.uk%252Ff31806422f41ec1ed%26relation%3Dparent.parent&container_width=500&height=500&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Fhackneycouncil%2F&locale=en_GB&sdk=joey&show_facepile=false&show_posts=true&small_header=true&width=500": {
+   "type": "iframe",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
    ],
    "weeksSeen": 1,
    "lastPages": 1,

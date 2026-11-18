@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-17T21:17:29.145Z",
+ "updatedAt": "2026-11-18T20:52:10.908Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -1375,6 +1375,573 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/events/free-park-tennis-walsall-arboretum"
+   ]
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+"
+   ]
+  },
+  "https://go.walsall.gov.uk/": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/tree-preservation",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A355",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353&page=1",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House"
+   ]
+  },
+  "https://go.walsall.gov.uk/events": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/tree-preservation",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A355",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353&page=1",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House"
+   ]
+  },
+  "https://go.walsall.gov.uk/apply": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/tree-preservation",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A355",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353&page=1",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House"
+   ]
+  },
+  "https://go.walsall.gov.uk/births-marriages-and-deaths": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/tree-preservation",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A355",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353&page=1",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House"
+   ]
+  },
+  "https://go.walsall.gov.uk/feedback": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/tree-preservation",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A355",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353&page=1",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House"
+   ]
+  },
+  "https://go.walsall.gov.uk/parks-and-green-spaces": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/tree-preservation",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A355",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353&page=1",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House"
+   ]
+  },
+  "https://go.walsall.gov.uk/roads-parking-and-travel": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/tree-preservation",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A355",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353&page=1",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House"
+   ]
+  },
+  "https://go.walsall.gov.uk/your-council/privacy-statement": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/tree-preservation",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A355",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353&page=1",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House"
+   ]
+  },
+  "https://go.walsall.gov.uk/feedback?rating=Good&page=%2Ffeedback&title=Feedback": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House",
+    "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fopen-data%2Fdatasets%2Fnon-domestic-rating-assessment-nndr&rating=Ok&title=Non+Domestic+Rating+Assessment+%28NNDR%29",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Flatest-ofsted-report-walsall-primary-school-says-children-achieve-exceptionally-well&rating=Ok&title=Latest+Ofsted+report+for+Walsall+primary+school+says+children+achieve+%E2%80%98exceptionally+well%E2%80%99"
+   ]
+  },
+  "https://go.walsall.gov.uk/feedback?rating=Ok&page=%2Ffeedback&title=Feedback": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House",
+    "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fopen-data%2Fdatasets%2Fnon-domestic-rating-assessment-nndr&rating=Ok&title=Non+Domestic+Rating+Assessment+%28NNDR%29",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Flatest-ofsted-report-walsall-primary-school-says-children-achieve-exceptionally-well&rating=Ok&title=Latest+Ofsted+report+for+Walsall+primary+school+says+children+achieve+%E2%80%98exceptionally+well%E2%80%99"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/feedback?rating=Poor&page=%2Ffeedback&title=Feedback": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House",
+    "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fopen-data%2Fdatasets%2Fnon-domestic-rating-assessment-nndr&rating=Ok&title=Non+Domestic+Rating+Assessment+%28NNDR%29",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Flatest-ofsted-report-walsall-primary-school-says-children-achieve-exceptionally-well&rating=Ok&title=Latest+Ofsted+report+for+Walsall+primary+school+says+children+achieve+%E2%80%98exceptionally+well%E2%80%99"
+   ]
+  },
+  "https://go.walsall.gov.uk/accessibility": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fthank-you&rating=Ok&title=Thank+you+",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-drivers-have-more-choice-when-paying-parking&rating=Good&title=Walsall+drivers+to+have+more+choice+when+paying+for+parking++",
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/tree-preservation",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A355",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353&page=1",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsculpture-made-seized-vapes-display-walsall-council-house&rating=Poor&title=Sculpture+made+from+seized+vapes+on+display+in+Walsall+Council+House"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A352": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A353": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A354": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A355": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A350": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A356": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A349": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A349": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A349": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A349": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A349": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A351": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A349": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A349": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A349": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=service_type%3A349": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/railcard-disabled-persons-railcard": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/services-deaf-provided-sandwell-deaf-community-association": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory/make-more-benefit-court-appeals-pip-universal-credit-esa-sjs-submit-plea",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&page=0",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A38",
+    "https://go.walsall.gov.uk/wellbeing-directory/find-your-local-dentist"
+   ]
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352"
    ]
   }
  }
