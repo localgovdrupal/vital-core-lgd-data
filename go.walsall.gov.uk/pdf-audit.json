@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-17T04:45:27.350Z",
+ "updatedAt": "2026-11-18T03:50:56.674Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -5000,6 +5000,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-09/Home%20Farm%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
    "checkedAt": "2026-11-17T04:45:27.348Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/BEIS%20Privacy%20Notice%20SWC_1.pdf": {
+   "checkedAt": "2026-11-18T03:50:20.628Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-12/Market_Policy_Jan16.pdf": {
+   "checkedAt": "2026-11-18T03:50:22.131Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-02/Statement%20of%20Principles%20January%202025.pdf": {
+   "checkedAt": "2026-11-18T03:50:23.633Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-11/2025%20Residents%27%20Survey.pdf": {
+   "checkedAt": "2026-11-18T03:50:25.134Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Kings%20Hays%20Fields%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:26.637Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20at%20Former%20Goscote%20Hospital%20Site%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:28.139Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20at%20Greenwood%20Road%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:29.641Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20at%20Little%20Aston%20Road%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:31.142Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20at%20Stencills%20Farm%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:32.644Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20at%20Vicarage%20Road%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:34.146Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20at%20Yieldfields%20Farm%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:35.648Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20at%20Yorks%20Bridge%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:37.150Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20North%20of%20Stonnall%20Road%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:38.652Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20off%20Sutton%20Road%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:40.153Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20opposite%20The%20Coach%20House%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:41.655Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Land%20to%20the%20east%20and%20west%20of%20Chester%20Road%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:43.157Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Longwood%20Lane%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:44.658Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Middlemore%20Lane%20West%20Local%20Site%20Assessment%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:46.160Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/PROW%20plan%20cover.pdf": {
+   "checkedAt": "2026-11-18T03:50:47.662Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Skip%20Lane%20Local%20Sites%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:49.164Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/The%20Skip%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:50.665Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Walsall%20Wood%20Sewage%20Treatment%20Plant%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:52.167Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Watling%20Street%20Local%20Site%20Assessment%20Report%20-%20Redacted.pdf": {
+   "checkedAt": "2026-11-18T03:50:53.669Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-03/2021-22%20Financial%20Report%20post%20audit%20for%20publication.pdf": {
+   "checkedAt": "2026-11-18T03:50:55.171Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-03/Summary%20accounts%202021-22%20for%20publication.pdf": {
+   "checkedAt": "2026-11-18T03:50:56.672Z",
    "week": "2026-W47",
    "httpStatus": null,
    "status": "error",
