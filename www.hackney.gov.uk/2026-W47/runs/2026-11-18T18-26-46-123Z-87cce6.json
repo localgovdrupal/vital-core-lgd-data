@@ -1,0 +1,143 @@
+{
+ "runId": "2026-11-18T18-26-46-123Z-87cce6",
+ "week": "2026-W47",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T18:26:47.289Z",
+ "scanned": [
+  "b80a9c9470411a83",
+  "e00ff43395b29dcb",
+  "e6efd097be48abee",
+  "c806d900f8919a52",
+  "9eabaa75bf925f7f",
+  "9b7ec50743fb29a9",
+  "809347e6329934f2",
+  "cd24a7d0c87a24c9",
+  "e41ab6eada27d1a1",
+  "9a7d3976469998d3",
+  "82302b853e32bc46",
+  "be4613452bcb1b30",
+  "32a2b389c7a47257",
+  "1274fb08155aa764",
+  "cd41f18767d9738c",
+  "5311a39975d5a535",
+  "0b26b7c25a2e7faf",
+  "511b35ddbf17bc26",
+  "6bcc506aac6c0b17",
+  "a02e5a6750c87f25",
+  "252e41cf66dd2428",
+  "ae0cae821c4d51b3",
+  "607f67fe68f35f42",
+  "30a680c6b33dd0dc",
+  "01fc5d2617a546e3",
+  "be694e79918f8a6f",
+  "bcdea23efae24c62",
+  "f132e1c2a55e6f30",
+  "60944d4bd790ff81",
+  "506d981a9bb4af95",
+  "4a423c09800d38f7",
+  "f00c713d2ecf9063",
+  "d6faaa6a89da73cb",
+  "3687ca49e7fe2d3e",
+  "bc0ebdfc6e6cfb45",
+  "6380411fe9ef943f",
+  "953fca5dac624e16",
+  "81070446bd376d79",
+  "1ac3d47dc9adb73a",
+  "da61f6ee7be50442",
+  "e7f1eb690cc34fd4",
+  "1acf52a3af840fcf",
+  "0f0f61285458fd25",
+  "ec3dcc8dcef96cd0",
+  "76baafeeb1659363",
+  "de27a3e5ebcbe60b",
+  "2de6cd5ec0581f51"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 533,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://rise.articulate.com/share/nwfNRMbVqoXgYxTlRUed2JsNq-ZC_K15",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/drug-and-alcohol-support-and-advice/alcohol-support-and-advice"
+    ]
+   },
+   {
+    "url": "https://www.roomgo.net/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/find-home/get-privately-rented-home"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 45,
+  "alfa": 24,
+  "deprecated-html": 5,
+  "resources": 45,
+  "images": 45,
+  "standards": 26,
+  "link-check": 45,
+  "plain-language": 15,
+  "public-interest": 5,
+  "security": 4,
+  "tech": 5,
+  "third-party": 10,
+  "sustainability": 5,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 45,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T18:34:29.301Z"
+}
