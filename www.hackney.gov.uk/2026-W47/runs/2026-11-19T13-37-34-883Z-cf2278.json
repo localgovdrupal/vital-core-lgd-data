@@ -1,0 +1,207 @@
+{
+ "runId": "2026-11-19T13-37-34-883Z-cf2278",
+ "week": "2026-W47",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-19T13:37:37.173Z",
+ "scanned": [
+  "e9a0ec011f993bac",
+  "40d94e3e4aa055bb",
+  "085aab9b08039f55",
+  "dae4a5fe19a510f9",
+  "6a814241a7652e61",
+  "e56e7622493b5e39",
+  "851ba0216bfb35c7",
+  "a1bf96e2f4bfb165",
+  "c7a7853c4b6b7e5d",
+  "f294d89ad2d55fbe",
+  "0bca2dd2425caa77",
+  "77d14c55aaf6c255",
+  "04b3418dba70d8e7",
+  "4ba75c621c8e92d3",
+  "321e505fc3092df2",
+  "b93b340609d61fc8",
+  "8f185056c5132f3b",
+  "49b641c52c93cbda",
+  "54e36a4beea57a60",
+  "174a741dce1858fe",
+  "47343bcf47812893",
+  "c2de984016471364",
+  "674948c673a142c0",
+  "5f88bb5a8b07427b",
+  "ca69f4a6762fe70f",
+  "86865a52d6ad33c6",
+  "612213728a995f1f",
+  "cec7b87c1c78701e",
+  "64e8388ce5cb016d",
+  "73e3b2b79c241d9d",
+  "1f95b8182798c7b3",
+  "81659f72e137be94",
+  "e7de461245778747",
+  "fa7807273b7d51e4",
+  "cafa0274ecaad21b",
+  "df2b0719034c9748",
+  "1300b1013637cd41",
+  "08ef8b1b80149952",
+  "58ade3a243336144",
+  "43487b227afa3524",
+  "b60166fabde8b570",
+  "55ae6ebc6dabc645",
+  "5944e849169c455d",
+  "deb1082f768aecdf",
+  "5afe847eac07b4d7",
+  "3e20e691da11e67b",
+  "06bf243e6ce95cb3",
+  "3fe2f2fae1e08dfe",
+  "726ad299e104e57c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 604,
+  "checked": 500,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://www.abneyparkusergroup.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/about-autism/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/about-autism/autism-strengths/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/wp-content/uploads/2022/03/Autism-and-Communication-Poster.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.homerton.nhs.uk/u26",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/sexual-health"
+    ]
+   },
+   {
+    "url": "http://bodyandsoulcharity.org/get-support/becoming-a-member/self-referral-form/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/sexual-health"
+    ]
+   },
+   {
+    "url": "http://bodyandsoulcharity.org/get-support/becoming-a-member/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/sexual-health"
+    ]
+   },
+   {
+    "url": "https://onedigital.hackney.gov.uk/publicaccesslive/selfservice/citizenportal/registration.htm?_flowId=citizenportal%2Fregistration&_flowExecutionKey=e1s1",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/de-beauvoir"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "deprecated-html": 5,
+  "resources": 49,
+  "images": 49,
+  "standards": 25,
+  "link-check": 49,
+  "plain-language": 23,
+  "security": 7,
+  "performance-resources": 14,
+  "alfa": 21,
+  "third-party": 10,
+  "lighthouse": 5,
+  "public-interest": 4,
+  "tech": 7,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-19T13:45:06.277Z"
+}
