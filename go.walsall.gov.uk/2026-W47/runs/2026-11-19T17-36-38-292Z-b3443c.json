@@ -1,0 +1,152 @@
+{
+ "runId": "2026-11-19T17-36-38-292Z-b3443c",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-19T17:36:42.494Z",
+ "scanned": [
+  "a49c8f0d586b3196",
+  "c0ea4b56d302c9d3",
+  "e53fafab7c20ba8c",
+  "4dc99c0ecf7319f9",
+  "117c292b0a63ca46",
+  "991cc51124aae493",
+  "1a014ac0da6c7562",
+  "8fa53bc82604ef1d",
+  "a2debc178212d1f6",
+  "3c8e5f70d2c6d386",
+  "cc4b9020950954a4",
+  "46fc93f01ec88776",
+  "7702ea86f02bde56",
+  "3dd50119c4824690",
+  "c6b3be660fec0bc2",
+  "1762fc2601228d4d",
+  "7b01adfcbb3f2643",
+  "0e42a1632ca00a3a",
+  "853937033c8520a8",
+  "34afe66422e66266",
+  "ca9b0de6be5ecacb",
+  "c410ab8f9824cfe5",
+  "43d411076a9630db",
+  "425f5add696b705f",
+  "42b32b456bded327",
+  "d8fc84c26848f729",
+  "49a1a5bc7d76a5f4",
+  "1dc8cca574833c92",
+  "a92a846b61fdffe7",
+  "81a7f6606a4107fe",
+  "d61ba4b009b73e24",
+  "622946ef4d3532f9",
+  "e69e8382da65a6b1",
+  "f6ea293beed593c7",
+  "2c1fe6bd2b10bcc1",
+  "6fddd5f1341cc5b5",
+  "b27d8fa569765a98",
+  "03f0402318aec18b",
+  "3cb1eded1fbdbb2b",
+  "546a2e895d77d096",
+  "8c4afb24e62007aa",
+  "dafcf57f7a03f3bc",
+  "4cf4281d017d2165",
+  "b5dfe163fc0f2703",
+  "dfbfaaf4bc97dd07",
+  "719ad2bd0d1643fa",
+  "8051d37d49d76a22",
+  "9f2f990ddc285b9e",
+  "21f60a95393f12b2",
+  "7b481ffcea5b5875"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1103,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://www.walsallcollege.ac.uk/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-champions-digital-inclusion-get-online-week-2025"
+    ]
+   },
+   {
+    "url": "https://www.darlastonallactive.co.uk/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory/darlaston-all-active-history-society"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "performance-resources": 11,
+  "axe": 50,
+  "alfa": 26,
+  "plain-language": 26,
+  "deprecated-html": 4,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "standards": 25,
+  "tech": 3,
+  "public-interest": 6,
+  "third-party": 15,
+  "sustainability": 4,
+  "lighthouse": 6,
+  "security": 6
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-19T17:52:50.607Z"
+}
