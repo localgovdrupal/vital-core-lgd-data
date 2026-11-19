@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-19T11:28:19.171Z",
+ "updatedAt": "2026-11-19T14:25:32.848Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -13,7 +13,7 @@
     "2026-W47"
    ],
    "weeksSeen": 4,
-   "lastPages": 903,
+   "lastPages": 1002,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
@@ -233,13 +233,14 @@
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/740441/National_Planning_Policy_Framework_web_accessible_version.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings"
@@ -248,13 +249,14 @@
   "https://map2.hackney.gov.uk/maps/statutory-listed-buildings/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings"
@@ -263,13 +265,14 @@
   "https://www.youtube.com/embed/NZN2AZAMPHY?start=21": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos"
@@ -278,13 +281,14 @@
   "https://www.youtube.com/embed/ktklk7d0ibY?start=21": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos"
@@ -293,13 +297,14 @@
   "https://www.youtube.com/embed/WTJQi7iBgiA?start=21": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos"
@@ -308,13 +313,14 @@
   "https://www.youtube.com/embed/_zzMhYpaD-o?start=21": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos"
@@ -323,13 +329,14 @@
   "https://www.youtube.com/embed/7nq71pGBGI8?start=21": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos"
@@ -561,10 +568,11 @@
     "2026-W47"
    ],
    "weeksSeen": 4,
-   "lastPages": 2,
+   "lastPages": 3,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence",
-    "https://www.hackney.gov.uk/business-and-licensing/licensing/shop-front-trading-licence"
+    "https://www.hackney.gov.uk/business-and-licensing/licensing/shop-front-trading-licence",
+    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/privately-operated-markets"
    ]
   },
   "https://www.legislation.gov.uk/ukla/1990/7/pdfs/ukla_19900007_en.pdf": {
@@ -682,13 +690,14 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/Temporary-event-notice-2.docx": {
    "type": "document",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/business-and-licensing/licensing/temporary-event-notices-ten"
@@ -713,13 +722,14 @@
   "https://www.youtube.com/embed/bTBwVw_lEjY": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
@@ -728,13 +738,14 @@
   "https://www.youtube.com/embed/Vy4L8B7KI9k": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
@@ -1283,9 +1294,10 @@
     "2026-W47"
    ],
    "weeksSeen": 4,
-   "lastPages": 1,
+   "lastPages": 2,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence"
+    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence",
+    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/privately-operated-markets"
    ]
   },
   "https://map2.hackney.gov.uk/maps/locally-listed-buildings/embed.html": {
@@ -1862,13 +1874,14 @@
   "https://www.autismtas.org.au/wp-content/uploads/2022/03/Autism-and-Communication-Poster.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
@@ -1957,13 +1970,14 @@
   "https://www.youtube.com/embed/pNV0Alpj3Yk": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/ridley-road-market"
@@ -2447,13 +2461,14 @@
   "https://abneyrambles.files.wordpress.com/2017/07/abney-veteran-tree-leaflet_2013.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
@@ -2462,13 +2477,14 @@
   "https://www.youtube.com/embed/WJaoKL1yrP4?si=_7dR78u0OH6yNbOv": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
@@ -2860,12 +2876,13 @@
   "https://www.hackney.gov.uk/media/oembed?url=https%3A//youtu.be/MVJ9o4_-sSg&max_width=0&max_height=0&hash=tdmWDYIaJCYQ-8XMlgOtOUNth_D0poY2TxAZFXRHYUQ": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/biodiversity-and-nature-conservation"
@@ -2874,12 +2891,13 @@
   "https://www.hackney.gov.uk/media/oembed?url=https%3A//youtu.be/lsie7fvXS_8&max_width=0&max_height=0&hash=V6y8g53rWBRc9hNBz1a4Lqp0J8s4TYJAGo9gs83NaAg": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/biodiversity-and-nature-conservation"
@@ -3016,12 +3034,13 @@
   "https://map2.hackney.gov.uk/maps/playgrounds/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/playgrounds"
