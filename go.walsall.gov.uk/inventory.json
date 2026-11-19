@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-18T20:52:09.733Z",
+ "updatedAt": "2026-11-19T11:28:15.219Z",
  "pages": {
   "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send": {
    "pageId": "02dc4cd5faa4840d",
@@ -41755,8 +41755,8 @@
   },
   "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-society-artists-celebrates-its-75th-annual-exhibition&rating=Poor&title=Walsall+Society+of+Artists+celebrates+its+75th+Annual+Exhibition+": {
    "pageId": "0018869ca6c189d2",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-12T10:59:43.368Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-19T11:19:21.708Z",
    "status": 200,
    "axeViolations": 19,
    "alfaFailures": 76,
@@ -54891,6 +54891,42 @@
    "status": 200,
    "axeViolations": 22,
    "alfaFailures": 83,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A354": {
+   "pageId": "90fb4d2ed39c75de",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-19T11:20:04.357Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 82,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A356": {
+   "pageId": "bcefdeba68643ce9",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-19T11:20:22.771Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A351": {
+   "pageId": "d137b33d079f15d1",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-19T11:20:38.220Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Ffamily-help%2Fhealth-and-wellbeing-your-family%2Fsexual-health&rating=Ok&title=Sexual+health": {
+   "pageId": "ffcd7aee08f12d46",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-19T11:19:51.661Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
    "hasIssues": true
   }
  },

@@ -1,7 +1,7 @@
 {
  "domain": "www.luton.gov.uk",
  "week": "2026-W45",
- "generatedAt": "2026-11-15T01:26:08.074Z",
+ "generatedAt": "2026-11-19T11:28:20.178Z",
  "pagesScanned": 2000,
  "pagesAudited": 1960,
  "coverage": {
@@ -16,6 +16,7 @@
   "tech": 183,
   "security": 195
  },
+ "performanceResources": null,
  "blocked": null,
  "axe": {
   "violationTotal": 1960,
@@ -56785,7 +56786,1011 @@
   "connection": null,
   "errorStatuses": {
    "503": 40
-  }
+  },
+  "cooldown": null
+ },
+ "performanceCohort": null,
+ "performanceInvestigations": {
+  "schema_version": "performance-investigation/1",
+  "generated_from": "stored weekly summary; no live browser",
+  "rank_basis": "category evidence class, then sampled-page reach, then evidence-estimated savings; ties by stable ID",
+  "candidates": [
+   {
+    "id": "slow-page:0a1817c3d775",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A140&f%5B3%5D=localgov_directories_facets%3A172&f%5B4%5D=localgov_directories_facets%3A177&f%5B5%5D=localgov_directories_facets%3A203&f%5B6%5D=localgov_directories_facets%3A229&f%5B7%5D=localgov_directories_facets%3A252",
+     "performance": 19,
+     "metrics": {
+      "lcp_ms": 10657,
+      "tbt_ms": 2449,
+      "cls": 0.372
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:14ff295604e9",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A196&f%5B1%5D=localgov_directories_facets%3A214&f%5B2%5D=localgov_directories_facets%3A216&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A233&f%5B5%5D=localgov_directories_facets%3A249&f%5B6%5D=localgov_directories_facets%3A252&f%5B7%5D=localgov_directories_facets%3A268&f%5B8%5D=localgov_directories_facets%3A273",
+     "performance": 10,
+     "metrics": {
+      "lcp_ms": 9025,
+      "tbt_ms": 3463,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:25c13d1df828",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A166&f%5B1%5D=localgov_directories_facets%3A167&f%5B2%5D=localgov_directories_facets%3A191&f%5B3%5D=localgov_directories_facets%3A209&f%5B4%5D=localgov_directories_facets%3A218&f%5B5%5D=localgov_directories_facets%3A237&f%5B6%5D=localgov_directories_facets%3A247&f%5B7%5D=localgov_directories_facets%3A277",
+     "performance": 18,
+     "metrics": {
+      "lcp_ms": 10991,
+      "tbt_ms": 1171,
+      "cls": 0.481
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:26431c857fd1",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A136&f%5B1%5D=localgov_directories_facets%3A179&f%5B2%5D=localgov_directories_facets%3A210&f%5B3%5D=localgov_directories_facets%3A218&f%5B4%5D=localgov_directories_facets%3A248&f%5B5%5D=localgov_directories_facets%3A278&f%5B6%5D=localgov_directories_facets%3A284",
+     "performance": 19,
+     "metrics": {
+      "lcp_ms": 10039,
+      "tbt_ms": 1333,
+      "cls": 0.635
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:2d289b5cad3e",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A147&f%5B1%5D=localgov_directories_facets%3A150&f%5B2%5D=localgov_directories_facets%3A159&f%5B3%5D=localgov_directories_facets%3A167&f%5B4%5D=localgov_directories_facets%3A253&f%5B5%5D=localgov_directories_facets%3A254&f%5B6%5D=localgov_directories_facets%3A259&f%5B7%5D=localgov_directories_facets%3A275&f%5B8%5D=localgov_directories_facets%3A283",
+     "performance": 14,
+     "metrics": {
+      "lcp_ms": 7411,
+      "tbt_ms": 2681,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:2fa09b257954",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A114&f%5B1%5D=localgov_directories_facets%3A125&f%5B2%5D=localgov_directories_facets%3A164&f%5B3%5D=localgov_directories_facets%3A215&f%5B4%5D=localgov_directories_facets%3A234&f%5B5%5D=localgov_directories_facets%3A238&f%5B6%5D=localgov_directories_facets%3A262&f%5B7%5D=localgov_directories_facets%3A266",
+     "performance": 13,
+     "metrics": {
+      "lcp_ms": 9291,
+      "tbt_ms": 3345,
+      "cls": 0.481
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:35804783f0dd",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A137&f%5B1%5D=localgov_directories_facets%3A139&f%5B2%5D=localgov_directories_facets%3A153&f%5B3%5D=localgov_directories_facets%3A159&f%5B4%5D=localgov_directories_facets%3A186&f%5B5%5D=localgov_directories_facets%3A200&f%5B6%5D=localgov_directories_facets%3A230&f%5B7%5D=localgov_directories_facets%3A233&f%5B8%5D=localgov_directories_facets%3A263",
+     "performance": 16,
+     "metrics": {
+      "lcp_ms": 10975,
+      "tbt_ms": 3243,
+      "cls": 0.574
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:37554bec0603",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A131&f%5B2%5D=localgov_directories_facets%3A144&f%5B3%5D=localgov_directories_facets%3A155&f%5B4%5D=localgov_directories_facets%3A171&f%5B5%5D=localgov_directories_facets%3A177&f%5B6%5D=localgov_directories_facets%3A205&f%5B7%5D=localgov_directories_facets%3A210&f%5B8%5D=localgov_directories_facets%3A245",
+     "performance": 15,
+     "metrics": {
+      "lcp_ms": 8854,
+      "tbt_ms": 2469,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:3c616b1aff7a",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A107&f%5B1%5D=localgov_directories_facets%3A161&f%5B2%5D=localgov_directories_facets%3A228&f%5B3%5D=localgov_directories_facets%3A240&f%5B4%5D=localgov_directories_facets%3A280&f%5B5%5D=localgov_directories_facets%3A282",
+     "performance": 15,
+     "metrics": {
+      "lcp_ms": 10384,
+      "tbt_ms": 2843,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:440c685db8c2",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A116&f%5B1%5D=localgov_directories_facets%3A125&f%5B2%5D=localgov_directories_facets%3A145&f%5B3%5D=localgov_directories_facets%3A164&f%5B4%5D=localgov_directories_facets%3A168&f%5B5%5D=localgov_directories_facets%3A233&f%5B6%5D=localgov_directories_facets%3A238&f%5B7%5D=localgov_directories_facets%3A247&f%5B8%5D=localgov_directories_facets%3A277",
+     "performance": 15,
+     "metrics": {
+      "lcp_ms": 10512,
+      "tbt_ms": 2276,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:4627ace91beb",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A210&f%5B1%5D=localgov_directories_facets%3A213&f%5B2%5D=localgov_directories_facets%3A222&f%5B3%5D=localgov_directories_facets%3A248&f%5B4%5D=localgov_directories_facets%3A260&f%5B5%5D=localgov_directories_facets%3A278",
+     "performance": 18,
+     "metrics": {
+      "lcp_ms": 9569,
+      "tbt_ms": 1147,
+      "cls": 0.481
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:479e95450616",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139&f%5B1%5D=localgov_directories_facets%3A160&f%5B2%5D=localgov_directories_facets%3A175&f%5B3%5D=localgov_directories_facets%3A186&f%5B4%5D=localgov_directories_facets%3A193&f%5B5%5D=localgov_directories_facets%3A214&f%5B6%5D=localgov_directories_facets%3A217&f%5B7%5D=localgov_directories_facets%3A238&f%5B8%5D=localgov_directories_facets%3A281",
+     "performance": 12,
+     "metrics": {
+      "lcp_ms": 9989,
+      "tbt_ms": 2414,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:4c1663c1b0a0",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A122&f%5B1%5D=localgov_directories_facets%3A128&f%5B2%5D=localgov_directories_facets%3A133&f%5B3%5D=localgov_directories_facets%3A221&f%5B4%5D=localgov_directories_facets%3A249&f%5B5%5D=localgov_directories_facets%3A273&f%5B6%5D=localgov_directories_facets%3A280",
+     "performance": 19,
+     "metrics": {
+      "lcp_ms": 10830,
+      "tbt_ms": 1111,
+      "cls": 0.481
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:5986f18d9abe",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A153&f%5B1%5D=localgov_directories_facets%3A167&f%5B2%5D=localgov_directories_facets%3A199&f%5B3%5D=localgov_directories_facets%3A223&f%5B4%5D=localgov_directories_facets%3A230&f%5B5%5D=localgov_directories_facets%3A233&f%5B6%5D=localgov_directories_facets%3A266&f%5B7%5D=localgov_directories_facets%3A268",
+     "performance": 14,
+     "metrics": {
+      "lcp_ms": 10809,
+      "tbt_ms": 2098,
+      "cls": 0.481
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:6d30435a27da",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A113&f%5B1%5D=localgov_directories_facets%3A142&f%5B2%5D=localgov_directories_facets%3A156&f%5B3%5D=localgov_directories_facets%3A174&f%5B4%5D=localgov_directories_facets%3A186&f%5B5%5D=localgov_directories_facets%3A252&f%5B6%5D=localgov_directories_facets%3A261&f%5B7%5D=localgov_directories_facets%3A271&f%5B8%5D=localgov_directories_facets%3A277",
+     "performance": 16,
+     "metrics": {
+      "lcp_ms": 10275,
+      "tbt_ms": 3105,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:7ac64a1aaa2d",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A118&f%5B1%5D=localgov_directories_facets%3A122&f%5B2%5D=localgov_directories_facets%3A128&f%5B3%5D=localgov_directories_facets%3A133&f%5B4%5D=localgov_directories_facets%3A203&f%5B5%5D=localgov_directories_facets%3A222&f%5B6%5D=localgov_directories_facets%3A249&f%5B7%5D=localgov_directories_facets%3A262",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 10285,
+      "tbt_ms": 1051,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:7d450e877682",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125&f%5B1%5D=localgov_directories_facets%3A145&f%5B2%5D=localgov_directories_facets%3A164&f%5B3%5D=localgov_directories_facets%3A186&f%5B4%5D=localgov_directories_facets%3A221&f%5B5%5D=localgov_directories_facets%3A222&f%5B6%5D=localgov_directories_facets%3A238&f%5B7%5D=localgov_directories_facets%3A277",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 10295,
+      "tbt_ms": 1403,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:7f5f1f1a5abb",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A122&f%5B1%5D=localgov_directories_facets%3A128&f%5B2%5D=localgov_directories_facets%3A169&f%5B3%5D=localgov_directories_facets%3A186&f%5B4%5D=localgov_directories_facets%3A201&f%5B5%5D=localgov_directories_facets%3A225&f%5B6%5D=localgov_directories_facets%3A266",
+     "performance": 16,
+     "metrics": {
+      "lcp_ms": 7724,
+      "tbt_ms": 2517,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:9810e859e2b2",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A117&f%5B2%5D=localgov_directories_facets%3A161&f%5B3%5D=localgov_directories_facets%3A166&f%5B4%5D=localgov_directories_facets%3A167&f%5B5%5D=localgov_directories_facets%3A168&f%5B6%5D=localgov_directories_facets%3A210&f%5B7%5D=localgov_directories_facets%3A241",
+     "performance": 18,
+     "metrics": {
+      "lcp_ms": 10544,
+      "tbt_ms": 1021,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:a6d059f5dad7",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A118&f%5B1%5D=localgov_directories_facets%3A172&f%5B2%5D=localgov_directories_facets%3A177&f%5B3%5D=localgov_directories_facets%3A190&f%5B4%5D=localgov_directories_facets%3A196&f%5B5%5D=localgov_directories_facets%3A211&f%5B6%5D=localgov_directories_facets%3A230&f%5B7%5D=localgov_directories_facets%3A243&f%5B8%5D=localgov_directories_facets%3A265",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 6678,
+      "tbt_ms": 1277,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:b0d2baf4d364",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A153&f%5B1%5D=localgov_directories_facets%3A185&f%5B2%5D=localgov_directories_facets%3A230&f%5B3%5D=localgov_directories_facets%3A233&f%5B4%5D=localgov_directories_facets%3A252&f%5B5%5D=localgov_directories_facets%3A268",
+     "performance": 18,
+     "metrics": {
+      "lcp_ms": 10091,
+      "tbt_ms": 1063,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:b1f45f0cbdc3",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A116&f%5B1%5D=localgov_directories_facets%3A179&f%5B2%5D=localgov_directories_facets%3A210&f%5B3%5D=localgov_directories_facets%3A218&f%5B4%5D=localgov_directories_facets%3A248&f%5B5%5D=localgov_directories_facets%3A278&f%5B6%5D=localgov_directories_facets%3A284",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 10261,
+      "tbt_ms": 1704,
+      "cls": 0.635
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:c29b4853fc71",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A113&f%5B2%5D=localgov_directories_facets%3A161&f%5B3%5D=localgov_directories_facets%3A166&f%5B4%5D=localgov_directories_facets%3A167&f%5B5%5D=localgov_directories_facets%3A217&f%5B6%5D=localgov_directories_facets%3A241",
+     "performance": 18,
+     "metrics": {
+      "lcp_ms": 11122,
+      "tbt_ms": 1195,
+      "cls": 0.522
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:d9f50ce340f5",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A121&f%5B1%5D=localgov_directories_facets%3A125&f%5B2%5D=localgov_directories_facets%3A145&f%5B3%5D=localgov_directories_facets%3A164&f%5B4%5D=localgov_directories_facets%3A168&f%5B5%5D=localgov_directories_facets%3A174&f%5B6%5D=localgov_directories_facets%3A238&f%5B7%5D=localgov_directories_facets%3A262&f%5B8%5D=localgov_directories_facets%3A277",
+     "performance": 16,
+     "metrics": {
+      "lcp_ms": 10915,
+      "tbt_ms": 1524,
+      "cls": 0.423
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:dba6b7334329",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A160&f%5B1%5D=localgov_directories_facets%3A162&f%5B2%5D=localgov_directories_facets%3A193&f%5B3%5D=localgov_directories_facets%3A238",
+     "performance": 18,
+     "metrics": {
+      "lcp_ms": 9475,
+      "tbt_ms": 2625,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:e359ef64c38c",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A122&f%5B1%5D=localgov_directories_facets%3A152&f%5B2%5D=localgov_directories_facets%3A166&f%5B3%5D=localgov_directories_facets%3A189&f%5B4%5D=localgov_directories_facets%3A201&f%5B5%5D=localgov_directories_facets%3A211&f%5B6%5D=localgov_directories_facets%3A219&f%5B7%5D=localgov_directories_facets%3A235&f%5B8%5D=localgov_directories_facets%3A247",
+     "performance": 16,
+     "metrics": {
+      "lcp_ms": 9262,
+      "tbt_ms": 1183,
+      "cls": 0.635
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:ed5cdf1faa3c",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A107&f%5B1%5D=localgov_directories_facets%3A161&f%5B2%5D=localgov_directories_facets%3A228&f%5B3%5D=localgov_directories_facets%3A240&f%5B4%5D=localgov_directories_facets%3A246&f%5B5%5D=localgov_directories_facets%3A280&f%5B6%5D=localgov_directories_facets%3A282",
+     "performance": 14,
+     "metrics": {
+      "lcp_ms": 10865,
+      "tbt_ms": 2955,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:f4ab39791bda",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A109&f%5B1%5D=localgov_directories_facets%3A151&f%5B2%5D=localgov_directories_facets%3A158&f%5B3%5D=localgov_directories_facets%3A168&f%5B4%5D=localgov_directories_facets%3A210&f%5B5%5D=localgov_directories_facets%3A248&f%5B6%5D=localgov_directories_facets%3A278",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 9100,
+      "tbt_ms": 3358,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:fbc44343e34d",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A126&f%5B1%5D=localgov_directories_facets%3A130&f%5B2%5D=localgov_directories_facets%3A138&f%5B3%5D=localgov_directories_facets%3A144&f%5B4%5D=localgov_directories_facets%3A174&f%5B5%5D=localgov_directories_facets%3A186&f%5B6%5D=localgov_directories_facets%3A213&f%5B7%5D=localgov_directories_facets%3A252&f%5B8%5D=localgov_directories_facets%3A261",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 9871,
+      "tbt_ms": 1049,
+      "cls": 0.632
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:ffcc4d6ba560",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A131&f%5B1%5D=localgov_directories_facets%3A135&f%5B2%5D=localgov_directories_facets%3A196&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A233&f%5B5%5D=localgov_directories_facets%3A242&f%5B6%5D=localgov_directories_facets%3A255&f%5B7%5D=localgov_directories_facets%3A260&f%5B8%5D=localgov_directories_facets%3A279",
+     "performance": 15,
+     "metrics": {
+      "lcp_ms": 16026,
+      "tbt_ms": 1595,
+      "cls": 0.481
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 152,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   }
+  ],
+  "limitations": [
+   "Resource presence is correlation, not proof of a performance defect or ownership.",
+   "Page counts use sampled pages with Resource Timing evidence, not the whole site.",
+   "No energy measurement or causal attribution is included."
+  ]
  },
  "evidenceCoverage": {
   "basis": "findings",

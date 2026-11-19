@@ -1,7 +1,7 @@
 {
  "domain": "go.walsall.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-11-15T01:26:00.888Z",
+ "generatedAt": "2026-11-19T11:28:11.068Z",
  "pagesScanned": 1984,
  "pagesAudited": 1940,
  "coverage": {
@@ -16,6 +16,7 @@
   "sustainability": 197,
   "deprecated-html": 187
  },
+ "performanceResources": null,
  "blocked": null,
  "axe": {
   "violationTotal": 37355,
@@ -212726,7 +212727,1053 @@
   "connection": null,
   "errorStatuses": {
    "404": 2
-  }
+  },
+  "cooldown": null
+ },
+ "performanceCohort": null,
+ "performanceInvestigations": {
+  "schema_version": "performance-investigation/1",
+  "generated_from": "stored weekly summary; no live browser",
+  "rank_basis": "category evidence class, then sampled-page reach, then evidence-estimated savings; ties by stable ID",
+  "candidates": [
+   {
+    "id": "page-family:feedback-form",
+    "category": "page-family-performance-pattern",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "family_id": "feedback-form",
+     "label": "Page feedback form",
+     "sampled_pages": 40,
+     "median_performance": 36,
+     "poor_pages": 40,
+     "examples": [
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-launchpad-celebrates-first-year-supporting-residents-and-businesses&rating=Poor&title=Bloxwich+Launchpad+celebrates+first+year+of+supporting+residents+and+businesses+",
+      "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffamilies-invited-launch-walsalls-family-hubs-programme&rating=Ok&title=Families+invited+to+the+launch+of+the+Walsall%E2%80%99s+family+hubs+programme",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-convenience-store-fined-after-selling-alcohol-16-year-old&rating=Poor&title=Walsall+convenience+store+fined+after+selling+alcohol+to+16-year-old++",
+      "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fprivacy-statement%2Fweb-and-cookie-notice&rating=Ok&title=Web+and+Cookie+Notice",
+      "http://go.walsall.gov.uk/feedback?page=%2Fbenefits%2Fextra-help-you-may-be-able-get&rating=Good&title=Extra+help+you+may+be+able+to+get",
+      "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fwillenhall&rating=Ok&title=Willenhall+churches",
+      "https://go.walsall.gov.uk/feedback?page=%2Fbenefits%2Fhelp-cost-living&rating=Poor&title=Help+with+the+cost+of+living",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffurther-vaccination-clinics-take-place-walsall-offering-mmr-vaccines&rating=Ok&title=Further+vaccination+clinics+to+take+place+in+Walsall+offering+MMR+vaccines",
+      "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fconsultations%2Fbudget-consultation&rating=Ok&title=Budget+consultation",
+      "http://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fmanaging-and-maintaining-our-parks-and-green-spaces%2Fgrounds-maintenance-and-grass-cutting&rating=Good&title=Report+a+problem+with+grounds+maintenance+and+grass+cutting",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnew-free-breakfast-club-special-school-walsall-proving-cereal-ously-popular&rating=Poor&title=New+free+breakfast+club+at+special+school+in+Walsall+proving+cereal-ously+popular",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwarm-weather-advice-walsall-residents&rating=Ok&title=Warm+weather+advice+for+Walsall+residents",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-pupils-award-winning-healthy-recipe-reach-1500-schools-across-uk&rating=Good&title=Walsall+pupil%E2%80%99s+award-winning+healthy+recipe+to+reach+1%2C500+schools+across+the+UK",
+      "https://go.walsall.gov.uk/feedback?page=%2Ffostering%2Fwhy-foster-walsall%2Fsupport-foster-carers&rating=Poor&title=Support+for+foster+carers",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fknife-angels-walsall-legacy-continue-following-closing-ceremony&rating=Good&title=Knife+Angel%E2%80%99s+Walsall+legacy+to+continue+following+closing+ceremony+++",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcouncillor-alan-fleming-qrm-elected-mayor-walsall-2026-27&rating=Poor&title=Councillor+Alan+Fleming+QRM+elected+Mayor+of+Walsall+for+2026-27",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnearly-one-million-illegal-cigarettes-seized-walsalls-largest-ever-tobacco-find&rating=Good&title=Nearly+one+million+illegal+cigarettes+seized+in+Walsall%E2%80%99s+largest+ever+tobacco+find+",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-residents-encouraged-apply-household-support-fund-grants&rating=Ok&title=Walsall+residents+encouraged+to+apply+for+Household+Support+Fund+grants+",
+      "https://go.walsall.gov.uk/feedback?page=%2Fbusiness%2Fregeneration-and-investment%2Fdarlaston-plan-neighbourhoods%2Fabout-darlaston-plan&rating=Poor&title=About+the+Darlaston+Plan+for+Neighbourhoods",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnew-framework-boost-physical-activity-levels-walsall&rating=Poor&title=New+framework+to+boost+physical+activity+levels+in+Walsall",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fyorks-bridge-road-closure-be-lifted&rating=Ok&title=York%E2%80%99s+Bridge+Road+Closure+to+be+Lifted++",
+      "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fpublic-health%2Fconsultation-pharmaceutical-needs-assessment-2025&rating=Poor&title=Consultation+on+Pharmaceutical+Needs+Assessment+2025",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnearly-600-fines-paid-littering-walsall&rating=Ok&title=Nearly+600+fines+paid+for+littering+in+Walsall",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fpregnant-women-urged-come-forward-whooping-cough-vaccine&rating=Good&title=Pregnant+women+urged+to+come+forward+for+whooping+cough+vaccine",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcold-health-alert-issued-west-midlands-temperatures-drop&rating=Good&title=Cold-health+alert+issued+for+West+Midlands+as+temperatures+drop",
+      "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fblockbuster-free-event-mark-150th-anniversary-walsall-arboretum&rating=Ok&title=Blockbuster+free+event+to+mark+150th+anniversary+of+Walsall+Arboretum",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-residents-encouraged-apply-household-support-fund-grants&rating=Poor&title=Walsall+residents+encouraged+to+apply+for+Household+Support+Fund+grants",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fevent-preventing-drug-related-deaths-build-safer-walsall&rating=Ok&title=Event+on+preventing+drug-related+deaths+to+build+a+safer+Walsall",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnew-cycle-route-and-improvements-main-road-ps25m-scheme-get-under-way&rating=Good&title=New+cycle+route+and+improvements+for+main+road+as+%C2%A32.5m+scheme+to+get+under+way",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fconstruction-begins-walsalls-historic-guildhall-creative-hub&rating=Ok&title=Construction+begins+on+Walsall%E2%80%99s+historic+Guildhall+creative+hub",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnew-government-grant-support-walsall-organisations-deliver-heritage-related-activities&rating=Ok&title=New+Government+grant+to+support+Walsall+organisations+deliver+heritage-related+activities",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fupdated-statement-toxic-chemical-spillage-4pm-19-august-2024&rating=Ok&title=Updated+statement+-+Toxic+chemical+spillage+-+4pm%2C+19+August+2024",
+      "http://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fpolicing-and-public-safety%2Fneighbourhood-nuisance-and-anti-social-behaviour&rating=Ok&title=Neighbourhood+nuisance+and+anti-social+behaviour",
+      "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-countryside-and-nature-reserves%2Ffibbersley-local-nature-reserve&rating=Ok&title=Fibbersley+Local+Nature+Reserve",
+      "https://go.walsall.gov.uk/feedback?page=%2Fbusiness%2Fdoing-business-with-the-council%2Fpay-invoice-sent-council&rating=Good&title=Pay+an+invoice+sent+by+the+council",
+      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-suicide-prevention-strategy-be-refreshed&rating=Good&title=Walsall+Suicide+Prevention+Strategy+to+be+refreshed",
+      "https://go.walsall.gov.uk/feedback?page=%2Froads-parking-and-travel%2Fflooding-and-drainage%2Fflooding-advice&rating=Good&title=Flooding+advice",
+      "http://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-householders%2Ffind-and-comment-planning-application&rating=Poor&title=Find+and+comment+on+a+planning+application"
+     ]
+    },
+    "evidence": {
+     "source": "declared page family + Lighthouse page detail",
+     "denominator": 188,
+     "membership_basis": "configured route",
+     "limitations": [
+      "Family association does not establish a shared implementation or component ownership.",
+      "Lighthouse lab scores are not field Core Web Vitals."
+     ]
+    },
+    "hypothesis": "Pages in this declared family repeatedly show weaker Lighthouse performance and may share a template-level issue.",
+    "alternatives": [
+     "The family may simply contain heavier content or third parties.",
+     "The sample may be too small to support a family-level conclusion."
+    ],
+    "proposed_test": "Repeat the family representative pages under matched Lighthouse conditions and compare with outside-family pages.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: page-family-performance-pattern",
+     "evidence: direct-observation",
+     "reach: 40 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:00a8f985bed7",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
+     "performance": 12,
+     "metrics": {
+      "lcp_ms": 44519,
+      "tbt_ms": 2708,
+      "cls": 0.276
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:113239eaf7d9",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes",
+     "performance": 11,
+     "metrics": {
+      "lcp_ms": 15298,
+      "tbt_ms": 1842,
+      "cls": 0.383
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:1b793825d594",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/newsroom/construction-begins-walsalls-historic-guildhall-creative-hub",
+     "performance": 14,
+     "metrics": {
+      "lcp_ms": 96793,
+      "tbt_ms": 2736,
+      "cls": 0.265
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:27ca6bb78a96",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/stray-lost-or-dangerous-dogs",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 13435,
+      "tbt_ms": 1582,
+      "cls": 0.393
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:2af0944914b1",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/the-croft",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 14029,
+      "tbt_ms": 4962,
+      "cls": 0.271
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:32787b27f5c4",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/newsroom/15-walsall-primary-schools-join-award-winning-attendance-campaign",
+     "performance": 13,
+     "metrics": {
+      "lcp_ms": 69999,
+      "tbt_ms": 2237,
+      "cls": 0.291
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:39013352f07f",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/newsroom/call-makers-be-part-second-walsall-makerfest",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 15751,
+      "tbt_ms": 5898,
+      "cls": 0.26
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:3e697d469e08",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/events/knit-and-natter-55",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 6498,
+      "tbt_ms": 2165,
+      "cls": 0.387
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:4992bde75d04",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/events/board-games-library-2",
+     "performance": 13,
+     "metrics": {
+      "lcp_ms": 13742,
+      "tbt_ms": 1589,
+      "cls": 0.384
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:4c53b0a1680a",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/events/murder-they-wrote-adult-reading-group-lichfield-street-hub-0",
+     "performance": 16,
+     "metrics": {
+      "lcp_ms": 17893,
+      "tbt_ms": 2689,
+      "cls": 0.245
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:55ff2a340eaa",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/events/group-information-session-open-lens-media-creative-employability-aged-16-35",
+     "performance": 13,
+     "metrics": {
+      "lcp_ms": 42994,
+      "tbt_ms": 1384,
+      "cls": 0.401
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:5609d0c104b8",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-7",
+     "performance": 14,
+     "metrics": {
+      "lcp_ms": 19046,
+      "tbt_ms": 2263,
+      "cls": 0.292
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:58854e69b861",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/events/craft-chat-1",
+     "performance": 11,
+     "metrics": {
+      "lcp_ms": 29489,
+      "tbt_ms": 3032,
+      "cls": 0.292
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:7139e5530003",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/events/crafternoon-2",
+     "performance": 18,
+     "metrics": {
+      "lcp_ms": 12225,
+      "tbt_ms": 1965,
+      "cls": 0.384
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:71700713ee10",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcouncillor-alan-fleming-qrm-elected-mayor-walsall-2026-27&rating=Poor&title=Councillor+Alan+Fleming+QRM+elected+Mayor+of+Walsall+for+2026-27",
+     "performance": 16,
+     "metrics": {
+      "lcp_ms": 9571,
+      "tbt_ms": 3152,
+      "cls": 0.378
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:73ab42f012c1",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-residents-encouraged-apply-household-support-fund-grants&rating=Ok&title=Walsall+residents+encouraged+to+apply+for+Household+Support+Fund+grants+",
+     "performance": 15,
+     "metrics": {
+      "lcp_ms": 10892,
+      "tbt_ms": 2313,
+      "cls": 0.501
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:77ef946123a9",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/newsroom/tickets-now-sale-fotofest-2026-visual-expo-walsall",
+     "performance": 8,
+     "metrics": {
+      "lcp_ms": 25926,
+      "tbt_ms": 3782,
+      "cls": 0.368
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:7e06b3790899",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/newsroom/supporting-community-led-action-sickle-cell-awareness-month",
+     "performance": 11,
+     "metrics": {
+      "lcp_ms": 13598,
+      "tbt_ms": 4626,
+      "cls": 0.429
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:87e17ae472ee",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/walsall-libraries/our-libraries/darlaston-district-library",
+     "performance": 8,
+     "metrics": {
+      "lcp_ms": 11109,
+      "tbt_ms": 5076,
+      "cls": 0.369
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:8ce0d28c4c83",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fpregnant-women-urged-come-forward-whooping-cough-vaccine&rating=Good&title=Pregnant+women+urged+to+come+forward+for+whooping+cough+vaccine",
+     "performance": 16,
+     "metrics": {
+      "lcp_ms": 12656,
+      "tbt_ms": 2117,
+      "cls": 0.378
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:9395558ef316",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/newsroom/just-one-week-left-view-powerful-knife-angel-during-walsall-stay",
+     "performance": 10,
+     "metrics": {
+      "lcp_ms": 38241,
+      "tbt_ms": 2321,
+      "cls": 0.383
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:9ccbd38393ee",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A356",
+     "performance": 12,
+     "metrics": {
+      "lcp_ms": 25603,
+      "tbt_ms": 2686,
+      "cls": 0.292
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:a7e511e980f4",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/health-and-social-care/care-homes/choosing-care-home",
+     "performance": 13,
+     "metrics": {
+      "lcp_ms": 12679,
+      "tbt_ms": 1232,
+      "cls": 0.388
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:c19b01dc451c",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A38",
+     "performance": 15,
+     "metrics": {
+      "lcp_ms": 19834,
+      "tbt_ms": 1269,
+      "cls": 0.368
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:d09ea647de72",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fupdated-statement-toxic-chemical-spillage-4pm-19-august-2024&rating=Ok&title=Updated+statement+-+Toxic+chemical+spillage+-+4pm%2C+19+August+2024",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 12486,
+      "tbt_ms": 2107,
+      "cls": 0.409
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:d42a0ce004e5",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/health-and-social-care/care-homes",
+     "performance": 17,
+     "metrics": {
+      "lcp_ms": 11395,
+      "tbt_ms": 3315,
+      "cls": 0.292
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:dcf4806ec34a",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "http://go.walsall.gov.uk/events/saturday-story-time-28",
+     "performance": 16,
+     "metrics": {
+      "lcp_ms": 11954,
+      "tbt_ms": 2242,
+      "cls": 0.261
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:e1d8085c25bd",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/CSTR",
+     "performance": 12,
+     "metrics": {
+      "lcp_ms": 13514,
+      "tbt_ms": 3007,
+      "cls": 0.436
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   },
+   {
+    "id": "slow-page:e52e36fb4b29",
+    "category": "slow-representative-page",
+    "evidence_strength": "direct-observation",
+    "page": {
+     "url": "https://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/bcta/members-area",
+     "performance": 14,
+     "metrics": {
+      "lcp_ms": 5899,
+      "tbt_ms": 3756,
+      "cls": 0.441
+     }
+    },
+    "evidence": {
+     "source": "lighthouse lab run",
+     "denominator": 188,
+     "limitations": [
+      "Lighthouse is a synthetic lab measurement, not field Core Web Vitals; INP is unavailable."
+     ]
+    },
+    "hypothesis": "This sampled page has a low Lighthouse lab performance score and deserves investigation of its loading and main-thread work.",
+    "alternatives": [
+     "The run may reflect throttling, third-party variance or a transient network condition.",
+     "A single lab score is not proof of a user-facing regression."
+    ],
+    "proposed_test": "Repeat the Lighthouse run under the same configured conditions and inspect LCP/TBT plus the top recommendations before changing code.",
+    "status": "investigation-candidate",
+    "priority_reasons": [
+     "category: slow-representative-page",
+     "evidence: direct-observation",
+     "reach: 1 sampled page(s)"
+    ]
+   }
+  ],
+  "limitations": [
+   "Resource presence is correlation, not proof of a performance defect or ownership.",
+   "Page counts use sampled pages with Resource Timing evidence, not the whole site.",
+   "No energy measurement or causal attribution is included."
+  ]
  },
  "evidenceCoverage": {
   "basis": "findings",

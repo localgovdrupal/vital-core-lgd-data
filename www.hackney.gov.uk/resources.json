@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-18T20:52:12.782Z",
+ "updatedAt": "2026-11-19T11:28:19.171Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -13,7 +13,7 @@
     "2026-W47"
    ],
    "weeksSeen": 4,
-   "lastPages": 855,
+   "lastPages": 903,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
@@ -217,13 +217,14 @@
   "https://map2.hackney.gov.uk/maps/ev-network-plan-with-summary/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/electric-vehicles"
@@ -560,8 +561,9 @@
     "2026-W47"
    ],
    "weeksSeen": 4,
-   "lastPages": 1,
+   "lastPages": 2,
    "lastExamplePages": [
+    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence",
     "https://www.hackney.gov.uk/business-and-licensing/licensing/shop-front-trading-licence"
    ]
   },
@@ -600,13 +602,14 @@
   "https://map2.hackney.gov.uk/maps/cycle-parking/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/street-cycle-parking"
@@ -899,13 +902,14 @@
   "https://www.youtube.com/embed/qRWwTTF7rjw": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/exercise-over-50s"
@@ -1271,17 +1275,17 @@
   "https://www.legislation.gov.uk/ukpga/1980/66/pdfs/ukpga_19800066_en.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
-   "lastPages": 2,
+   "weeksSeen": 4,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence",
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/privately-operated-markets"
+    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence"
    ]
   },
   "https://map2.hackney.gov.uk/maps/locally-listed-buildings/embed.html": {
@@ -1302,12 +1306,13 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/LA35-Application-to-vary-a_club-premises-certificate.doc": {
    "type": "document",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
@@ -1316,12 +1321,13 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/LA36-Club_premises-Variation-Newspaper-Advertisement.doc": {
    "type": "document",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
@@ -1330,12 +1336,13 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/LA37-Club-premises-variation-Site-Notice.doc": {
    "type": "document",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
@@ -1504,13 +1511,14 @@
   "https://news.hackney.gov.uk/download/70203/wetlandsmap-2.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/connecting-green-spaces"
@@ -1838,13 +1846,14 @@
   "https://www.youtube.com/embed/E7GUu7Xa7Nw?si=FfXJb-CdHFzKVgNu": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/universal-credit-explained"
@@ -2091,13 +2100,14 @@
   "https://www.youtube.com/embed/C4mWEsT-WIY?si=YxSoVvpXNCyx7yjr": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/cycling-school"
@@ -2266,13 +2276,14 @@
   "https://www.civictrustawards.org.uk/uploads/2020_NJP_Regional_Finalists.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/kings-crescent"
@@ -2281,13 +2292,14 @@
   "https://www.youtube.com/embed/9MhPZbSUZ6Q?si=SRgIBppQAoRTY2Ym": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/kings-crescent"
@@ -2360,13 +2372,14 @@
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/820133/PHE_Notifiable_diseases_poster_HPT.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/health-and-social-care/health-professionals/health-advice"
@@ -2751,13 +2764,14 @@
   "https://map2.hackney.gov.uk/maps/environmental-permitting-regulations/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/environmental-permits/environmental-permits-pollution-prevention-and-control"
@@ -2970,13 +2984,14 @@
   "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6077/2116950.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/neighbourhood-planning/neighbourhood-planning"
