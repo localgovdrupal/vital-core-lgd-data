@@ -1,0 +1,140 @@
+{
+ "runId": "2026-11-19T18-42-29-427Z-14cd9f",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-19T18:42:30.738Z",
+ "scanned": [
+  "d4762a7f699685c9",
+  "643b096c7dfcc80e",
+  "6eeba8f0fac90a57",
+  "77f3c4497e48d8ce",
+  "e1ba4d5748834e53",
+  "efc996390731957b",
+  "4988ef4590878ec0",
+  "6507d78d56cd64f4",
+  "b29a655778873e72",
+  "91cb87d3aa2dc021",
+  "19056957dbe231cc",
+  "927054791620b3ab",
+  "b40da60f0c479ec0",
+  "c7b076d08ecab616",
+  "29690614b9391559",
+  "7deeb09ceba07dac",
+  "7ded6b9c89a1dd49",
+  "e301ec12a37b9ef9",
+  "c96239ead20d2190",
+  "7fdf5efe34a20f0b",
+  "09afde06bc64837e",
+  "1f9dbad5ad842b05",
+  "7e42705505665582",
+  "07257c21774903c5",
+  "ac453fc4e67ceddd",
+  "783b6f9cb27eb2cb",
+  "e97dd6edb30be28f",
+  "e8a9ec80c8c4fe75",
+  "e9a28a8413732522",
+  "478b4e503d21c37b",
+  "e85d8494d7106b48",
+  "c54cf2a550267340",
+  "7b24439df9077201",
+  "99592b4a575f254d",
+  "d997ff35e91c147d",
+  "6bd812d2606a57e9",
+  "00346aef283c9a59",
+  "d5847b13d4a269ab",
+  "29a1303f2e52954b",
+  "311b87b41f8810f3",
+  "e40a2381fc10105b",
+  "8316627d994b2a4c",
+  "610f047aafcd1937",
+  "d99f0a4749946e5d",
+  "c132b734a0fef872",
+  "fd3b50cc7ba14775",
+  "f2473c68b01c53a3",
+  "be509dc7d77cf616",
+  "a67cd7e56a817aec"
+ ],
+ "errors": [
+  {
+   "pageId": "d14aa1742fb62ff7",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A36&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A357",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A36&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A357\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1191,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 29,
+  "resources": 48,
+  "images": 48,
+  "standards": 27,
+  "third-party": 17,
+  "link-check": 48,
+  "plain-language": 25,
+  "security": 3,
+  "lighthouse": 4,
+  "performance-resources": 14,
+  "deprecated-html": 1,
+  "public-interest": 7,
+  "sustainability": 1,
+  "tech": 2
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-19T18:59:30.225Z"
+}
