@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-18T03:50:56.674Z",
+ "updatedAt": "2026-11-19T03:49:29.534Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -5250,6 +5250,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2023-03/Summary%20accounts%202021-22%20for%20publication.pdf": {
    "checkedAt": "2026-11-18T03:50:56.672Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-08/108114%20Deferred%20Payment%20Agreements%20Booklets.pdf": {
+   "checkedAt": "2026-11-19T03:48:53.492Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-07/LGS%20PAS%20Planning%20Service%20Peer%20Challenge%20Report.pdf": {
+   "checkedAt": "2026-11-19T03:48:54.993Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-01/Public%20TPO%20Register%2006.01.2026_0.pdf": {
+   "checkedAt": "2026-11-19T03:48:56.495Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-12/2022-23%20financial%20report%20final%20for%20publication.pdf": {
+   "checkedAt": "2026-11-19T03:48:57.996Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-12/Notice%20of%20Conclusion%20of%20Audit%202022-23.pdf": {
+   "checkedAt": "2026-11-19T03:48:59.498Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-12/Summary%20accounts%202022-23%20for%20publication.pdf": {
+   "checkedAt": "2026-11-19T03:49:00.999Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-07/Community%20Capital%20-%20Additional%20support%20V3_Kristina%20Brockhurst.pdf": {
+   "checkedAt": "2026-11-19T03:49:02.501Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-09/Appendix%20F%20Landscape_%20ensitivity%20Assessment.pdf": {
+   "checkedAt": "2026-11-19T03:49:04.001Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-09/Appendix%20G%20Important%20Views.pdf": {
+   "checkedAt": "2026-11-19T03:49:05.504Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-09/Appendix%20H%20All%20Figures.pdf": {
+   "checkedAt": "2026-11-19T03:49:07.006Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-09/Great_Barr_CAAMP_Final_Consultation_Draft.pdf": {
+   "checkedAt": "2026-11-19T03:49:08.508Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-09/Great_Barr_CAAMP_Poster_2024.pdf": {
+   "checkedAt": "2026-11-19T03:49:10.010Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-01/Audited%20Statement%20of%20Accounts%202023-24.pdf": {
+   "checkedAt": "2026-11-19T03:49:11.512Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-01/Summary%20of%20accounts%202023-24.pdf": {
+   "checkedAt": "2026-11-19T03:49:13.014Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-09/Notice%20of%20conclusion%20of%20audit%202023-24%2015.9.pdf": {
+   "checkedAt": "2026-11-19T03:49:14.516Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-09/Walsall%20Council%20-%20Certificate%20of%20audit%20closure.pdf": {
+   "checkedAt": "2026-11-19T03:49:16.018Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-12/2024-25%20Statement%20of%20Accounts.pdf": {
+   "checkedAt": "2026-11-19T03:49:17.520Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-12/Summary%20accounts%202024-25%20Nov%2025.pdf": {
+   "checkedAt": "2026-11-19T03:49:19.022Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-12/Walsall%20MBC%20Auditors%20Annual%20Report%202024-25.pdf": {
+   "checkedAt": "2026-11-19T03:49:20.524Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-03/Agenda%20BCJC%2025-03-26_Christine%20Williams.pdf": {
+   "checkedAt": "2026-11-19T03:49:22.026Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-03/BCJC%2025-03-26%20-%20PUBLIC%20Decisions.pdf": {
+   "checkedAt": "2026-11-19T03:49:23.526Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-03/ITEM%202%20-%20BCJC%2018-06-25%20-%20Minutes_Christine%20Williams.pdf": {
+   "checkedAt": "2026-11-19T03:49:25.028Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/17-06-26%20-%20BCJC%20Agenda.pdf": {
+   "checkedAt": "2026-11-19T03:49:26.530Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/17-06-26%20-%20BCJC%20Decisions.pdf": {
+   "checkedAt": "2026-11-19T03:49:28.031Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/2025-26%20Statement%20of%20Accounts%20Draft%20Signed_0.pdf": {
+   "checkedAt": "2026-11-19T03:49:29.533Z",
    "week": "2026-W47",
    "httpStatus": null,
    "status": "error",

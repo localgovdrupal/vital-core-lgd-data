@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-11-17T04:46:06.677Z",
+ "updatedAt": "2026-11-19T03:49:43.498Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -19424,6 +19424,174 @@
    },
    "errors": [
     "headings-none, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107063%20Hart%20Hill%201986_Order.PDF": {
+   "checkedAt": "2026-11-19T03:49:43.489Z",
+   "week": "2026-W47",
+   "httpStatus": 200,
+   "md5": "0e486ca7cdecb75320c23d40004e4c08",
+   "bytes": 789298,
+   "etag": "\"6b75ce9a35dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:01 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1986",
+    "pages": 24,
+    "words": 0,
+    "images": 24,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, no bookmarks and more than 20 pages, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107063%20Hart%20Hill%201986_Plan.PDF": {
+   "checkedAt": "2026-11-19T03:49:43.490Z",
+   "week": "2026-W47",
+   "httpStatus": 200,
+   "md5": "fd7150dd841725ee46d206989bc79bfd",
+   "bytes": 1771348,
+   "etag": "\"8cc3dc9a35dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:01 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1986",
+    "pages": 6,
+    "words": 0,
+    "images": 6,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107063%20Hart%20Hill%201986_Plan2.PDF": {
+   "checkedAt": "2026-11-19T03:49:43.490Z",
+   "week": "2026-W47",
+   "httpStatus": 200,
+   "md5": "64dcb8bca68ca7a8e5ba45c556176707",
+   "bytes": 3479454,
+   "etag": "\"98d6ef9a35dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:01 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1986",
+    "pages": 6,
+    "words": 0,
+    "images": 6,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107063%20Hart%20Hill%201986_Plan3.PDF": {
+   "checkedAt": "2026-11-19T03:49:43.491Z",
+   "week": "2026-W47",
+   "httpStatus": 200,
+   "md5": "6a64aec404c9369d00c86cb43d7b7c5a",
+   "bytes": 2209691,
+   "etag": "\"c88609b35dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:01 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1986",
+    "pages": 1,
+    "words": 0,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
    ]
   }
  }
