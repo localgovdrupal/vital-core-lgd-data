@@ -1,0 +1,143 @@
+{
+ "runId": "2026-11-20T14-22-43-380Z-3d3203",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-20T14:22:44.058Z",
+ "scanned": [
+  "77c773aa4ce7882c",
+  "4f60abe95c83c6f9",
+  "0b8f8bff6fb2289a",
+  "ca95752a60109945",
+  "590b121e4b7fe454",
+  "e5ffb819a1693021",
+  "4b87b018651495e8",
+  "4bda84617fa02175",
+  "d26ab7ebd1313fbe",
+  "90ea46381864d2e4",
+  "15dbb9711a4ba38c",
+  "3c8989f1f93cebf1",
+  "385ab64a9d08eff5",
+  "f8240878f14fe458",
+  "173e79d51adc4086",
+  "cb77e48e392004ea",
+  "0ead376c49e102a6",
+  "627154d70e0fc9f5",
+  "0a5deccdb84e881d",
+  "bd3120fbfc612a7f",
+  "f11b81a5aa7d2729",
+  "f36384efbc9dffde",
+  "9b247483a70124fc",
+  "ad8c9668ecea56c3",
+  "78dece496ad76ffc",
+  "7b4a291d36939ff7",
+  "2a52990947f701ff",
+  "eebf193fe52fbebe",
+  "8c8384647d7e2e52",
+  "c6d54e86789e75e2",
+  "0dbaa1b453956b87",
+  "5ea3d6e92e437190",
+  "87fb90015a84d16f",
+  "d4ac4cf52d5668df",
+  "8530f7dbd4563a9d",
+  "10c9f7ca2311fea5",
+  "db6c45fd4ea7e0bb",
+  "e64c4ad711ea5068",
+  "0be935a0018d9bc6",
+  "709eea4381be8409",
+  "b15b75a9425df2b1",
+  "dd71f5632b011a06",
+  "a4e32e6d9a8660d6",
+  "97afdb7ca0052bb7",
+  "cee95d878aa98a01",
+  "d957a20e1e9cad8e",
+  "23671831481a3a59",
+  "3e90cfc44bbf943f",
+  "bb838402571ad49f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1127,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fuk-shared-prosperity-fund-prospectus&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7C6ce877fd6de044224e7808dbf4d61e71%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638372972688063389%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rDdFS0Za4HYzT2XchOIMBPRsljcJkTbr%2BIP18KzNi4E%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/net-zero-grant-funding-available-help-walsall-businesses-improve-energy-efficiency"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 29,
+  "resources": 49,
+  "images": 49,
+  "link-check": 49,
+  "plain-language": 19,
+  "third-party": 16,
+  "performance-resources": 17,
+  "deprecated-html": 7,
+  "standards": 21,
+  "security": 7,
+  "sustainability": 9,
+  "public-interest": 3,
+  "lighthouse": 5,
+  "tech": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-20T14:39:29.334Z"
+}
