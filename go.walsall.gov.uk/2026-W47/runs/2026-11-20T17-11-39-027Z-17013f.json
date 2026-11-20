@@ -1,0 +1,169 @@
+{
+ "runId": "2026-11-20T17-11-39-027Z-17013f",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-20T17:11:39.790Z",
+ "scanned": [
+  "66b53646e53c9fff",
+  "5542fd9fff512487",
+  "40921757a427a4d6",
+  "795e529ab6b23aa4",
+  "7e951bbefec65aa7",
+  "bc83d87ede1f6679",
+  "e046c926bc0bccbb",
+  "ccb783d7f474000d",
+  "eb51e5b7910eb867",
+  "80bf8d36729ea474",
+  "efb206049fbde7ce",
+  "adfee4226a7e0fbe",
+  "f4efebdaabea0377",
+  "7a4c274ccacef348",
+  "c164011e6bea76ff",
+  "13de2eb2338053a5",
+  "7305804570776b1e",
+  "c0f5d0c80c2b9b3e",
+  "e4f6c89870effe1c",
+  "32e926910ec1289a",
+  "f2e12de595768d18",
+  "9df0e1e242be8868",
+  "5bc7de041e922784",
+  "8f623b11648359d5",
+  "4c21a1c5b24c03a1",
+  "a1fe49463c4c85dd",
+  "6bfd16300c312825",
+  "eb723bf46260b8f4",
+  "4f7a6371aded74a6",
+  "a7c87b03ebc1b2cd",
+  "0032fc3b86fd0be1",
+  "d73feea51628bb16",
+  "5a7628eabbfee008",
+  "1efbcecad406a1cd",
+  "fb3a8d31024260ed",
+  "59271aa07f5d7b10",
+  "e8fb813e4c38a0c8",
+  "7fff2474da799536",
+  "271034dcd6cbcd87",
+  "ae1977a92b65c31b",
+  "4882de3d2ac0c940",
+  "a62a034731c6a74d",
+  "8e66e626b32b7459",
+  "6ef4ef5233dc5c94",
+  "63cb26c9c297b024",
+  "cc0c9be8d1c91dbf",
+  "a9d895b3ace00922",
+  "d7eeb3151cfcf223",
+  "707bdd3b0c730400"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 964,
+  "checked": 500,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://go.walsall.gov.uk/directories/wwo/signs-for-worship-walsall---place-of-worship-and-community-in-walsall.-website-for-registration-http%3A//tiny.cc/sfwwzoom",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A354",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A419&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A354",
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A354"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thegoodgrieftrust.org%2Fngaw%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7Cbee386d97d3241ca620e08de318382ea%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639002638110116626%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5bzyz%2BdPfGUlUe8Et8iHBytKWmhB21N2%2FdE5pq4Tbw4%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/national-grief-awareness-week-remembering-loved-ones-festive-season"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.thegoodgrieftrust.org%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7Cbee386d97d3241ca620e08de318382ea%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639002638110133812%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ym3evMP%2FAyNXQoubg94ljs7QRrKYcNoiIJ9v%2FJMVnyU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/national-grief-awareness-week-remembering-loved-ones-festive-season"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thegoodgrieftrust.org%2Fngaw%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7Cbee386d97d3241ca620e08de318382ea%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639002638110148777%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=huNMVBdcv7s%2FEUc3bgJAohuK0ZmdFF3LM83rzUpZSDg%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/national-grief-awareness-week-remembering-loved-ones-festive-season"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 26,
+  "resources": 49,
+  "images": 49,
+  "standards": 28,
+  "link-check": 49,
+  "plain-language": 21,
+  "public-interest": 7,
+  "tech": 3,
+  "performance-resources": 10,
+  "sustainability": 3,
+  "deprecated-html": 7,
+  "third-party": 16,
+  "lighthouse": 5,
+  "security": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-20T17:26:08.436Z"
+}
