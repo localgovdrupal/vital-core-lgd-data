@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-18T20:52:10.908Z",
+ "updatedAt": "2026-11-20T20:41:23.307Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -1127,7 +1127,12 @@
    ],
    "weeksBroken": 3,
    "foundOn": [
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A354"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A354",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=service_type%3A354",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A354",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A419&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A354",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A354",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A354"
    ]
   },
   "http://centsa.org.uk/anonymous-hotline/": {

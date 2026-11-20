@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-19T16:51:27.134Z",
+ "updatedAt": "2026-11-20T20:41:23.335Z",
  "vendors": {
   "pure.cloud": {
    "firstSeen": "2026-W44",
@@ -2205,13 +2205,14 @@
   },
   "rtactivate.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "admixer.net": {
@@ -2815,13 +2816,14 @@
   },
   "hotjar.io": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "dmxleo.com": {
@@ -2838,13 +2840,14 @@
   },
   "mediavine.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "groovinads.com": {
@@ -2873,24 +2876,26 @@
   },
   "marketiq.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "insightexpressai.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "astuntechnology.com": {
@@ -2953,13 +2958,14 @@
   },
   "adstanding.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "om-meta.com": {
@@ -3018,13 +3024,14 @@
   },
   "aralego.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "amazonaws.com": {
@@ -3080,13 +3087,14 @@
   },
   "taptapnetworks.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": false
   },
   "admaster.cc": {
@@ -3656,6 +3664,15 @@
    "isScriptVendor": false
   },
   "pgammedia.com": {
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "adprime.com": {
    "firstSeen": "2026-W47",
    "lastSeen": "2026-W47",
    "_weeks": [
