@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-19T03:49:29.534Z",
+ "updatedAt": "2026-11-20T03:42:31.742Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -5500,6 +5500,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2026-06/2025-26%20Statement%20of%20Accounts%20Draft%20Signed_0.pdf": {
    "checkedAt": "2026-11-19T03:49:29.533Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/26-3-14_-_minutes.pdf": {
+   "checkedAt": "2026-11-20T03:41:55.605Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/agenda-3.pdf": {
+   "checkedAt": "2026-11-20T03:41:57.107Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_3_-_constitution_and_terms_of_reference.pdf": {
+   "checkedAt": "2026-11-20T03:41:58.609Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_4_-_black_country_sep_-_executive_summary.pdf": {
+   "checkedAt": "2026-11-20T03:42:00.110Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_4_-_black_country_sep_-_local_growth_deal_project_priorities_2015-18_0.pdf": {
+   "checkedAt": "2026-11-20T03:42:01.612Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_4_-_black_country_sep_-_report.pdf": {
+   "checkedAt": "2026-11-20T03:42:03.113Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/Draft%20Summary%20accounts%202025-26.pdf": {
+   "checkedAt": "2026-11-20T03:42:04.616Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/ITEM%203%20-%2025-03-26%20-%20PUBLIC%20Minutes.pdf": {
+   "checkedAt": "2026-11-20T03:42:06.116Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/ITEM%207%20-%20BCJC%20Secretarys%20Report.pdf": {
+   "checkedAt": "2026-11-20T03:42:07.618Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/ITEM%207%2C%20App%20A%20-%20meeting%20dates.pdf": {
+   "checkedAt": "2026-11-20T03:42:09.120Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/ITEM%207%2C%20App%20B%20-%20Forward%20Plan%20dates.pdf": {
+   "checkedAt": "2026-11-20T03:42:10.621Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/ITEM%208%20-%20BC%20LEP%20Legacy%20year%20end%20position.pdf": {
+   "checkedAt": "2026-11-20T03:42:12.123Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/Notice%20of%20Public%20Inspection%202025-26_0.pdf": {
+   "checkedAt": "2026-11-20T03:42:13.625Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-07/Notice%20of%20completion%20and%20close%20of%20audit%202024-25.pdf": {
+   "checkedAt": "2026-11-20T03:42:15.127Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-03/Accessible%20My%20Wellbeing%20Plan.pdf": {
+   "checkedAt": "2026-11-20T03:42:16.629Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-11/Programme%20Management.pdf": {
+   "checkedAt": "2026-11-20T03:42:18.226Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-11/Public%20Health%20Privacy%20Notice.pdf": {
+   "checkedAt": "2026-11-20T03:42:19.727Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2025-11/Strategic%20Housing%20Land%20Availaibility%20Assessment%202025.pdf": {
+   "checkedAt": "2026-11-20T03:42:21.228Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2026-01/Dropped%20Kerb%20Application%2029.pdf": {
+   "checkedAt": "2026-11-20T03:42:22.730Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2026-01/Governance%20Services%20Privacy%20Notice.pdf": {
+   "checkedAt": "2026-11-20T03:42:24.232Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2026-01/Homes%20for%20Ukraine.pdf": {
+   "checkedAt": "2026-11-20T03:42:25.732Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2026-02/Care%20Leavers%20Newsletter%20February%202026_Andrew%20Caville.pdf": {
+   "checkedAt": "2026-11-20T03:42:27.234Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2026-04/CCTV%20Privacy%20Notice%20and%20Disclosure%20Process%20V0.4%20%281%29.pdf": {
+   "checkedAt": "2026-11-20T03:42:28.736Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2026-04/Corporate%20complaints%20policy.pdf": {
+   "checkedAt": "2026-11-20T03:42:30.237Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2026-04/Gambling%20Harms%20Directory%20for%20Residents.pdf": {
+   "checkedAt": "2026-11-20T03:42:31.739Z",
    "week": "2026-W47",
    "httpStatus": null,
    "status": "error",
