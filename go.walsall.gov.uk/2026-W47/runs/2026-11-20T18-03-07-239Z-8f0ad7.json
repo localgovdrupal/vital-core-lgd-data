@@ -1,0 +1,148 @@
+{
+ "runId": "2026-11-20T18-03-07-239Z-8f0ad7",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-20T18:03:09.722Z",
+ "scanned": [
+  "eefdc01ef5ec774b",
+  "d85e28cf32bb45d2",
+  "5718e845400c79e4",
+  "8cf1e708b863630c",
+  "483f928e803f1b7b",
+  "360fa269eab22fee",
+  "0606d8485dbab982",
+  "c48b843d7b7af4ab",
+  "84399c9bcd9b5660",
+  "5a81c73d59dadcd5",
+  "2ed31c2b3e87b3c3",
+  "500d43e17d68e838",
+  "545c4b1e80bcd408",
+  "cf2d662e123d4225",
+  "582d45a143e17649",
+  "720dfc75270e6899",
+  "1c6c70f829e5125c",
+  "19537d5122f17cf8",
+  "740af3cebfdc9a81",
+  "b9112f1f86ba7396",
+  "71b47279d6322a21",
+  "439c7e10850e3519",
+  "ab542b540c952b4b",
+  "3520fff0ecc62eb2",
+  "fc3753778d47e003",
+  "bac7cdf53771eceb",
+  "bc5194db46f3c585",
+  "6b98568621ae9620",
+  "1a194433b21b98ec",
+  "6e3b1a9b6b3c3278",
+  "1c2b1e6fbd29684e",
+  "c9cf37fff12256c2",
+  "2d080e12c3f6bc4b",
+  "23824cbf9b7edc3b",
+  "ca6d4a9c91e0c914",
+  "4d5e7e0213cc91ee",
+  "5f0f903a426a4092",
+  "243b4fb5fe50af75",
+  "8a58dbaad05f500c",
+  "7def1061e3be8f5a",
+  "8853cf1a232731fa",
+  "fc76530c832bf1b1",
+  "cf8aec1223c1f221",
+  "5cf1bb6184031eba",
+  "8b4fd70c2fda78da",
+  "1b716e182965a970",
+  "d6056fe02c499da8",
+  "50a820e804b7842b",
+  "7afeb901a5bb78d5"
+ ],
+ "errors": [
+  {
+   "pageId": "201e955ed107fa20",
+   "url": "https://go.walsall.gov.uk/newsroom/report-highlights-progress-resident-access-and-housing-support",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://go.walsall.gov.uk/newsroom/report-highlights-progress-resident-access-and-housing-support\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1097,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://go.walsall.gov.uk/directories/wwo/signs-for-worship-walsall---place-of-worship-and-community-in-walsall.-website-for-registration-http%3A//tiny.cc/sfwwzoom",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A354"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "plain-language": 25,
+  "resources": 48,
+  "images": 48,
+  "standards": 26,
+  "tech": 4,
+  "third-party": 15,
+  "link-check": 48,
+  "deprecated-html": 3,
+  "alfa": 22,
+  "performance-resources": 11,
+  "public-interest": 3,
+  "sustainability": 4,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-20T18:21:25.526Z"
+}
