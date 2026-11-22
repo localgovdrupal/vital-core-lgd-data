@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-21T03:26:19.596Z",
+ "updatedAt": "2026-11-22T02:38:01.354Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -6000,6 +6000,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-07/Casual%20Swimming%20Instructor%20JDES%20Generic%20.pdf": {
    "checkedAt": "2026-11-21T03:26:19.594Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Allocated%20Open%20Space%20Sites.pdf": {
+   "checkedAt": "2026-11-22T02:37:25.308Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2004a%20Land%20for%20Industry.pdf": {
+   "checkedAt": "2026-11-22T02:37:26.809Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2005a%20Shopping%20and%20Services.pdf": {
+   "checkedAt": "2026-11-22T02:37:28.311Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2006a%20Open%20Space.pdf": {
+   "checkedAt": "2026-11-22T02:37:29.812Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2006b%20Community%20and%20Leisure%20Facilities.pdf": {
+   "checkedAt": "2026-11-22T02:37:31.315Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2006c%20Education%20Training%20and%20Health.pdf": {
+   "checkedAt": "2026-11-22T02:37:32.817Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2007a%20Historic%20Environment.pdf": {
+   "checkedAt": "2026-11-22T02:37:34.319Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2008a%20Waste.pdf": {
+   "checkedAt": "2026-11-22T02:37:35.820Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2009a%20Minerals.pdf": {
+   "checkedAt": "2026-11-22T02:37:37.322Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2010a%20Transport.pdf": {
+   "checkedAt": "2026-11-22T02:37:38.825Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%2012a%20Options%20Rejected.pdf": {
+   "checkedAt": "2026-11-22T02:37:40.327Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%20A%20Willenhall%20Framework%20Plan.pdf": {
+   "checkedAt": "2026-11-22T02:37:41.828Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Constraint%20anf%20Asset%20Maps.pdf": {
+   "checkedAt": "2026-11-22T02:37:43.330Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Contents%20and%20Appendix%2003a%20Housing.pdf": {
+   "checkedAt": "2026-11-22T02:37:44.832Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Designated%20Heritage%20Assets.pdf": {
+   "checkedAt": "2026-11-22T02:37:46.334Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Draft%20Policies%20Map_1.pdf": {
+   "checkedAt": "2026-11-22T02:37:47.836Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Issues%20and%20Options%20SAD%20Consultation%20Summary%20Document.pdf": {
+   "checkedAt": "2026-11-22T02:37:49.338Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/List%20of%20Open%20Space%20Sites.pdf": {
+   "checkedAt": "2026-11-22T02:37:50.840Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Local%20Plans%20Policies%20Map%20Adopted.pdf": {
+   "checkedAt": "2026-11-22T02:37:52.342Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Love%20Willenhall%20Summary%20%28issue%29%20Final.pdf": {
+   "checkedAt": "2026-11-22T02:37:53.844Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%20Keys.pdf": {
+   "checkedAt": "2026-11-22T02:37:55.344Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Minerals%20Appendix%20Resource%20Maps.pdf": {
+   "checkedAt": "2026-11-22T02:37:56.846Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Nature%20Conservation%20Designations.pdf": {
+   "checkedAt": "2026-11-22T02:37:58.348Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Preferred%20Options%20Document.pdf": {
+   "checkedAt": "2026-11-22T02:37:59.850Z",
+   "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Preferred%20Options%20Draft%20Plan.pdf": {
+   "checkedAt": "2026-11-22T02:38:01.352Z",
    "week": "2026-W47",
    "httpStatus": null,
    "status": "error",
