@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-20T20:41:23.335Z",
+ "updatedAt": "2026-11-22T19:57:19.154Z",
  "vendors": {
   "pure.cloud": {
    "firstSeen": "2026-W44",
@@ -3575,11 +3575,12 @@
   },
   "spoutroserve.com": {
    "firstSeen": "2026-W46",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "152media-ssp.com": {
@@ -3592,6 +3593,15 @@
    "isScriptVendor": false
   },
   "ads-bidstrade.io": {
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "pgammedia.com": {
    "firstSeen": "2026-W47",
    "lastSeen": "2026-W47",
    "_weeks": [
@@ -3655,15 +3665,6 @@
    "isScriptVendor": false
   },
   "office.com": {
-   "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
-   "_weeks": [
-    "2026-W47"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "pgammedia.com": {
    "firstSeen": "2026-W47",
    "lastSeen": "2026-W47",
    "_weeks": [
