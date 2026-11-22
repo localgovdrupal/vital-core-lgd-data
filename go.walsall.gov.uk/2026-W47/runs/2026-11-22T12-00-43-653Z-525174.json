@@ -1,0 +1,98 @@
+{
+ "runId": "2026-11-22T12-00-43-653Z-525174",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-22T12:00:46.133Z",
+ "scanned": [
+  "17aec46a317cbf90",
+  "c02f30d26a691780",
+  "121d967897c92779",
+  "a2463b66dfe32f9d",
+  "31c1f540addac31a",
+  "67a2aa63f0ae79bb",
+  "16dd932c1eb3d603",
+  "c6640c5094a37a77",
+  "94d3669eb52248f3",
+  "8249a1c9ef4629c5",
+  "b988778f440d3b19",
+  "66179359e89e0321",
+  "f1baaa7f0df21cbc",
+  "13f6320e2a4415f2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 389,
+  "checked": 389,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 14,
+  "plain-language": 6,
+  "resources": 14,
+  "images": 14,
+  "standards": 8,
+  "security": 1,
+  "link-check": 14,
+  "alfa": 7,
+  "public-interest": 2,
+  "sustainability": 1,
+  "performance-resources": 3,
+  "tech": 2,
+  "third-party": 2,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 14,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-22T12:06:48.917Z"
+}

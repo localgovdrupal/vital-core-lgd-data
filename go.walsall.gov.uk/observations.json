@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "go.walsall.gov.uk",
- "updated_at": "2026-11-22T10:22:55.112Z",
+ "updated_at": "2026-11-22T12:06:49.675Z",
  "urls": {
   "00004ee2db0faba1": {
    "page_id": "00004ee2db0faba1",
@@ -745,6 +745,19 @@
    "page_id": "009046ac7d82200f",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A357",
    "first_discovered_at": "2026-11-02T18:47:56.840Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "00907d9e1c89db10": {
+   "page_id": "00907d9e1c89db10",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -13215,6 +13228,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "09a4ad97e7b7cb47": {
+   "page_id": "09a4ad97e7b7cb47",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "09a60c00a507afd8": {
    "page_id": "09a60c00a507afd8",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A353&page=0",
@@ -21076,6 +21102,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "0f380c1fe0ba4477": {
+   "page_id": "0f380c1fe0ba4477",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A354",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "0f3afa03711e76f4": {
    "page_id": "0f3afa03711e76f4",
    "url": "https://go.walsall.gov.uk/newsroom/rodent-infested-walsall-supermarket-forced-close",
@@ -24996,11 +25035,11 @@
    "page_id": "121d967897c92779",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A353",
    "first_discovered_at": "2026-11-22T10:11:52.132Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:01:46.000Z",
+   "last_success_at": "2026-11-22T12:01:46.000Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -27393,11 +27432,11 @@
    "page_id": "13f6320e2a4415f2",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A353",
    "first_discovered_at": "2026-10-31T12:48:34.605Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:05:30.781Z",
+   "last_success_at": "2026-11-22T12:05:30.781Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -31571,11 +31610,11 @@
    "page_id": "16dd932c1eb3d603",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A353",
    "first_discovered_at": "2026-11-22T10:11:52.132Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:02:40.486Z",
+   "last_success_at": "2026-11-22T12:02:40.486Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -32725,11 +32764,11 @@
    "page_id": "17aec46a317cbf90",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A36",
    "first_discovered_at": "2026-11-22T10:09:15.501Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:01:07.155Z",
+   "last_success_at": "2026-11-22T12:01:07.155Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -34047,6 +34086,19 @@
    "page_id": "18874ed71b55e856",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A352",
    "first_discovered_at": "2026-11-11T10:51:25.522Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "1888af95ae5e0fd5": {
+   "page_id": "1888af95ae5e0fd5",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -46244,6 +46296,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "213b6f76beeb1a85": {
+   "page_id": "213b6f76beeb1a85",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "213c05314c1593c9": {
    "page_id": "213c05314c1593c9",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A354",
@@ -56115,6 +56180,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "2920d7b3dfcd913a": {
+   "page_id": "2920d7b3dfcd913a",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.585Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "2926318ff562aae3": {
    "page_id": "2926318ff562aae3",
    "url": "https://go.walsall.gov.uk/events/tiny-tots-lichfield-street-hub",
@@ -57226,6 +57304,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:03:55.776Z"
+  },
+  "29dcd94266b2975b": {
+   "page_id": "29dcd94266b2975b",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:05:31.567Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "29df4c2a1d70b341": {
    "page_id": "29df4c2a1d70b341",
@@ -61720,6 +61811,19 @@
    "last_failed_week": null,
    "first_finding_at": "2026-11-10T12:53:26.454Z"
   },
+  "2d1b2083c942c168": {
+   "page_id": "2d1b2083c942c168",
+   "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Foperation-sees-ps30000-worth-illegal-tobacco-seized&rating=Ok&title=Operation+sees+%C2%A330%2C000+worth+of+illegal+tobacco+seized",
+   "first_discovered_at": "2026-11-22T12:03:00.826Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "2d1c0a662211131d": {
    "page_id": "2d1c0a662211131d",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A353",
@@ -62981,6 +63085,19 @@
    "page_id": "2e09bd4c8cec945a",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=age_range%3A417&f%5B4%5D=localgov_directories_facets%3A32&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A355",
    "first_discovered_at": "2026-11-11T13:08:51.080Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "2e0e681958e83405": {
+   "page_id": "2e0e681958e83405",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -67614,11 +67731,11 @@
    "page_id": "31c1f540addac31a",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A349",
    "first_discovered_at": "2026-11-22T10:20:50.712Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:02:18.654Z",
+   "last_success_at": "2026-11-22T12:02:18.654Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -69383,6 +69500,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-18T14:44:47.095Z"
+  },
+  "3339a46d668d8e5e": {
+   "page_id": "3339a46d668d8e5e",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "333a77f3362c53b1": {
    "page_id": "333a77f3362c53b1",
@@ -72791,6 +72921,19 @@
    "last_failed_week": null,
    "first_finding_at": "2026-11-16T17:06:02.129Z"
   },
+  "35b9b84fbb09ec40": {
+   "page_id": "35b9b84fbb09ec40",
+   "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Foperation-sees-ps30000-worth-illegal-tobacco-seized&rating=Poor&title=Operation+sees+%C2%A330%2C000+worth+of+illegal+tobacco+seized",
+   "first_discovered_at": "2026-11-22T12:03:00.826Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "35bc76e442abb7d3": {
    "page_id": "35bc76e442abb7d3",
    "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fchristmas-miracle-needed-walsall&rating=Poor&title=+A+Christmas+miracle+is+needed+in+Walsall",
@@ -73394,6 +73537,19 @@
    "page_id": "3616551765bb0522",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A416&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A356",
    "first_discovered_at": "2026-11-18T13:34:48.477Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "3616d39c83e92447": {
+   "page_id": "3616d39c83e92447",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -74098,6 +74254,19 @@
    "page_id": "36ac998d3db69a75",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A356",
    "first_discovered_at": "2026-11-20T16:07:51.049Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "36ae7240bbec8e56": {
+   "page_id": "36ae7240bbec8e56",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A349",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -88577,6 +88746,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "41849085111091d8": {
+   "page_id": "41849085111091d8",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.585Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "4184eae50c59139b": {
    "page_id": "4184eae50c59139b",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=age_range%3A420&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=localgov_directories_facets%3A36&f%5B6%5D=service_type%3A354",
@@ -89243,6 +89425,19 @@
    "page_id": "41f2808ef0da08cb",
    "url": "https://go.walsall.gov.uk/newsroom/debut-performance-big-hit-walsalls-fostering-choir-voices-hope",
    "first_discovered_at": "2026-10-27T22:40:26.675Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "41f2eada897639d3": {
+   "page_id": "41f2eada897639d3",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:05:31.567Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -107194,6 +107389,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "4facd08282ddce88": {
+   "page_id": "4facd08282ddce88",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "4faf261d3251f6fd": {
    "page_id": "4faf261d3251f6fd",
    "url": "https://go.walsall.gov.uk/business/regeneration-and-investment/bloxwich-and-walsall-town-deal/town-deal-board-governance",
@@ -116393,6 +116601,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "5680d7b732b52c43": {
+   "page_id": "5680d7b732b52c43",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A33&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "5681720c0d2d9f90": {
    "page_id": "5681720c0d2d9f90",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A337&page=2",
@@ -121232,6 +121453,19 @@
    "last_status": "redirect",
    "last_week": "2026-W44",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "5a29a13940763adf": {
+   "page_id": "5a29a13940763adf",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A350",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -129973,6 +130207,19 @@
    "last_failed_week": null,
    "first_finding_at": "2026-11-18T11:46:22.835Z"
   },
+  "60c1d3bd7cfe568e": {
+   "page_id": "60c1d3bd7cfe568e",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A356",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "60cde5db122a18dd": {
    "page_id": "60cde5db122a18dd",
    "url": "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fdisabilities-and-sensory-loss%2Fhelp-vision-impairment-and-dual-sensory-loss&rating=Poor&title=Help+with+vision+impairment+and+dual+sensory+loss",
@@ -135029,6 +135276,19 @@
    "last_failed_week": null,
    "first_finding_at": "2026-11-16T11:05:51.395Z"
   },
+  "64abe5ffe42665d0": {
+   "page_id": "64abe5ffe42665d0",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "64afa6b12ed4b25a": {
    "page_id": "64afa6b12ed4b25a",
    "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fillegal-tobacco-products-and-vapes-retail-value-ps24000-seized-walsall&rating=Good&title=Illegal+tobacco+products+and+vapes+with+retail+value+of+%C2%A324%2C000+seized+in+Walsall+",
@@ -137152,11 +137412,11 @@
    "page_id": "66179359e89e0321",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A354&page=6",
    "first_discovered_at": "2026-11-15T09:52:29.433Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:04:57.819Z",
+   "last_success_at": "2026-11-22T12:04:57.819Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -139235,11 +139495,11 @@
    "page_id": "67a2aa63f0ae79bb",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A352",
    "first_discovered_at": "2026-11-22T10:18:01.069Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:02:32.978Z",
+   "last_success_at": "2026-11-22T12:02:32.978Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -141243,6 +141503,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-21T10:12:48.056Z"
+  },
+  "68fe3c0f1179abed": {
+   "page_id": "68fe3c0f1179abed",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A349",
+   "first_discovered_at": "2026-11-22T12:02:19.975Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "68fe86a6efa30d4d": {
    "page_id": "68fe86a6efa30d4d",
@@ -144929,6 +145202,19 @@
    "page_id": "6be16124ae4a705b",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=2",
    "first_discovered_at": "2026-10-31T12:48:01.070Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "6be245ef212d482b": {
+   "page_id": "6be245ef212d482b",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.585Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -153017,6 +153303,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-20T18:07:47.571Z"
+  },
+  "720fe290ccf96338": {
+   "page_id": "720fe290ccf96338",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A354",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "7211dc1ecb0aec09": {
    "page_id": "7211dc1ecb0aec09",
@@ -174737,11 +175036,11 @@
    "page_id": "8249a1c9ef4629c5",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38",
    "first_discovered_at": "2026-11-21T18:19:43.823Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:03:28.437Z",
+   "last_success_at": "2026-11-22T12:03:28.437Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -182756,6 +183055,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "885b06b47228b760": {
+   "page_id": "885b06b47228b760",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "885fae6e82752dcc": {
    "page_id": "885fae6e82752dcc",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A354",
@@ -188373,6 +188685,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "8c6e406970a4bf1d": {
+   "page_id": "8c6e406970a4bf1d",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A350",
+   "first_discovered_at": "2026-11-22T12:02:19.975Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "8c7155301e6d8960": {
    "page_id": "8c7155301e6d8960",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A351",
@@ -188822,6 +189147,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T13:57:30.459Z"
+  },
+  "8ccdef84c5442207": {
+   "page_id": "8ccdef84c5442207",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A349",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "8ccf10fd02f017d2": {
    "page_id": "8ccf10fd02f017d2",
@@ -199755,11 +200093,11 @@
    "page_id": "94d3669eb52248f3",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A352&page=2",
    "first_discovered_at": "2026-11-10T16:43:25.546Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:03:13.901Z",
+   "last_success_at": "2026-11-22T12:03:13.901Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -205145,6 +205483,19 @@
    "page_id": "992c1084a60728c1",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A350",
    "first_discovered_at": "2026-11-19T11:44:40.796Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "993227b087a110c1": {
+   "page_id": "993227b087a110c1",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A356",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -217181,11 +217532,11 @@
    "page_id": "a2463b66dfe32f9d",
    "url": "https://go.walsall.gov.uk/events?category=All&venue=372",
    "first_discovered_at": "2026-11-22T10:15:28.564Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:02:02.593Z",
+   "last_success_at": "2026-11-22T12:02:02.593Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -219365,6 +219716,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T15:36:31.186Z"
+  },
+  "a42e6d67ec744e78": {
+   "page_id": "a42e6d67ec744e78",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A352",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "a433d4f49b936250": {
    "page_id": "a433d4f49b936250",
@@ -222830,6 +223194,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T16:11:01.602Z"
+  },
+  "a6b1f0ed7febafae": {
+   "page_id": "a6b1f0ed7febafae",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A349",
+   "first_discovered_at": "2026-11-22T12:02:19.975Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "a6b5718964455265": {
    "page_id": "a6b5718964455265",
@@ -228546,6 +228923,19 @@
    "last_failed_week": null,
    "first_finding_at": "2026-11-18T16:27:33.001Z"
   },
+  "ab3e37d690e76acb": {
+   "page_id": "ab3e37d690e76acb",
+   "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Foperation-sees-ps30000-worth-illegal-tobacco-seized&rating=Good&title=Operation+sees+%C2%A330%2C000+worth+of+illegal+tobacco+seized",
+   "first_discovered_at": "2026-11-22T12:03:00.826Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "ab4162c668e40fd9": {
    "page_id": "ab4162c668e40fd9",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353&page=0",
@@ -232268,6 +232658,19 @@
    "page_id": "ade03ee9bb26fef3",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=localgov_directories_facets%3A36&f%5B6%5D=localgov_directories_facets%3A37&f%5B7%5D=service_type%3A356",
    "first_discovered_at": "2026-11-20T14:36:18.022Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "ade151a891e8c8ca": {
+   "page_id": "ade151a891e8c8ca",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.585Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -236843,6 +237246,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-21T10:14:03.539Z"
+  },
+  "b17c7718f9545813": {
+   "page_id": "b17c7718f9545813",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A349",
+   "first_discovered_at": "2026-11-22T12:02:19.975Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "b1807afd0f92719d": {
    "page_id": "b1807afd0f92719d",
@@ -248165,11 +248581,11 @@
    "page_id": "b988778f440d3b19",
    "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fleaders-report-putting-force-back-enforcement&rating=Ok&title=Leader%E2%80%99s+Report%3A+Putting+the+force+back+into+enforcement",
    "first_discovered_at": "2026-10-28T14:04:15.965Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:04:50.482Z",
+   "last_success_at": "2026-11-22T12:04:50.482Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -252113,6 +252529,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T16:50:48.398Z"
+  },
+  "bc4ffbd8c4792854": {
+   "page_id": "bc4ffbd8c4792854",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "bc501bc7a1ecfa59": {
    "page_id": "bc501bc7a1ecfa59",
@@ -257311,11 +257740,11 @@
    "page_id": "c02f30d26a691780",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A354",
    "first_discovered_at": "2026-11-22T10:09:29.935Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:01:23.319Z",
+   "last_success_at": "2026-11-22T12:01:23.319Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -265663,12 +266092,12 @@
    "page_id": "c6640c5094a37a77",
    "url": "https://go.walsall.gov.uk/newsroom/operation-sees-ps30000-worth-illegal-tobacco-seized",
    "first_discovered_at": "2026-10-27T22:40:26.668Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
-   "fail_count": 1,
+   "last_attempt_at": "2026-11-22T12:02:58.115Z",
+   "last_success_at": "2026-11-22T12:02:58.115Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
+   "fail_count": 0,
    "clean": null,
    "last_failed_week": "2026-W47"
   },
@@ -270080,6 +270509,19 @@
    "page_id": "c9967ab2fd06e2ea",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A357",
    "first_discovered_at": "2026-11-14T17:44:56.100Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "c99c715a3b235bc4": {
+   "page_id": "c99c715a3b235bc4",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=service_type%3A349",
+   "first_discovered_at": "2026-11-22T12:02:19.975Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -279506,6 +279948,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "d0f2a8be9680ec70": {
+   "page_id": "d0f2a8be9680ec70",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A357",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "d0f3c68fbc6ae3f9": {
    "page_id": "d0f3c68fbc6ae3f9",
    "url": "https://go.walsall.gov.uk/newsroom/councils-anti-slip-socks-campaign-aims-help-prevent-falls",
@@ -279721,6 +280176,19 @@
    "page_id": "d11b0abb38374d62",
    "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsalls-deputy-mayor-attends-prestigious-junior-judo-cup&rating=Ok&title=Walsall%E2%80%99s+Deputy+Mayor+attends+prestigious+Junior+Judo+Cup",
    "first_discovered_at": "2026-10-29T03:12:51.620Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "d11ba39e061a00d5": {
+   "page_id": "d11ba39e061a00d5",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -286191,6 +286659,19 @@
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:46:32.995Z"
   },
+  "d628847a08c654bc": {
+   "page_id": "d628847a08c654bc",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.585Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "d62b0ae96430bdb2": {
    "page_id": "d62b0ae96430bdb2",
    "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-backs-world-hepatitis-day-breaking-down-barriers-testing-and-support&rating=Poor&title=Walsall+backs+World+Hepatitis+Day+by+breaking+down+barriers+to+testing+and+support",
@@ -286726,6 +287207,19 @@
    "page_id": "d67315bb494863d0",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A36&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A356",
    "first_discovered_at": "2026-11-19T11:41:44.780Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "d67382ef9b69b8e0": {
+   "page_id": "d67382ef9b69b8e0",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A34&f%5B5%5D=service_type%3A349",
+   "first_discovered_at": "2026-11-22T12:02:19.975Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -297570,6 +298064,19 @@
    "page_id": "de408355a08c5ad4",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A38",
    "first_discovered_at": "2026-10-30T10:58:37.637Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "de46b5b195c3afd2": {
+   "page_id": "de46b5b195c3afd2",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=service_type%3A349",
+   "first_discovered_at": "2026-11-22T12:02:19.975Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -316690,6 +317197,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "ec8030a6e315f610": {
+   "page_id": "ec8030a6e315f610",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.585Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "ec81e7722d09506b": {
    "page_id": "ec81e7722d09506b",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=service_type%3A355",
@@ -318725,6 +319245,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-29T03:05:03.318Z"
+  },
+  "ee2ce5a3ebf39c55": {
+   "page_id": "ee2ce5a3ebf39c55",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "ee2d2ae853aedcd1": {
    "page_id": "ee2d2ae853aedcd1",
@@ -321674,6 +322207,19 @@
    "last_failed_week": null,
    "first_finding_at": "2026-11-18T18:35:28.779Z"
   },
+  "f045d7bd8ce29eb0": {
+   "page_id": "f045d7bd8ce29eb0",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A355",
+   "first_discovered_at": "2026-11-22T12:02:19.975Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "f045db10c725b3e4": {
    "page_id": "f045db10c725b3e4",
    "url": "https://go.walsall.gov.uk/feedback?page=%2Faccessibility%2Flist-our-other-websites%2Faccessibility-statement-holiday-activities-and-food-programme&rating=Ok&title=Accessibility+statement+for+Holiday+Activities+and+Food+programme+%28HAF%29",
@@ -323685,11 +324231,11 @@
    "page_id": "f1baaa7f0df21cbc",
    "url": "https://go.walsall.gov.uk/wellbeing-directory/ymca-walsall-small-street-centre-making-connections-walsall-south-hub",
    "first_discovered_at": "2026-11-12T11:07:28.465Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-22T12:05:16.707Z",
+   "last_success_at": "2026-11-22T12:05:16.707Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -325639,6 +326185,32 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:44:11.166Z"
+  },
+  "f307603ae2a7a3d0": {
+   "page_id": "f307603ae2a7a3d0",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "f30a5e427941d704": {
+   "page_id": "f30a5e427941d704",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A352",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "f30a8635e931c86f": {
    "page_id": "f30a8635e931c86f",
@@ -329805,6 +330377,19 @@
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T17:27:29.878Z"
   },
+  "f61d2d32c05a884b": {
+   "page_id": "f61d2d32c05a884b",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A350",
+   "first_discovered_at": "2026-11-22T12:01:50.584Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "f6212727dc73f998": {
    "page_id": "f6212727dc73f998",
    "url": "https://go.walsall.gov.uk/feedback?page=%2Fcouncil-tax%2Fcouncil-tax-discounts-reductions-and-exemptions%2Fcouncil-tax-reduction-for-disabled-people&rating=Ok&title=Council+tax+reduction+for+disabled+people",
@@ -331411,6 +331996,19 @@
    "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-05T15:32:37.277Z"
+  },
+  "f75d1bfbf382370f": {
+   "page_id": "f75d1bfbf382370f",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A357",
+   "first_discovered_at": "2026-11-22T12:02:45.727Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
   },
   "f75eb52cc1c47517": {
    "page_id": "f75eb52cc1c47517",
@@ -333772,6 +334370,19 @@
    "last_failed_week": null,
    "first_finding_at": "2026-11-19T11:42:35.161Z"
   },
+  "f9113a2a347d2dd3": {
+   "page_id": "f9113a2a347d2dd3",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A349",
+   "first_discovered_at": "2026-11-22T12:02:19.975Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "f9142d0480cae7bf": {
    "page_id": "f9142d0480cae7bf",
    "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A349",
@@ -334054,6 +334665,19 @@
    "page_id": "f94ea1ea54eaaed4",
    "url": "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-householders%2Fpay-your-planning-fee-and-other-charges&rating=Ok&title=Pay+your+planning+fee+and+other+charges",
    "first_discovered_at": "2026-10-30T06:55:17.595Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "f95277e393445d4a": {
+   "page_id": "f95277e393445d4a",
+   "url": "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A353",
+   "first_discovered_at": "2026-11-22T12:01:50.585Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
