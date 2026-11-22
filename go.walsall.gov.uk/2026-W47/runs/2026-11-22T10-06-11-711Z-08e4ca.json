@@ -1,0 +1,140 @@
+{
+ "runId": "2026-11-22T10-06-11-711Z-08e4ca",
+ "week": "2026-W47",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-22T10:06:12.734Z",
+ "scanned": [
+  "932670ccb7c1c32e",
+  "5c9074ffc8719383",
+  "4a72709ddb257423",
+  "28acc810ef203645",
+  "c7f2803b0871675d",
+  "0397dfc984ffccef",
+  "dbfc8ba6e69e5c8e",
+  "88b80c0c8c782655",
+  "b175176fa5098dbb",
+  "1c2e40483913805c",
+  "66c8e6b8f6c0db4a",
+  "37220585b8db1392",
+  "63ca0306a9827f31",
+  "4840148db227b3ee",
+  "9e94b10460e9707d",
+  "4e655cc245e36158",
+  "847fc246b52d6bbb",
+  "5e37f93fbe2f817d",
+  "26c54070fcb9fd7c",
+  "40faca0043568388",
+  "ef41cc7f1a696634",
+  "d3536e07fe35766d",
+  "fe0eaa93799f0a8d",
+  "33a5e5bcfc7e6f38",
+  "8f4d4847b43ad485",
+  "8e6ceefb79c7259a",
+  "4842ccf49b65a519",
+  "15a177925873c262",
+  "3dd30279e03458d4",
+  "61e0d00bbab2b0c1",
+  "aaedee5eb64895f9",
+  "d789b01733a27ece",
+  "6144d69b887da5f1",
+  "2cbc950b5722d3c8",
+  "bbef722085dbbde5",
+  "547715b2873c08be",
+  "cd38fa109113144b",
+  "46456c45a32ee5c2",
+  "cdfd2f4a80fad4f7",
+  "d9d579e9451c976d",
+  "89cbe89d4e6a3bda",
+  "eba2c1b803d0ae64",
+  "c7ecec03ae61a51f",
+  "4b2bbdcdba00af40",
+  "c0bc05ce4068089c",
+  "15e63314590f7d8f",
+  "06f8b4abed24d720",
+  "935fe43a223c0227",
+  "d10ca8655582cfc4"
+ ],
+ "errors": [
+  {
+   "pageId": "c6640c5094a37a77",
+   "url": "https://go.walsall.gov.uk/newsroom/operation-sees-ps30000-worth-illegal-tobacco-seized",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://go.walsall.gov.uk/newsroom/operation-sees-ps30000-worth-illegal-tobacco-seized\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 921,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "performance-resources": 13,
+  "axe": 48,
+  "alfa": 24,
+  "resources": 48,
+  "images": 48,
+  "security": 6,
+  "public-interest": 3,
+  "lighthouse": 5,
+  "link-check": 48,
+  "third-party": 15,
+  "plain-language": 30,
+  "standards": 25,
+  "sustainability": 4,
+  "tech": 5,
+  "deprecated-html": 4
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-22T10:22:53.985Z"
+}
