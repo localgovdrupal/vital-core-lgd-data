@@ -1,0 +1,209 @@
+{
+ "runId": "2026-11-23T19-14-47-445Z-864348",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T19:14:51.971Z",
+ "scanned": [
+  "412da9b9548cd740",
+  "0b757f73c0f585c1",
+  "cc9337dc1f29a42a",
+  "e01acb73402182ef",
+  "607f67fe68f35f42",
+  "71f7a0dc15490ec3",
+  "ca9d895761e1f1b5",
+  "4ab63b8857286ce3",
+  "7c63fe9a4bd06407",
+  "698f3bf1b2d1f7b5",
+  "3c0b21744fa8a52b",
+  "6b9fc094c0c78a70",
+  "c806d900f8919a52",
+  "57b2a88c8a57ac62",
+  "cdb5674b15aec53e",
+  "a6ec9c8e0f0aec95",
+  "2dd2222e253ddb61",
+  "32a7ffd4b15f719f",
+  "da61f6ee7be50442",
+  "16f407782cec1584",
+  "b80801781f84c835",
+  "161950b418f8967d",
+  "58c660827bbe2faa",
+  "d4f64847dde67582",
+  "547d742aaec22b18",
+  "3fed5486f8b6dd17",
+  "0f121b662968a0aa",
+  "24abdd5f97659ec4",
+  "efdcfe5e134e9243",
+  "3df16a69d7530dc8",
+  "7be6c0724d89f206",
+  "073ab35922e8dcc9",
+  "f2f07b67c80ed91e",
+  "81070446bd376d79",
+  "e086e17a960015d2",
+  "650becc91c7a8754",
+  "01fdb23a7c512f3a",
+  "0f373fcecc8dca11",
+  "1feae16e5d2287fa",
+  "29e7e0181f097c83",
+  "fdd18c8e15f0a489",
+  "3936233fc4de4242",
+  "6ab587cc48421228",
+  "cafa0274ecaad21b",
+  "cf13018a4a1f06f6",
+  "3421a54fa0f364a4",
+  "e56f53bc109e311c",
+  "771d70243e61ae74",
+  "2fdd50a22f4d5eb8",
+  "a68920dd987295b4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 697,
+  "checked": 500,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://planningapps.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search",
+     "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-service"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/fellows-court-and-weymouth-court"
+    ]
+   },
+   {
+    "url": "https://nationalfloodforum.org.uk/about-flooding/preparing/emergency-flood-kit/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "https://nationalfloodforum.org.uk/about-flooding/reducing-your-risk/protecting-your-property/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "https://nationalfloodforum.org.uk/about-flooding/reducing-your-risk/property-protection-advisor/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "https://www.teensagainstabuse.org/index.php?q=controlWheel",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/http://claudiajones.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=xKLqkZIEk2o",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 26,
+  "plain-language": 27,
+  "resources": 50,
+  "images": 50,
+  "third-party": 10,
+  "link-check": 50,
+  "standards": 23,
+  "deprecated-html": 4,
+  "security": 4,
+  "lighthouse": 3,
+  "performance-resources": 10,
+  "tech": 6,
+  "public-interest": 4,
+  "sustainability": 5
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T19:22:48.412Z"
+}
