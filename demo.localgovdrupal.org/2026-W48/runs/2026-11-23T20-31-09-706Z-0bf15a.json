@@ -1,0 +1,92 @@
+{
+ "runId": "2026-11-23T20-31-09-706Z-0bf15a",
+ "week": "2026-W48",
+ "domain": "demo.localgovdrupal.org",
+ "canonical": {
+  "origin": "https://demo.localgovdrupal.org",
+  "configured": "https://demo.localgovdrupal.org",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T20:31:14.255Z",
+ "scanned": [
+  "199428a2b238d658",
+  "02ea7c6a5ae4b831",
+  "b800a35b0d753ec4",
+  "c75bff1861bec83f",
+  "e8752ff06a3811b5",
+  "a330d66d9e357f8a",
+  "6400779d11a1f33c",
+  "16effcf85bca2e1c",
+  "ee16a4fab6c652ed"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 66,
+  "checked": 66,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "performance-resources": 2,
+  "axe": 9,
+  "alfa": 5,
+  "resources": 9,
+  "images": 9,
+  "link-check": 9,
+  "public-interest": 2,
+  "plain-language": 4,
+  "deprecated-html": 1,
+  "standards": 3,
+  "third-party": 2,
+  "security": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 9,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T20:32:17.550Z"
+}
