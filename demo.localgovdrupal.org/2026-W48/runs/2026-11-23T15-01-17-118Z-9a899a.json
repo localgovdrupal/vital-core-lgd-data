@@ -1,0 +1,160 @@
+{
+ "runId": "2026-11-23T15-01-17-118Z-9a899a",
+ "week": "2026-W48",
+ "domain": "demo.localgovdrupal.org",
+ "canonical": {
+  "origin": "https://demo.localgovdrupal.org",
+  "configured": "https://demo.localgovdrupal.org",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T15:01:21.490Z",
+ "scanned": [
+  "4472a1ab1066d245",
+  "d3e73e0060701151",
+  "0fa7e480e8210afd",
+  "be93d82bfa7c9ed3",
+  "e2b224fe2fdeba98",
+  "ac8b0bdf9069fbd3",
+  "e764ece9b5216b1f",
+  "6edab847a5e75331",
+  "21b50b6081ad43a9",
+  "69967671e7501f35",
+  "434a534384e46722",
+  "4d9407637e2a6dd1",
+  "7669317ca198435b",
+  "da689a15f10dbe1d",
+  "79efcecc283c0ac7",
+  "9b4e733e9c094c7f",
+  "f3267a274a4d96e3",
+  "e896e935030d051a",
+  "802869dc1398ceb4",
+  "65f5cb1838fa8d13",
+  "92374af7ba8b61d6",
+  "88ba04b5d11baac3",
+  "d8102fa5e1fa86ad",
+  "d6a32b44b8fe22e7",
+  "ceb992a06cef9a55",
+  "c2250dfeb64a0a60",
+  "25b5c06da8850a31",
+  "0e109b47cd0e1c17",
+  "613d283b898e936d",
+  "4d55d0d4bd3ec409",
+  "059677ddab57f7cf",
+  "8d7e16969ad7fc02",
+  "955d69290d4b8abc",
+  "6b4d785a3a08bea2",
+  "1dc17ae7bee4504b",
+  "b783eb63067dce05",
+  "524c3023010093d6",
+  "8199b2543987adf0",
+  "c8c34cfb2180af5e",
+  "c8a17847bc04441a",
+  "d3026da6c2ac640b",
+  "8e2e5d414ac72375",
+  "42f82062dc363271",
+  "9096649ddca25fac",
+  "b4428e2b32392eba",
+  "632ed1c48f23d9fd",
+  "4687a1345935478f",
+  "e70d5b612e08eb08",
+  "b45bc4a9b167feec",
+  "4e154bd858e54187"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 170,
+  "checked": 170,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://lbc-app-w-corpwebsite-p.azurewebsites.net/births-deaths-marriages-and-citizenship/contact-croydon-register-office",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/remove-wrong-fathers-details"
+    ]
+   },
+   {
+    "url": "https://demo.localgovdrupal.org/adult-health-and-social-care/support-your-home/node/4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://demo.localgovdrupal.org/adult-health-and-social-care/support-your-home/occupational-therapy-and-equipment-helping-you-stay-home"
+    ]
+   },
+   {
+    "url": "https://www.lbhf.gov.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://demo.localgovdrupal.org/localgov-drupal-collaborators/hammersmith-and-fulham-council"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "performance-resources": 21,
+  "axe": 48,
+  "resources": 48,
+  "images": 48,
+  "standards": 21,
+  "link-check": 48,
+  "plain-language": 22,
+  "third-party": 12,
+  "alfa": 21,
+  "deprecated-html": 4,
+  "security": 4,
+  "sustainability": 2,
+  "public-interest": 7,
+  "tech": 3,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T15:06:09.081Z"
+}
