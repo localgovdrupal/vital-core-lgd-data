@@ -1,0 +1,223 @@
+{
+ "runId": "2026-11-23T16-30-09-780Z-8be3e2",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T16:30:10.626Z",
+ "scanned": [
+  "6f3e3f79439cb63b",
+  "59babf10278d7dbd",
+  "217ad2e5801cc74b",
+  "b1efc3cd871ccb75",
+  "f27e872498dcbea2",
+  "0c3802314a455be2",
+  "0aea0b00496b9f6a",
+  "809347e6329934f2",
+  "cd41f18767d9738c",
+  "19d7f5a52bafdf15",
+  "01fc5d2617a546e3",
+  "6df39ad67782df96",
+  "33e2efeb41b32528",
+  "cd2c1c0ff9281519",
+  "8dbf5d0727b0aa5e",
+  "3b13b5705109a1cb",
+  "1300b1013637cd41",
+  "75a37aa806deceed",
+  "f2a4ec6296d5d5d4",
+  "bb115b4516e9ac2a",
+  "157bfcd70484c841",
+  "c3714157fe90c55a",
+  "e9ad67d5b8af6c41",
+  "77bf85e2a2e04b09",
+  "1eb15c02599f9e98",
+  "fa3bb82ba2a45a1a",
+  "cfd7f0f25dd6308a",
+  "d396b38a543dc9f7",
+  "c891d9811c95b980",
+  "3e3aa0f72a5c9f02",
+  "cb11d78265dbfe64",
+  "a23d6fbce489db19",
+  "08ef8b1b80149952",
+  "6f3a4906521490dc",
+  "14f7f1b120707aac",
+  "61ec3f5d464ffe9c",
+  "0c6719f419381189",
+  "db70158c1d5f0061",
+  "19c36bb2ae203b9b",
+  "47e2f7085a09ccb9",
+  "e3baff799c645e62",
+  "a4db158501d19838",
+  "8142a5ce0de3ae84",
+  "d22366af32e65e88",
+  "7ff4a808c43028c1",
+  "8195bd9b9f2fea34",
+  "274c8cec59247a03",
+  "2febc8bcf14f499a",
+  "47343bcf47812893"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 563,
+  "checked": 500,
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "https://libraries-resources/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
+    ]
+   },
+   {
+    "url": "http://www.londonsscreenarchives.org.uk/public/index.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Basket/ViewBasket",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login?Area=",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://hackney.gov.uk/apps",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/AccessibilityStatement",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/CookiePage",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/SiteMap",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.whufc.com/fixtures/first-team/fixtures-and-results",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/queen-elizabeth-olympic-park-events"
+    ]
+   },
+   {
+    "url": "https://drive.google.com/open?id=1ZXOH5Eh7569fZZY0B7b17eVBxDZfGGu4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridport-house"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 25,
+  "resources": 49,
+  "images": 49,
+  "tech": 6,
+  "third-party": 13,
+  "link-check": 49,
+  "lighthouse": 8,
+  "plain-language": 27,
+  "deprecated-html": 6,
+  "standards": 17,
+  "public-interest": 6,
+  "performance-resources": 15,
+  "sustainability": 4,
+  "security": 6
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 10,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T16:39:57.115Z"
+}
