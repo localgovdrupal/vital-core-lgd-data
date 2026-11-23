@@ -1,0 +1,143 @@
+{
+ "runId": "2026-11-23T16-29-54-362Z-aef393",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T16:29:55.237Z",
+ "scanned": [
+  "6d06c1bc3d50a0e4",
+  "4ce1c963545b52a7",
+  "3bb01a73f7d7d106",
+  "d0dc1081fa496355",
+  "9722134513df58eb",
+  "85bfd55bacd048c8",
+  "84f0f719d04842da",
+  "5c373db4ece5ad8e",
+  "9e95a6bbc5a631a8",
+  "65c7179d1aa91ee0",
+  "b8c41162b9e5a39d",
+  "67cdb8f489f51e5b",
+  "659dfc7111741abc",
+  "71ac4199295a94af",
+  "04c1bd981b141178",
+  "da87ce9f8ebd2588",
+  "373d07904a4a3c6f",
+  "237f8a75cd9b55e8",
+  "b728033e1018d596",
+  "d71fa2dcb7b9bcbf",
+  "85a89d63cadf39d4",
+  "a97ee1041765921a",
+  "7c982a5f2f6970a9",
+  "889d483aeed6f8fa",
+  "c5790315269dc0dd",
+  "d434e3156d2b3ce0",
+  "dd40d73c11bd2893",
+  "9b032005fe429a5b",
+  "b8c682b7240a6c06",
+  "84d697865e47b64a",
+  "0c61cebea075a7c3",
+  "ca7e90480503f5f5",
+  "683a6d0d1847ee97",
+  "aa644c9bae7c1e56",
+  "c788af6b41b53376",
+  "87201db21be5a0ce",
+  "8359a8a879bc4242",
+  "e6d3895cba48f1e5",
+  "ae5ef1bb9cbc5511",
+  "8c1ea861e6fd25d8",
+  "8fbf9156c9cd4c4f",
+  "b8275be1090798fc",
+  "263e68e080e73a48",
+  "bd6dc8e4b0b5026b",
+  "e0ad71284d34ba81",
+  "c4c29e4ea944c156",
+  "125c1d0d54c437c9",
+  "44a18642c18ee7a2",
+  "3bca195528ad4ee9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1115,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://go.walsall.gov.uk/sites/default/files/2022-09/Strategic%20Housing%20Land%20Availability%20Assessment%202022.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/compulsory-purchase"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "performance-resources": 15,
+  "axe": 48,
+  "alfa": 23,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "plain-language": 28,
+  "standards": 25,
+  "tech": 8,
+  "third-party": 15,
+  "lighthouse": 7,
+  "public-interest": 8,
+  "deprecated-html": 6,
+  "security": 6,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T16:48:50.786Z"
+}
