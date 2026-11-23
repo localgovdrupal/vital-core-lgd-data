@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "blackburn.gov.uk",
- "updated_at": "2026-11-16T11:06:50.226Z",
+ "updated_at": "2026-11-23T12:25:02.177Z",
  "urls": {
   "b8bbc9d15c20700b": {
    "page_id": "b8bbc9d15c20700b",
@@ -12,9 +12,9 @@
    "last_status": null,
    "last_week": null,
    "outcome": "never_scanned",
-   "fail_count": 7,
+   "fail_count": 8,
    "clean": null,
-   "last_failed_week": "2026-W47"
+   "last_failed_week": "2026-W48"
   }
  }
 }
