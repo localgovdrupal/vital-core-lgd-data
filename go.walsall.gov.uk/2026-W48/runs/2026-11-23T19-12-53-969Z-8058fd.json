@@ -1,0 +1,144 @@
+{
+ "runId": "2026-11-23T19-12-53-969Z-8058fd",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T19:12:54.676Z",
+ "scanned": [
+  "528db3d6e83a6d58",
+  "16ff362c0fd4a78d",
+  "9dd324e1cd41baa8",
+  "5d51e780d17393e9",
+  "6022acb147d686bf",
+  "8db4ebed362fe251",
+  "6418aecc35a82a76",
+  "52c1a7e07136c961",
+  "818e29c5bf2f4866",
+  "9022ab09d4f5c3f6",
+  "eb7249c4ae376dd0",
+  "629ff1cee096ce38",
+  "970de6b844acf6da",
+  "42a483e43a559444",
+  "42dcf18bd4fe2cb7",
+  "c6c13e3fa0d20bb5",
+  "2406bbe08b1118a6",
+  "c99586281db8a231",
+  "47327bb512dacf1a",
+  "0cee40551571f7e3",
+  "b32fb8fadd9d3b74",
+  "62d1751c5d7b46b8",
+  "677377a1913f2937",
+  "58ee4d3a3b6356c3",
+  "200aef76b776e682",
+  "679be2479109d31c",
+  "61d514c86efae463",
+  "154648a0fe9f39d5",
+  "8b3f5ac1944e4f31",
+  "d2fb9f1ecb381bbe",
+  "c1984205a56e889c",
+  "0bae45300e53922e",
+  "503383ec0014d27f",
+  "ebefd2a36f528432",
+  "6b890a37c00175ce",
+  "711c347cc1370edb",
+  "9443178ba78b36d4",
+  "f2a609abd830b6b0",
+  "a745e384cebc71a9",
+  "b2b5bce14571cf9d",
+  "5db26820a399233b",
+  "4079f6bd41b44d2f",
+  "4943cd371179620e",
+  "924171a17445589a",
+  "a6c6e6aedc3f8f0b",
+  "69b5c20b85043fe1",
+  "e0a68827aa9ce43c",
+  "c825821550866978",
+  "833ed0a9adb87f59",
+  "d181eddac7ef8b99"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1057,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.facebook.com/share/1AJrP9ZfzW/,",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory/absolute-aba-uk-ltd-applied-behavioural-analysis-therapy-children-additional"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 29,
+  "resources": 50,
+  "images": 50,
+  "public-interest": 6,
+  "link-check": 50,
+  "plain-language": 21,
+  "performance-resources": 9,
+  "third-party": 13,
+  "tech": 4,
+  "sustainability": 6,
+  "standards": 22,
+  "deprecated-html": 6,
+  "security": 2,
+  "lighthouse": 7
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T19:27:58.525Z"
+}
