@@ -1,0 +1,191 @@
+{
+ "runId": "2026-11-23T20-30-46-279Z-a4fab9",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T20:30:48.853Z",
+ "scanned": [
+  "f3b08a578cfc19c4",
+  "eaff2bbd71c3feeb",
+  "54d331aad21e8376",
+  "3eff4366fbf9627a",
+  "d418b67d68165370",
+  "b679df7762f10e8d",
+  "1008bbf052b6c55a",
+  "d900671831c0a315",
+  "e2f2616bbdcb29e6",
+  "0f998830ff4cc436",
+  "31cdd6b95780fa7f",
+  "990f9e31f78ed11a",
+  "f5846193a9ecd466",
+  "4b3c6d616e5bfac4",
+  "1274fb08155aa764",
+  "11ce8692368289d8",
+  "2cce9d9f1222c420",
+  "fcf5135bf7cb3b87",
+  "b7617981dcafdb50",
+  "7580b6b7432d08a0",
+  "a5c722a6efc68fee",
+  "fae5bc4e325eb70f",
+  "5141eb36226aa97c",
+  "afaec360f14faf02",
+  "330f583c3f6d2a30",
+  "85e0131a8ba4777a",
+  "3f7a6c577e154060",
+  "b8d20f675bce439d",
+  "a55bfdc0e33f65a4",
+  "270a0194ad048401",
+  "b5883fd13b59756b",
+  "5182c22e9efaf367",
+  "ed62ad5eed1c606d",
+  "b01bd1c753008ffa",
+  "55ae6ebc6dabc645",
+  "7d9b2af9f64d31e1",
+  "b2752a78932cef3e",
+  "cb62cee5cf45b1e8",
+  "72722b61e0a25fa5",
+  "c610f0c9289f806f",
+  "d9517652d25317e9",
+  "d86c49eccf55dc98",
+  "f8d61e8506c11a2a",
+  "582f8b2f68e6ac4f",
+  "54e36a4beea57a60",
+  "3383959bfefc406e",
+  "9409c61a4f1d8858",
+  "9a7d3976469998d3",
+  "015617faf1168009"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 500,
+  "checked": 500,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/selman-house-and-wellday-house-gascoyne-estate"
+    ]
+   },
+   {
+    "url": "https://www.arsenal.com/the-club/community/social-inclusion/the-kickz-project",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/play-football-hackney"
+    ]
+   },
+   {
+    "url": "https://drive.google.com/open?id=1-ktXV3DeRViH3yX8ldkkjNm3azx-DqFe",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence"
+    ]
+   },
+   {
+    "url": "http://www.bmf.org.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/licensing/skip-licence"
+    ]
+   },
+   {
+    "url": "https://www.planningportal.co.uk/info/200187/your_responsibilities/37/planning_permission/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/article-4-directions"
+    ]
+   },
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_094346",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+    ]
+   },
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_095895",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 28,
+  "plain-language": 20,
+  "resources": 49,
+  "images": 49,
+  "tech": 9,
+  "third-party": 11,
+  "link-check": 49,
+  "performance-resources": 10,
+  "security": 2,
+  "standards": 30,
+  "lighthouse": 3,
+  "public-interest": 6,
+  "sustainability": 6,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T20:38:10.463Z"
+}
