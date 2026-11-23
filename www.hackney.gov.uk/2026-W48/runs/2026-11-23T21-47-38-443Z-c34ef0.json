@@ -1,0 +1,200 @@
+{
+ "runId": "2026-11-23T21-47-38-443Z-c34ef0",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T21:47:41.539Z",
+ "scanned": [
+  "40d94e3e4aa055bb",
+  "386c241b9a60fc36",
+  "b71f3b3be9220a59",
+  "7051adf4927fab63",
+  "d0bd792b32ba4710",
+  "4bd635ad2313ddf9",
+  "d596163e431ba92f",
+  "bba59e269b12f0c6",
+  "312eba5806739b3f",
+  "f7b4db28f32f68c9",
+  "355bea630dba65a6",
+  "552f51f9048d9828",
+  "495a9cfc741443a4",
+  "7cd4d367519cadd4",
+  "76baafeeb1659363",
+  "d441338500a69330",
+  "f11d3755a6135227",
+  "146a47234083210f",
+  "e18c07a62e47a4e2",
+  "35d10ed2c172833c",
+  "105d3a63edb6c958",
+  "5380f9dc859ece05",
+  "b0ced7b4879144b0",
+  "e5612d5b7507a7b0",
+  "58ade3a243336144",
+  "612213728a995f1f",
+  "a9efe1e7c2d93c08",
+  "28c89ddc15ee1cc5",
+  "ea8c9244e920e110",
+  "f9fb1bf9770d47c6",
+  "bcacec081e25ae41",
+  "fbdc675298f9e4f5",
+  "4da847770afcf2b9",
+  "f14b54a329b7bec3",
+  "aea8dffaf924e4a0",
+  "e2b2257cbd5f6745",
+  "d70ed69b9b12f2f8",
+  "79dc68d9e14d7e1c",
+  "f0acf6dda243b813",
+  "059735ae773aa806",
+  "5f886cd3302726aa",
+  "112850a7dfc9f700",
+  "38a62c8a09f25850",
+  "49f7ad500c7ab309",
+  "871162be8c62e530",
+  "32a2b389c7a47257",
+  "6488cc2c2d3b1ffa",
+  "3a975909cd5834a7",
+  "d70e36efb8ed4dfd",
+  "6583b078bc0dfec6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 616,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://www.abneyparkusergroup.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
+    ]
+   },
+   {
+    "url": "https://www.holbornstudios.com/events/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/marriage-civil-partnership-and-other-ceremonies/find-venue-your-marriage-or-civil-partnership"
+    ]
+   },
+   {
+    "url": "https://www.roomgo.net/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/find-home/get-privately-rented-home"
+    ]
+   },
+   {
+    "url": "https://webforms.hackney.gov.uk/ufs/ufsmain?formid=GEN_SERVICE_REQUEST2&SUBCATEGORY=Planning%20decision%20notices",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/planning-decision-notices"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html?fa=search",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/planning-decision-notices"
+    ]
+   },
+   {
+    "url": "http://www.ourparks.org.uk/borough/hackney-downs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/hackney-downs"
+    ]
+   },
+   {
+    "url": "https://hackneydowns.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/hackney-downs"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 23,
+  "plain-language": 24,
+  "resources": 49,
+  "images": 49,
+  "link-check": 49,
+  "performance-resources": 21,
+  "security": 6,
+  "standards": 25,
+  "tech": 5,
+  "third-party": 10,
+  "deprecated-html": 5,
+  "lighthouse": 4,
+  "sustainability": 7,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T21:55:42.275Z"
+}
