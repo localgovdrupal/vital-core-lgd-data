@@ -1,0 +1,152 @@
+{
+ "runId": "2026-11-23T12-23-08-433Z-b19c2f",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T12:23:09.238Z",
+ "scanned": [
+  "be0428aaa96a8d72",
+  "0018869ca6c189d2",
+  "76df224698d57f0b",
+  "bbc18b6bef3f3a8f",
+  "2506e058d35baffe",
+  "0ab0e7f4cca461cb",
+  "f684c56b76f661aa",
+  "9db3fd6f0357194a",
+  "758ef089ec05c785",
+  "76ef7e7522b9264c",
+  "809dd3a99cb9d45a",
+  "63dc364dad304883",
+  "33067c2d9815abca",
+  "5272e337c6d501b7",
+  "4e7af284c3b9079c",
+  "ade414c3d44ee0cb",
+  "e304ce98abc5c521",
+  "6378560972dd8372",
+  "0ff91c5e81945770",
+  "4facd08282ddce88",
+  "42c573518d4dfaa6",
+  "37e55a2f6bd3ec1f",
+  "1ff2b341f10b3391",
+  "b69f705de39888c4",
+  "9d01da34e08b9645",
+  "21a8ad09428e5dcc",
+  "0e6fab3b3de35ed4",
+  "4e726f06cf0a5ab5",
+  "5d4999a5d94cb8a7",
+  "32c55fa66bb53b9a",
+  "8bfe0b61f0d373e2",
+  "b20173592a19d435",
+  "b62a227950c2d355",
+  "52fd5d051ce516c3",
+  "64abe5ffe42665d0",
+  "5eb0653789744250",
+  "f1ab346101c82664",
+  "a7bad8cfbac087d9",
+  "b96a5651d0f6cc4c",
+  "c6aa52da610e3555",
+  "4a619692dc1b4c96",
+  "b153db057b724779",
+  "81d517baa2ec6cf2",
+  "08b9d9be07402f2d",
+  "647ad730a03f1381",
+  "b54c24f29669f9ed",
+  "6364bbdb48b8b74f",
+  "d997a1f0361a1cee",
+  "13f6009977a9cb38"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [
+   {
+    "url": "https://go.walsall.gov.uk/",
+    "reason": "homepage"
+   },
+   {
+    "url": "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-society-artists-celebrates-its-75th-annual-exhibition&rating=Poor&title=Walsall+Society+of+Artists+celebrates+its+75th+Annual+Exhibition+",
+    "reason": "page-family:feedback-form"
+   }
+  ],
+  "selected_in_batch": 2
+ },
+ "linkCheck": {
+  "total": 1072,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-3"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 27,
+  "plain-language": 24,
+  "resources": 49,
+  "images": 49,
+  "lighthouse": 7,
+  "link-check": 49,
+  "standards": 29,
+  "tech": 4,
+  "performance-resources": 12,
+  "public-interest": 4,
+  "sustainability": 3,
+  "third-party": 9,
+  "deprecated-html": 3,
+  "security": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T12:38:14.482Z"
+}
