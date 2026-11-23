@@ -1,0 +1,103 @@
+{
+ "runId": "2026-11-23T19-17-35-270Z-6c4135",
+ "week": "2026-W48",
+ "domain": "demo.localgovdrupal.org",
+ "canonical": {
+  "origin": "https://demo.localgovdrupal.org",
+  "configured": "https://demo.localgovdrupal.org",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T19:17:39.072Z",
+ "scanned": [
+  "f2822e0a94d01abe",
+  "3910a5ed83681f93",
+  "7baaf24d0c73e814",
+  "de607378be26ec12",
+  "eae55d463d749767",
+  "08b2d582d2ed4a8a",
+  "441ee8c48383c3ae",
+  "4c6c2a3b49b68daa",
+  "75e5c44faf95ac5f",
+  "8fa7b3ccfe840314",
+  "bbf981725f71e5b8",
+  "cc1ca0b80f2b8dec",
+  "42f276f879f76fbf",
+  "958d3cdcef570a85",
+  "34e4f625f10e1948",
+  "686ca482737f1e7d",
+  "933c10c8cf6029b1",
+  "59dd00432799e7b1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 79,
+  "checked": 79,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 16,
+  "alfa": 11,
+  "resources": 16,
+  "images": 16,
+  "standards": 10,
+  "security": 3,
+  "tech": 4,
+  "link-check": 16,
+  "plain-language": 7,
+  "deprecated-html": 3,
+  "performance-resources": 3,
+  "lighthouse": 2,
+  "third-party": 5,
+  "public-interest": 3,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 17,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T19:19:51.322Z"
+}
