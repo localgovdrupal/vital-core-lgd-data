@@ -1,0 +1,168 @@
+{
+ "runId": "2026-11-23T15-04-12-154Z-61e94c",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T15:04:14.894Z",
+ "scanned": [
+  "8aea76b2f32f988e",
+  "4e4efdd88514ab20",
+  "311c24310958f1fe",
+  "953a443ad317252b",
+  "b353c22be81e1e82",
+  "92df44cf57a5f3d9",
+  "4646d0496f62f3ab",
+  "e49e239487629b61",
+  "216aea98612cf4f9",
+  "47c3f9724e768cd6",
+  "5f95ad11347ac7a7",
+  "117af06912e5208e",
+  "7bc9c066deef7882",
+  "715a159066e766a6",
+  "13a1e431dbe81447",
+  "c3667da12dfd7240",
+  "0a846aa880b3bee7",
+  "6c46d6c9a8f14fa6",
+  "20fad5080f86f497",
+  "1b58c426488ed50e",
+  "1b1db3b89743525c",
+  "c2de984016471364",
+  "def7f9f6e6df8001",
+  "ee4bbc69987d72c6",
+  "b95d9a603e363369",
+  "b021c56ad80890b4",
+  "90482d266fd081af",
+  "f5a5454f11c22471",
+  "196028d25f7b3bca",
+  "fd53d20760b9a505",
+  "ccba3ac2c08884b2",
+  "726ad299e104e57c",
+  "be4613452bcb1b30",
+  "65b2fda89a764d25",
+  "9a797e24bb5637a1",
+  "12eed304c05a6c26",
+  "ae0cae821c4d51b3",
+  "960d8edc627e575f",
+  "82fc212e990c545f",
+  "6802dc8dfce22734",
+  "12942e0383d76d29",
+  "c390ecd4345a382b",
+  "ad6923581ffcc284",
+  "06b57097428b281f",
+  "3d89809549648259",
+  "d3e6e6d59806bda6",
+  "79463659714f57d4",
+  "3fe5f73154fd5201",
+  "80237aae63e91f66",
+  "490df0ca0284d4c6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 410,
+  "checked": 410,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.awardsforall.org.uk/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/Sustainable-Travel-To-School-Grants-application-form.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+    ]
+   },
+   {
+    "url": "http://www.windowsphone.com/en-gb/store/app/ringgo/b7105f7c-4239-4f60-8793-c2f045bfca29",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/paying-short-stay-parking"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/weather/climate-change/effects-of-climate-change",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/greener-hackney"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 19,
+  "plain-language": 23,
+  "resources": 50,
+  "images": 50,
+  "standards": 21,
+  "link-check": 50,
+  "lighthouse": 5,
+  "performance-resources": 14,
+  "third-party": 10,
+  "security": 3,
+  "deprecated-html": 3,
+  "public-interest": 6,
+  "sustainability": 3,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T15:11:33.370Z"
+}
