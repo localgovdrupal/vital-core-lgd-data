@@ -1,0 +1,141 @@
+{
+ "runId": "2026-11-23T16-29-46-906Z-9b35fc",
+ "week": "2026-W48",
+ "domain": "demo.localgovdrupal.org",
+ "canonical": {
+  "origin": "https://demo.localgovdrupal.org",
+  "configured": "https://demo.localgovdrupal.org",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T16:29:48.265Z",
+ "scanned": [
+  "b714ef69ec536986",
+  "acd030c9b88847a4",
+  "1f2958623661450d",
+  "742e443cb1c50fd7",
+  "4fda69095aa84d3a",
+  "21233f1068ede38c",
+  "65e2d19e8629cbd4",
+  "cbc1658fbd9e72a1",
+  "22e95083e3505148",
+  "7fe1cfa080bba893",
+  "80790f33f182e0c0",
+  "b2eae2fb738fbf4c",
+  "118d0f9ce13578f3",
+  "ee4e6c9938f09fb5",
+  "cb6fdb1f41179d87",
+  "162836e537fb92d2",
+  "a3d6a142da225882",
+  "5fa08ce45724bfd4",
+  "52d26b17ae7ca0bc",
+  "7b1d57758f93334c",
+  "12ce0cfad6a2d8ec",
+  "feaf599c280da03b",
+  "de7959aa06702daf",
+  "2e6993c5094f77cb",
+  "a0e6e9c4b04579cb",
+  "76ff2563e6ae4de1",
+  "90b7fa220b556fd4",
+  "ed92d4eaf63b1076",
+  "e88fb750df71de03",
+  "9989a1bc4bff1f5b",
+  "7780abcf0d1a565f",
+  "5883e2c05d4af730",
+  "64d1298a5dfbea3c",
+  "f97eb2cd58032a7f",
+  "891243f553733678",
+  "4144e2c5c128807e",
+  "e19343191d405a7f",
+  "c891b9db83fa7633",
+  "ca9feac990130b78",
+  "36d1dec418ac4945"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 147,
+  "checked": 147,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://demo.localgovdrupal.org/adult-health-and-social-care/step-by-step/request-support-adult-step-step/example@example.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://demo.localgovdrupal.org/adult-health-and-social-care/step-by-step/request-support-adult-step-step/contact-support-team"
+    ]
+   },
+   {
+    "url": "https://test.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://demo.localgovdrupal.org/adult-health-and-social-care"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 5,
+  "axe": 38,
+  "plain-language": 19,
+  "resources": 38,
+  "images": 38,
+  "link-check": 38,
+  "alfa": 18,
+  "standards": 19,
+  "performance-resources": 12,
+  "tech": 5,
+  "public-interest": 5,
+  "third-party": 8,
+  "security": 4,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 39,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T16:33:40.119Z"
+}
