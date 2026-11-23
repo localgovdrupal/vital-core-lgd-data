@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-22T02:38:01.354Z",
+ "updatedAt": "2026-11-23T03:03:28.129Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -6251,6 +6251,256 @@
   "https://go.walsall.gov.uk/sites/default/files/2022-09/Preferred%20Options%20Draft%20Plan.pdf": {
    "checkedAt": "2026-11-22T02:38:01.352Z",
    "week": "2026-W47",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Preferred%20Options%20Draft%20Policies%20Map.pdf": {
+   "checkedAt": "2026-11-23T03:02:52.083Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Preferred%20Options%20Ward%20Map%20Book.pdf": {
+   "checkedAt": "2026-11-23T03:02:53.586Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Publication%20Ward%20Map%20Book.pdf": {
+   "checkedAt": "2026-11-23T03:02:55.088Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Adopted_0.pdf": {
+   "checkedAt": "2026-11-23T03:02:56.589Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Adoption%20Statement_0.pdf": {
+   "checkedAt": "2026-11-23T03:02:58.091Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20draft%20plan.pdf": {
+   "checkedAt": "2026-11-23T03:02:59.593Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Draft%20Policies%20Map%20Publication%20Version%20with%20Pre-Submission%20Modifications.pdf": {
+   "checkedAt": "2026-11-23T03:03:01.095Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Publication%20Draft%20Plan%20with%20Pre-Submission%20Modifications.pdf": {
+   "checkedAt": "2026-11-23T03:03:02.596Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Schedule%20of%20Further%20Proposed%20Modifications%20%28August%202017%29.pdf": {
+   "checkedAt": "2026-11-23T03:03:04.098Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Schedule%20of%20Modifications.pdf": {
+   "checkedAt": "2026-11-23T03:03:05.600Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Statement%20of%20Representations%20Procedure_0.pdf": {
+   "checkedAt": "2026-11-23T03:03:07.102Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Statement%20of%20Representations%20Procedure.pdf": {
+   "checkedAt": "2026-11-23T03:03:08.604Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Submission%20Plan.pdf": {
+   "checkedAt": "2026-11-23T03:03:10.106Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Submission%20Policies%20Map.pdf": {
+   "checkedAt": "2026-11-23T03:03:11.608Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Technical%20Appendices%20Assets%20and%20Constraints%20Maps%20Updated_0.pdf": {
+   "checkedAt": "2026-11-23T03:03:13.110Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Technical%20Appendices%20Designated%20Heritage%20Assets%20Updated_0.pdf": {
+   "checkedAt": "2026-11-23T03:03:14.612Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Technical%20Appendices%20List%20of%20Open%20Space%20Site%20Allocations%20Updated_0.pdf": {
+   "checkedAt": "2026-11-23T03:03:16.114Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Technical%20Appendices%20Nature%20Conservation%20Designations%20Sites%20and%20Assets%20Updated_0.pdf": {
+   "checkedAt": "2026-11-23T03:03:17.616Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Schedule%20of%20further%20proposed%20modifications%20%28April%202017%29.pdf": {
+   "checkedAt": "2026-11-23T03:03:19.118Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Schedule%20of%20Ward%20Maps%20and%20Site%20Tables.pdf": {
+   "checkedAt": "2026-11-23T03:03:20.620Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Sites%20for%20Gypsies%20Travellers%20and%20Travelling%20Showpeople.pdf": {
+   "checkedAt": "2026-11-23T03:03:22.120Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Technical%20Appendices.pdf": {
+   "checkedAt": "2026-11-23T03:03:23.621Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Walsall%20SAD%20Inspectors%20Report%20November%202018.pdf": {
+   "checkedAt": "2026-11-23T03:03:25.122Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Walsall%20SAD%20Main%20Modifications%20November%202018%20.pdf": {
+   "checkedAt": "2026-11-23T03:03:26.624Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Waste%20Appendix%201%20Glossary.pdf": {
+   "checkedAt": "2026-11-23T03:03:28.126Z",
+   "week": "2026-W48",
    "httpStatus": null,
    "status": "error",
    "attempts": 1,
