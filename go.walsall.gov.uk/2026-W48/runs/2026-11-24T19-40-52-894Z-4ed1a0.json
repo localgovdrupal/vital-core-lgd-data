@@ -1,0 +1,144 @@
+{
+ "runId": "2026-11-24T19-40-52-894Z-4ed1a0",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T19:40:53.800Z",
+ "scanned": [
+  "8e21b323b1991e41",
+  "b9294c5eda4907dd",
+  "b1d4fbb6f29a838f",
+  "245f1bbc52a3440f",
+  "1fe87f8902e4dede",
+  "2cb20c7e078f8890",
+  "30cba962f0d17feb",
+  "b4e1f1250b02fa76",
+  "9a9c2a10aa596802",
+  "f5c07a35a26cc2fb",
+  "bfd65b0ab4028908",
+  "c12b48b66e504ccf",
+  "7d47be717aa8a772",
+  "ca856b6cb0156f3d",
+  "29e0e9d76bb4f5c2",
+  "f3e562f976d4c1fb",
+  "4fdb0a977e0f4b76",
+  "ac5fab606b200630",
+  "9bdc2cb74d1f9e8d",
+  "853ec3bc4f8c6b27",
+  "8b440d9a3949cd95",
+  "c4fecb7584fdf9bf",
+  "aa978a7eeb413752",
+  "348cd45bc3aca951",
+  "491b850c583d0350",
+  "4d9883e5ba423728",
+  "efb6b2847ba77462",
+  "45365aee7b75a406",
+  "37b4f96be816cf03",
+  "d9d29e7278e639f1",
+  "c00cc825bcf45d5a",
+  "505abae3b23605ec",
+  "3a54399f5551e16b",
+  "8921518041656380",
+  "05fda71210be0617",
+  "95c4a987d4106798",
+  "5643eb2db987e799",
+  "dc9bf001bc712fa5",
+  "d0918640c334db93",
+  "eacce75d35920668",
+  "21e3e24f5bdf921f",
+  "e4ce0f9f91d84f62",
+  "b817e8344614e582",
+  "6e2faff4067e6ce9",
+  "9dbce8a85651f7f2",
+  "6440afc18097c247",
+  "d2cf4414dcf84f54",
+  "e441885ec71e70f9",
+  "bc67d953c37ed56f",
+  "598603fca5221191"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 963,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 25,
+  "plain-language": 28,
+  "deprecated-html": 7,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "public-interest": 4,
+  "performance-resources": 16,
+  "standards": 24,
+  "third-party": 13,
+  "sustainability": 8,
+  "security": 7,
+  "tech": 4,
+  "lighthouse": 7
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T19:57:43.793Z"
+}
