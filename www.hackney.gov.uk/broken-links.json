@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-19T14:25:32.848Z",
+ "updatedAt": "2026-11-24T00:18:29.658Z",
  "links": {
   "https://hackney.gov.uk/node/403": {
    "status": 404,
@@ -75,12 +75,13 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/private-and-housing-association-homes-fire-safety"
    ]
@@ -89,43 +90,44 @@
    "status": 503,
    "reason": "HTTP 503",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
+    "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
    ]
   },
   "https://procontract.due-north.com/Opportunities/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
+    "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
    ]
   },
   "https://procontract.due-north.com/ContractsRegister/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/publication-scheme",
-    "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts",
-    "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/working-council"
+    "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
    ]
   },
   "https://energyadvice.london/financial-support/": {
@@ -199,13 +201,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/parking-streets-and-transport/where-park/paying-short-stay-parking"
+    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/paying-short-stay-parking"
    ]
   },
   "https://www.sih.org/our-homes/supported-temporary-accommodation/bethany-house/": {
@@ -268,12 +271,13 @@
    "status": 406,
    "reason": "HTTP 406",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search"
    ]
@@ -334,13 +338,14 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
    ]
@@ -349,13 +354,14 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
    ]
@@ -364,13 +370,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
    ]
@@ -395,13 +402,14 @@
    "status": 0,
    "reason": "EAI_AGAIN",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
    ]
@@ -410,13 +418,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
    ]
@@ -425,12 +434,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
    ]
@@ -518,12 +528,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
    ]
@@ -546,15 +557,16 @@
    "status": 406,
    "reason": "HTTP 406",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches",
-    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/pre-application-services/get-pre-application-advice"
+    "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search",
+    "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-service"
    ]
   },
   "http://www.richardhouse.org.uk/": {
@@ -575,13 +587,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridport-house"
    ]
@@ -770,11 +783,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/article-4-directions"
    ]
@@ -864,12 +878,13 @@
    "status": 405,
    "reason": "HTTP 405",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
    ]
@@ -878,12 +893,13 @@
    "status": 405,
    "reason": "HTTP 405",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
    ]
@@ -892,12 +908,13 @@
    "status": 0,
    "reason": "EAI_AGAIN",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
    ]
@@ -906,12 +923,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
    ]
@@ -935,13 +953,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/greener-hackney"
    ]
@@ -950,22 +969,17 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/clapton-park",
-    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west",
-    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/selman-house-and-wellday-house-gascoyne-estate",
-    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/wayman-court",
     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/fellows-court-and-weymouth-court",
-    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/parkside-estate",
-    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/morris-blitz-court",
-    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/de-beauvoir"
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/selman-house-and-wellday-house-gascoyne-estate"
    ]
   },
   "http://www.map.hackney.gov.uk/Find-My-Nearest-Internal/?CAT=CM03|CM02": {
@@ -1026,13 +1040,14 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/queen-elizabeth-olympic-park-events"
    ]
@@ -1068,11 +1083,12 @@
    "status": 0,
    "reason": "CERT_HAS_EXPIRED",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/marriage-civil-partnership-and-other-ceremonies/find-venue-your-marriage-or-civil-partnership"
    ]
@@ -1094,11 +1110,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
    ]
@@ -1107,11 +1124,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
    ]
@@ -1120,11 +1138,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
    ]
@@ -1148,11 +1167,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/colville-estate"
    ]
@@ -1161,12 +1181,13 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/payments"
    ]
@@ -1175,12 +1196,13 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/payments"
    ]
@@ -1189,12 +1211,13 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/payments"
    ]
@@ -1203,12 +1226,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/payments"
    ]
@@ -1217,12 +1241,13 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://www.hackney.gov.uk/payments"
    ]
@@ -1257,16 +1282,15 @@
    "status": 0,
    "reason": "timeout",
    "firstSeen": "2026-W46",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://www.hackney.gov.uk/housing/council-tenants/buying-your-council-home-london",
-    "https://www.hackney.gov.uk/housing/private-tenants-and-landlords/private-tenants/help-private-sector-tenants",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/universal-credit-explained"
+    "https://www.hackney.gov.uk/housing/council-tenants/buying-your-council-home-london"
    ]
   },
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/Hackney-SuDS-Proforma.xlsx": {
@@ -1326,11 +1350,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W46",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/housing/find-home/bid-social-housing"
    ]
@@ -1339,11 +1364,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W46",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence"
    ]
@@ -1574,11 +1600,12 @@
    "status": 0,
    "reason": "CERT_HAS_EXPIRED",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
    ]
@@ -1587,11 +1614,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
    ]
@@ -1639,13 +1667,13 @@
    "status": 410,
    "reason": "HTTP 410",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/find-football-team",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/play-football-hackney"
    ]
   },
@@ -1666,11 +1694,12 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/payments"
    ]
@@ -1679,11 +1708,12 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://www.hackney.gov.uk/payments"
    ]
@@ -1842,6 +1872,123 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/age-and-sex-discrimination"
+   ]
+  },
+  "https://llc.ulverscroftulibrary.com/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+   ]
+  },
+  "https://www.oxfordartonline.com/": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+   ]
+  },
+  "https://www.oxfordscholarlyeditions.com/nos": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+   ]
+  },
+  "https://www.oxfordreference.com/": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+   ]
+  },
+  "https://www.oxfordmusiconline.com/": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+   ]
+  },
+  "https://www.ukwhoswho.com/": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+   ]
+  },
+  "https://www.oxfordworldsclassics.com/": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+   ]
+  },
+  "http://www.bmf.org.uk/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/business-and-licensing/licensing/skip-licence"
+   ]
+  },
+  "https://www.roomgo.net/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/housing/find-home/get-privately-rented-home"
    ]
   }
  }

@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "www.hackney.gov.uk",
- "updated_at": "2026-11-23T21:55:42.369Z",
+ "updated_at": "2026-11-24T00:18:29.146Z",
  "urls": {
   "00273d37f52e26b1": {
    "page_id": "00273d37f52e26b1",
@@ -379,7 +379,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T13:51:48.926Z"
   },
@@ -556,7 +556,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:35:39.783Z"
   },
@@ -722,7 +722,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:00:00.126Z"
   },
@@ -926,7 +926,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T14:15:45.634Z"
   },
@@ -1037,7 +1037,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:36:16.486Z"
   },
@@ -1299,7 +1299,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T09:54:57.155Z"
   },
@@ -1313,7 +1313,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T11:03:26.011Z"
   },
@@ -1407,7 +1407,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T14:18:22.146Z"
   },
@@ -1557,7 +1557,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T19:55:28.878Z"
   },
@@ -1653,7 +1653,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T14:15:12.463Z"
   },
@@ -1667,7 +1667,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T14:43:50.824Z"
   },
@@ -1708,7 +1708,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T18:49:41.972Z"
   },
@@ -1764,7 +1764,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T14:00:47.708Z"
   },
@@ -1845,7 +1845,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-11T17:38:32.711Z"
   },
@@ -1873,7 +1873,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T09:57:34.250Z"
   },
@@ -2239,7 +2239,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T22:21:12.106Z"
   },
@@ -2371,11 +2371,11 @@
    "page_id": "1aaf4e3106ddf832",
    "url": "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/find-football-team",
    "first_discovered_at": "2026-10-27T22:40:15.891Z",
-   "last_attempt_at": "2026-11-23T20:32:14.112Z",
+   "last_attempt_at": "2026-11-16T13:02:02.972Z",
    "last_success_at": "2026-11-16T13:02:02.972Z",
-   "last_status": "redirect",
-   "last_week": "2026-W48",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "last_failed_week": null,
@@ -2461,7 +2461,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T12:11:10.842Z"
   },
@@ -2488,7 +2488,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T14:43:58.366Z"
   },
@@ -2705,7 +2705,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T16:50:37.113Z"
   },
@@ -2786,7 +2786,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T16:33:19.874Z"
   },
@@ -2896,7 +2896,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T19:55:14.918Z"
   },
@@ -3012,11 +3012,11 @@
    "page_id": "22fa385c7345f9c2",
    "url": "https://www.hackney.gov.uk/business-and-licensing/business-rates/business-rates",
    "first_discovered_at": "2026-10-29T14:17:00.703Z",
-   "last_attempt_at": "2026-11-23T16:37:34.771Z",
+   "last_attempt_at": "2026-10-29T15:29:39.083Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W48",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W44",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -3399,7 +3399,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T12:30:54.509Z"
   },
@@ -3521,7 +3521,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:36:24.342Z"
   },
@@ -3682,7 +3682,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T16:30:48.812Z"
   },
@@ -3984,7 +3984,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:19:38.721Z"
   },
@@ -4153,11 +4153,11 @@
    "page_id": "2f8046ce51218486",
    "url": "https://www.hackney.gov.uk/website-fb",
    "first_discovered_at": "2026-10-30T06:40:13.633Z",
-   "last_attempt_at": "2026-11-17T13:44:53.073Z",
+   "last_attempt_at": "2026-11-03T13:00:46.928Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W45",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -4186,7 +4186,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T16:31:39.958Z"
   },
@@ -4434,7 +4434,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:35:34.932Z"
   },
@@ -4543,7 +4543,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T15:25:28.255Z"
   },
@@ -4666,7 +4666,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T12:17:43.976Z"
   },
@@ -4706,7 +4706,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T16:29:17.623Z"
   },
@@ -5005,7 +5005,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T12:13:45.772Z"
   },
@@ -5081,11 +5081,11 @@
    "page_id": "391353a1cc51604c",
    "url": "https://www.hackney.gov.uk/community-safety-partnership",
    "first_discovered_at": "2026-10-28T05:29:04.641Z",
-   "last_attempt_at": "2026-11-18T11:35:07.623Z",
+   "last_attempt_at": "2026-11-04T15:24:10.459Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W45",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -5249,7 +5249,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T13:23:57.747Z"
   },
@@ -5496,7 +5496,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T12:13:11.003Z"
   },
@@ -5544,11 +5544,11 @@
    "page_id": "3dddbabc5b916c0b",
    "url": "https://www.hackney.gov.uk/housing/resident-participation/enter-hackney-housing-garden-competition",
    "first_discovered_at": "2026-10-27T22:40:15.891Z",
-   "last_attempt_at": "2026-11-19T11:36:41.817Z",
+   "last_attempt_at": "2026-11-14T17:05:36.086Z",
    "last_success_at": "2026-11-03T12:10:34.918Z",
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W46",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": false,
    "last_failed_week": null,
@@ -5619,7 +5619,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T17:25:46.557Z"
   },
@@ -5763,11 +5763,11 @@
    "page_id": "3f8a3559e7c2e837",
    "url": "https://www.hackney.gov.uk/housing-payments",
    "first_discovered_at": "2026-10-28T11:40:29.367Z",
-   "last_attempt_at": "2026-11-23T20:35:38.541Z",
+   "last_attempt_at": "2026-11-04T15:24:32.179Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W48",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W45",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -5903,7 +5903,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T18:46:45.028Z"
   },
@@ -6226,7 +6226,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T11:42:48.237Z"
   },
@@ -6319,7 +6319,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T10:48:54.216Z"
   },
@@ -6374,7 +6374,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:38:48.074Z"
   },
@@ -6660,7 +6660,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:18:51.612Z"
   },
@@ -6823,7 +6823,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-09T13:13:54.258Z"
   },
@@ -6878,7 +6878,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:32:11.069Z"
   },
@@ -6987,7 +6987,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T11:00:25.621Z"
   },
@@ -7028,7 +7028,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T19:52:20.911Z"
   },
@@ -7056,7 +7056,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T11:01:39.791Z"
   },
@@ -7315,7 +7315,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T09:59:50.053Z"
   },
@@ -7438,7 +7438,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T16:30:01.133Z"
   },
@@ -7452,7 +7452,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-10T11:09:29.923Z"
   },
@@ -7547,7 +7547,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T16:51:06.892Z"
   },
@@ -7602,7 +7602,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:51:53.599Z"
   },
@@ -7954,7 +7954,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T18:45:16.139Z"
   },
@@ -8212,7 +8212,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T12:14:57.108Z"
   },
@@ -8398,7 +8398,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:39:08.546Z"
   },
@@ -8855,7 +8855,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T17:26:45.510Z"
   },
@@ -8977,7 +8977,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T16:00:55.747Z"
   },
@@ -9222,7 +9222,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T18:46:18.698Z"
   },
@@ -9303,7 +9303,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:51:06.085Z"
   },
@@ -9367,11 +9367,11 @@
    "page_id": "6b241933aaf68d14",
    "url": "https://www.hackney.gov.uk/planning-and-building/building-regulations-and-exemptions/regulations-exemptions-warranties-and",
    "first_discovered_at": "2026-10-28T15:25:29.052Z",
-   "last_attempt_at": "2026-11-23T16:37:51.547Z",
+   "last_attempt_at": "2026-10-28T17:47:58.530Z",
    "last_success_at": "2026-10-28T17:47:58.530Z",
-   "last_status": "redirect",
-   "last_week": "2026-W48",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W44",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "last_failed_week": null,
@@ -9482,7 +9482,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T11:49:14.570Z"
   },
@@ -9551,7 +9551,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-14T17:43:56.260Z"
   },
@@ -9620,7 +9620,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T22:23:46.525Z"
   },
@@ -9729,7 +9729,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T12:31:33.119Z"
   },
@@ -9840,7 +9840,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:53:31.930Z"
   },
@@ -10124,7 +10124,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T18:47:07.344Z"
   },
@@ -10166,7 +10166,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T10:47:29.254Z"
   },
@@ -10275,7 +10275,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:36:46.382Z"
   },
@@ -10518,7 +10518,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T16:19:26.007Z"
   },
@@ -10736,7 +10736,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T22:19:43.878Z"
   },
@@ -10777,7 +10777,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T09:56:04.699Z"
   },
@@ -11159,7 +11159,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T12:42:30.663Z"
   },
@@ -11201,7 +11201,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T16:32:39.276Z"
   },
@@ -11324,7 +11324,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T14:43:45.926Z"
   },
@@ -11455,11 +11455,11 @@
    "page_id": "85a7428529e56b5e",
    "url": "https://www.hackney.gov.uk/request-ews-form",
    "first_discovered_at": "2026-10-28T16:19:42.129Z",
-   "last_attempt_at": "2026-11-18T17:39:42.752Z",
+   "last_attempt_at": "2026-11-10T12:50:05.083Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W46",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -11488,7 +11488,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T10:43:48.131Z"
   },
@@ -11543,7 +11543,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:55:16.489Z"
   },
@@ -12015,7 +12015,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T16:25:30.281Z"
   },
@@ -12029,7 +12029,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T09:54:29.436Z"
   },
@@ -12947,11 +12947,11 @@
    "page_id": "97e6b2faa6c34f3b",
    "url": "https://www.hackney.gov.uk/designawards",
    "first_discovered_at": "2026-10-27T22:41:26.618Z",
-   "last_attempt_at": "2026-11-16T11:08:08.523Z",
+   "last_attempt_at": "2026-11-03T13:01:44.081Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W45",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -13062,7 +13062,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T12:11:29.092Z"
   },
@@ -13076,7 +13076,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T09:58:26.640Z"
   },
@@ -13938,7 +13938,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:37:23.906Z"
   },
@@ -13980,7 +13980,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T17:04:48.231Z"
   },
@@ -14101,7 +14101,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:18:42.371Z"
   },
@@ -14260,7 +14260,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T16:25:47.749Z"
   },
@@ -14362,11 +14362,11 @@
    "page_id": "a7cb75b93f1c44e5",
    "url": "https://www.hackney.gov.uk/community-safety-and-environment/energy/clean-energy-services-team-hackney-light-and-power",
    "first_discovered_at": "2026-10-27T22:40:15.889Z",
-   "last_attempt_at": "2026-11-23T19:20:37.253Z",
+   "last_attempt_at": "2026-11-18T14:48:06.664Z",
    "last_success_at": "2026-11-18T14:48:06.664Z",
-   "last_status": "redirect",
-   "last_week": "2026-W48",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "last_failed_week": null,
@@ -14490,7 +14490,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:40:55.883Z"
   },
@@ -14687,11 +14687,11 @@
    "page_id": "ac19a5cb8a281b7f",
    "url": "https://www.hackney.gov.uk/mayor",
    "first_discovered_at": "2026-10-28T05:29:04.641Z",
-   "last_attempt_at": "2026-11-18T11:33:37.936Z",
+   "last_attempt_at": "2026-11-10T12:50:20.561Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W46",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -14803,7 +14803,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:39:36.151Z"
   },
@@ -14913,7 +14913,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T11:39:17.415Z"
   },
@@ -15008,7 +15008,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:40:29.439Z"
   },
@@ -15089,7 +15089,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T16:33:43.794Z"
   },
@@ -15143,7 +15143,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T11:51:57.534Z"
   },
@@ -15267,7 +15267,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T11:02:44.466Z"
   },
@@ -15430,7 +15430,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T22:18:55.371Z"
   },
@@ -15568,7 +15568,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T12:31:54.582Z"
   },
@@ -15582,7 +15582,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:41:43.642Z"
   },
@@ -15735,7 +15735,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:58:17.291Z"
   },
@@ -15938,7 +15938,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T11:46:11.400Z"
   },
@@ -15980,7 +15980,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T16:31:40.558Z"
   },
@@ -16008,7 +16008,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T15:24:20.955Z"
   },
@@ -16145,7 +16145,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T18:47:16.784Z"
   },
@@ -16223,11 +16223,11 @@
    "page_id": "bfad058ac7bbacf6",
    "url": "https://www.hackney.gov.uk/node/600",
    "first_discovered_at": "2026-10-29T11:48:37.120Z",
-   "last_attempt_at": "2026-11-23T15:09:31.451Z",
+   "last_attempt_at": "2026-10-29T15:29:08.396Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W48",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W44",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -16536,7 +16536,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T12:10:29.888Z"
   },
@@ -16605,7 +16605,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:37:39.766Z"
   },
@@ -17046,7 +17046,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T12:14:05.882Z"
   },
@@ -17149,11 +17149,11 @@
    "page_id": "ca3e4048110eeb85",
    "url": "https://www.hackney.gov.uk/alcohol-support",
    "first_discovered_at": "2026-10-30T06:39:25.474Z",
-   "last_attempt_at": "2026-11-18T18:28:57.590Z",
+   "last_attempt_at": "2026-11-10T12:50:01.990Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W46",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -17249,7 +17249,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T17:26:35.008Z"
   },
@@ -17291,7 +17291,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T17:46:32.200Z"
   },
@@ -17384,7 +17384,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T19:52:11.994Z"
   },
@@ -17464,7 +17464,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T14:19:05.695Z"
   },
@@ -17492,7 +17492,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": "2026-W46",
    "first_finding_at": "2026-11-04T16:30:42.278Z"
   },
@@ -17574,7 +17574,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:31:32.343Z"
   },
@@ -17670,8 +17670,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:20:38.922Z"
   },
   "cf1a6878b3218b00": {
    "page_id": "cf1a6878b3218b00",
@@ -18050,7 +18051,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:54:42.701Z"
   },
@@ -18077,7 +18078,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T16:34:07.189Z"
   },
@@ -18364,7 +18365,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T15:25:47.541Z"
   },
@@ -18719,7 +18720,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T06:38:12.754Z"
   },
@@ -18801,7 +18802,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T10:15:35.660Z"
   },
@@ -18884,7 +18885,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T13:55:03.233Z"
   },
@@ -19061,7 +19062,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T17:23:52.987Z"
   },
@@ -19236,7 +19237,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T18:44:42.606Z"
   },
@@ -19264,7 +19265,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:17:42.944Z"
   },
@@ -19332,7 +19333,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T10:48:02.773Z"
   },
@@ -19632,7 +19633,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T16:30:23.802Z"
   },
@@ -19742,7 +19743,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T13:53:41.236Z"
   },
@@ -19783,7 +19784,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T16:30:23.884Z"
   },
@@ -20215,7 +20216,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T18:48:13.093Z"
   },
@@ -20420,7 +20421,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": true,
+   "clean": false,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:18:57.604Z"
   },
@@ -20475,7 +20476,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T10:51:49.658Z"
   },
@@ -20503,7 +20504,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T09:52:32.763Z"
   },
@@ -20564,11 +20565,11 @@
    "page_id": "ee3e364e5ee2278c",
    "url": "https://www.hackney.gov.uk/node/806",
    "first_discovered_at": "2026-10-27T22:45:13.491Z",
-   "last_attempt_at": "2026-11-19T13:40:41.993Z",
+   "last_attempt_at": "2026-10-29T11:01:13.054Z",
    "last_success_at": "2026-10-29T11:01:13.054Z",
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W44",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "last_failed_week": null,
@@ -20814,7 +20815,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T07:40:19.632Z"
   },
@@ -20842,7 +20843,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-03T17:28:08.977Z"
   },
@@ -20993,7 +20994,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-28T10:43:30.361Z"
   },
@@ -21021,7 +21022,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-30T09:58:55.577Z"
   },
@@ -21089,8 +21090,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:31:09.838Z"
   },
   "f407a72b23ec0acb": {
    "page_id": "f407a72b23ec0acb",
@@ -21547,7 +21549,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-10-29T22:24:04.271Z"
   },
@@ -21587,7 +21589,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T10:58:37.502Z"
   },
@@ -21664,11 +21666,11 @@
    "page_id": "f949ece803149ab6",
    "url": "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/parking-enforcement",
    "first_discovered_at": "2026-10-28T09:37:37.697Z",
-   "last_attempt_at": "2026-11-18T17:35:26.728Z",
+   "last_attempt_at": "2026-11-03T13:01:22.519Z",
    "last_success_at": null,
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 403,
+   "last_week": "2026-W45",
+   "outcome": "blocked",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -21737,7 +21739,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T13:53:19.709Z"
   },
@@ -22059,7 +22061,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-02T18:47:52.531Z"
   },
@@ -22274,7 +22276,7 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": false,
+   "clean": true,
    "last_failed_week": null,
    "first_finding_at": "2026-11-04T12:35:01.558Z"
   },

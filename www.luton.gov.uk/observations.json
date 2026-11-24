@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "www.luton.gov.uk",
- "updated_at": "2026-11-23T21:58:25.721Z",
+ "updated_at": "2026-11-24T00:18:34.342Z",
  "urls": {
   "000006faad3d4606": {
    "page_id": "000006faad3d4606",
@@ -15223,8 +15223,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:36:32.859Z"
   },
   "005cc0b462aa721e": {
    "page_id": "005cc0b462aa721e",
@@ -26032,8 +26033,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:36:20.572Z"
   },
   "00a033a2d7573c22": {
    "page_id": "00a033a2d7573c22",
@@ -129907,8 +129909,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:20:35.082Z"
   },
   "0316e9475ef0da41": {
    "page_id": "0316e9475ef0da41",
@@ -147657,8 +147660,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:21:58.044Z"
   },
   "03814d03c37ff5b7": {
    "page_id": "03814d03c37ff5b7",
@@ -295538,8 +295542,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:10:27.684Z"
   },
   "0703741f1f17226c": {
    "page_id": "0703741f1f17226c",
@@ -310071,8 +310076,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:54:51.295Z"
   },
   "075d3b1e1741bd92": {
    "page_id": "075d3b1e1741bd92",
@@ -331959,8 +331965,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:56:55.488Z"
   },
   "07e0973ee7b6f903": {
    "page_id": "07e0973ee7b6f903",
@@ -350342,8 +350349,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:30:31.215Z"
   },
   "0858117b3f9981b1": {
    "page_id": "0858117b3f9981b1",
@@ -405577,8 +405585,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:31:25.778Z"
   },
   "09a410c923fd2cc6": {
    "page_id": "09a410c923fd2cc6",
@@ -423945,8 +423954,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:19:50.788Z"
   },
   "0a11df57ad241db0": {
    "page_id": "0a11df57ad241db0",
@@ -457132,8 +457142,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:35:03.957Z"
   },
   "0ad6379999f0c488": {
    "page_id": "0ad6379999f0c488",
@@ -465584,8 +465595,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:55:23.192Z"
   },
   "0b0afa41baa0b412": {
    "page_id": "0b0afa41baa0b412",
@@ -491823,8 +491835,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:38:31.182Z"
   },
   "0baa937e313f6692": {
    "page_id": "0baa937e313f6692",
@@ -524021,8 +524034,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:08:59.124Z"
   },
   "0c7324005a8a8777": {
    "page_id": "0c7324005a8a8777",
@@ -544457,8 +544471,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:31:18.337Z"
   },
   "0cec8a2a6e3eb538": {
    "page_id": "0cec8a2a6e3eb538",
@@ -596391,8 +596406,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:37:21.676Z"
   },
   "0e2cfed07dbae575": {
    "page_id": "0e2cfed07dbae575",
@@ -598774,8 +598790,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:42:31.059Z"
   },
   "0e3c58eef0717b16": {
    "page_id": "0e3c58eef0717b16",
@@ -607374,8 +607391,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:41:27.887Z"
   },
   "0e700b8010a669b6": {
    "page_id": "0e700b8010a669b6",
@@ -657790,8 +657808,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:33:10.472Z"
   },
   "0fa00733fb41ac93": {
    "page_id": "0fa00733fb41ac93",
@@ -663293,8 +663312,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:53:56.642Z"
   },
   "0fc1669bc29b3091": {
    "page_id": "0fc1669bc29b3091",
@@ -731762,8 +731782,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:52:36.745Z"
   },
   "1162a626a6f99c7c": {
    "page_id": "1162a626a6f99c7c",
@@ -851236,8 +851257,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:31:06.692Z"
   },
   "1430cd441fcdbe4c": {
    "page_id": "1430cd441fcdbe4c",
@@ -858379,8 +858401,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:53:14.562Z"
   },
   "145f0b3e034f9bcb": {
    "page_id": "145f0b3e034f9bcb",
@@ -890109,8 +890132,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:16:16.879Z"
   },
   "151972141e8b3628": {
    "page_id": "151972141e8b3628",
@@ -984898,8 +984922,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:18:01.526Z"
   },
   "175a4f90172b85c4": {
    "page_id": "175a4f90172b85c4",
@@ -989969,8 +989994,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:35:30.720Z"
   },
   "177a96e94697bb5e": {
    "page_id": "177a96e94697bb5e",
@@ -1007917,8 +1007943,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:54:35.282Z"
   },
   "17e4d24b3a516c12": {
    "page_id": "17e4d24b3a516c12",
@@ -1107273,8 +1107300,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:50:44.988Z"
   },
   "1a3fc6236ac2e073": {
    "page_id": "1a3fc6236ac2e073",
@@ -1120828,8 +1120856,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:30:07.565Z"
   },
   "1a939b1873dbf5d8": {
    "page_id": "1a939b1873dbf5d8",
@@ -1183248,8 +1183277,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:19:26.757Z"
   },
   "1c0fb91a66b8cbe6": {
    "page_id": "1c0fb91a66b8cbe6",
@@ -1189518,8 +1189548,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:40:29.874Z"
   },
   "1c36daf0abb6ca3b": {
    "page_id": "1c36daf0abb6ca3b",
@@ -1207887,8 +1207918,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:34:52.630Z"
   },
   "1ca22902d8ede40d": {
    "page_id": "1ca22902d8ede40d",
@@ -1212374,8 +1212406,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:10:22.555Z"
   },
   "1cbdb241ff3893a8": {
    "page_id": "1cbdb241ff3893a8",
@@ -1233637,8 +1233670,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:37:08.569Z"
   },
   "1d4305c0e429b104": {
    "page_id": "1d4305c0e429b104",
@@ -1284256,8 +1284290,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:52:41.932Z"
   },
   "1e701f3a91705c0e": {
    "page_id": "1e701f3a91705c0e",

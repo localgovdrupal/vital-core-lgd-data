@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-21T19:44:17.286Z",
+ "updatedAt": "2026-11-24T00:18:25.937Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -112,16 +112,16 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-1",
-    "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-0"
+    "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-3"
    ]
   },
   "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcarersuk.org%2Fnews-and-campaigns%2Four-campaigns%2Fcarers-rights-day&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7C814425bad26a43b6d24408de278462b6%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638991646703290359%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Ld%2FP5HDoEaoiFkUtaZTznvd%2FsTe3nm5yDxsX3x4X7e4%3D&reserved=0": {
@@ -1948,6 +1948,32 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Strategic%20Housing%20Land%20Availability%20Assessment%202022.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/compulsory-purchase"
+   ]
+  },
+  "https://www.facebook.com/share/1AJrP9ZfzW/,": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory/absolute-aba-uk-ltd-applied-behavioural-analysis-therapy-children-additional"
    ]
   }
  }
