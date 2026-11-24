@@ -1,0 +1,223 @@
+{
+ "runId": "2026-11-24T20-23-28-136Z-bdde8d",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T20:23:30.834Z",
+ "scanned": [
+  "e762567680fe57db",
+  "2496c5e5d3e0557b",
+  "5ccd637db76ff27e",
+  "624bfbff6bab89c0",
+  "47bb6019ceac5a1c",
+  "6430ca272c23118b",
+  "b11d752053f4c3f3",
+  "901ef5efdd54241b",
+  "e0e89fb44f77d724",
+  "8d79ddb0f4dea379",
+  "9b7ec50743fb29a9",
+  "81bd5e80df1d042e",
+  "e9d1cc8742b2c69b",
+  "49dc5aca3a07523c",
+  "3cd3fecd8eb57838",
+  "14b849a3f3fbf15f",
+  "f409c924622a56b4",
+  "a1e60b6b40641e18",
+  "d9bc21eaaca2a785",
+  "43be08c4670f7544",
+  "8c0e6b72e59b7faa",
+  "4c0f6194eef7267d",
+  "40a46d7bef098166",
+  "01a524492e6bae49",
+  "c306e24307e36bf7",
+  "49b641c52c93cbda",
+  "9b2ee4ace47842a1",
+  "5311a39975d5a535",
+  "8d14a098ca42be27",
+  "477ccb5199d3e61b",
+  "26eab47d0575e634",
+  "7548caf03b47a18f",
+  "c7a7853c4b6b7e5d",
+  "9d1429d06b9182b9",
+  "f639e7906f4e43fb",
+  "0bd49a7093928585",
+  "6f66d93cb10276c6",
+  "15e12e7fe7b4af40",
+  "02df8fc4354cd5db",
+  "b91ed8c140f931be",
+  "5767c4a770e30f97",
+  "5b5135422378a3ae",
+  "76026204b4621c11",
+  "acf225a24cfa8ace",
+  "03b25806bfba365f",
+  "1add0cfb511624b0",
+  "ff4f672a19f4e5a0",
+  "0afb399793b3c5d0",
+  "506d981a9bb4af95"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 605,
+  "checked": 500,
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "https://interpreternow.co.uk/stop-hate-uk",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/community-safety-and-enforcement"
+    ]
+   },
+   {
+    "url": "https://www.hackney.gov.uk/node/403",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/homelessness/support-avoid-homelessness/advice-if-youre-worried-youre-about-become-homeless"
+    ]
+   },
+   {
+    "url": "https://www.homerton.nhs.uk/u26",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/sexual-health"
+    ]
+   },
+   {
+    "url": "http://bodyandsoulcharity.org/get-support/becoming-a-member/self-referral-form/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/sexual-health"
+    ]
+   },
+   {
+    "url": "http://bodyandsoulcharity.org/get-support/becoming-a-member/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/sexual-health"
+    ]
+   },
+   {
+    "url": "https://education.hackney.gov.uk/content/hubs-support-for-expectant-parents",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/pregnancy-and-maternity"
+    ]
+   },
+   {
+    "url": "https://rise.articulate.com/share/nwfNRMbVqoXgYxTlRUed2JsNq-ZC_K15",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/drug-and-alcohol-support-and-advice/alcohol-support-and-advice"
+    ]
+   },
+   {
+    "url": "https://transform.england.nhs.uk/information-governance/guidance/records-management-code/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/public-health-privacy-notice"
+    ]
+   },
+   {
+    "url": "https://www.sih.org/our-homes/supported-temporary-accommodation/bethany-house/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/homelessness/help-if-youre-homeless-or-rough-sleeping/find-somewhere-stay-tonight"
+    ]
+   },
+   {
+    "url": "https://procontract.due-north.com/ContractsRegister/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/publication-scheme"
+    ]
+   },
+   {
+    "url": "https://www.thepavement.org.uk/services?service=26&city=1",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/homelessness/help-if-youre-homeless-or-rough-sleeping/find-somewhere-stay-tonight"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 9,
+  "performance-resources": 9,
+  "axe": 47,
+  "deprecated-html": 5,
+  "resources": 47,
+  "images": 47,
+  "standards": 26,
+  "lighthouse": 5,
+  "link-check": 47,
+  "plain-language": 27,
+  "tech": 4,
+  "third-party": 8,
+  "alfa": 21,
+  "security": 5,
+  "public-interest": 4
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T20:31:21.659Z"
+}
