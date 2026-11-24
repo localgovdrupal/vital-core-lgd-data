@@ -1,0 +1,151 @@
+{
+ "runId": "2026-11-24T19-41-12-028Z-70d10b",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T19:41:15.028Z",
+ "scanned": [
+  "f294d89ad2d55fbe",
+  "77e64087cd1e7721",
+  "8645e210d1707c86",
+  "244138f0a5079e05",
+  "9de56b19f4cb70dc",
+  "66815a1b10c12bea",
+  "acc4fde4a389e7ad",
+  "52c331727d904149",
+  "e3cb90cf26f17498",
+  "26ea0edf88760f90",
+  "89de7b77f25573bd",
+  "74d2d89e087283f9",
+  "6ae4903b9ad6d017",
+  "aa48e89467ccf8c1",
+  "848bd5c589e25a85",
+  "7bb95b9bad257e1d",
+  "5d2f30b208d02c29",
+  "d0ac9229affcd72c",
+  "45f7fa9e26d5a57e",
+  "a72aa991cf886967",
+  "74e111240feb83b5",
+  "9ba8e718f14b6328",
+  "fcb2ad8a4be37267",
+  "816f7856d32b770d",
+  "38bda29aa4e0ea4f",
+  "9b952feff5ea4636",
+  "e3bf414a1a7cc4d0",
+  "9810a99e37da51dd",
+  "ed367b296b88849e",
+  "30035b8c5ed63365",
+  "9510d3f83c5495e2",
+  "9ccaef4651636f74",
+  "fe517d3c41ca7137",
+  "33b4a1495971b2c2",
+  "d566c7037799d287",
+  "8d99f30b771d5ce7",
+  "c8e269a25df439dd",
+  "4a0ee3f17e96c984",
+  "7fbcf43a3f7d3cce",
+  "2ed962ab5a86f3bb",
+  "d8126ce3ecaef997",
+  "a7e54e4bb5cbc275",
+  "a16006b0d4ca2e98",
+  "2385c6c327376d9b",
+  "05dffe008c389835",
+  "21bb14df6f07c30d",
+  "174cb368a9ebe21b",
+  "f0d0cb8743864b0d",
+  "4b04abeb10740710"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 832,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://www.finalfarewell.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/bereavement-support"
+    ]
+   },
+   {
+    "url": "https://thelondoncleanairinitiative.org/leca2024/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/get-involved-your-community/eco-schools-programme"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 29,
+  "resources": 49,
+  "images": 49,
+  "link-check": 49,
+  "alfa": 29,
+  "third-party": 12,
+  "security": 8,
+  "deprecated-html": 5,
+  "standards": 25,
+  "tech": 6,
+  "sustainability": 3,
+  "public-interest": 7,
+  "performance-resources": 15,
+  "lighthouse": 6
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T19:49:22.170Z"
+}
