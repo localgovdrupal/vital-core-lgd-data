@@ -1,0 +1,144 @@
+{
+ "runId": "2026-11-24T13-36-00-294Z-640627",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T13:36:04.134Z",
+ "scanned": [
+  "707240812c061499",
+  "c876be12d439ccba",
+  "15f359bfbbb455ce",
+  "85af5f25e28834b4",
+  "afe902accbd62701",
+  "f05eab5859693c92",
+  "0a9309cbdb9f551e",
+  "71b197834987908d",
+  "2d790f6138f9e5ac",
+  "bc5f2faeedc82ac1",
+  "2e9503e3115fd890",
+  "a0d7274f60a338a4",
+  "0c8f0c6ee99ad9c6",
+  "9428b8f3e8c0fcc0",
+  "36b0e7bb5756b5c5",
+  "97eba2e802e5b389",
+  "bfbdbe4bbb76d499",
+  "eb9617105f3f0b20",
+  "c65a279bc33968e9",
+  "cde3a17d518cba81",
+  "7376d5b37a0d9d16",
+  "053b98ddfedfa123",
+  "b700b0a5938ebb75",
+  "ec59ebfa6a7d6771",
+  "b6ef1700482deacf",
+  "a07574900df1748e",
+  "f0f4a16b696d047b",
+  "0d574882cea30dd6",
+  "683039360074bf1a",
+  "72efaa31e20da8eb",
+  "fa819293c7ea7655",
+  "aa107a82ccbdf759",
+  "db06c647eb4e3f74",
+  "c18ac385310312e4",
+  "ae6b64ffd942ce36",
+  "cb734f0d862d8c55",
+  "af1c03344278d74a",
+  "67f6aed88ddda2d3",
+  "50b46998e95f51be",
+  "be11bba10f6b3500",
+  "686d4d8e6c314243",
+  "1bca0e30fa56bfd5",
+  "fc4696e035322668",
+  "e01429ea9f44d278",
+  "f4158ca55f8a9056",
+  "13cb7c7f0d64ac4e",
+  "8c2e59d459aa35fd",
+  "f7158550a0fb36a7",
+  "87ef1960dc1c6ef3",
+  "1f6f9cccdeb5775f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1125,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://forms.walsall.gov.uk/Taxi-Payments",
+    "status": 999,
+    "reason": "HTTP 999",
+    "foundOn": [
+     "https://go.walsall.gov.uk/pay"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 25,
+  "resources": 50,
+  "images": 50,
+  "standards": 33,
+  "link-check": 50,
+  "security": 8,
+  "alfa": 21,
+  "performance-resources": 13,
+  "third-party": 20,
+  "deprecated-html": 6,
+  "lighthouse": 5,
+  "tech": 2,
+  "public-interest": 2,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T13:50:40.235Z"
+}
