@@ -1,0 +1,183 @@
+{
+ "runId": "2026-11-24T16-25-30-804Z-1347a0",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T16:25:31.166Z",
+ "scanned": [
+  "a19de9ae990aacac",
+  "9d92a451cce6d821",
+  "1d8c1a9233f7b581",
+  "6bcc506aac6c0b17",
+  "79c0e500373073f3",
+  "e8477ede7ffe4094",
+  "085aab9b08039f55",
+  "4b33a8e8b4d977f2",
+  "358e463120c2b0ae",
+  "13c59ab89e98931f",
+  "37d28065fb36b49c",
+  "3035c9b95cb277e9",
+  "e0961f3fa20c064f",
+  "67c4ab961b96c03b",
+  "a0691a634c3ce6c9",
+  "2ac30551697d1093",
+  "851ba0216bfb35c7",
+  "8034c4d86eeb6431",
+  "1322d48bf5b6cc0b",
+  "895a3ee144af8b42",
+  "f2679cb3a9a28b42",
+  "c9435285db591c1b",
+  "6ac032770bd08417",
+  "6e014613e959031a",
+  "bd54dc901a374714",
+  "173bf4eb9e981390",
+  "8f7707a67c8513b1",
+  "d08afcd4055b47dc",
+  "23e1892cc24628f9",
+  "c7b21d7e87b9c7f8",
+  "3f6d568dd86565a6",
+  "5439d1db67b402ea",
+  "7414bd836ec3c67a",
+  "252e41cf66dd2428",
+  "0719a2aad86161e5",
+  "1587c59b395afbd5",
+  "8f41332e14b7c8e3",
+  "c1c81451362863a0",
+  "feea4dea342a9862",
+  "b4612d662feb65e1",
+  "5baa01c8486a3e67",
+  "e8510f74721f2e24",
+  "2de6cd5ec0581f51",
+  "38aba3b9690a58d5",
+  "9e0d35f7e034b3c9",
+  "4dd7825c27221dbf",
+  "184ee8c3d37797ef",
+  "676e7a8402a97270",
+  "d56ed1bc0a6935f8"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 913,
+  "checked": 500,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.hackneycitizen.co.uk/2018/11/14/young-black-men-programmes-inspirational-leaders-speak-out/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://archive.londoncouncils.gov.uk/our-key-themes/race-equality/london-local-government-tackling-racial-inequality-programme",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://www.citybridgetrust.org.uk/wp-content/uploads/2017/07/Moving-on-Up-full-evaluation-report-.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://www.london.gov.uk/what-we-do/communities/workforce-integration-network-win/inclusive-employers-toolkit",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://www.lovehackney.uk/black-history-season",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   },
+   {
+    "url": "https://www.hackneyyoungfutures.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/anti-racism/our-commitment-anti-racism"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "performance-resources": 13,
+  "axe": 48,
+  "deprecated-html": 7,
+  "resources": 48,
+  "images": 48,
+  "standards": 30,
+  "tech": 4,
+  "link-check": 48,
+  "alfa": 23,
+  "plain-language": 27,
+  "public-interest": 4,
+  "lighthouse": 7,
+  "third-party": 9,
+  "security": 5,
+  "sustainability": 4
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T16:34:12.626Z"
+}
