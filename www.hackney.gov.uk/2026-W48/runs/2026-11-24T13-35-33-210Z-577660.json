@@ -1,0 +1,175 @@
+{
+ "runId": "2026-11-24T13-35-33-210Z-577660",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T13:35:33.567Z",
+ "scanned": [
+  "cff6a9ca4809bb55",
+  "f72ab7c0e2d6f368",
+  "33d32372a63c0868",
+  "d7e4ebd356a9ff60",
+  "bed046ea2f3ab93f",
+  "c38f3f6e38c06643",
+  "4b1a1f66b81981be",
+  "61c656cedb9e25d3",
+  "0d638321f2bd97a7",
+  "ab90efe49f42ff7f",
+  "f5b3bf90c4ca6ac1",
+  "239b7406184f35d0",
+  "ff640f50a2a69052",
+  "b49a0a6f35d66709",
+  "8a60cd7568b385e6",
+  "c5f544de80c16e60",
+  "715d02a8a16a9a79",
+  "6a4433a5ba35a2a9",
+  "81a574060039faf0",
+  "ec6045c561313566",
+  "d75cb05df445bee9",
+  "ce2f22db4ff9ca8a",
+  "3687ca49e7fe2d3e",
+  "e41ab6eada27d1a1",
+  "31200e87c94c3c96",
+  "4258bf01a47b559d",
+  "6cacd9666018a08e",
+  "45af9343f9a8d36a",
+  "0ce6186e9ba4d878",
+  "874a8931f99a1663",
+  "5973ed4a55516925",
+  "0304fe3e099a7159",
+  "bcde3de9dea10308",
+  "1dc04abc05fcff85",
+  "632787d62260a3ce",
+  "b7df8390b85f5cf6",
+  "238d50523f7c1df5",
+  "b6e925ea5ee8745d",
+  "0b2a2f842f116187",
+  "959c46d09f38a293",
+  "e36917f6acab23d3",
+  "25dd50182da1af20",
+  "77d14c55aaf6c255",
+  "b2285c2df798a32a",
+  "f1ce027e2c4b6d8a",
+  "453acd938ab1a329",
+  "db5f487238642ab4",
+  "e4777aca41aabe1f",
+  "f5e03a4bd166ecfc"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 705,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://www.grantrequest.co.uk/Login.aspx?ReturnUrl=%2faccountmanager.aspx%3fSA%3dAM%26sid%3d24&SA=AM&sid=24",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/community-grants/what-grants-are-available"
+    ]
+   },
+   {
+    "url": "https://www.nationalarchives.gov.uk/archives-sector/finding-funding/covid-19-archives-fund/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/projects-events-and-exhibitions"
+    ]
+   },
+   {
+    "url": "http://twitter.com/ArchivesHackney",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/projects-events-and-exhibitions"
+    ]
+   },
+   {
+    "url": "https://luisevormittag.com/Cracks",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/projects-events-and-exhibitions"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/documents/s48613/Appendix_5_PEP_2015-20_-_Consultation_Report.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-and-enforcement-plan"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "resources": 48,
+  "images": 48,
+  "standards": 26,
+  "tech": 7,
+  "link-check": 48,
+  "performance-resources": 12,
+  "alfa": 21,
+  "plain-language": 20,
+  "security": 8,
+  "third-party": 13,
+  "deprecated-html": 5,
+  "lighthouse": 6,
+  "sustainability": 4,
+  "public-interest": 6
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T13:44:03.547Z"
+}
