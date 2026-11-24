@@ -1,0 +1,143 @@
+{
+ "runId": "2026-11-24T18-52-30-942Z-0637cc",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T18:52:33.315Z",
+ "scanned": [
+  "7fbd0e84b219c666",
+  "a40a679110610fbf",
+  "a9d9f376a32a613a",
+  "a17131b7b03ef55e",
+  "553042fd181f03ff",
+  "0b27c956f3762fc4",
+  "1e676b4aa2e98a54",
+  "c0d70030d4e736e4",
+  "bd70382329a18eb7",
+  "f07efcd7d932ee5a",
+  "80e5aa8e4e5d5a7c",
+  "c45ae7862a4f21b9",
+  "131dd443ef37bbb4",
+  "84b41346a2d3f235",
+  "93d9db27ddf867fc",
+  "ce4562272aef442b",
+  "ffb4562db5cfdc57",
+  "00f25ef1883001c7",
+  "9bed6ab2156ab114",
+  "a1496234bef663bf",
+  "40bf3d3cb9fcd25a",
+  "c3399c065dac1c2b",
+  "58ecceed66166e62",
+  "46d2b5ddbd258f73",
+  "614d078da605d8a6",
+  "846bb2a917a0122d",
+  "87aa65cc07dda8e4",
+  "40a6fe877bb7fe6f",
+  "aa86f37a6ad261ac",
+  "3b3933cec3191dc0",
+  "e2769ad77290d836",
+  "79c99798a1f7bb46",
+  "1884766bd846af5e",
+  "9ffa7e7599087f61",
+  "bb86d77cc35c5972",
+  "061e1f82b2ccf7ef",
+  "5e8ffabfc8993e43",
+  "83ab83f5ff11d974",
+  "f8c9e6bab23c4db7",
+  "ef82334219bd9bb1",
+  "f6602e774de04edf",
+  "2feb5b29cecf2650",
+  "db29e98ca7e7e491",
+  "fe00611ff4d5abb8",
+  "bed6b9e7457f7980",
+  "fa64b500b28aca8e",
+  "2b4f323b7e9f2813",
+  "3af073c6a0f61c7e",
+  "370bde49aac82fad"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1043,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.walsallcouncilwebcasts.com%2F&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Cfd917ced9878472ebd3a08df149091f8%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639252283330446085%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xC2pfm20mZQfBlbWSgMowQ2FDoLM7js6h887eXK2nZI%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/cabinet-approves-consultation-proposed-changes-council-tax-reduction-scheme"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "performance-resources": 16,
+  "axe": 49,
+  "alfa": 28,
+  "deprecated-html": 5,
+  "resources": 49,
+  "images": 49,
+  "standards": 28,
+  "link-check": 49,
+  "sustainability": 8,
+  "public-interest": 7,
+  "plain-language": 21,
+  "security": 4,
+  "lighthouse": 4,
+  "third-party": 11,
+  "tech": 5
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T19:08:22.601Z"
+}
