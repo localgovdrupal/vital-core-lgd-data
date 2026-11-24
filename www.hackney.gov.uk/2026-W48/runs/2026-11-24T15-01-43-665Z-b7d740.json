@@ -1,0 +1,197 @@
+{
+ "runId": "2026-11-24T15-01-43-665Z-b7d740",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T15:01:46.075Z",
+ "scanned": [
+  "807d4587f0111fc8",
+  "974ca0a84648fcb1",
+  "2243640390fa14c8",
+  "6af815c33b95b14d",
+  "2bc368dfc6cb55f9",
+  "a1bf96e2f4bfb165",
+  "943c26a0fd5026fb",
+  "03be09f446db1ed4",
+  "8c4143a06b181918",
+  "19e46f8beb4f3454",
+  "674948c673a142c0",
+  "2d0177946b47b34d",
+  "8c4516d2dc9d8f61",
+  "0ce4bade78967e14",
+  "b507cbd42f4652cb",
+  "3f2b459fd661874a",
+  "0cab4ecc82b50a88",
+  "785aaf5f07992553",
+  "b9a1884d603de517",
+  "b579e96882a356f7",
+  "eac4dd257958d660",
+  "7cff57a27b53bdd9",
+  "8ea212819df09003",
+  "73e6e9b4366aa229",
+  "e09dfe453f937985",
+  "d049fe311fc14254",
+  "ee87287b1a33ab9f",
+  "2b641f40af37116c",
+  "f781b31df8dd5106",
+  "2c04dc29f7556b69",
+  "5cd8bf22aa0cc456",
+  "c0b2b245c90d7186",
+  "4ba75c621c8e92d3",
+  "150be082788d5ac4",
+  "11ff46bc0b799642",
+  "f6ec5617dbfe4f2e",
+  "36f5f0ff59db6d63",
+  "be6342196a5ee387",
+  "959ad13ccd6c238d",
+  "e62cb218830639d5",
+  "f4b1cf93b8052b42",
+  "93442233322ba308",
+  "f132e1c2a55e6f30",
+  "d6faaa6a89da73cb",
+  "d3f40c358c9ee20a",
+  "68715e7b658a9310",
+  "db88a81f029d3f6e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 490,
+  "checked": 490,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "http://www.crg.uk.com/homecare/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=TC822IfVtQo",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://support.google.com/analytics/answer/6004245",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/more-us/privacy-statement"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=PpOJW1HKzHk&adultchannel=0",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://www.cityoflondon.gov.uk/services/waste-and-recycling/commercial-waste/hazardous-waste-collection",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/asbestos-management"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/LA35-Application-to-vary-a_club-premises-certificate.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/LA36-Club_premises-Variation-Newspaper-Advertisement.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/LA37-Club-premises-variation-Site-Notice.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 45,
+  "alfa": 24,
+  "plain-language": 18,
+  "resources": 45,
+  "images": 45,
+  "link-check": 45,
+  "standards": 24,
+  "third-party": 15,
+  "performance-resources": 14,
+  "sustainability": 4,
+  "deprecated-html": 4,
+  "lighthouse": 3,
+  "security": 3,
+  "tech": 5,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 45,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T15:08:19.667Z"
+}
