@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-23T03:03:28.129Z",
+ "updatedAt": "2026-11-24T06:21:16.280Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -6500,6 +6500,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-09/Waste%20Appendix%201%20Glossary.pdf": {
    "checkedAt": "2026-11-23T03:03:28.126Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Housing%20Strategy%202020-2025.pdf": {
+   "checkedAt": "2026-11-24T06:20:40.231Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Annotated%202019%20UDP.pdf": {
+   "checkedAt": "2026-11-24T06:20:41.733Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Strategic%20Housing%20Land%20Availability%20Assessment%202022.pdf": {
+   "checkedAt": "2026-11-24T06:20:43.235Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/WMBC%20%28Pleck%20and%20Blakenall%20and%20Willenhall%20South%20Darlaston%20South%29%20Compulsory%20Purchase%20Order%202022%20-%20Order.pdf": {
+   "checkedAt": "2026-11-24T06:20:44.736Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-10/WMBC%20CPO%20map.pdf": {
+   "checkedAt": "2026-11-24T06:20:46.239Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-11/Council%20Plan%202022%20-%202025.pdf": {
+   "checkedAt": "2026-11-24T06:20:47.741Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-01/Compulsory%20Purchase%20Order.pdf": {
+   "checkedAt": "2026-11-24T06:20:49.243Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-01/Compulsory%20Purchase%20Order%20-%20Plans.pdf": {
+   "checkedAt": "2026-11-24T06:20:50.744Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-04/Sealed%20GVD%20-%2013.4.23_archive_archive01_Nicola%20Alcock.pdf": {
+   "checkedAt": "2026-11-24T06:20:52.246Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-07/We%20Are%20Walsall%202040%20Borough%20Plan.pdf": {
+   "checkedAt": "2026-11-24T06:20:53.749Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-09/CPO%20Map.pdf": {
+   "checkedAt": "2026-11-24T06:20:55.251Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-09/CPO%20Order%20and%20Schedule%20%28Redacted%29.pdf": {
+   "checkedAt": "2026-11-24T06:20:56.753Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-09/Equality%20Impact%20Assessment%20x2.pdf": {
+   "checkedAt": "2026-11-24T06:20:58.255Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-09/Statement%20of%20Reasons%20%28Redacted%29%20x2.pdf": {
+   "checkedAt": "2026-11-24T06:20:59.757Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-02/Statement%20of%20Case%20-%20WIllenhall%20Phase%201.%20Final.pdf": {
+   "checkedAt": "2026-11-24T06:21:01.259Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-02/Validation%20-%20Guidance%20-%20Ecology%20Survey%20and%20Report%20Requirements.pdf": {
+   "checkedAt": "2026-11-24T06:21:02.761Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-02/Validation%20-%20Guidance%20-%20Flood%20Risk%20Assessment%20%28Environment%20Agency%29.pdf": {
+   "checkedAt": "2026-11-24T06:21:04.263Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-02/Validation%20-%20Guidance%20-%20Foul%20Drainage%20Assessment%20%28Environment%20Agency%29.pdf": {
+   "checkedAt": "2026-11-24T06:21:05.765Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-02/Validation%20-%20Guidance%20-%20Heritage%20Statements.pdf": {
+   "checkedAt": "2026-11-24T06:21:07.267Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-02/Validation%20-%20Guidance%20-%20Land%20Contamination%20%28Environment%20Agency%29.pdf": {
+   "checkedAt": "2026-11-24T06:21:08.769Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-02/Validation%20-%20Guidance%20-%20Sustainable%20Urban%20Drainage.pdf": {
+   "checkedAt": "2026-11-24T06:21:10.269Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-02/Validation%20-%20Guidance%20-%20Trees.pdf": {
+   "checkedAt": "2026-11-24T06:21:11.771Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-02/Validation%20-%20Guidance%2045-degree%20code.pdf": {
+   "checkedAt": "2026-11-24T06:21:13.273Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-06/Walk%20On%20Timetable%20June%2020204.pdf": {
+   "checkedAt": "2026-11-24T06:21:14.775Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-11/KL%20-%2052897-20%20-%20Modified%20and%20Endorsed%20Sealed%20Order%20-c.pdf": {
+   "checkedAt": "2026-11-24T06:21:16.277Z",
    "week": "2026-W48",
    "httpStatus": null,
    "status": "error",
