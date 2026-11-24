@@ -1,0 +1,245 @@
+{
+ "runId": "2026-11-24T18-52-23-422Z-ccd2e0",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T18:52:26.042Z",
+ "scanned": [
+  "258d1ba77d61f403",
+  "342cb56f08e39ce8",
+  "f5b6c6bd1bb8553f",
+  "d491361a866ecb2b",
+  "5c3be841e972db61",
+  "1dde517d52aa69c2",
+  "1653776ac32f395d",
+  "4c26e00fe3e9134b",
+  "63a119077de866e1",
+  "7d56f6ca2a170a14",
+  "5def3ebd892924e9",
+  "75d871ec1d098556",
+  "2c788466610f96bd",
+  "3e20e691da11e67b",
+  "8a6f9248c5ab5501",
+  "93531ddd5e0fd369",
+  "eba984a0b1370da0",
+  "bcf6e9c8451a01de",
+  "a0d26fa5ced632b4",
+  "5afe847eac07b4d7",
+  "9786ce3078518314",
+  "9cbd0ab8ec05ecb0",
+  "cd42815229241675",
+  "33832b4a7c141d4e",
+  "0ce5a027a11e171c",
+  "6ad28d8547ab5d8d",
+  "0f0f61285458fd25",
+  "40529f1d70041a36",
+  "06316e3e9cb42f73",
+  "0bca2dd2425caa77",
+  "6ec0a4156eaadc8f",
+  "1c430d05d23796c1",
+  "3295c2c34109a762",
+  "76d86718668b74ed",
+  "a4bf8a71c996ea55",
+  "f1c1ef1118d001e4",
+  "b8ddafa05dc976a6",
+  "2a9314fda4014b5c",
+  "ab2a564390a507b1",
+  "00414b8f39f1bddc",
+  "f939f29e8efb5b39",
+  "2bb2e2a2761a7b45",
+  "116911aaa11e99f7",
+  "53141c8652a319f4",
+  "1878d51e280a77d0",
+  "6b2c08c885a74b23",
+  "044b5649c1ad65d2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1060,
+  "checked": 500,
+  "brokenCount": 14,
+  "broken": [
+   {
+    "url": "https://www.hackney.gov.uk/cs-evidence-base",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/cs-evidence-base",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://www.queenelizabetholympicpark.co.uk/planning-authority",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-inspectors-examination-documents.zip",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-councils-examination-documents.zip",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-respondents-hearing-statements.zip",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-councils-hearing-statement.zip",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-previous-stages-key-documents-reg19.zip",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-public-participation-stage-reg18.zip",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-publication_version-supporting-docs-reg19.zip",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-representations-to-public-participation-stage-reg18.zip",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://hackneyjsna.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "http://www.offcentre.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_SOCKET",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "plain-language": 25,
+  "resources": 46,
+  "images": 46,
+  "link-check": 46,
+  "alfa": 17,
+  "standards": 29,
+  "performance-resources": 15,
+  "tech": 8,
+  "sustainability": 5,
+  "public-interest": 6,
+  "deprecated-html": 5,
+  "security": 10,
+  "lighthouse": 6,
+  "third-party": 14
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T18:59:56.477Z"
+}
