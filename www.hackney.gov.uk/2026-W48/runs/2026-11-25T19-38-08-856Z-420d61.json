@@ -1,0 +1,158 @@
+{
+ "runId": "2026-11-25T19-38-08-856Z-420d61",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T19:38:09.935Z",
+ "scanned": [
+  "bd117f05d3faa462",
+  "ff19ce2e2638d463",
+  "d30f82f3f305d7a8",
+  "d0fb3ed0961508f7",
+  "9c05a4f919d355a9",
+  "d044a3a7f259d4d5",
+  "2e33436b092d3469",
+  "3c324f856c2a5881",
+  "6d987a7cfa658649",
+  "00ce3875ea4b73d2",
+  "7b5efa9a2164127b",
+  "cd24a7d0c87a24c9",
+  "2fbaf2ed128d5468",
+  "c2ae4f6eb06fcf4f",
+  "5944e849169c455d",
+  "3becedc3febc6011",
+  "a8bfeacfa2e25c95",
+  "6e6999d31464328b",
+  "f95ca137abfeb2cf",
+  "d0ddab9af2cdd6a1",
+  "a2dd07ab94460bcc",
+  "eb5489d69ed628a6",
+  "b60166fabde8b570",
+  "d584dec03a37fb42",
+  "0378f1c084093130",
+  "e33217b1f476079d",
+  "16c9693d8ad56fba",
+  "e7de461245778747",
+  "e6d473d81efe5db8",
+  "df62cf12bee141e1",
+  "73e3b2b79c241d9d",
+  "be694e79918f8a6f",
+  "c5c235eb467993cb",
+  "31bc9eb78a9f6a82",
+  "3c541c06d29f7520",
+  "356ee5b2a37c0551",
+  "5a39b6c76a76c5df",
+  "67ac86580d141c24",
+  "bc0ebdfc6e6cfb45",
+  "98b879e7da74b860",
+  "436ec31db808c299",
+  "6bfb45e009949c7c",
+  "bb06c7c498d3d819",
+  "d6ab5d179731ec0a",
+  "bfcfe155ab8fe643",
+  "0b9057e674c55895",
+  "9fddafea454e356d"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 444,
+  "checked": 444,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "http://www.hackneycityfarm.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/allotments-and-growing-foods",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/haggerston-park"
+    ]
+   },
+   {
+    "url": "http://www.map.hackney.gov.uk/LBHackneymap/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/water-quality"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/parkside-estate"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "performance-resources": 13,
+  "axe": 47,
+  "alfa": 23,
+  "plain-language": 29,
+  "resources": 47,
+  "images": 47,
+  "standards": 22,
+  "third-party": 12,
+  "link-check": 47,
+  "deprecated-html": 6,
+  "security": 5,
+  "sustainability": 7,
+  "tech": 4,
+  "lighthouse": 6,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T19:45:20.283Z"
+}
