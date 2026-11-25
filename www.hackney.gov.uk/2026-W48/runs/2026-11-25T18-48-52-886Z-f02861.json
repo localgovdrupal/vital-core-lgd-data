@@ -1,0 +1,197 @@
+{
+ "runId": "2026-11-25T18-48-52-886Z-f02861",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T18:48:54.927Z",
+ "scanned": [
+  "7190917f88bf2a18",
+  "f4c8c28a605f3dcd",
+  "f9440894e15de444",
+  "0289046540353e43",
+  "04b3418dba70d8e7",
+  "bfae1f8b357913ce",
+  "bf4baed6866a4c95",
+  "b19ed7f8f66e0b29",
+  "e2b0809c09be8366",
+  "1ce74f85d746baba",
+  "38c9a14a1003dff7",
+  "4fa79281a2c0634f",
+  "26d10bf26eddcbd3",
+  "2cd0409e160bb1a2",
+  "01cdaa7dae179a2f",
+  "b488ccebde5f1372",
+  "a45e3843b088342e",
+  "ebedaf4cfbbf79dc",
+  "174a741dce1858fe",
+  "1dc3363a77653e94",
+  "81659f72e137be94",
+  "b894c2ca35fb6958",
+  "7ba98c26ce5252a4",
+  "3c880a788899bd9a",
+  "6d90558454b3f1b7",
+  "2864a3bb46ac6ebd",
+  "82302b853e32bc46",
+  "7aad26476f9d066d",
+  "06bf243e6ce95cb3",
+  "d257a8c68d8ee673",
+  "c9cfd68c9c97893c",
+  "f90e61188b6510c6",
+  "0365f7713ac17c78",
+  "3d3a6ccc001b96cc",
+  "a02e5a6750c87f25",
+  "a177921473748e86",
+  "d94d6a5b105adc29",
+  "cf03f1ad31bf7419",
+  "dbcdb69893611383",
+  "00d2b4fe5b132fab",
+  "1acf52a3af840fcf",
+  "e00ff43395b29dcb",
+  "e39b354045a81808",
+  "5e3d9efdbbd4bdbc",
+  "4549681f4a497713",
+  "85d62bec1cadcd97",
+  "e647cd13309ce507"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 595,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "http://www.metoffice.gov.uk/weather/uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "http://www.metoffice.gov.uk/public/weather/cold-weather-alert/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "http://www.nhs.uk/Livewell/Winterhealth/Pages/Winterhealthhome.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "https://bsky.app/profile/greenerhackney.bsky.social",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle/repair-events-and-clothes-swaps"
+    ]
+   },
+   {
+    "url": "http://www.event-insurance-online.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/get-involved-your-community/street-parties-or-large-or-commercial-events"
+    ]
+   },
+   {
+    "url": "https://onedigital.hackney.gov.uk/publicaccesslive/selfservice/citizenportal/registration.htm?_flowId=citizenportal%2Fregistration&_flowExecutionKey=e1s1",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/private-tenants-and-landlords/private-tenants/help-private-sector-tenants"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/mgCalendarMonthView.aspx?GL=1&bcr=1",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/local-plan-2033-lp33"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "performance-resources": 9,
+  "axe": 45,
+  "alfa": 27,
+  "resources": 45,
+  "images": 45,
+  "standards": 22,
+  "link-check": 45,
+  "plain-language": 22,
+  "tech": 4,
+  "security": 6,
+  "lighthouse": 8,
+  "third-party": 10,
+  "sustainability": 3,
+  "deprecated-html": 3,
+  "public-interest": 4
+ },
+ "tally": {
+  "ok": 45,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T18:56:54.573Z"
+}
