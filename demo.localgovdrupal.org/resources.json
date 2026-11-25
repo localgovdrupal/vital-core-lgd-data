@@ -1,0 +1,59 @@
+{
+ "domain": "demo.localgovdrupal.org",
+ "updatedAt": "2026-11-25T21:57:53.214Z",
+ "resources": {
+  "https://demo.localgovdrupal.org/media/oembed?url=https%3A//www.youtube.com/watch%3Fv%3DlaeSrozbdb0&max_width=0&max_height=0&hash=gMppm506NgbGzRXZOOrCLRK6cdO8kUmO13ZmpuIS9jc": {
+   "type": "embedded-media",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 2,
+   "lastExamplePages": [
+    "https://demo.localgovdrupal.org/test-subsite-demo-all-components/video-page",
+    "https://demo.localgovdrupal.org/test-subsite-demo-all-components"
+   ]
+  },
+  "https://www.croydon.gov.uk/sites/default/files/2021-04/MSS%20leaflet%20to%20couples%20Croydon%20v3.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/electronic-marriage-register"
+   ]
+  },
+  "https://demo.localgovdrupal.org/media/oembed?url=https%3A//www.youtube.com/watch%3Fv%3DE_0_YojAiGs%26list%3DPLibxxY4DUV2pf70Py14VEbOeQUtgPXKAn%26index%3D12&max_width=0&max_height=0&hash=bJVlwvxIN_0HKGqqP7vXErWzYZ2ruChx-BpNAcG8GCw": {
+   "type": "embedded-media",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://demo.localgovdrupal.org/publications/publications-cover-page-demo-content/petitions-scheme-publications-demo-content"
+   ]
+  },
+  "https://demo.localgovdrupal.org/sites/default/files/2021-05/TestPDF_3.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://demo.localgovdrupal.org/test-subsite-demo-all-components/test-pages-documents"
+   ]
+  }
+ }
+}

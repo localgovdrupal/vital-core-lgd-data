@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-24T00:18:25.937Z",
+ "updatedAt": "2026-11-25T21:57:45.611Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -121,7 +121,8 @@
    ],
    "weeksBroken": 4,
    "foundOn": [
-    "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-3"
+    "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-3",
+    "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre"
    ]
   },
   "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcarersuk.org%2Fnews-and-campaigns%2Four-campaigns%2Fcarers-rights-day&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7C814425bad26a43b6d24408de278462b6%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638991646703290359%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Ld%2FP5HDoEaoiFkUtaZTznvd%2FsTe3nm5yDxsX3x4X7e4%3D&reserved=0": {
@@ -1974,6 +1975,58 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/wellbeing-directory/absolute-aba-uk-ltd-applied-behavioural-analysis-therapy-children-additional"
+   ]
+  },
+  "https://forms.walsall.gov.uk/Taxi-Payments": {
+   "status": 999,
+   "reason": "HTTP 999",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/pay"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.walsallcouncilwebcasts.com%2F&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Cfd917ced9878472ebd3a08df149091f8%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639252283330446085%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xC2pfm20mZQfBlbWSgMowQ2FDoLM7js6h887eXK2nZI%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/cabinet-approves-consultation-proposed-changes-council-tax-reduction-scheme"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.blackcountryhealthcare.nhs.uk%2Fnews-events-1%2Flatest-news%2Fnew-gbp243m-mental-health-unit-opens-dorothy-pattison-hospital%23%3A~%3Atext%3DNew%2520%25C2%25A324.3m%2520Mental%2520Health%2520Unit%2520Opens%2520at%2520Dorothy%2520Pattison%2520Hospital%2C-Published%2520on%253A%25206%26text%3DA%2520brand-new%252C%2520purpose-%2Cdelivered%2520across%2520the%2520Black%2520Country&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C079ec4562199439ba71108dd49df6c81%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638747946117321234%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=t2JrWyzzYGTDdWdk2SYD5%2FxOiTNvMGHWIYbRIDr2qr0%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/councils-response-opening-new-ps243m-mental-health-unit"
+   ]
+  },
+  "https://www.rethink.org/help-in-your-area/services/community-support/sanctuary-community-mental-health-service-walsall/?gad_source=1&gad_campaignid=1527282847&gclid=CjwKCAjwqonVBhA4EiwA9wYJ3RPYe0EWl9c5GeqXikmjJV2nz-ysMfswrafJC2fke_Apc5hWxvZx0hoCgyEQAvD_BwE": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/domestic-abuse-victims-die-suspected-suicide-more-homicide-warns-safer-walsall-partnership"
    ]
   }
  }

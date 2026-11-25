@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "www.luton.gov.uk",
- "updated_at": "2026-11-25T14:44:51.703Z",
+ "updated_at": "2026-11-25T21:57:51.196Z",
  "urls": {
   "000006faad3d4606": {
    "page_id": "000006faad3d4606",
@@ -1444,8 +1444,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:42:25.316Z"
   },
   "0007fb6c53917d09": {
    "page_id": "0007fb6c53917d09",
@@ -6881,8 +6882,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T15:04:55.410Z"
   },
   "00287a10b76b7e7b": {
    "page_id": "00287a10b76b7e7b",
@@ -44111,8 +44113,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:45:19.984Z"
   },
   "00feb96d0449bba5": {
    "page_id": "00feb96d0449bba5",
@@ -66922,8 +66925,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T16:26:54.547Z"
   },
   "017ecd532ed2635a": {
    "page_id": "017ecd532ed2635a",
@@ -103246,8 +103250,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T16:32:42.794Z"
   },
   "0253fca8b5bdfd81": {
    "page_id": "0253fca8b5bdfd81",
@@ -135031,8 +135036,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T15:07:50.229Z"
   },
   "030cf4b57bc74ff7": {
    "page_id": "030cf4b57bc74ff7",
@@ -170346,8 +170352,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:53:11.451Z"
   },
   "03d72358cb2eda6e": {
    "page_id": "03d72358cb2eda6e",
@@ -170801,8 +170808,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:32:20.827Z"
   },
   "03d9f91d30bc159d": {
    "page_id": "03d9f91d30bc159d",
@@ -174521,8 +174529,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T13:42:49.402Z"
   },
   "03ef0647be5daa51": {
    "page_id": "03ef0647be5daa51",
@@ -252523,8 +252532,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T15:08:39.087Z"
   },
   "05aed713bb07a6f4": {
    "page_id": "05aed713bb07a6f4",
@@ -277841,8 +277851,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T15:06:34.072Z"
   },
   "063ce9e74ad9a955": {
    "page_id": "063ce9e74ad9a955",
@@ -320599,8 +320610,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:46:48.178Z"
   },
   "073ad5e0a20cc1cd": {
    "page_id": "073ad5e0a20cc1cd",
@@ -342877,14 +342889,15 @@
    "page_id": "07b7a346620a8f70",
    "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A158&f%5B1%5D=localgov_directories_facets%3A168&f%5B2%5D=localgov_directories_facets%3A199&f%5B3%5D=localgov_directories_facets%3A210&f%5B4%5D=localgov_directories_facets%3A248&f%5B5%5D=localgov_directories_facets%3A278",
    "first_discovered_at": "2026-11-06T12:22:23.674Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-25T18:07:14.061Z",
+   "last_success_at": "2026-11-25T18:07:14.061Z",
+   "last_status": 200,
+   "last_week": "2026-W48",
+   "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T18:07:14.061Z"
   },
   "07b7ac40b12756c5": {
    "page_id": "07b7ac40b12756c5",
@@ -343494,8 +343507,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T15:05:00.998Z"
   },
   "07ba9f14f211aa7c": {
    "page_id": "07ba9f14f211aa7c",
@@ -368888,8 +368902,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:25:32.230Z"
   },
   "0858c261ae968196": {
    "page_id": "0858c261ae968196",
@@ -393849,8 +393864,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:28:40.106Z"
   },
   "08e2b48f4c47e076": {
    "page_id": "08e2b48f4c47e076",
@@ -435460,14 +435476,15 @@
    "page_id": "09d3d49dcf32f20a",
    "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A122&f%5B1%5D=localgov_directories_facets%3A133&f%5B2%5D=localgov_directories_facets%3A264",
    "first_discovered_at": "2026-11-21T17:41:05.023Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-25T17:59:06.919Z",
+   "last_success_at": "2026-11-25T17:59:06.919Z",
+   "last_status": 200,
+   "last_week": "2026-W48",
+   "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T17:59:06.919Z"
   },
   "09d3f6f853e7a915": {
    "page_id": "09d3f6f853e7a915",
@@ -448203,8 +448220,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:26:50.275Z"
   },
   "0a1aa1b8fb33e758": {
    "page_id": "0a1aa1b8fb33e758",
@@ -453445,8 +453463,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:32:55.905Z"
   },
   "0a37b4752a6b78a9": {
    "page_id": "0a37b4752a6b78a9",
@@ -490028,14 +490047,15 @@
    "page_id": "0b08ff49d7c5cf27",
    "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A128&f%5B1%5D=localgov_directories_facets%3A166&f%5B2%5D=localgov_directories_facets%3A167&f%5B3%5D=localgov_directories_facets%3A191&f%5B4%5D=localgov_directories_facets%3A195&f%5B5%5D=localgov_directories_facets%3A209&f%5B6%5D=localgov_directories_facets%3A211&f%5B7%5D=localgov_directories_facets%3A237",
    "first_discovered_at": "2026-11-11T10:56:29.347Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-25T18:01:09.749Z",
+   "last_success_at": "2026-11-25T18:01:09.749Z",
+   "last_status": 200,
+   "last_week": "2026-W48",
+   "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T18:01:09.749Z"
   },
   "0b091774fd8fe2a9": {
    "page_id": "0b091774fd8fe2a9",
@@ -493066,8 +493086,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T16:32:09.508Z"
   },
   "0b1adee776df3693": {
    "page_id": "0b1adee776df3693",
@@ -510523,8 +510544,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T18:55:36.311Z"
   },
   "0b7eaec04b3ef180": {
    "page_id": "0b7eaec04b3ef180",
@@ -525799,8 +525821,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T13:39:03.620Z"
   },
   "0bdd63466e820285": {
    "page_id": "0bdd63466e820285",
@@ -526722,8 +526745,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:29:33.708Z"
   },
   "0be2864473d8cb50": {
    "page_id": "0be2864473d8cb50",
@@ -551907,8 +551931,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:50:56.403Z"
   },
   "0c736e4529669bab": {
    "page_id": "0c736e4529669bab",
@@ -580979,8 +581004,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T16:30:13.327Z"
   },
   "0d17400610b7b9b1": {
    "page_id": "0d17400610b7b9b1",
@@ -606953,8 +606979,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:48:07.670Z"
   },
   "0daf301f5cab3871": {
    "page_id": "0daf301f5cab3871",
@@ -627879,8 +627906,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T13:40:09.561Z"
   },
   "0e2b6bab61bae654": {
    "page_id": "0e2b6bab61bae654",
@@ -630289,8 +630317,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T18:53:44.638Z"
   },
   "0e394122af612039": {
    "page_id": "0e394122af612039",
@@ -657607,14 +657636,15 @@
    "page_id": "0ed63db544e5d6e5",
    "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A188&f%5B1%5D=localgov_directories_facets%3A221&f%5B2%5D=localgov_directories_facets%3A231&f%5B3%5D=localgov_directories_facets%3A241&f%5B4%5D=localgov_directories_facets%3A254&f%5B5%5D=localgov_directories_facets%3A263&f%5B6%5D=localgov_directories_facets%3A275&f%5B7%5D=localgov_directories_facets%3A282",
    "first_discovered_at": "2026-10-31T08:49:35.202Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-25T19:42:11.600Z",
+   "last_success_at": "2026-11-25T19:42:11.600Z",
+   "last_status": 200,
+   "last_week": "2026-W48",
+   "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T19:42:11.600Z"
   },
   "0ed646e7151718b3": {
    "page_id": "0ed646e7151718b3",
@@ -710982,14 +711012,15 @@
    "page_id": "100925c8c74a5150",
    "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A179&f%5B2%5D=localgov_directories_facets%3A204&f%5B3%5D=localgov_directories_facets%3A209&f%5B4%5D=localgov_directories_facets%3A224&f%5B5%5D=localgov_directories_facets%3A242&f%5B6%5D=localgov_directories_facets%3A266&f%5B7%5D=localgov_directories_facets%3A281",
    "first_discovered_at": "2026-11-17T13:45:48.058Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-25T19:41:55.627Z",
+   "last_success_at": "2026-11-25T19:41:55.627Z",
+   "last_status": 200,
+   "last_week": "2026-W48",
+   "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T19:41:55.627Z"
   },
   "10093fa7ffe0440c": {
    "page_id": "10093fa7ffe0440c",
@@ -733672,8 +733703,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T13:37:21.426Z"
   },
   "108d5ebadd907a81": {
    "page_id": "108d5ebadd907a81",
@@ -735155,8 +735187,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T16:29:08.948Z"
   },
   "109584d4a200e33c": {
    "page_id": "109584d4a200e33c",
@@ -876395,8 +876428,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:46:18.491Z"
   },
   "13bab09972a073a1": {
    "page_id": "13bab09972a073a1",
@@ -994882,8 +994916,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T16:27:35.338Z"
   },
   "166492b77e654ab6": {
    "page_id": "166492b77e654ab6",
@@ -1006326,8 +1006361,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:43:37.973Z"
   },
   "16a22c0000267e8b": {
    "page_id": "16a22c0000267e8b",
@@ -1013160,14 +1013196,15 @@
    "page_id": "16cde356ac7c8a26",
    "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A144&f%5B1%5D=localgov_directories_facets%3A179&f%5B2%5D=localgov_directories_facets%3A193&f%5B3%5D=localgov_directories_facets%3A213&f%5B4%5D=localgov_directories_facets%3A218&f%5B5%5D=localgov_directories_facets%3A269&f%5B6%5D=localgov_directories_facets%3A274",
    "first_discovered_at": "2026-11-15T15:04:41.643Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-25T19:42:25.725Z",
+   "last_success_at": "2026-11-25T19:42:25.725Z",
+   "last_status": 200,
+   "last_week": "2026-W48",
+   "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T19:42:25.725Z"
   },
   "16cdedb760bbd048": {
    "page_id": "16cdedb760bbd048",
@@ -1028623,8 +1028660,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:48:27.128Z"
   },
   "17253c9b93d16394": {
    "page_id": "17253c9b93d16394",
@@ -1037651,8 +1037689,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:47:17.895Z"
   },
   "175b1f1a12346412": {
    "page_id": "175b1f1a12346412",
@@ -1076845,8 +1076884,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:51:49.786Z"
   },
   "183c8e70aacad650": {
    "page_id": "183c8e70aacad650",
@@ -1127360,8 +1127400,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T15:02:24.883Z"
   },
   "1963a1980b8746e8": {
    "page_id": "1963a1980b8746e8",
@@ -1131536,8 +1131577,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:00:46.981Z"
   },
   "197ca0ca6ea8d612": {
    "page_id": "197ca0ca6ea8d612",
@@ -1135179,8 +1135221,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:45:48.371Z"
   },
   "1992541d8e2d0122": {
    "page_id": "1992541d8e2d0122",
@@ -1139733,8 +1139776,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:43:14.135Z"
   },
   "19acb58ef8e41dbb": {
    "page_id": "19acb58ef8e41dbb",
@@ -1167481,8 +1167525,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:46:44.919Z"
   },
   "1a47bfa687f47df9": {
    "page_id": "1a47bfa687f47df9",
@@ -1245519,8 +1245564,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:29:46.301Z"
   },
   "1c0ab6d37fb6e4bc": {
    "page_id": "1c0ab6d37fb6e4bc",
@@ -1260852,14 +1260898,15 @@
    "page_id": "1c61949b28b8f2f5",
    "url": "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A137&f%5B3%5D=localgov_directories_facets%3A148&f%5B4%5D=localgov_directories_facets%3A175&f%5B5%5D=localgov_directories_facets%3A203&f%5B6%5D=localgov_directories_facets%3A225&f%5B7%5D=localgov_directories_facets%3A237&f%5B8%5D=localgov_directories_facets%3A280",
    "first_discovered_at": "2026-11-19T11:18:23.147Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-25T19:42:51.361Z",
+   "last_success_at": "2026-11-25T19:42:51.361Z",
+   "last_status": 200,
+   "last_week": "2026-W48",
+   "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T19:42:51.361Z"
   },
   "1c619dc9f1a1b3ef": {
    "page_id": "1c619dc9f1a1b3ef",
@@ -1275091,8 +1275138,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:46:05.004Z"
   },
   "1cb23cbe41b8c9d8": {
    "page_id": "1cb23cbe41b8c9d8",

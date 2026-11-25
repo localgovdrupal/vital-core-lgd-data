@@ -1,0 +1,162 @@
+{
+ "domain": "demo.localgovdrupal.org",
+ "updatedAt": "2026-11-25T21:57:53.214Z",
+ "links": {
+  "http://directory.mindincroydon.org.uk/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/mental-health-support"
+   ]
+  },
+  "https://www.croydonhealthservices.nhs.uk/patient-advice-and-liaison-pals/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/mental-health-support"
+   ]
+  },
+  "https://croydon.zipporah.co.uk/Registrars.Croydon/CertificateProcess": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/order-copy-certificate/order-copy-certificate"
+   ]
+  },
+  "https://www.yourcare.org.uk/": {
+   "status": 0,
+   "reason": "EAI_AGAIN",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/support-your-home/home-monitoring-and-personal-alarms"
+   ]
+  },
+  "https://demo.localgovdrupal.org/libraries-leisure-and-culture/z-sports-and-activities/basketball": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/libraries-leisure-and-culture/z-sports-and-activities"
+   ]
+  },
+  "https://demo.localgovdrupal.org/node/22/travel-passes-and-support/blue-badges/example@example.com": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/node/22/travel-passes-and-support/blue-badges/apply-blue-badge"
+   ]
+  },
+  "https://nationalcareers.service.gov.uk/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/national-careers-service"
+   ]
+  },
+  "https://lbc-app-w-corpwebsite-p.azurewebsites.net/births-deaths-marriages-and-citizenship/contact-croydon-register-office": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/remove-wrong-fathers-details"
+   ]
+  },
+  "https://demo.localgovdrupal.org/adult-health-and-social-care/support-your-home/node/4": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/support-your-home/occupational-therapy-and-equipment-helping-you-stay-home"
+   ]
+  },
+  "https://www.lbhf.gov.uk/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/hammersmith-and-fulham-council"
+   ]
+  },
+  "https://demo.localgovdrupal.org/adult-health-and-social-care/step-by-step/request-support-adult-step-step/example@example.com": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/step-by-step/request-support-adult-step-step/contact-support-team"
+   ]
+  },
+  "https://test.com/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://demo.localgovdrupal.org/adult-health-and-social-care"
+   ]
+  }
+ }
+}

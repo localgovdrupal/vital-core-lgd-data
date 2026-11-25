@@ -1,0 +1,448 @@
+{
+ "domain": "demo.localgovdrupal.org",
+ "updatedAt": "2026-11-25T21:57:53.214Z",
+ "findings": {
+  "VS-179ad9b3": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r113",
+   "summary": "Target size is at least 24×24 CSS pixels or has spacing (Minimum) (WCAG 2.5.8)",
+   "wcag": "2.5.8",
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 7,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=0",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?page=1",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A8&f%5B1%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=1",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&f%5B2%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&f%5B2%5D=localgov_directories_facets%3A9&page=1"
+   ]
+  },
+  "VS-29f9f921": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r12",
+   "summary": "Button has accessible name (WCAG 4.1.2)",
+   "wcag": "4.1.2",
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 8,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/london-councils",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/croydon-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/cumbria-county-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/westminster-city-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/lambeth-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/annertech",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/bracknell-forest-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/zoocha"
+   ]
+  },
+  "VS-646b1e0b": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r66",
+   "summary": "Text has enhanced contrast (WCAG 1.4.6)",
+   "wcag": "1.4.6",
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 82,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/national-careers-service",
+    "https://demo.localgovdrupal.org/national-parks-uk/loch-lomond-and-trossachs",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/localgov_topic/garden-waste",
+    "https://demo.localgovdrupal.org/national-parks-uk?f%5B0%5D=localgov_directories_facets%3A4",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=0",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/careers-service-northern-ireland",
+    "https://demo.localgovdrupal.org/events?page=1&start=2026-11-23",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8",
+    "https://demo.localgovdrupal.org/fostering",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?page=1",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/london-councils",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A8&f%5B1%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory?f%5B0%5D=localgov_directories_facets%3A2&f%5B1%5D=localgov_directories_facets%3A6&f%5B2%5D=localgov_directories_facets%3A7",
+    "https://demo.localgovdrupal.org/fostering/types-fostering",
+    "https://demo.localgovdrupal.org/node/22/travel-passes-and-support/blue-badges/apply-blue-badge",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory",
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/marriage-and-civil-partnerships/step-by-step/get-married-or-form-civil-partnership-step-step",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&facets_query=",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/croydon-council",
+    "https://demo.localgovdrupal.org/publications/publications-cover-page-demo-content/petitions-scheme-publications-demo-content/principles",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/cumbria-county-council",
+    "https://demo.localgovdrupal.org/test-subsite-demo-all-components/video-page",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=1"
+   ]
+  },
+  "VS-cb53cc4d": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r111",
+   "summary": "Target size is at least 44×44 CSS pixels (Enhanced) (WCAG 2.5.5)",
+   "wcag": "2.5.5",
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 82,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/national-careers-service",
+    "https://demo.localgovdrupal.org/national-parks-uk/loch-lomond-and-trossachs",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/localgov_topic/garden-waste",
+    "https://demo.localgovdrupal.org/national-parks-uk?f%5B0%5D=localgov_directories_facets%3A4",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=0",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/careers-service-northern-ireland",
+    "https://demo.localgovdrupal.org/events?page=1&start=2026-11-23",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8",
+    "https://demo.localgovdrupal.org/fostering",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?page=1",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/london-councils",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A8&f%5B1%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory?f%5B0%5D=localgov_directories_facets%3A2&f%5B1%5D=localgov_directories_facets%3A6&f%5B2%5D=localgov_directories_facets%3A7",
+    "https://demo.localgovdrupal.org/fostering/types-fostering",
+    "https://demo.localgovdrupal.org/node/22/travel-passes-and-support/blue-badges/apply-blue-badge",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory",
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/marriage-and-civil-partnerships/step-by-step/get-married-or-form-civil-partnership-step-step",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&facets_query=",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/croydon-council",
+    "https://demo.localgovdrupal.org/publications/publications-cover-page-demo-content/petitions-scheme-publications-demo-content/principles",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/cumbria-county-council",
+    "https://demo.localgovdrupal.org/test-subsite-demo-all-components/video-page",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=1"
+   ]
+  },
+  "VS-f18df681": {
+   "engine": "axe-core",
+   "ruleId": "region",
+   "summary": "All page content should be contained by landmarks (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Serious",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 164,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/national-careers-service",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory?f%5B0%5D=localgov_directories_facets%3A2&f%5B1%5D=localgov_directories_facets%3A6",
+    "https://demo.localgovdrupal.org/events/st-patricks-festival",
+    "https://demo.localgovdrupal.org/national-parks-uk/pembrokeshire-coast",
+    "https://demo.localgovdrupal.org/publications/publications-cover-page-demo-content/petitions-scheme-publications-demo-content/what-excluded-petition-scheme",
+    "https://demo.localgovdrupal.org/node/22/travel-passes-and-support/blue-badges/report-changes-lost-or-stolen-badges",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/status/test-service-has-some-problems",
+    "https://demo.localgovdrupal.org/national-parks-uk/loch-lomond-and-trossachs",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/localgov_topic/garden-waste",
+    "https://demo.localgovdrupal.org/national-parks-uk?f%5B0%5D=localgov_directories_facets%3A4",
+    "https://demo.localgovdrupal.org/node/26/z-sports-and-activities/basketball",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=date%3A2021",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=0",
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/status/registry-office-closed-until-further-notice",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/careers-service-northern-ireland",
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/re-register-child-born-female-parents",
+    "https://demo.localgovdrupal.org/events?page=1&start=2026-11-23",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8",
+    "https://demo.localgovdrupal.org/fostering",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?page=1",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/london-councils",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A8&f%5B1%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory?f%5B0%5D=localgov_directories_facets%3A2&f%5B1%5D=localgov_directories_facets%3A6&f%5B2%5D=localgov_directories_facets%3A7"
+   ]
+  },
+  "VS-7118fead": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r61",
+   "summary": "Page starts with a level 1 heading (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 82,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/national-careers-service",
+    "https://demo.localgovdrupal.org/national-parks-uk/loch-lomond-and-trossachs",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/localgov_topic/garden-waste",
+    "https://demo.localgovdrupal.org/national-parks-uk?f%5B0%5D=localgov_directories_facets%3A4",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=0",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/careers-service-northern-ireland",
+    "https://demo.localgovdrupal.org/events?page=1&start=2026-11-23",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8",
+    "https://demo.localgovdrupal.org/fostering",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?page=1",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/london-councils",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A8&f%5B1%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory?f%5B0%5D=localgov_directories_facets%3A2&f%5B1%5D=localgov_directories_facets%3A6&f%5B2%5D=localgov_directories_facets%3A7",
+    "https://demo.localgovdrupal.org/fostering/types-fostering",
+    "https://demo.localgovdrupal.org/node/22/travel-passes-and-support/blue-badges/apply-blue-badge",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory",
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/marriage-and-civil-partnerships/step-by-step/get-married-or-form-civil-partnership-step-step",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&facets_query=",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/croydon-council",
+    "https://demo.localgovdrupal.org/publications/publications-cover-page-demo-content/petitions-scheme-publications-demo-content/principles",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/cumbria-county-council",
+    "https://demo.localgovdrupal.org/test-subsite-demo-all-components/video-page",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=1"
+   ]
+  },
+  "VS-c18be945": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r57",
+   "summary": "Text is included in a landmark (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 82,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/national-careers-service",
+    "https://demo.localgovdrupal.org/national-parks-uk/loch-lomond-and-trossachs",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/localgov_topic/garden-waste",
+    "https://demo.localgovdrupal.org/national-parks-uk?f%5B0%5D=localgov_directories_facets%3A4",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=0",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/careers-service-northern-ireland",
+    "https://demo.localgovdrupal.org/events?page=1&start=2026-11-23",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8",
+    "https://demo.localgovdrupal.org/fostering",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?page=1",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/london-councils",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A8&f%5B1%5D=localgov_directories_facets%3A9",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory?f%5B0%5D=localgov_directories_facets%3A2&f%5B1%5D=localgov_directories_facets%3A6&f%5B2%5D=localgov_directories_facets%3A7",
+    "https://demo.localgovdrupal.org/fostering/types-fostering",
+    "https://demo.localgovdrupal.org/node/22/travel-passes-and-support/blue-badges/apply-blue-badge",
+    "https://demo.localgovdrupal.org/adult-health-and-social-care/money-employment-and-training-directory",
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/marriage-and-civil-partnerships/step-by-step/get-married-or-form-civil-partnership-step-step",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&facets_query=",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/croydon-council",
+    "https://demo.localgovdrupal.org/publications/publications-cover-page-demo-content/petitions-scheme-publications-demo-content/principles",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/cumbria-county-council",
+    "https://demo.localgovdrupal.org/test-subsite-demo-all-components/video-page",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators?f%5B0%5D=localgov_directories_facets%3A5&f%5B1%5D=localgov_directories_facets%3A8&page=1"
+   ]
+  },
+  "VS-d25f622d": {
+   "engine": "axe-core",
+   "ruleId": "heading-order",
+   "summary": "Heading levels should only increase by one (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 30,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/national-careers-service",
+    "https://demo.localgovdrupal.org/localgov_topic/garden-waste",
+    "https://demo.localgovdrupal.org/node/26/z-sports-and-activities/basketball",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=date%3A2021",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/events?page=1&start=2026-11-23",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&facets_query=",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=category%3A8&f%5B2%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/marriage-and-civil-partnerships/step-by-step/get-married-or-form-civil-partnership-step-step/information-you",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A8&f%5B1%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/events?page=2&start=2026-11-23",
+    "https://demo.localgovdrupal.org/news/search",
+    "https://demo.localgovdrupal.org/events?page=3&start=2026-11-23",
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/get-online-home",
+    "https://demo.localgovdrupal.org/news/search?facets_query=",
+    "https://demo.localgovdrupal.org/localgov_topic/parks-and-gardens",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A8&f%5B1%5D=date%3A2021",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=date%3A2021",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=category%3A8",
+    "https://demo.localgovdrupal.org/fostering/top-myths-about-fostering",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=category%3A8&facets_query=",
+    "https://demo.localgovdrupal.org/events",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A8",
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/marriage-and-civil-partnerships/step-by-step/get-married-or-form-civil-partnership-step-step/planning-your"
+   ]
+  },
+  "VS-f054f4a4": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r53",
+   "summary": "Headings are structured hierarchically (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 17,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/national-careers-service",
+    "https://demo.localgovdrupal.org/localgov_topic/garden-waste",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/events?page=1&start=2026-11-23",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&facets_query=",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A8&f%5B1%5D=date%3A2021&facets_query=",
+    "https://demo.localgovdrupal.org/events?page=2&start=2026-11-23",
+    "https://demo.localgovdrupal.org/events?page=3&start=2026-11-23",
+    "https://demo.localgovdrupal.org/news/search?facets_query=",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=date%3A2021",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=category%3A8&facets_query=",
+    "https://demo.localgovdrupal.org/events",
+    "https://demo.localgovdrupal.org/births-deaths-marriages-and-citizenship/marriage-and-civil-partnerships/step-by-step/get-married-or-form-civil-partnership-step-step/planning-your",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A7&f%5B1%5D=category%3A8&f%5B2%5D=date%3A2021",
+    "https://demo.localgovdrupal.org/libraries-leisure-and-culture/z-sports-and-activities",
+    "https://demo.localgovdrupal.org/news/search?f%5B0%5D=category%3A8&facets_query="
+   ]
+  },
+  "VS-fa44f293": {
+   "engine": "axe-core",
+   "ruleId": "page-has-heading-one",
+   "summary": "Page should contain a level-one heading (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 3,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/fostering",
+    "https://demo.localgovdrupal.org/localgov-drupal-demo",
+    "https://demo.localgovdrupal.org/test-subsite-demo-all-components"
+   ]
+  },
+  "VS-2cd767ca": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r78",
+   "summary": "There is content between headings (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/node/22/money-employment-and-training-directory/national-careers-service"
+   ]
+  },
+  "VS-4fac2f41": {
+   "engine": "axe-core",
+   "ruleId": "aria-allowed-role",
+   "summary": "ARIA role should be appropriate for the element (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Minor",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 15,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/events/st-patricks-festival",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/london-councils",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/brighton-hove-city-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/waltham-forest-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/croydon-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/cumbria-county-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/hammersmith-and-fulham-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/westminster-city-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/lambeth-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/agile-collective",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/annertech",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/royal-borough-kensington-and-chelsea",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/bracknell-forest-council",
+    "https://demo.localgovdrupal.org/events/sports-player-year-awards-2022",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/zoocha"
+   ]
+  },
+  "VS-096684ad": {
+   "engine": "axe-core",
+   "ruleId": "presentation-role-conflict",
+   "summary": "Elements marked as presentational should be consistently ignored (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Minor",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 15,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/events/st-patricks-festival",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/london-councils",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/brighton-hove-city-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/waltham-forest-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/croydon-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/cumbria-county-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/hammersmith-and-fulham-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/westminster-city-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/lambeth-council",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/agile-collective",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/annertech",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/royal-borough-kensington-and-chelsea",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/bracknell-forest-council",
+    "https://demo.localgovdrupal.org/events/sports-player-year-awards-2022",
+    "https://demo.localgovdrupal.org/localgov-drupal-collaborators/zoocha"
+   ]
+  },
+  "VS-0066c67d": {
+   "engine": "axe-core",
+   "ruleId": "empty-heading",
+   "summary": "Headings should not be empty (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Minor",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://demo.localgovdrupal.org/publications/publications-cover-page-demo-content/petitions-scheme-publications-demo-content/what-excluded-petition-scheme",
+    "https://demo.localgovdrupal.org/publications/publications-cover-page-demo-content/petitions-scheme-publications-demo-content/guidelines-submission"
+   ]
+  }
+ }
+}
