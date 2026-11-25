@@ -1,0 +1,116 @@
+{
+ "runId": "2026-11-25T14-41-29-814Z-d86aed",
+ "week": "2026-W48",
+ "domain": "www.luton.gov.uk",
+ "canonical": {
+  "origin": "https://www.luton.gov.uk",
+  "configured": "https://www.luton.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T14:41:44.052Z",
+ "scanned": [
+  "3ba9bbab93de851c",
+  "bd7db9ba8807ff34",
+  "170e5231161cbd91",
+  "8e5ba3b52ff68798",
+  "ac9f416602ab4fe3",
+  "cee824b3785bf4dc",
+  "cc6c9e8376cc7d91",
+  "e6f4eb1f89679b61",
+  "73b6c433874ae84e",
+  "ddfefd55dea67cf6",
+  "31f83987409c6075",
+  "eec5cff6a3769624",
+  "259f5a3944a550a0",
+  "0f17df090ae0c8db",
+  "0df6a0cf91343df7",
+  "443fd942165211ae",
+  "004c48d20269b514",
+  "21872a3b1aa42bcd",
+  "434c54e5db7bdaf9",
+  "5ffa85a616e8af1f",
+  "39d3fb91accbed53",
+  "108341acd89102f4",
+  "333a2e3732a0809e",
+  "3c5a5f1b6524ab96",
+  "bcd27ed5f4303761",
+  "a7e82ddf190bc643",
+  "c921be96ab150145",
+  "6a9a6cc67666cd5e",
+  "b344c5626efb4930",
+  "49ec5260f2a0f061",
+  "f50304d2313c63d2",
+  "a7112a3dca926143",
+  "3503fb86bfb70ea5",
+  "ecfc09d9b2612ccd",
+  "7942841e639db876",
+  "817abf9939b24cf2",
+  "faca32bdb06938cc",
+  "cf5db55877c730aa",
+  "99710908fef2a44d",
+  "9582602086738440",
+  "84500ddd8f388899",
+  "6d2c9a744c9bfe07",
+  "d7a2b8d8dee111ab",
+  "88557f1d54a4fa1d",
+  "8430381450d12cd4",
+  "a3fb60783bf58d02",
+  "fe537148e2759e92",
+  "8f20a8fed93e58d4",
+  "826e4e4ae0613f34",
+  "cd4a69ef1fe87481"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "enginesRun": {
+  "sustainability": 7,
+  "performance-resources": 10
+ },
+ "tally": {
+  "ok": 0,
+  "blocked": 50,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T14:44:43.443Z"
+}
