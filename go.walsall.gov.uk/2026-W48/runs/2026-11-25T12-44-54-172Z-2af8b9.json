@@ -1,0 +1,152 @@
+{
+ "runId": "2026-11-25T12-44-54-172Z-2af8b9",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T12:44:55.039Z",
+ "scanned": [
+  "a3860ffeb015c778",
+  "7aebf196c7ff13b3",
+  "36679fe4d5aa09f3",
+  "bac8caeb11751d88",
+  "a4a2b1687f351645",
+  "61d04d68c2c8c9ec",
+  "ef214c67cf665f90",
+  "c14b5044b5c97959",
+  "5fed76957adb896e",
+  "d41d001d0d7d67d6",
+  "de021ab519a4330f",
+  "008c60eb0996cdfe",
+  "565243b4a4784015",
+  "860dd1fe1956a43c",
+  "3cc9928f8a48942a",
+  "8bb3f74f38670c9d",
+  "e75b4b26ede407a1",
+  "77120bfc07298595",
+  "c345ec6490fbad47",
+  "93ff891484cedba2",
+  "32471e47600cd181",
+  "7423450611150b1b",
+  "971a90e03bae7758",
+  "c4c07cebd7d0fc47",
+  "4903912508ce1c55",
+  "96eec17dc25c7e73",
+  "a3dbb6d42514f952",
+  "0f8b648fd5d89492",
+  "ba8548b9ae267fae",
+  "41e8999ec542c837",
+  "cdb7192e561d18fc",
+  "5c5189d70f870738",
+  "bd6171318ede7ea8",
+  "7401e1ddae91f929",
+  "c6e38eb980582c3a",
+  "15fe7483df68e5c9",
+  "b394004f618f3c58",
+  "2c9d98715fe1b760",
+  "bc49ff665c9e6784",
+  "824b0f28548a0a20",
+  "b3da0596cb151fe3",
+  "db7a455bb69ff0a3",
+  "74e65c08d2fd90a0",
+  "b2ea381754e76a4b",
+  "7d7cf2d9caf7e7c5",
+  "98534725e17705b9",
+  "6face20eafbb8a05",
+  "644bff027f0f6602",
+  "ef181e801492493c",
+  "44dcfbef12215109"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1023,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.blackcountryhealthcare.nhs.uk%2Fnews-events-1%2Flatest-news%2Fnew-gbp243m-mental-health-unit-opens-dorothy-pattison-hospital%23%3A~%3Atext%3DNew%2520%25C2%25A324.3m%2520Mental%2520Health%2520Unit%2520Opens%2520at%2520Dorothy%2520Pattison%2520Hospital%2C-Published%2520on%253A%25206%26text%3DA%2520brand-new%252C%2520purpose-%2Cdelivered%2520across%2520the%2520Black%2520Country&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C079ec4562199439ba71108dd49df6c81%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638747946117321234%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=t2JrWyzzYGTDdWdk2SYD5%2FxOiTNvMGHWIYbRIDr2qr0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/councils-response-opening-new-ps243m-mental-health-unit"
+    ]
+   },
+   {
+    "url": "https://www.rethink.org/help-in-your-area/services/community-support/sanctuary-community-mental-health-service-walsall/?gad_source=1&gad_campaignid=1527282847&gclid=CjwKCAjwqonVBhA4EiwA9wYJ3RPYe0EWl9c5GeqXikmjJV2nz-ysMfswrafJC2fke_Apc5hWxvZx0hoCgyEQAvD_BwE",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/domestic-abuse-victims-die-suspected-suicide-more-homicide-warns-safer-walsall-partnership"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 22,
+  "deprecated-html": 6,
+  "resources": 50,
+  "images": 50,
+  "standards": 30,
+  "link-check": 50,
+  "performance-resources": 12,
+  "alfa": 25,
+  "security": 6,
+  "sustainability": 5,
+  "tech": 4,
+  "public-interest": 2,
+  "lighthouse": 5,
+  "third-party": 15
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T13:00:23.187Z"
+}
