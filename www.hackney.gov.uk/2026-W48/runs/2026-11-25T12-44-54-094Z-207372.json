@@ -1,0 +1,151 @@
+{
+ "runId": "2026-11-25T12-44-54-094Z-207372",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T12:44:56.975Z",
+ "scanned": [
+  "eff8dbfaf66a3228",
+  "9aa2c9e35738c3c5",
+  "dc9948a66aac2a1d",
+  "4fc4fe7919d51285",
+  "bd7c7e860773c0e7",
+  "051565b97ba4b417",
+  "07f42bb75184a1b0",
+  "9f4fe69ad866bf6d",
+  "b5fee45bf3f229d3",
+  "5274774e35d0d9d2",
+  "a25cf3695aad0357",
+  "a9891570743c3686",
+  "ec3596dabaf2b2c8",
+  "1ac3d47dc9adb73a",
+  "b93b340609d61fc8",
+  "446a2b9c7e034724",
+  "448f983b4249f709",
+  "6a814241a7652e61",
+  "2a1da162aab45313",
+  "654a929dab0a722d",
+  "a7b85b3df0589ab5",
+  "853f886798d111b8",
+  "aa709419befb5375",
+  "0c2032ff5fb4c53b",
+  "a154a9e7c3c6c9f8",
+  "30e9a02742e2e555",
+  "2dbc13252cef15ed",
+  "83dbe1fb616334cf",
+  "52247776b0d5aab5",
+  "7490a25b76226711",
+  "9549fa19a9558598",
+  "7c10e8ba2d0f9a38",
+  "b80a9c9470411a83",
+  "7dc4d718cd61ed9e",
+  "e6efd097be48abee",
+  "cab23d4f971c89a0",
+  "9c2a07580ad22939",
+  "726eae16680c3c88",
+  "5c0aab32f3867617",
+  "06005436eed4f75b",
+  "f760e3463d395941",
+  "b7c38ed35fa3248a",
+  "be16df9b2aecf2ad",
+  "9f04c0e7dba9e126",
+  "e25fa1c801ea7332",
+  "759e38dc6c2530fd",
+  "b75994309c6a54ca",
+  "43487b227afa3524",
+  "983956bdc5348a56"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 768,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://energyadvice.london/financial-support/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/help-rising-cost-living"
+    ]
+   },
+   {
+    "url": "https://olioex.com/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/help-rising-cost-living"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 25,
+  "resources": 49,
+  "images": 49,
+  "lighthouse": 9,
+  "link-check": 49,
+  "performance-resources": 12,
+  "alfa": 26,
+  "deprecated-html": 5,
+  "public-interest": 5,
+  "standards": 25,
+  "third-party": 7,
+  "sustainability": 6,
+  "tech": 8,
+  "security": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T12:52:44.859Z"
+}
