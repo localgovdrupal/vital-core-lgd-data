@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-24T06:21:16.280Z",
+ "updatedAt": "2026-11-25T05:01:04.725Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -6750,6 +6750,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2024-11/KL%20-%2052897-20%20-%20Modified%20and%20Endorsed%20Sealed%20Order%20-c.pdf": {
    "checkedAt": "2026-11-24T06:21:16.277Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-11/KL%20-%2052897-20%20-%20Signed%20Plan-c.pdf": {
+   "checkedAt": "2026-11-25T05:00:28.679Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-11/Newspaper_Site%20Confirmation%20Notice%20%28Walsall%20CPO%29%28FINAL%29%2853773278.1%29-c%20%28004%29.pdf": {
+   "checkedAt": "2026-11-25T05:00:30.182Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-02/WMBC%20%28Moat%20Street%20and%20Villers%20Street%29%20Compulsory%20Purchase%20Order%202023%20sealed%20GVD%2028%20January%202025.pdf": {
+   "checkedAt": "2026-11-25T05:00:31.684Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-02/Rushall%20Junction%20Consultation%20Booklet.pdf": {
+   "checkedAt": "2026-11-25T05:00:33.185Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-05/Full%20Planning%20Application%20Validation%20Checklist%20Version%202.0.pdf": {
+   "checkedAt": "2026-11-25T05:00:34.687Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-05/Householder%20Local%20Validation%20Checklist%20Version%202.0.pdf": {
+   "checkedAt": "2026-11-25T05:00:36.189Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-05/Business%20Charter%20April%202023_Samuel%20Everton.pdf": {
+   "checkedAt": "2026-11-25T05:00:37.691Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Waste%20Appendix%202%20Waste%20Data%20Tables.pdf": {
+   "checkedAt": "2026-11-25T05:00:39.193Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Waste%20Appendix%203%20Existing%20Waste%20Sites.pdf": {
+   "checkedAt": "2026-11-25T05:00:40.695Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Waste%20Appendix%204%20Potential%20Waste%20Sites%20Evaluation.pdf": {
+   "checkedAt": "2026-11-25T05:00:42.197Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Waste%20Appendix%205%20Potential%20Waste%20Sites%20Contraints.pdf": {
+   "checkedAt": "2026-11-25T05:00:43.699Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-11/Moat%20Street%20and%20Villiers%20Street_01_Introduction.pdf": {
+   "checkedAt": "2026-11-25T05:00:45.201Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-11/Moat%20Street%20and%20Villiers%20Street_02_Design%20Principles.pdf": {
+   "checkedAt": "2026-11-25T05:00:46.703Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-11/Moat%20Street%20and%20Villiers%20Street_03_Sites%20A%20and%20B.pdf": {
+   "checkedAt": "2026-11-25T05:00:48.204Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-11/Moat%20Street%20and%20Villiers%20Street_04_Sites%20C%20and%20D.pdf": {
+   "checkedAt": "2026-11-25T05:00:49.705Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-11/Moat%20Street%20and%20Villiers%20Street_05_Site%20E.pdf": {
+   "checkedAt": "2026-11-25T05:00:51.207Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-11/Moat%20Street%20and%20Villiers%20Street_06_Next%20Steps.pdf": {
+   "checkedAt": "2026-11-25T05:00:52.709Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-03/Walsall%20North%20LUF%20Application%20data%20final.pdf": {
+   "checkedAt": "2026-11-25T05:00:54.211Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-05/Moat%20Street%20and%20Villiers%20Street%20Outline%20Plann_Samuel%20Everton.pdf": {
+   "checkedAt": "2026-11-25T05:00:55.713Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-10/FAQs%20October%202024.FINAL_.%20Accessible_Kauser%20Agha.pdf": {
+   "checkedAt": "2026-11-25T05:00:57.215Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-10/Sites%20List%20October%202024%20%28002%29_Kauser%20Agha.pdf": {
+   "checkedAt": "2026-11-25T05:00:58.715Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-11/Child%20Employment%20Application%20Form.pdf": {
+   "checkedAt": "2026-11-25T05:01:00.217Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-10/Walsall%20Connected%20Annual%20Report%20-%20Year%20Four.pdf": {
+   "checkedAt": "2026-11-25T05:01:01.718Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Black%20Country%20Core%20Strategy.pdf": {
+   "checkedAt": "2026-11-25T05:01:03.220Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-08/MCW%20professional%20referral%20form.pdf": {
+   "checkedAt": "2026-11-25T05:01:04.722Z",
    "week": "2026-W48",
    "httpStatus": null,
    "status": "error",
