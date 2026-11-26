@@ -1,0 +1,147 @@
+{
+ "runId": "2026-11-26T15-47-38-489Z-cd6401",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-26T15:47:41.151Z",
+ "scanned": [
+  "d42c5746413ed4fc",
+  "e9a0ec011f993bac",
+  "b286cfec03778e8c",
+  "7a9f5664c5a8118a",
+  "1d8998e173971db3",
+  "9b11d926098de5be",
+  "179052110b63c632",
+  "ca69f4a6762fe70f",
+  "1d8ee0753de14d9f",
+  "8731fa93652346b9",
+  "ee7fe35db51375d4",
+  "374105a3f7c85b46",
+  "9ac93ade84351407",
+  "8faf575905788d79",
+  "fa0cda8c11d48e9b",
+  "5702dc5ce890bfa9",
+  "4c4c2a3feb915da4",
+  "d0e4aa8a8a35899b",
+  "9e55f0340e25032b",
+  "089fe9813ef3edc4",
+  "bf23519ae11e18be",
+  "9d12771117c08c58",
+  "90467c7f9217a996",
+  "7cb22c69d7312487",
+  "a1f88555a9832d28",
+  "565a0df613581210",
+  "8d0111d54893b53b",
+  "e7f1eb690cc34fd4",
+  "ac53715535168b7d",
+  "78f4df29c126a53f",
+  "7f5984aae4143017",
+  "9af356675a5debd5",
+  "b31b572cc7a6fde2",
+  "8e0a62978f514b2d",
+  "298da04618619862",
+  "19761f57ad4086f6",
+  "46b0b27dc6947bbe",
+  "c430255ef37f8496",
+  "e4a5d583c59cbbbe",
+  "cc2f7e2559cbf5f8",
+  "05aa603cf0a2909c",
+  "8fc337f25c8cc158",
+  "20352569801bbeb1",
+  "8ba4d58d40676960",
+  "fec34b7af2463074"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 377,
+  "checked": 377,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://www.hackneybusinessnetwork.co.uk/news/successful-hackney-high-streets-and-town-centres-fund-bids-revealed",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/regeneration/dalston"
+    ]
+   },
+   {
+    "url": "http://www.twitter.com/movetogetherkp",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/kings-park-moving-together"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 45,
+  "plain-language": 26,
+  "resources": 45,
+  "images": 45,
+  "link-check": 45,
+  "alfa": 24,
+  "standards": 26,
+  "tech": 6,
+  "lighthouse": 4,
+  "third-party": 6,
+  "sustainability": 4,
+  "public-interest": 2,
+  "security": 4,
+  "performance-resources": 8,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 45,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-26T15:54:25.768Z"
+}
