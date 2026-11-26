@@ -1,0 +1,198 @@
+{
+ "runId": "2026-11-26T14-05-18-669Z-64050c",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-26T14:05:22.307Z",
+ "scanned": [
+  "df2b0719034c9748",
+  "dae4a5fe19a510f9",
+  "d2f9609cade96822",
+  "d8438cabcf79515f",
+  "9085c48dd5dbbbe8",
+  "491766b08a8ea4a0",
+  "27c5dc9be2c84249",
+  "e6c880be63fd364e",
+  "972aa070d7179a5f",
+  "dd911920fc906c5d",
+  "7d3f77a4c2f72b2d",
+  "6380411fe9ef943f",
+  "3c72610b38f55000",
+  "76122146e6df7654",
+  "acc3d21fa519579c",
+  "82379a1be77c9660",
+  "cec7b87c1c78701e",
+  "eb4a97774f0794bc",
+  "626722985ce8e6fe",
+  "ab98ca41c75f5eb7",
+  "971cfa0ba20f051f",
+  "47bf331cfd33f46d",
+  "b8904f424fbe7942",
+  "2107da7f3e8c3567",
+  "da93d79166390166",
+  "3a20d991f3286f04",
+  "4f29a35354cd8c58",
+  "0b2e24650c76feb3",
+  "efe9b1da23903bfa",
+  "3b95d2eecbb12908",
+  "ab6022931ea1e739",
+  "56662b1312203476",
+  "96a3f75363eed8fd",
+  "b1a8fb948e53a142",
+  "ca427e0782684f15",
+  "75aba7967f4d75a9",
+  "d57c9b33f37c30cf",
+  "98824e04c1331847",
+  "887469897501956e",
+  "3a88aa20ff69f448",
+  "938ff717681f659e",
+  "8c117eee787ebe12",
+  "01f0df857ce887dc",
+  "389c5a5995d372c4",
+  "66c83c37b577ee87",
+  "81f48b7a0953e438",
+  "deda68da29e20803",
+  "b566f6eea8c417c1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 514,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/de-beauvoir"
+    ]
+   },
+   {
+    "url": "http://www.stonewall.org.uk/our-work",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.stonewall.org.uk/about-us/blog/communities/black-lgbtq-organisations-you-should-know-about",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://moodspark.org.uk/lgbtqi-mental-health-booklet/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "http://adamkhan.co.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/tower-court"
+    ]
+   },
+   {
+    "url": "https://www.countryside-properties.com/media-centre/news-archive/2018/april/countryside-to-deliver-82m-regeneration-scheme-at-tower-court-estate-in-hackney/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/tower-court"
+    ]
+   },
+   {
+    "url": "https://adamkhan.co.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridge-house-and-marian-court"
+    ]
+   },
+   {
+    "url": "https://procontract.due-north.com/ContractsRegister/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/working-council"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "resources": 46,
+  "images": 46,
+  "security": 3,
+  "link-check": 46,
+  "sustainability": 6,
+  "alfa": 19,
+  "plain-language": 19,
+  "deprecated-html": 5,
+  "third-party": 13,
+  "standards": 22,
+  "performance-resources": 13,
+  "public-interest": 3,
+  "tech": 4,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-26T14:12:55.675Z"
+}
