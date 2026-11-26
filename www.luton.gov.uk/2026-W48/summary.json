@@ -1,7 +1,7 @@
 {
  "domain": "www.luton.gov.uk",
  "week": "2026-W48",
- "generatedAt": "2026-11-25T21:57:49.402Z",
+ "generatedAt": "2026-11-26T21:53:34.198Z",
  "pagesScanned": 751,
  "pagesAudited": 686,
  "coverage": {
@@ -12466,13 +12466,13 @@
  "widgetGroups": null,
  "sustainability": {
   "pages": 71,
-  "medianBytes": 1145156,
-  "meanBytes": 1095978,
+  "medianBytes": 1151048,
+  "meanBytes": 1109151,
   "medianRequests": 61,
-  "totalCo2g": 11.53,
-  "meanCo2g": 0.1624,
-  "totalEnergyWh": 23.34,
-  "meanEnergyWh": 0.3288
+  "totalCo2g": 11.67,
+  "meanCo2g": 0.1644,
+  "totalEnergyWh": 23.63,
+  "meanEnergyWh": 0.3327
  },
  "deprecatedHtml": null,
  "resources": {
@@ -12782,26 +12782,26 @@
  },
  "publicInterest": {
   "engine": "public-interest",
-  "checkedAt": "2026-11-25T19:42:06.412Z",
+  "checkedAt": "2026-11-26T19:22:42.956Z",
   "a11yStatement": {
    "result": "pass",
    "url": "https://www.luton.gov.uk/accessibility",
    "confidence": "high",
-   "checkedAt": "2026-11-25T19:42:05.400Z"
+   "checkedAt": "2026-11-26T19:22:42.398Z"
   },
   "carbonTxt": {
    "result": "fail",
    "url": null,
    "valid": false,
    "fields": {},
-   "checkedAt": "2026-11-25T19:42:05.401Z"
+   "checkedAt": "2026-11-26T19:22:42.400Z"
   },
   "greenWebFoundation": {
    "result": "pass",
    "green": true,
    "hostedBy": "Cloudflare",
    "url": "https://api.thegreenwebfoundation.org/greencheck/luton.gov.uk",
-   "checkedAt": "2026-11-25T19:42:05.402Z"
+   "checkedAt": "2026-11-26T19:22:42.400Z"
   },
   "sitemaps": {
    "xml": {
@@ -12812,7 +12812,7 @@
     "found": false,
     "url": null
    },
-   "checkedAt": "2026-11-25T19:42:05.403Z"
+   "checkedAt": "2026-11-26T19:22:42.401Z"
   }
  },
  "plainLanguage": {
@@ -13110,18 +13110,18 @@
   "medianBestPractices": 96,
   "medianSeo": 100,
   "medianPwa": null,
-  "medianAgentic": 24,
+  "medianAgentic": 23,
   "distributions": {
    "performance": {
-    "min": 30,
+    "min": 27,
     "max": 75,
-    "p10": 37,
+    "p10": 36.8,
     "p25": 41,
     "p50": 47,
     "p75": 56,
     "p90": 62.2,
-    "range": 45,
-    "spreadP10toP90": 25.2,
+    "range": 48,
+    "spreadP10toP90": 25.4,
     "iqr": 15
    },
    "accessibility": {
@@ -13164,21 +13164,21 @@
     "min": 5,
     "max": 100,
     "p10": 5,
-    "p25": 6,
-    "p50": 24,
+    "p25": 5,
+    "p50": 23,
     "p75": 38,
     "p90": 38,
     "range": 95,
     "spreadP10toP90": 33,
-    "iqr": 32
+    "iqr": 33
    }
   },
   "metrics": {
    "firstContentfulPaintMs": 3009,
-   "largestContentfulPaintMs": 7752,
-   "speedIndexMs": 3910,
+   "largestContentfulPaintMs": 7735,
+   "speedIndexMs": 3851,
    "totalBlockingTimeMs": 210,
-   "cumulativeLayoutShift": 0.262
+   "cumulativeLayoutShift": 0.266
   },
   "pwaSignals": [],
   "recommendations": [
@@ -13199,10 +13199,10 @@
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105&f%5B1%5D=localgov_directories_facets%3A118&f%5B2%5D=localgov_directories_facets%3A122&f%5B3%5D=localgov_directories_facets%3A179&f%5B4%5D=localgov_directories_facets%3A204&f%5B5%5D=localgov_directories_facets%3A224&f%5B6%5D=localgov_directories_facets%3A242&f%5B7%5D=localgov_directories_facets%3A266",
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139&f%5B1%5D=localgov_directories_facets%3A218&f%5B2%5D=localgov_directories_facets%3A222&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A270"
     ],
-    "savingsBytes": 7451618,
+    "savingsBytes": 7451378,
     "savingsMs": 33450,
-    "savingsBytesMedian": 154193,
-    "savingsBytesP75": 154372,
+    "savingsBytesMedian": 154186,
+    "savingsBytesP75": 154371,
     "savingsMsMedian": 750,
     "savingsMsP75": 750
    },
@@ -13248,7 +13248,7 @@
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139&f%5B1%5D=localgov_directories_facets%3A218&f%5B2%5D=localgov_directories_facets%3A222&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A270"
     ],
     "savingsBytes": 1148904,
-    "savingsMs": 4700,
+    "savingsMs": 4800,
     "savingsBytesMedian": 23818,
     "savingsBytesP75": 23818,
     "savingsMsMedian": 150,
@@ -13296,7 +13296,7 @@
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139&f%5B1%5D=localgov_directories_facets%3A218&f%5B2%5D=localgov_directories_facets%3A222&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A270"
     ],
     "savingsBytes": 0,
-    "savingsMs": 22900,
+    "savingsMs": 17350,
     "savingsBytesMedian": 0,
     "savingsBytesP75": 0,
     "savingsMsMedian": 200,
@@ -13320,7 +13320,7 @@
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139&f%5B1%5D=localgov_directories_facets%3A218&f%5B2%5D=localgov_directories_facets%3A222&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A270"
     ],
     "savingsBytes": 0,
-    "savingsMs": 19750,
+    "savingsMs": 14800,
     "savingsBytesMedian": 0,
     "savingsBytesP75": 0,
     "savingsMsMedian": 150,
@@ -13512,7 +13512,7 @@
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139&f%5B1%5D=localgov_directories_facets%3A218&f%5B2%5D=localgov_directories_facets%3A222&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A270"
     ],
     "savingsBytes": 0,
-    "savingsMs": 68400,
+    "savingsMs": 68550,
     "savingsBytesMedian": 0,
     "savingsBytesP75": 0,
     "savingsMsMedian": 1200,
@@ -13536,7 +13536,7 @@
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139&f%5B1%5D=localgov_directories_facets%3A218&f%5B2%5D=localgov_directories_facets%3A222&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A270"
     ],
     "savingsBytes": 0,
-    "savingsMs": 34300,
+    "savingsMs": 33900,
     "savingsBytesMedian": 0,
     "savingsBytesP75": 0,
     "savingsMsMedian": 650,
@@ -13584,10 +13584,10 @@
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139&f%5B1%5D=localgov_directories_facets%3A218&f%5B2%5D=localgov_directories_facets%3A222&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A270"
     ],
     "savingsBytes": 0,
-    "savingsMs": 24100,
+    "savingsMs": 23650,
     "savingsBytesMedian": 0,
     "savingsBytesP75": 0,
-    "savingsMsMedian": 600,
+    "savingsMsMedian": 575,
     "savingsMsP75": 600
    },
    {
@@ -13608,7 +13608,7 @@
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139&f%5B1%5D=localgov_directories_facets%3A218&f%5B2%5D=localgov_directories_facets%3A222&f%5B3%5D=localgov_directories_facets%3A230&f%5B4%5D=localgov_directories_facets%3A270"
     ],
     "savingsBytes": 0,
-    "savingsMs": 34300,
+    "savingsMs": 33900,
     "savingsBytesMedian": 0,
     "savingsBytesP75": 0,
     "savingsMsMedian": 650,
@@ -13618,7 +13618,7 @@
     "id": "cls-culprits-insight",
     "category": "performance",
     "title": "Layout shift culprits",
-    "pages": 45,
+    "pages": 46,
     "examplePages": [
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A106&f%5B1%5D=localgov_directories_facets%3A119&f%5B2%5D=localgov_directories_facets%3A148&f%5B3%5D=localgov_directories_facets%3A186&f%5B4%5D=localgov_directories_facets%3A207&f%5B5%5D=localgov_directories_facets%3A243&f%5B6%5D=localgov_directories_facets%3A247&f%5B7%5D=localgov_directories_facets%3A251&f%5B8%5D=localgov_directories_facets%3A271",
      "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A122&f%5B1%5D=localgov_directories_facets%3A128&f%5B2%5D=localgov_directories_facets%3A152&f%5B3%5D=localgov_directories_facets%3A168&f%5B4%5D=localgov_directories_facets%3A260",

@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-25T21:57:45.611Z",
+ "updatedAt": "2026-11-26T21:53:29.809Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -2027,6 +2027,32 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/newsroom/domestic-abuse-victims-die-suspected-suicide-more-homicide-warns-safer-walsall-partnership"
+   ]
+  },
+  "https://go.walsall.gov.uk/accessibility/list-our-other-websites/webproject@walsall.gov.uk": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/accessibility/list-our-other-websites/accessibility-statement-search-planning-applications-website"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fyour-council%2Fdecision-making-in-walsall-borough%2Fwalsall-councils-policy-framework%2Fcorporate-plan&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7Ca116d5bf467c47f1736908deb7e13960%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639150375269490006%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oJLItlOpRqtPhcSx3LDDcJbupbWn0nCf00Nxsu5SzrU%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/council-leader-announces-new-cabinet-0"
    ]
   }
  }
