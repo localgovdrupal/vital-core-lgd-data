@@ -1,0 +1,152 @@
+{
+ "runId": "2026-11-26T15-47-58-411Z-e9c983",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-26T15:48:02.027Z",
+ "scanned": [
+  "60f94ec38075c29e",
+  "79d1ae70fb1d3f1c",
+  "ca0509735b392a6a",
+  "a85dc2caaeabd3e3",
+  "f20e5720931e539a",
+  "30b1df422678bb8c",
+  "3c985a473d25f519",
+  "9a35c7d50b559c22",
+  "14275b33271a158c",
+  "d97b9b32acdb8fd6",
+  "eb9644045a41a55f",
+  "e80e9269d4aaf867",
+  "5a80457b76215f98",
+  "c3e5a7fa37b33676",
+  "d258f0e814e4945e",
+  "e01cae0cda4d4527",
+  "e59ac914ae595296",
+  "f4d2626af6181af2",
+  "5bddade2efecf315",
+  "e7c4e75ed207648b",
+  "bfb168a39f5c7625",
+  "201fe04d494bfd47",
+  "e38b7aaaecf3c8b0",
+  "c9e73c644e8b72ba",
+  "7eae5f528bdb9748",
+  "655c1219abfc5019",
+  "e318539725ddb907",
+  "9aef1f5918e0ffe2",
+  "b97bcbb5295d665d",
+  "c7644fbaf6a30618",
+  "5811aa7d86c5597f",
+  "3d58af2344e41915",
+  "dfb7d7ef880b9588",
+  "75497fc036533969",
+  "e711f5ecd5ed84f7",
+  "0d6a57c6f72715a3",
+  "3c5ca6685153f66e",
+  "bda998824e25dd46",
+  "3f1a2b7bc8670cc2",
+  "016218c9fb15c943",
+  "df8142a67d853892",
+  "f13866590de540e0",
+  "542e235c4661a2b3",
+  "894499959fbed9d6",
+  "f79e7f2529033c6a",
+  "d484992a48c3356e",
+  "43650efaf61864f4",
+  "c59e765b60ab5b2f",
+  "e535cbe5b8ac8d42",
+  "2e7c79ebc4857273"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1129,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://go.walsall.gov.uk/accessibility/list-our-other-websites/webproject@walsall.gov.uk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/accessibility/list-our-other-websites/accessibility-statement-search-planning-applications-website"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fyour-council%2Fdecision-making-in-walsall-borough%2Fwalsall-councils-policy-framework%2Fcorporate-plan&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7Ca116d5bf467c47f1736908deb7e13960%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639150375269490006%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oJLItlOpRqtPhcSx3LDDcJbupbWn0nCf00Nxsu5SzrU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/council-leader-announces-new-cabinet-0"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 23,
+  "resources": 50,
+  "images": 50,
+  "tech": 10,
+  "link-check": 50,
+  "deprecated-html": 6,
+  "alfa": 24,
+  "standards": 21,
+  "third-party": 10,
+  "performance-resources": 8,
+  "sustainability": 3,
+  "lighthouse": 7,
+  "security": 7,
+  "public-interest": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-26T16:01:42.353Z"
+}
