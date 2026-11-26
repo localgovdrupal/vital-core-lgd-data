@@ -1,0 +1,54 @@
+{
+ "domain": "demo.localgovdrupal.org",
+ "updatedAt": "2026-11-26T04:20:38.322Z",
+ "checker": {
+  "name": "pdf-crawler",
+  "url": "https://github.com/mgifford/pdf-crawler",
+  "ref": "9f079bac419b9d2b62cc325c5589df012a99e251",
+  "checks": "original"
+ },
+ "pdfs": {
+  "https://demo.localgovdrupal.org/sites/default/files/2021-05/TestPDF_3.pdf": {
+   "checkedAt": "2026-11-26T04:20:38.322Z",
+   "week": "2026-W48",
+   "httpStatus": 200,
+   "md5": "76de7912c146ec7edda81f1d6941f3d1",
+   "bytes": 6122,
+   "etag": "\"17ea-660d34bf8e1dd\"",
+   "lastModified": "Sun, 22 Nov 2026 01:21:29 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": null,
+    "pages": 1,
+    "words": 2,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  }
+ }
+}

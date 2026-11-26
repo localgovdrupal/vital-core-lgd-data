@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-25T05:01:04.725Z",
+ "updatedAt": "2026-11-26T04:20:36.743Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -7000,6 +7000,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2026-08/MCW%20professional%20referral%20form.pdf": {
    "checkedAt": "2026-11-25T05:01:04.722Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Chris%20Pallatina.pdf": {
+   "checkedAt": "2026-11-26T04:20:00.696Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Hannah%20Devine.pdf": {
+   "checkedAt": "2026-11-26T04:20:02.198Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Jamie%20Bodman.pdf": {
+   "checkedAt": "2026-11-26T04:20:03.700Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Katie%20Firkin.pdf": {
+   "checkedAt": "2026-11-26T04:20:05.201Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Luke%20Wanza%2063436%20Endless%20Possibilities%20Case%20Studies__03.pdf": {
+   "checkedAt": "2026-11-26T04:20:06.703Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Marc%20Oliver%2063436%20Endless%20Possibilities%20Case%20Studies__02.pdf": {
+   "checkedAt": "2026-11-26T04:20:08.205Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Marianna%20Solodcaia.pdf": {
+   "checkedAt": "2026-11-26T04:20:09.707Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Ruksana%20Kavde%2063436%20Endless%20Possibilities%20Case%20Studies__04.pdf": {
+   "checkedAt": "2026-11-26T04:20:11.209Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Sam%20Pearson.pdf": {
+   "checkedAt": "2026-11-26T04:20:12.711Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Zara%20Khan.pdf": {
+   "checkedAt": "2026-11-26T04:20:14.213Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/ERDF_and_ESF_Lifecycle_of_a_Project_270715_v2.pdf": {
+   "checkedAt": "2026-11-26T04:20:15.715Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/ESIF_Online_Publication_2018_FINAL_UPDATED_040918.pdf": {
+   "checkedAt": "2026-11-26T04:20:17.217Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-08/Register%20%20of%20Applications%20%281%29.pdf": {
+   "checkedAt": "2026-11-26T04:20:18.719Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-10/Preventing%20Falls%20-%20a%20guide%20to%20staying%20steady.pdf": {
+   "checkedAt": "2026-11-26T04:20:20.221Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Parents%20guide%20to%20Online%20Admissions.pdf": {
+   "checkedAt": "2026-11-26T04:20:21.723Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Catering%20Unit%20Supervisor%20%28G5%29%20JDES-%20Generic%20%2826%20May%202022%29.pdf": {
+   "checkedAt": "2026-11-26T04:20:23.225Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH00022%20Project%20Support%20Officer%20%28Childrens%29.pdf": {
+   "checkedAt": "2026-11-26T04:20:24.727Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH00422JDES%20Fuel%20Poverty%20Assistant.pdf": {
+   "checkedAt": "2026-11-26T04:20:26.229Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH00522%20Private%20Rented%20Section%20Lead%20Liaison%20Officer.pdf": {
+   "checkedAt": "2026-11-26T04:20:27.731Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH00922JDES%20Head%20of%20Customer%20Engagement.pdf": {
+   "checkedAt": "2026-11-26T04:20:29.233Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01021%20Housing%20Improvements%20Officer%20%28retro-fit%29%20%5BJuly%202021%5D.pdf": {
+   "checkedAt": "2026-11-26T04:20:30.733Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01022%20Customer%20Service%20Adviser.pdf": {
+   "checkedAt": "2026-11-26T04:20:32.235Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01122%20Youth%20Justice%20Apprentice%20%28April%202022%29.pdf": {
+   "checkedAt": "2026-11-26T04:20:33.737Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01222%20Crime%20Prevention%20Worker%20%28May%202022%29.pdf": {
+   "checkedAt": "2026-11-26T04:20:35.239Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01321%20Advisory%20Inclusion%20Team%20Manager%20%5BJuly%202021%5D.pdf": {
+   "checkedAt": "2026-11-26T04:20:36.741Z",
    "week": "2026-W48",
    "httpStatus": null,
    "status": "error",
