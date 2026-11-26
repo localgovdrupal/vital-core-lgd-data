@@ -1,0 +1,93 @@
+{
+ "runId": "2026-11-26T17-41-56-130Z-082f15",
+ "week": "2026-W48",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-26T17:41:58.732Z",
+ "scanned": [
+  "fde77f13f3c011b1",
+  "554f19775c2bb659",
+  "0572a1ca33087754",
+  "b51477e83994c087"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 60,
+  "checked": 60,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://news.hackney.gov.uk/download/70203/wetlandsmap-2.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/connecting-green-spaces"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 4,
+  "alfa": 3,
+  "plain-language": 2,
+  "resources": 4,
+  "images": 4,
+  "tech": 2,
+  "link-check": 4,
+  "performance-resources": 3,
+  "third-party": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 4,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-26T17:42:45.877Z"
+}
