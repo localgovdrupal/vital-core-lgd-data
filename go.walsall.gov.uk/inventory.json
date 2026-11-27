@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-26T21:53:28.306Z",
+ "updatedAt": "2026-11-27T21:36:11.417Z",
  "pages": {
   "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send": {
    "pageId": "02dc4cd5faa4840d",
@@ -75960,6 +75960,2652 @@
    "status": 200,
    "axeViolations": 22,
    "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=age_range%3A419&f%5B4%5D=localgov_directories_facets%3A31": {
+   "pageId": "016bfc358d729334",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:40:31.926Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/caterpillar-club-4": {
+   "pageId": "02d442892fc6b63f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:32:22.525Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/jobs-and-careers-": {
+   "pageId": "03dc56d4ef52c26e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:16:33.879Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fdecade-support-walsalls-alcohol-and-drug-treatment-service&rating=Ok&title=A+decade+of+support+from+Walsall%E2%80%99s+alcohol+and+drug+treatment+service": {
+   "pageId": "0401af22989759bc",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:46:32.597Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A351&page=0": {
+   "pageId": "07b8bc84edc6b299",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:38:58.054Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 109,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/academy-welcomes-pupils-back-school-following-half-million-pound-summer-investment": {
+   "pageId": "0853d09a8977b712",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:30:36.068Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbe-well-walsall-new-wellbeing-service-walsall-residents-launched&rating=Ok&title=Be+Well+Walsall%3A+New+wellbeing+service+for+Walsall+residents+launched": {
+   "pageId": "08cb77954f1362ca",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:29:23.275Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=age_range%3A416&f%5B4%5D=localgov_directories_facets%3A32&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A356&page=5": {
+   "pageId": "0abfe03f91e5985b",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:12:39.544Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 109,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355": {
+   "pageId": "0ae5ab81f897bfb9",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:21:33.363Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A419&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A37": {
+   "pageId": "0afd9dec74d05364",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:25:17.260Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A354": {
+   "pageId": "0c1cc4534a65f0ec",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:17:46.192Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A33&f%5B1%5D=localgov_directories_facets%3A36&f%5B2%5D=localgov_directories_facets%3A37": {
+   "pageId": "0d0153b0295cabb8",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:23:57.466Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A354": {
+   "pageId": "0db33d7f60c72696",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:21:13.307Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352": {
+   "pageId": "0fa55abfd37604a5",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:07:47.768Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 117,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A354&page=0": {
+   "pageId": "0fae0ee5df7af626",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:18:17.912Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A350": {
+   "pageId": "0feb95195cbc5dc9",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:12:58.082Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A357": {
+   "pageId": "10ecadc3213ea9ee",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:10:55.782Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A353": {
+   "pageId": "12907b72bb40fe2b",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:40:58.499Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 84,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fupdate-toxic-chemical-spillage-4pm-29-august-2024&rating=Poor&title=Update+-+Toxic+chemical+spillage+-+4pm%2C+29+August+2024": {
+   "pageId": "147f968dc2f40514",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:36:15.416Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A355&page=5": {
+   "pageId": "15a4bbfd6a5ebb3e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:15:16.904Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A354": {
+   "pageId": "16eaca57602797da",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:42:10.969Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fvolunteers-help-prepare-palfrey-park-summer&rating=Ok&title=Volunteers+help+prepare+Palfrey+Park+for+summer+": {
+   "pageId": "18672fe8c49a628d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:18:38.468Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A355&page=6": {
+   "pageId": "187b037ad54167fe",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:36:27.636Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A356": {
+   "pageId": "19875d851b7b7153",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:18:44.707Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&page=2": {
+   "pageId": "1a848ec1df521ea2",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:15:22.792Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 110,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcamera-targeted-arson-attack-days-after-installation-walsall&rating=Ok&title=Camera+targeted+in+arson+attack+days+after+installation+in+Walsall++": {
+   "pageId": "1a8f6bf8379e475c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:44:46.652Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fresults-first-care-leavers-week-championship-cup&rating=Ok&title=Results+of+the+first+Care+Leavers%E2%80%99+Week+Championship+Cup": {
+   "pageId": "1bb1bef8f04075e4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:17:05.559Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fbusiness%2Flicensing-and-regulation%2Falcohol-and-entertainment-licences-and-permits%2Ftransfer-premises&rating=Good&title=Transfer+a+premises+licence+to+another+licence+holder": {
+   "pageId": "1c53359eeb028cf8",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:24:52.688Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A353": {
+   "pageId": "1ca21dee4131bc29",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:15:30.939Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A349": {
+   "pageId": "1cb84b4ce2307785",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:09:49.631Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/alternative-provision-directory?page=1": {
+   "pageId": "1d0251b645fd5da2",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:41:19.557Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/knit-and-natter-54": {
+   "pageId": "1ff2418387d1ce84",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:43:18.523Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A354&page=8": {
+   "pageId": "20c521c7f2118e03",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:18:03.634Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355": {
+   "pageId": "213b6f76beeb1a85",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:42:14.717Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A420&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A354": {
+   "pageId": "21f129923831f1c3",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:23:43.244Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fget-fit-free-new-outdoor-gym-equipment-now-available-4-walsall-parks&rating=Good&title=Get+Fit+for+Free%3A+New+Outdoor+Gym+Equipment+Now+Available+at+4+Walsall+Parks": {
+   "pageId": "2220203d4b532aec",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:14:45.436Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A34&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=service_type%3A352&page=3": {
+   "pageId": "2247993052659044",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:06:45.417Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A352": {
+   "pageId": "232ef6196aa16121",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:23:07.988Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 115,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A36&f%5B1%5D=service_type%3A353": {
+   "pageId": "245ad30fbabc0ad1",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:22:08.519Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 86,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A350": {
+   "pageId": "25151341d3f1d031",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:09:23.793Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A351": {
+   "pageId": "255a00b75e2a46ab",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:20:42.674Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 103,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Ffreedom-of-information-foi%2Ffreedom-of-information-requests---fees-and-charges&rating=Good&title=Freedom+of+information+requests+-+fees+and+charges": {
+   "pageId": "26702a4e8d04bf30",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:11:45.339Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/publications/planning-service-peer-challenge/planning-service-peer-challenge-action-plan/ongoing": {
+   "pageId": "275e626c08367d97",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:42:23.805Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A356": {
+   "pageId": "276489976214662f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:16:22.793Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=age_range%3A416&f%5B4%5D=localgov_directories_facets%3A32&f%5B5%5D=localgov_directories_facets%3A33&f%5B6%5D=service_type%3A351": {
+   "pageId": "279ecb564a171da9",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:39:13.287Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A416&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A352": {
+   "pageId": "2805b8fe884a7905",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:15:09.526Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=age_range%3A416&f%5B4%5D=localgov_directories_facets%3A36": {
+   "pageId": "2932a82e935bf4dc",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:20:02.123Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 88,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/health-and-social-care/health-and-wellbeing/drug-and-alcohol-support": {
+   "pageId": "2a5764e16261df90",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:46:02.720Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 69,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/museums-libraries-and-galleries/walsall-archives-0/walsall-archive-all": {
+   "pageId": "2a97a2583fcf5db4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:38:13.350Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A357": {
+   "pageId": "2ed2c5be65a72ac6",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:32:53.772Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A354": {
+   "pageId": "2f67e2ed776d05d5",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:35:41.348Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A356": {
+   "pageId": "31df7fb905355556",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:12:12.774Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-launches-initiative-establish-community-shops&rating=Poor&title=Walsall+Council+launches+initiative+to+establish+community+shops": {
+   "pageId": "3217727a85171b9d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:12:52.162Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A354&page=2": {
+   "pageId": "3277ce1c7d529cb3",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:16:36.747Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 118,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A34&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A356&page=6": {
+   "pageId": "33bb735036ff651c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:37:00.503Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 102,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A352": {
+   "pageId": "33fe631c779e3aba",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:31:55.157Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A353": {
+   "pageId": "34a83d8506eb15e3",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:26:10.468Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A32&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A353": {
+   "pageId": "38a79c3f5572ae84",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:50:24.591Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A353": {
+   "pageId": "390902675cebc967",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:27:59.214Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 99,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A350": {
+   "pageId": "39f9cbf2bfb71064",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:38:49.542Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A352": {
+   "pageId": "3b01d9d61f4a9c45",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:25:44.029Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A356": {
+   "pageId": "3b2a7041fe797bf9",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:41:51.000Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 105,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/people-and-communities/event-planning": {
+   "pageId": "3baab84da5078a96",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:28:44.375Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A349": {
+   "pageId": "3c0b9099422e0f8e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:28:30.930Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A356": {
+   "pageId": "3ca7ad2ea732e6e6",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:36:14.332Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A34": {
+   "pageId": "3d4609de62c63048",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:48:15.208Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A33&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=service_type%3A352": {
+   "pageId": "3ddd0a345c15dfa2",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:17:31.767Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35": {
+   "pageId": "3e98212bfe8efa07",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:25:56.922Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A354&page=2": {
+   "pageId": "3f0afbdaf672ff53",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:08:24.197Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 121,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A351": {
+   "pageId": "3ff800b432468b3b",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:21:19.926Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/ryecroft-community-hub-advice-clinic": {
+   "pageId": "40115ceba6c49c40",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:08:03.128Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 82,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36": {
+   "pageId": "4053e81e30ddf4a2",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:07:01.014Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 108,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A357": {
+   "pageId": "40c5401506449172",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:28:17.528Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/roads-parking-and-travel/parking-and-travel/school-streets-driving-restrictions-around-schools": {
+   "pageId": "4108750ff111427e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:15:20.738Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/get-fit-free-new-outdoor-gym-equipment-now-available-4-walsall-parks": {
+   "pageId": "414c6df1cf2559ee",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:33:35.201Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A355": {
+   "pageId": "421612c79eb1d868",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:17:37.668Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-launches-economic-forum-amplify-voice-local-business&rating=Ok&title=Walsall+Council+launches+economic+forum+to+amplify+the+voice+of+local+business": {
+   "pageId": "43bc8d3d9dc4478a",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:14:48.426Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fbrownhills-and&rating=Good&title=Brownhills+and+Ogley+Hay+churches": {
+   "pageId": "446d7dae72d53d89",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:38:00.229Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/walsall-energy-action-project-weap": {
+   "pageId": "44a82ebae9b61d38",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:34:35.555Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352": {
+   "pageId": "457f873ccb581df5",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:29:48.261Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fhigh-court-continues-interim-black-country-street-racing-ban-0&rating=Ok&title=High+Court+continues+interim+Black+Country+street+racing+ban": {
+   "pageId": "474e970d1709e9fb",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:34:14.533Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=service_type%3A351": {
+   "pageId": "476193f2e7354114",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:34:20.176Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 113,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A352": {
+   "pageId": "48c9b1d3f10216a2",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:31:53.709Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A34&f%5B5%5D=service_type%3A350": {
+   "pageId": "4905b080ffaf9da9",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:47:36.299Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 86,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fschools-and-learning%2Fschools-in-walsall%2Fschool-organisation%2Fschool-expansions-schemes---modifications&rating=Poor&title=School+Expansions+Schemes+-+Modifications": {
+   "pageId": "49587168bf462d1c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:39:27.974Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=service_type%3A351&page=0": {
+   "pageId": "4cd3eb75cb5452c0",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:06:30.430Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A357": {
+   "pageId": "4d841f8da0c151f5",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:20:34.614Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fart-exhibition-celebrate-walsalls-inspiring-women&rating=Good&title=Art+exhibition+to+celebrate+Walsall%E2%80%99s+inspiring+women+": {
+   "pageId": "4de5cd41cbc941b8",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:09:19.578Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/publications/gambling-harms-directory-residents/gambling-harms-directory-residents/other-support": {
+   "pageId": "4dee4cfa7be58737",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:11:02.336Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A354": {
+   "pageId": "4e1f34463cf11b0c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:17:13.228Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 123,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A355": {
+   "pageId": "4e3d62999914088d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:17:08.503Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 100,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A349": {
+   "pageId": "4e5aa08942357659",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:26:51.005Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=age_range%3A419&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=localgov_directories_facets%3A34&f%5B6%5D=service_type%3A352": {
+   "pageId": "4f3527e277f024d1",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:35:56.595Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A351&page=1": {
+   "pageId": "506edf7687051fd4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:42:59.057Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fbusiness%2Fbusiness-rates&rating=Ok&title=Business+rates": {
+   "pageId": "50d506680ace37b9",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:28:58.401Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A416&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A356": {
+   "pageId": "51b81b1c98acc2e3",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:10:20.109Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/additional-assistance-walsall-voters-2026-local-elections": {
+   "pageId": "55ffc25449594ce3",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:21:54.352Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A350": {
+   "pageId": "56b8c6a8d58f959e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:31:25.595Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A355&page=4": {
+   "pageId": "57a1b8d57d9163dd",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:39:00.374Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 116,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Flisted-buildings-conservation-and-environment&rating=Good&title=Listed+buildings%2C+conservation+and+environment": {
+   "pageId": "57a3d4a3ee6cece9",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:24:30.002Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A353": {
+   "pageId": "57b116fc97e34a14",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:04:01.721Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A351": {
+   "pageId": "59b233308317ff53",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:35:30.494Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fhave-go-recording-your-own-music-or-podcast-new-youth-bus-touring-walsall&rating=Good&title=Have+a+go+at+recording+your+own+music+or+podcast+on+new+youth+bus+touring+Walsall": {
+   "pageId": "5a418e731b7ae233",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:22:55.258Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/floats-fun-session-bloxwich-active-living-centre-0": {
+   "pageId": "5a60dd33115bdb1b",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:12:26.062Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A416&f%5B3%5D=age_range%3A420&f%5B4%5D=service_type%3A355": {
+   "pageId": "5ac82d5372c24fa6",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:50:06.953Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 117,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A419&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A356": {
+   "pageId": "5e6e5d42237fec5f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:13:58.167Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A355": {
+   "pageId": "5f9d580b66b25814",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:23:18.137Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 105,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=service_type%3A353": {
+   "pageId": "61548b37631b0b44",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:43:47.468Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 100,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A357": {
+   "pageId": "61899d7f8cb6f3af",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:49:20.492Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&page=1": {
+   "pageId": "61a37268550373e2",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:13:54.453Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 110,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=age_range%3A420&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A352": {
+   "pageId": "655009c71ae89b74",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:08:47.873Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/births-marriages-and-deaths": {
+   "pageId": "65a02c176b1f0551",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:13:05.953Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&page=10": {
+   "pageId": "66bce83192d224bb",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:15:48.109Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A357": {
+   "pageId": "67362c6b1b4e6a3c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:15:36.992Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 84,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=service_type%3A353&page=1": {
+   "pageId": "68ae539d5d64945e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:28:45.141Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&page=2": {
+   "pageId": "6be16124ae4a705b",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:35:09.534Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Facademy-welcomes-pupils-back-school-following-half-million-pound-summer-investment&rating=Poor&title=Academy+welcomes+pupils+back-to-school+following+half+a+million-pound+summer+investment": {
+   "pageId": "6d344f9f5f1b9073",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:14:10.127Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A356": {
+   "pageId": "6dabf23905166dcd",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:36:22.646Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 89,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fbusiness%2Fmarkets-street-trading-and-car-boot-sales%2Fstreet-trading&rating=Good&title=Street+trading": {
+   "pageId": "6f28eb61716085a2",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:08:19.276Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A419&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A352&page=2": {
+   "pageId": "701502f778378450",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:11:12.674Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A32&f%5B5%5D=localgov_directories_facets%3A34&f%5B6%5D=localgov_directories_facets%3A38&f%5B7%5D=service_type%3A356": {
+   "pageId": "706f0f0618dc9eff",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:10:34.493Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 112,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A349": {
+   "pageId": "74687c0840c0f2f3",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:14:05.002Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A416&f%5B3%5D=age_range%3A420&f%5B4%5D=service_type%3A349": {
+   "pageId": "74b478f4b46af7fe",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:44:04.154Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=service_type%3A351": {
+   "pageId": "76d99b9fc2b70e93",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:25:38.477Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fmashinitial-response-service-irs&rating=Poor&title=MASH%2FInitial+Response+Service+%28IRS%29": {
+   "pageId": "77c0ce871b8256b1",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:15:01.753Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A419&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A38": {
+   "pageId": "77d32b0b1ccde640",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:39:42.719Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/business/licensing-and-regulation/animal-licensing/hiring-out-horses": {
+   "pageId": "79948718204500c7",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:13:24.313Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fsupport-within-reach-walsall-residents-world-mental-health-day&rating=Good&title=Support+is+within+reach+for+Walsall+residents+this+World+Mental+Health+Day": {
+   "pageId": "7a227870eb6ff87b",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:16:18.735Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A355": {
+   "pageId": "7a77668f6a8f13e7",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:11:32.223Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Froads-parking-and-travel%2Froadworks-and-road-maintenance%2Fapply-for-temporary-traffic-lights&rating=Ok&title=Apply+for+temporary+traffic+lights": {
+   "pageId": "7a80b62a44007d06",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:09:09.607Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fdecision-making-in-walsall-borough%2Fpublications%2Fstatement-of-accounts&rating=Ok&title=Statement+of+accounts": {
+   "pageId": "7ad1142be1189e3d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:45:57.682Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37": {
+   "pageId": "7adb735b4cd434ef",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:34:51.811Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 111,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A38&page=0": {
+   "pageId": "7b31ac68b10f3816",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:27:45.606Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A354": {
+   "pageId": "7b5dbf4a8aa2c6a4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:31:39.229Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 92,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A417&f%5B1%5D=age_range%3A419&f%5B2%5D=service_type%3A354": {
+   "pageId": "7c2921590e545396",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:46:47.479Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Freport-set-out-priorities-public-health-202425&rating=Good&title=Report+to+set+out+priorities+for+Public+Health+in+2024%2F25+": {
+   "pageId": "7c2aebe0e12c0bee",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:40:35.351Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A34&f%5B5%5D=localgov_directories_facets%3A35&f%5B6%5D=localgov_directories_facets%3A38&f%5B7%5D=service_type%3A356": {
+   "pageId": "7d8b3c1c8bcc0375",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:09:01.815Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 108,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/hive-community-hub-parents-tots-group": {
+   "pageId": "7df0f154b6f5cb55",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:04:19.376Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355&page=4": {
+   "pageId": "7e0ecf773e2a386e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:20:20.313Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A353": {
+   "pageId": "7e73000a9390ad33",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:36:40.466Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A354&page=1": {
+   "pageId": "7edfed9dd23782ce",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:08:57.124Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/practitioner-support/walsall-family-hubs": {
+   "pageId": "7f0d36d237a830cb",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:35:12.912Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A356&page=0": {
+   "pageId": "7f2403c211bc1bf9",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:04:55.338Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 104,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A354": {
+   "pageId": "7f68fe55f004b632",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:37:16.120Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A352": {
+   "pageId": "802cc4445a015439",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:35:15.013Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-teams-unite-support-breast-screening-uptake": {
+   "pageId": "80713667e677e408",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:13:51.167Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A419&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A349": {
+   "pageId": "815b0ed10d05f2dd",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:22:40.531Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38": {
+   "pageId": "825d184ecf96543f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:13:19.697Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/seaside-jar-craft-and-giant-pirate-ship-colouring-seaside-stories": {
+   "pageId": "83237c8e911219e1",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:29:00.389Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A34&f%5B1%5D=localgov_directories_facets%3A36&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A351": {
+   "pageId": "85d22cf5fc854f57",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:08:06.225Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34": {
+   "pageId": "861384f13b022eb6",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:34:39.512Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A354&page=3": {
+   "pageId": "86fea242bf43cacc",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:09:38.153Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 125,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A355&page=5": {
+   "pageId": "878652b38b6c8f4f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:23:51.060Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A350": {
+   "pageId": "879ab770aca7a571",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:18:14.836Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 85,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=age_range%3A416&f%5B4%5D=localgov_directories_facets%3A35": {
+   "pageId": "8a98f58b46c03bf3",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:37:53.036Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=age_range%3A338&f%5B4%5D=localgov_directories_facets%3A32&f%5B5%5D=service_type%3A352&page=3": {
+   "pageId": "8ae21efbe2a4a8c8",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:20:35.340Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A349": {
+   "pageId": "8b963f6f6297f018",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:46:17.172Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/darlaston-all-active-back-time-room-support-dementia-friendly-cafe": {
+   "pageId": "8c2e4b8e2c345176",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:23:27.739Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A354": {
+   "pageId": "8d57c8d1022fbc25",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:08:43.138Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A34": {
+   "pageId": "8eb9ecac44a01f95",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:34:28.948Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Frodent-infested-walsall-supermarket-forced-close&rating=Good&title=Rodent+infested+Walsall+supermarket+forced+to+close+": {
+   "pageId": "8f3b773a69aa9e08",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:16:09.352Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A350": {
+   "pageId": "913027ef35faa024",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:29:50.032Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 106,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A353": {
+   "pageId": "913d61ec78e92d96",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:50:38.384Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 95,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A354": {
+   "pageId": "928071b68dc5be08",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:37:28.137Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=service_type%3A354&f%5B4%5D=service_type%3A355": {
+   "pageId": "934a4c5343a02a31",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:40:13.151Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 101,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/tanita-body-composition-checks-walsall-gala": {
+   "pageId": "9463f1d2b2aa49e2",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:35:43.424Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/gypsy-roma-and-traveller-grt-history-month-2026-exhibition-0": {
+   "pageId": "949cbdbbe7335711",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:32:17.887Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-marks-sexual-abuse-and-sexual-violence-awareness-week-2026&rating=Good&title=Walsall+Council+marks+Sexual+Abuse+and+Sexual+Violence+Awareness+Week+2026+": {
+   "pageId": "94cf1bde13148ac1",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:18:31.654Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A34&f%5B1%5D=service_type%3A352": {
+   "pageId": "94da02ca371b3e15",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:19:48.521Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 109,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/business/licensing-and-regulation/animal-licensing/keep-or-train-animals-exhibition": {
+   "pageId": "95576ea8523b1c0d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:32:40.417Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A37&f%5B1%5D=service_type%3A357": {
+   "pageId": "957aa1740985db73",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:18:33.022Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fhelp-live-home%2Foccupational-therapy&rating=Ok&title=Occupational+therapy": {
+   "pageId": "962da4043bf54fe7",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:22:12.396Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Froads-parking-and-travel%2Froadworks-and-road-maintenance%2Fmaking-our-roads-safer%2Fproposed-safety&rating=Poor&title=Proposed+safety+scheme+for+Wolverhampton+Street%2C+Darlaston": {
+   "pageId": "98bdbd63af7408b4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:47:23.491Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A33&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A354": {
+   "pageId": "9921c0830217e62e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:40:48.038Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 106,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A419&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A353": {
+   "pageId": "998e6b7c1028244f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:20:59.813Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/hive-community-hub-loft-youth-club": {
+   "pageId": "9996988115d5b37d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:10:05.883Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A355": {
+   "pageId": "9a5a6a2071ef0ca6",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:27:39.357Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 100,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A33&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A354": {
+   "pageId": "9b1d7fd74088fdbb",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:29:14.043Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 103,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A357": {
+   "pageId": "9b3c393b4a5eb4f4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:39:15.134Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 81,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A419&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=localgov_directories_facets%3A38": {
+   "pageId": "9b47b025cd487a85",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:27:06.634Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A354": {
+   "pageId": "9b4956c3f2397a5f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:42:45.707Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ftwo-acclaimed-shows-come-walsall-arena-arts-centre-october&rating=Good&title=Two+acclaimed+shows+come+to+Walsall+Arena+%26+Arts+Centre+this+October": {
+   "pageId": "9c4dc4e8c586a4fa",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:11:18.666Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/unemployment-support-session": {
+   "pageId": "9c89f5f82f4c7905",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:39:56.651Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 70,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A355&page=9": {
+   "pageId": "9dbc6d2a996afabf",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:13:33.435Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 122,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A356": {
+   "pageId": "9e162bfe9ba26043",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:19:21.622Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A416&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A352": {
+   "pageId": "a10ddd7c69f11805",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:47:52.802Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 84,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-selected-national-pilot-transform-childrens-social-care": {
+   "pageId": "a2ad0922a477e576",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:33:15.609Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&page=10": {
+   "pageId": "a4cd291da8b3c3c3",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:36:53.718Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A419&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A352": {
+   "pageId": "a58b102bd95460df",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:35:59.519Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A355&f%5B4%5D=service_type%3A357": {
+   "pageId": "a5e3ea5268a55446",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:26:25.960Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A355": {
+   "pageId": "a7a87ceec0d5f386",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:16:01.968Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/armed-forces-recognised-protected-characteristic-walsall": {
+   "pageId": "a7fecda23666a5eb",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:15:54.547Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A355": {
+   "pageId": "a9f32e9a6cb35525",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:18:45.060Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=service_type%3A355&f%5B3%5D=service_type%3A357": {
+   "pageId": "ac1d50e031fee476",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:14:53.145Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 115,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbloxwich-active-living-centre-celebrates-10-year-anniversary-wild-west-party&rating=Ok&title=Bloxwich+Active+Living+Centre+celebrates+10-year+anniversary+with+Wild+West+Party": {
+   "pageId": "ac49b2bf6ca17bf0",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:38:11.520Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A354&page=0": {
+   "pageId": "acb9a721f4103fe4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:20:18.638Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 117,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=age_range%3A419&f%5B4%5D=localgov_directories_facets%3A32&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A355": {
+   "pageId": "acd08c32c1f78f3a",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:38:24.702Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 118,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/drop-animal-cress-pot-craft-1": {
+   "pageId": "ada3e5ccd695b2a2",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:19:27.627Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-householders%2Fget-advice-you-start-your-application&rating=Poor&title=Get+advice+before+you+start+your+application": {
+   "pageId": "aed9e4263e84c6ef",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:33:27.609Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=service_type%3A352&page=3": {
+   "pageId": "b06fd6281e2754b4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:34:01.852Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 97,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A349": {
+   "pageId": "b0e95be49a608b1a",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:17:00.086Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A353": {
+   "pageId": "b232f5cd5b5e342a",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:18:58.975Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A416&f%5B1%5D=age_range%3A420&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A354": {
+   "pageId": "b39f7fdbc21dc929",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:10:49.101Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fdecision-making-in-walsall-borough%2Fbcta%2Ffunding-rounds&rating=Good&title=Funding+Rounds": {
+   "pageId": "b66778d297d27b69",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:34:08.088Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fbuilding-control&rating=Poor&title=Building+control": {
+   "pageId": "b991e7844d04945c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:19:48.835Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A351": {
+   "pageId": "bb6a1c0858afb2e8",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:21:01.042Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 112,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A351": {
+   "pageId": "bb78119bf86c614c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:17:45.776Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcalling-aspiring-actors-young-rep-comes-walsall&rating=Good&title=Calling+aspiring+actors%21+Young+Rep+comes+to+Walsall+": {
+   "pageId": "bb83201c020ae85d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:21:46.967Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A357": {
+   "pageId": "bc5865e2907061ab",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:30:07.455Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349": {
+   "pageId": "bf7daab0fd1c80f7",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:43:33.832Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A357": {
+   "pageId": "bf922e3841fd493f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:47:01.197Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/benefits/overpayments": {
+   "pageId": "c03eee5e78f40798",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:19:40.598Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 81,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fgovernment-fund-new-ps50m-secondary-school-walsall&rating=Poor&title=Government+to+fund+new+%C2%A350m+secondary+school+in+Walsall": {
+   "pageId": "c1f388015b4c3a4e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:19:07.156Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A32&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=service_type%3A349": {
+   "pageId": "c25a0ec3387dde81",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:19:35.170Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/rhyme-time-49": {
+   "pageId": "c27aa84f612ef8ac",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:21:18.929Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A351": {
+   "pageId": "c2c4be9dce2c1cd4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:13:47.944Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fawards-event-black-country-impact-project-thats-helped-over-5000-young-people-walsall&rating=Good&title=Awards+event+for+Black+Country+Impact+project+that%E2%80%99s+helped+over+5000+young+people+from+Walsall": {
+   "pageId": "c343d4abe1ed6365",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:32:32.537Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A356&page=1": {
+   "pageId": "c39b81d6551bda33",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:37:35.060Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 105,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=service_type%3A353&page=0": {
+   "pageId": "c3b6ce2e4d3d926f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:04:37.044Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 99,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A32&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A356&page=5": {
+   "pageId": "c4a08f20117539fa",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:20:41.738Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 121,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A351": {
+   "pageId": "c51a36902d10682d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:29:34.545Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355": {
+   "pageId": "c58eb7ceb4990147",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:14:19.384Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A355": {
+   "pageId": "c5f7f5c9fc966132",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:16:55.705Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 110,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A352&page=2": {
+   "pageId": "c601c9a414ad134f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:15:02.157Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 108,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffaith-walk-knife-angel-walsall-reflect-violence-and-knife-crime&rating=Poor&title=Faith+Walk+to+Knife+Angel+in+Walsall+to+reflect+on+violence+and+knife+crime": {
+   "pageId": "c77ad1489a70a01d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:10:33.482Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A350&f%5B5%5D=service_type%3A355": {
+   "pageId": "c7d39fed2d6805a3",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:47:17.943Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A420&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A350": {
+   "pageId": "ca0bb762984e81b0",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:30:02.677Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 82,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A419&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A35": {
+   "pageId": "cb5547b43e25f09a",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:36:41.856Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352": {
+   "pageId": "cb92b8a6113c1931",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:35:05.708Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A32&f%5B1%5D=localgov_directories_facets%3A36&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A350": {
+   "pageId": "cbc5a135910bedfa",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:15:32.729Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 105,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/tanita-body-composition-checks-walsall-gala-10": {
+   "pageId": "cc499a9782bb5fa8",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:13:11.259Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A352": {
+   "pageId": "cd686c1593549704",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:40:39.667Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 89,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A355&page=3": {
+   "pageId": "ce9a84e9161c9ea5",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:39:31.321Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A355&page=0": {
+   "pageId": "cf572cd6b3536753",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:13:19.416Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A354": {
+   "pageId": "cf5d01673fbbbf46",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:27:10.082Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 91,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A34&f%5B5%5D=localgov_directories_facets%3A38": {
+   "pageId": "cfee7282e004ccfb",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:27:32.571Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Faccessibility%2Flist-our-other-websites%2Faccessibility-statement-environmental-protection-public&rating=Ok&title=Accessibility+statement+for+the+environmental+protection+public+register": {
+   "pageId": "d0270666bf9c8a87",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:43:12.229Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A354&page=10": {
+   "pageId": "d0495700fda61847",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:16:47.614Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 121,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-selected-national-pilot-transform-childrens-social-care&rating=Poor&title=Walsall+selected+for+national+pilot+to+transform+children%E2%80%99s+social+care": {
+   "pageId": "d08b5c568f9e6e36",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:27:12.940Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A32&f%5B1%5D=localgov_directories_facets%3A36&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A355&page=0": {
+   "pageId": "d19336622c00a7dc",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:20:05.062Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fconsultations%2Fpast-consultations&rating=Good&title=Past+consultations": {
+   "pageId": "d2ebf5dfa676bac4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:48:02.097Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A354&page=1": {
+   "pageId": "d440fc5477c75cc1",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:12:39.907Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-champions-digital-inclusion-get-online-week-2025&rating=Poor&title=Walsall+Council+champions+digital+inclusion+for+Get+Online+Week+2025": {
+   "pageId": "d542f3f05525bbac",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:37:47.446Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=service_type%3A357": {
+   "pageId": "d61525a678fc6dcd",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:38:41.989Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 84,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A37&page=5": {
+   "pageId": "d63e2f1f0097a9dc",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:14:15.354Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 101,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352&page=5": {
+   "pageId": "d72d7bbd30174183",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:07:19.234Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/1-2-1-computer-courses-5": {
+   "pageId": "d78862eda3622cbd",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:49:07.141Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A356": {
+   "pageId": "d943f3a33897840b",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:09:57.212Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 110,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&page=2": {
+   "pageId": "d9db101a37515a04",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:41:16.039Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 107,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A354": {
+   "pageId": "da0121c020fb5299",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:27:25.687Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A350&f%5B5%5D=service_type%3A356": {
+   "pageId": "da16555aaf9f296c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:48:28.872Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A33&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=service_type%3A352&page=3": {
+   "pageId": "da32009db9d10a36",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:35:27.188Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A356&page=3": {
+   "pageId": "da9483bfb7bc34c0",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:24:44.236Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 85,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A416&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352": {
+   "pageId": "dabab1b51218149c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:41:05.663Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A355&page=8": {
+   "pageId": "db5cd72c96c1507e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:49:00.063Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsalls-planning-service-boasts-85-approval-rate-2024&rating=Ok&title=Walsall%E2%80%99s+planning+service+boasts+85%25+approval+rate+for+2024": {
+   "pageId": "dbcd419eb7fce5e4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:37:58.457Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A419&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A35": {
+   "pageId": "e03826b6e7d55e3e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:13:33.135Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A32&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A35&page=8": {
+   "pageId": "e0f05cb4b682350e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:38:30.075Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 119,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A354": {
+   "pageId": "e1baff27cd34efd6",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:13:38.958Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 123,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A355&page=0": {
+   "pageId": "e1f3384da27a2bfb",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:29:13.605Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 107,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A349": {
+   "pageId": "e3ab598f4f6273e6",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:30:20.716Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A352": {
+   "pageId": "e427141ded39ab7e",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:13:14.302Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A354&page=2": {
+   "pageId": "e6e09002247b66f7",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:48:42.493Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 118,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A356": {
+   "pageId": "e749e08452025a2f",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:11:58.788Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A354": {
+   "pageId": "e91544dc119b28ed",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:09:33.003Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A416&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=service_type%3A351": {
+   "pageId": "e931202b8643e36c",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:22:26.942Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/ps322000-worth-illegal-tobacco-seized-black-country-raid": {
+   "pageId": "e954442fb03cdd92",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:45:50.265Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 82,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352": {
+   "pageId": "ea8bbb52a0297abd",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:17:24.348Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A34&f%5B1%5D=localgov_directories_facets%3A36&f%5B2%5D=service_type%3A352&page=3": {
+   "pageId": "eac8c4b4ef7309bc",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:33:43.227Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 114,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A356": {
+   "pageId": "eb4b35f2b0a8207a",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:33:02.075Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A32&f%5B5%5D=localgov_directories_facets%3A36&f%5B6%5D=service_type%3A355": {
+   "pageId": "eb5dec5f1beed494",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:45:12.939Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 118,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/story-tots-5": {
+   "pageId": "ec76c32ced440308",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:18:00.400Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A356": {
+   "pageId": "ed41a8aebd1e2461",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:49:33.783Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 104,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=age_range%3A416&f%5B4%5D=localgov_directories_facets%3A31&f%5B5%5D=localgov_directories_facets%3A35&f%5B6%5D=service_type%3A356": {
+   "pageId": "edf6e340fc262e66",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:21:35.917Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A351": {
+   "pageId": "ee21945a59babfe7",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:41:55.789Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A31&f%5B1%5D=localgov_directories_facets%3A34&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A352": {
+   "pageId": "eee722dbeccdaca7",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:26:35.426Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A354&page=12": {
+   "pageId": "ef10549cd510b518",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:03:48.151Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fhave-your-say-new-political-map-walsall-council&rating=Good&title=Have+your+say+on+a+new+political+map+for+Walsall+Council": {
+   "pageId": "ef81ba18665e5f3d",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:06:16.664Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/museums-libraries-and-galleries/walsall-archives-0/walsall-archive-all/get-involved-walsall-archive/walsall-archive-all-project-newsletter-signup": {
+   "pageId": "f02cf65c06a9ceed",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:19:14.169Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A349": {
+   "pageId": "f1f8f07a19ebeb83",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T17:31:36.080Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A417&f%5B2%5D=service_type%3A349&f%5B3%5D=service_type%3A354": {
+   "pageId": "f24e9d7b7be00994",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:42:28.574Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 120,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A355&f%5B5%5D=service_type%3A357": {
+   "pageId": "f24fe54933acbc93",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:14:31.299Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fbusiness%2Flicensing-and-regulation%2Fanimal-licensing%2Fhiring-out-horses&rating=Poor&title=Hiring+out+horses+": {
+   "pageId": "f2f8e8387ba12b1a",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:03:34.574Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A355": {
+   "pageId": "f37320255f792513",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T14:07:33.551Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fvolunteers-help-prepare-palfrey-park-summer&rating=Good&title=Volunteers+help+prepare+Palfrey+Park+for+summer+": {
+   "pageId": "f79a2a564867f675",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:33:41.330Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A417&page=1": {
+   "pageId": "f7d0b7b86e1efa3a",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:30:51.308Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=age_range%3A419&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A38": {
+   "pageId": "f8323c7b85a35a81",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:33:10.272Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A336&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A352": {
+   "pageId": "fa0b3ad5a9fd9ee9",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:28:50.873Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 111,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A38&f%5B5%5D=service_type%3A356&page=0": {
+   "pageId": "fa37cd8123bfcf24",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T19:18:58.127Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 107,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fkey-achievements-highlighted-director-public-healths-annual-report&rating=Good&title=Key+achievements+highlighted+in+Director+of+Public+Health%E2%80%99s+Annual+Report": {
+   "pageId": "fbfb0d380dacd41b",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:36:01.800Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A416&f%5B2%5D=service_type%3A354&page=2": {
+   "pageId": "fc322f5616004560",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T12:10:15.681Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 116,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=localgov_directories_facets%3A32&f%5B1%5D=localgov_directories_facets%3A36&f%5B2%5D=service_type%3A350": {
+   "pageId": "fcf3f7774af640e8",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T18:32:04.849Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A352&page=3": {
+   "pageId": "fd86b30b691973c1",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:44:17.402Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=service_type%3A351&page=4": {
+   "pageId": "fe7f718eeb724290",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-27T15:49:50.825Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 89,
    "hasIssues": true
   }
  },

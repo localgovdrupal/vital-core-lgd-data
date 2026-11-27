@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-26T21:53:29.809Z",
+ "updatedAt": "2026-11-27T21:36:12.721Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -2053,6 +2053,19 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/newsroom/council-leader-announces-new-cabinet-0"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fconsultations%2Fchildrens-social-care-stable-homes-built-on-love&data=05%7C02%7CCommunications%40walsall.gov.uk%7Ca2f1d479cbef48f0621e08dc5878ce4c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638482523099595623%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=QVa6p1Ofxz9Op%2FtcT3dKFQ8K1Me1ScaVL%2FQnV4UvfCg%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/walsall-selected-national-pilot-transform-childrens-social-care"
    ]
   }
  }
