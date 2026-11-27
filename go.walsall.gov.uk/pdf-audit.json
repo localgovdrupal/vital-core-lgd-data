@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-26T04:20:36.743Z",
+ "updatedAt": "2026-11-27T04:30:23.590Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -7250,6 +7250,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01321%20Advisory%20Inclusion%20Team%20Manager%20%5BJuly%202021%5D.pdf": {
    "checkedAt": "2026-11-26T04:20:36.741Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Walsall%20Council%20Social%20Value%20Charter%20December%202020.pdf": {
+   "checkedAt": "2026-11-27T04:29:47.544Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Walsall%20Council%20Social%20Value%20Policy%20December%202020.pdf": {
+   "checkedAt": "2026-11-27T04:29:49.047Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Walsall%20Council%20Themes%20Outcomes%20and%20Measures%20Framework%20December%202020.pdf": {
+   "checkedAt": "2026-11-27T04:29:50.549Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01322%20Customer%20Delivery%20Manager%20%28May%202022%29.pdf": {
+   "checkedAt": "2026-11-27T04:29:52.050Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01422%20Customer%20Team%20Leader%20%28May%202022%29.pdf": {
+   "checkedAt": "2026-11-27T04:29:53.552Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01522%20Customer%20Innovation%20and%20Digital%20Officer%20%28May%202022%29.pdf": {
+   "checkedAt": "2026-11-27T04:29:55.054Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01621%20Advanced%20Support%20Officer%20%5BJuly%202021%5D%20.pdf": {
+   "checkedAt": "2026-11-27T04:29:56.556Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01622%20Customer%20Team%20Leader%20%28Building%20Control%20Specialist%29%20%28May%202022%29.pdf": {
+   "checkedAt": "2026-11-27T04:29:58.057Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01722JDES%20Senior%20Customer%20Adviser.pdf": {
+   "checkedAt": "2026-11-27T04:29:59.559Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01822%20Apprentice%20Digital%20Support%20Technician.pdf": {
+   "checkedAt": "2026-11-27T04:30:01.061Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01921JDES%20Head%20of%20Service%20Family%20Safeguarding%20and%20Localities%20%5BJuly%202021%5D.pdf": {
+   "checkedAt": "2026-11-27T04:30:02.562Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH01922%20Student%20Environmental%20Health%20Practitioner.pdf": {
+   "checkedAt": "2026-11-27T04:30:04.063Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02021JDES%20Head%20of%20Service%20Support%20and%20Protection%20%5BJuly%202021%5D.pdf": {
+   "checkedAt": "2026-11-27T04:30:05.565Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02022%20Housing%20Technical%20Officer.pdf": {
+   "checkedAt": "2026-11-27T04:30:07.067Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02122%20Housing%20Standards%20Officer.pdf": {
+   "checkedAt": "2026-11-27T04:30:08.569Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02221%20Family%20Support%20Practitioner%20%5BAugust%202021%5D.pdf": {
+   "checkedAt": "2026-11-27T04:30:10.071Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02222%20Post%2016%20Development%20Officer.pdf": {
+   "checkedAt": "2026-11-27T04:30:11.573Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02321%20Social%20Workers%20%28Fostering%29%20%5BAugust%202021%5D.pdf": {
+   "checkedAt": "2026-11-27T04:30:13.075Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02322%20Key%20Worker%20%28May%202022%29.pdf": {
+   "checkedAt": "2026-11-27T04:30:14.577Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02421JDES%20SEN%20Casework%20Officer%20%5BAugust%202021%5D.pdf": {
+   "checkedAt": "2026-11-27T04:30:16.079Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02422%20Early%20Help%20Family%20Support%20Practitioner%20%28May%202022%29.pdf": {
+   "checkedAt": "2026-11-27T04:30:17.579Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02521JDES%20EHCP%20Strategic%20Team%20Manager%20%5BAugust%202021%5D.pdf": {
+   "checkedAt": "2026-11-27T04:30:19.081Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02522%20Employment%20Advisor%20%28YEI%20Impact%20Programme%29.pdf": {
+   "checkedAt": "2026-11-27T04:30:20.583Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02621%20Housing%20Support%20Worker%20%5BAugust%202021%5D.pdf": {
+   "checkedAt": "2026-11-27T04:30:22.085Z",
+   "week": "2026-W48",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/CH02622%20JDES%20Adolescent%20Support%20HUB%20Worker%20%28May%202022%29.pdf": {
+   "checkedAt": "2026-11-27T04:30:23.587Z",
    "week": "2026-W48",
    "httpStatus": null,
    "status": "error",
