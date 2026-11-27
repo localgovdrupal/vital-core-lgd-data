@@ -1,0 +1,143 @@
+{
+ "runId": "2026-11-27T17-26-39-486Z-3749d0",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-27T17:26:40.409Z",
+ "scanned": [
+  "cf5d01673fbbbf46",
+  "9a5a6a2071ef0ca6",
+  "390902675cebc967",
+  "40c5401506449172",
+  "3c0b9099422e0f8e",
+  "3baab84da5078a96",
+  "50d506680ace37b9",
+  "9b1d7fd74088fdbb",
+  "c51a36902d10682d",
+  "457f873ccb581df5",
+  "ca0bb762984e81b0",
+  "f1f8f07a19ebeb83",
+  "48c9b1d3f10216a2",
+  "02d442892fc6b63f",
+  "eb4b35f2b0a8207a",
+  "a2ad0922a477e576",
+  "aed9e4263e84c6ef",
+  "eac8c4b4ef7309bc",
+  "b06fd6281e2754b4",
+  "476193f2e7354114",
+  "861384f13b022eb6",
+  "97ac4775ec43bd70",
+  "cb92b8a6113c1931",
+  "7f0d36d237a830cb",
+  "da32009db9d10a36",
+  "2f67e2ed776d05d5",
+  "a58b102bd95460df",
+  "147f968dc2f40514",
+  "6dabf23905166dcd",
+  "cb5547b43e25f09a",
+  "33bb735036ff651c",
+  "d542f3f05525bbac",
+  "446d7dae72d53d89",
+  "2a97a2583fcf5db4",
+  "e0f05cb4b682350e",
+  "39f9cbf2bfb71064",
+  "57a1b8d57d9163dd",
+  "279ecb564a171da9",
+  "49587168bf462d1c",
+  "77d32b0b1ccde640",
+  "9c89f5f82f4c7905",
+  "934a4c5343a02a31",
+  "016bfc358d729334",
+  "cd686c1593549704",
+  "12907b72bb40fe2b",
+  "d9db101a37515a04",
+  "3b2a7041fe797bf9",
+  "16eaca57602797da",
+  "275e626c08367d97"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1056,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fconsultations%2Fchildrens-social-care-stable-homes-built-on-love&data=05%7C02%7CCommunications%40walsall.gov.uk%7Ca2f1d479cbef48f0621e08dc5878ce4c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638482523099595623%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=QVa6p1Ofxz9Op%2FtcT3dKFQ8K1Me1ScaVL%2FQnV4UvfCg%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-selected-national-pilot-transform-childrens-social-care"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 27,
+  "plain-language": 26,
+  "resources": 48,
+  "images": 48,
+  "standards": 24,
+  "third-party": 17,
+  "link-check": 48,
+  "performance-resources": 15,
+  "security": 8,
+  "deprecated-html": 2,
+  "public-interest": 3,
+  "tech": 6,
+  "lighthouse": 5,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-27T17:44:06.107Z"
+}
