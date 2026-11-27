@@ -1,0 +1,132 @@
+{
+ "runId": "2026-11-27T14-03-17-158Z-e01167",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-27T14:03:18.022Z",
+ "scanned": [
+  "f2f8e8387ba12b1a",
+  "ef10549cd510b518",
+  "57b116fc97e34a14",
+  "7df0f154b6f5cb55",
+  "c3b6ce2e4d3d926f",
+  "7f2403c211bc1bf9",
+  "ef81ba18665e5f3d",
+  "4cd3eb75cb5452c0",
+  "2247993052659044",
+  "4053e81e30ddf4a2",
+  "d72d7bbd30174183",
+  "f37320255f792513",
+  "0fa55abfd37604a5",
+  "85d22cf5fc854f57",
+  "6f28eb61716085a2",
+  "655009c71ae89b74",
+  "7d8b3c1c8bcc0375",
+  "4de5cd41cbc941b8",
+  "e91544dc119b28ed",
+  "1cb84b4ce2307785",
+  "9996988115d5b37d",
+  "51b81b1c98acc2e3",
+  "c77ad1489a70a01d",
+  "b39f7fdbc21dc929",
+  "4dee4cfa7be58737",
+  "9c4dc4e8c586a4fa",
+  "7a77668f6a8f13e7",
+  "26702a4e8d04bf30",
+  "e749e08452025a2f",
+  "31df7fb905355556",
+  "5a60dd33115bdb1b",
+  "d440fc5477c75cc1",
+  "3217727a85171b9d",
+  "65a02c176b1f0551",
+  "cf572cd6b3536753",
+  "9dbc6d2a996afabf",
+  "80713667e677e408",
+  "74687c0840c0f2f3",
+  "c58eb7ceb4990147",
+  "c601c9a414ad134f",
+  "4108750ff111427e",
+  "67362c6b1b4e6a3c",
+  "a7fecda23666a5eb",
+  "8f3b773a69aa9e08",
+  "276489976214662f",
+  "3277ce1c7d529cb3",
+  "c5f7f5c9fc966132"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1047,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 47,
+  "plain-language": 22,
+  "deprecated-html": 6,
+  "resources": 47,
+  "images": 47,
+  "link-check": 47,
+  "third-party": 10,
+  "standards": 25,
+  "tech": 7,
+  "alfa": 18,
+  "lighthouse": 4,
+  "performance-resources": 10,
+  "sustainability": 4,
+  "public-interest": 5,
+  "security": 4
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-27T14:19:02.288Z"
+}
