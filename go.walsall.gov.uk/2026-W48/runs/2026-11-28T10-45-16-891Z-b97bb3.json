@@ -1,0 +1,144 @@
+{
+ "runId": "2026-11-28T10-45-16-891Z-b97bb3",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-28T10:45:17.755Z",
+ "scanned": [
+  "9e62398863e8e9f0",
+  "283c6ac71b179c86",
+  "a74f35202b484b71",
+  "d951f386e815783f",
+  "96c07b6c018ff5b7",
+  "b30f069a79be7ebc",
+  "83cb8feda5492a0d",
+  "624220a8ca3cca54",
+  "8441864018352a02",
+  "35e94073623a24e7",
+  "9e8068e574401acd",
+  "b462decebbfa10f4",
+  "c8e2c83f25a947d1",
+  "53fedb758086fc0f",
+  "285aa4357225ab34",
+  "5a0191a3c1a51a32",
+  "dbe43222c8929fb0",
+  "e06dbd3cd151c0ce",
+  "d67091f3ef8a9cad",
+  "afffe659358bc9ef",
+  "bd1e72917cd3daf9",
+  "331db900212b9e45",
+  "6641dccec573eda3",
+  "3b6b19a9141deee9",
+  "b069c258fa2f6bd7",
+  "4fea0a9504081a3b",
+  "5a39bb1c0433a0e2",
+  "bdb172c05dd8993c",
+  "d7bf07ef932ff064",
+  "a071c85f46c7223b",
+  "4f0e086afdbd6842",
+  "da132e5aa13c0209",
+  "3b5c0fe010f4182f",
+  "084d72725a05756b",
+  "c046b67f0bd39368",
+  "f09b9071263002bd",
+  "7b74bb621956e6d8",
+  "3dd38c9151e7df4a",
+  "53e558c67d28f72d",
+  "991d3e7f3200013c",
+  "e2c38336f9e82885",
+  "4d253fa9f68cb43a",
+  "9c7a6ec155baa373",
+  "2cb6ce8c370516e0",
+  "f07816f88b6e6e9b",
+  "0214d45707e66f54",
+  "b578c6a2a0c27e1f",
+  "e3ad8ae7f40fe89c",
+  "b4e4abac3895da5d",
+  "a485acac16680fee"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1051,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://ve-vjday80.gov.uk/wp-content/uploads/2025/03/VEDay80-Guide-V1.pdf",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/ve-80-party-packs-make-your-street-party-victory-bash"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "resources": 48,
+  "images": 48,
+  "standards": 26,
+  "link-check": 48,
+  "alfa": 20,
+  "third-party": 12,
+  "plain-language": 23,
+  "tech": 7,
+  "lighthouse": 4,
+  "deprecated-html": 8,
+  "security": 5,
+  "performance-resources": 10,
+  "public-interest": 4,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-28T11:00:00.030Z"
+}
