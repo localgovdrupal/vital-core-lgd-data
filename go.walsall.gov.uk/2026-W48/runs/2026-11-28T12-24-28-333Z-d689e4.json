@@ -1,0 +1,152 @@
+{
+ "runId": "2026-11-28T12-24-28-333Z-d689e4",
+ "week": "2026-W48",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-28T12:24:29.175Z",
+ "scanned": [
+  "ed07a255297af21c",
+  "17663e8a67e3d53e",
+  "0f69514901dfce77",
+  "5fdbf13594f858b1",
+  "e1fc66eda618993b",
+  "78302328aacb1fbb",
+  "cd02250018f5f518",
+  "0099e166076a5bac",
+  "f5b000fdddcbe57f",
+  "8726b8c82c21e112",
+  "78072035111abddf",
+  "38c028258d1b7947",
+  "056935baade5b6ed",
+  "06eaba6de56890b1",
+  "84425b3741fabd3f",
+  "6cb16d9499c16985",
+  "130c65094a03c5bb",
+  "4d10379ff190aa74",
+  "988eeb7a73f06b83",
+  "dd55f24f6289dfb6",
+  "bacfb7adc7836b49",
+  "39027281d01b8496",
+  "c7b0e6e3b2235ecf",
+  "81fa4323a9f89c01",
+  "2701ce5b7dd4a830",
+  "6efda9f489970013",
+  "6850d0813b9bb53d",
+  "c7f5b8a19b51a981",
+  "bdb00e920d8ebb8f",
+  "a0171c1fb1b5abf9",
+  "cf14cc13b67b4512",
+  "70d0d6272d77715e",
+  "59e32f5324b451db",
+  "1d796fe227baeb6d",
+  "0c87b0916a2bbc3a",
+  "0f36a0315a0c0b56",
+  "7796665f5483794c",
+  "fbf652e132cda5ae",
+  "201328e84a98bce8",
+  "358652a8b56a262f",
+  "7fb32844ca036c4a",
+  "980aacba6f77097c",
+  "18edbb32748ea750",
+  "5b3bbbe8a630930d",
+  "8d120c86239d52c2",
+  "07414007ea73d3a1",
+  "fc575587e5ed26a2",
+  "99589e994d04566c",
+  "cb7d15ffa156d03e",
+  "25261f67f24c9341"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25,
+  "performance-resources": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/localgovdrupal/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "performanceCohort": {
+  "stable": [],
+  "selected_in_batch": 0
+ },
+ "linkCheck": {
+  "total": 1098,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/splash-and-play-oak-park-active-living-centre-0"
+    ]
+   },
+   {
+    "url": "https://twitter.com/HealthySpacesWC",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/move-improve-your-health-movember-challenge-november"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 23,
+  "resources": 49,
+  "images": 49,
+  "standards": 30,
+  "link-check": 49,
+  "plain-language": 25,
+  "sustainability": 5,
+  "third-party": 10,
+  "public-interest": 6,
+  "lighthouse": 4,
+  "performance-resources": 10,
+  "deprecated-html": 3,
+  "tech": 3,
+  "security": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-28T12:40:24.560Z"
+}
